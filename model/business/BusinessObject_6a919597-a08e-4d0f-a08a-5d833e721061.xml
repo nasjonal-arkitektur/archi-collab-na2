@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kapabiliteter mottaker"
-    id="6a919597-a08e-4d0f-a08a-5d833e721061"/>
+    id="6a919597-a08e-4d0f-a08a-5d833e721061"
+    documentation="Spesifisering av samhandlingsevner. Det vil si hvilke meldinger og formater man kan motta og hvilke ressurser og tjenester man tilbyr."/>
