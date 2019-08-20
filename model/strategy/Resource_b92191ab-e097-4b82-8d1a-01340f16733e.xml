@@ -1,0 +1,28 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datadrevet beslutningsstøtte"
+    id="b92191ab-e097-4b82-8d1a-01340f16733e"
+    documentation="Datadrevet beslutningsstøtte er beslektet med&#xD;&#xA;punktene over og gir råd og prediksjoner til brukerne av&#xD;&#xA;tjenestene. For NAV kan beslutningsstøtte rettes både&#xD;&#xA;mot personbrukere, arbeidsgivere og egne ansatte. Vår&#xD;&#xA;informasjon om brukere, deres livssituasjon, og hvilke&#xD;&#xA;resultater som oppnås, kan for eksempel benyttes for å&#xD;&#xA;motivere eller ved å foreslå aktiviteter for en&#xD;&#xA;personbruker som er i arbeidsrettet oppfølging.&#xD;&#xA;Beslutningsstøtte kan også benyttes til automatisering&#xD;&#xA;av rutinemessige oppgaver. Digitale assistenter og&#xD;&#xA;maskinlæring kan bidra til at brukere i stor grad kan&#xD;&#xA;klare seg selv, slik at NAV kan bruke tiden til å hjelpe de&#xD;&#xA;som trenger det mest.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Datadrevet beslutningsstøtte"/>
+  <properties
+      key="difi:description_no"
+      value="Datadrevet beslutningsstøtte er beslektet med&#xD;&#xA;punktene over og gir råd og prediksjoner til brukerne av&#xD;&#xA;tjenestene. For NAV kan beslutningsstøtte rettes både&#xD;&#xA;mot personbrukere, arbeidsgivere og egne ansatte. Vår&#xD;&#xA;informasjon om brukere, deres livssituasjon, og hvilke&#xD;&#xA;resultater som oppnås, kan for eksempel benyttes for å&#xD;&#xA;motivere eller ved å foreslå aktiviteter for en&#xD;&#xA;personbruker som er i arbeidsrettet oppfølging.&#xD;&#xA;Beslutningsstøtte kan også benyttes til automatisering&#xD;&#xA;av rutinemessige oppgaver. Digitale assistenter og&#xD;&#xA;maskinlæring kan bidra til at brukere i stor grad kan&#xD;&#xA;klare seg selv, slik at NAV kan bruke tiden til å hjelpe de&#xD;&#xA;som trenger det mest."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="resource"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Resource>

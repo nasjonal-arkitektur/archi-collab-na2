@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DCAT-AP-NO"
+    id="b9097b02-1587-4794-9517-3a437cb9ef0d"
+    documentation="Anbefalt forvaltningsstandard i Referansekatalogen. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/referansekatalogen/beskrivelse-av-datasett-og-datakataloger">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="DCAT-AP-NO"/>
+  <properties
+      key="difi:description_no"
+      value="Anbefalt forvaltningsstandard i Referansekatalogen. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/referansekatalogen/beskrivelse-av-datasett-og-datakataloger"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+</archimate:BusinessObject>

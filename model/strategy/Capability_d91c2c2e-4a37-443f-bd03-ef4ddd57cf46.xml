@@ -1,0 +1,26 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata-forvaltning"
+    id="d91c2c2e-4a37-443f-bd03-ef4ddd57cf46">
+  <properties
+      key="difi:namespace"
+      value="eirabased"/>
+  <properties
+      key="difi:name_no"
+      value="Metadata-forvaltning"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

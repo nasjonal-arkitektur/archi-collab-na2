@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="#Person"
+    id="ffbd8f89-09f0-4840-88c1-55b57ffa87d6">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:BusinessActor>

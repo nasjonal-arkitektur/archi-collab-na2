@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eier"
+    id="5cb43650-13c2-4ce0-905a-896dde054e89">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_447aa8fa-f96d-440c-ab75-094560ff9636.xml#447aa8fa-f96d-440c-ab75-094560ff9636"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_65f60118-f81d-436b-8da0-cf5311a01361.xml#65f60118-f81d-436b-8da0-cf5311a01361"/>
+</archimate:AssociationRelationship>

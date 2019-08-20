@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Felles begrepsoversikt"
+    id="2d0622ea-9bc8-4f7e-9f51-733b06d29d87"
+    documentation="Å ha en felles begrepsoversikt nasjonalt">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Felles begrepsoversikt [ns:jim]"/>
+  <properties
+      key="difi:description_no"
+      value="Å ha en felles begrepsoversikt nasjonalt"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="datasett inn"
+    id="514f17a6-dceb-4916-a16e-fd532ee66723">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_fe3711f9-c7f8-4fa0-ac0c-ce72717a6d2b.xml#fe3711f9-c7f8-4fa0-ac0c-ce72717a6d2b"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e5042891-5e6c-49d9-83f7-cc235c6fbc85.xml#e5042891-5e6c-49d9-83f7-cc235c6fbc85"/>
+</archimate:FlowRelationship>

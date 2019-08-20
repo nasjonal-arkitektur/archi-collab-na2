@@ -1,0 +1,26 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Owner"
+    id="b22909d2-3df6-4380-9864-8c7cb0256d5a">
+  <properties
+      key="difi:namespace"
+      value="dama"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Owner"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessRole>

@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="#Datasett"
+    id="65f60118-f81d-436b-8da0-cf5311a01361">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:BusinessObject>

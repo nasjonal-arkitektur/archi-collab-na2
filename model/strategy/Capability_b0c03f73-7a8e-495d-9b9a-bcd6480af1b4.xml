@@ -1,0 +1,26 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finne tjeneste, designtime"
+    id="b0c03f73-7a8e-495d-9b9a-bcd6480af1b4">
+  <properties
+      key="difi:namespace"
+      value="eirabased"/>
+  <properties
+      key="difi:name_no"
+      value="Finne tjeneste, designtime"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

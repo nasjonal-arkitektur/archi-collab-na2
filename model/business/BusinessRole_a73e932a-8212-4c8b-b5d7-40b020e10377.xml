@@ -1,0 +1,26 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innbygger"
+    id="a73e932a-8212-4c8b-b5d7-40b020e10377">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+  <properties
+      key="difi:name_no"
+      value="Innbygger [ns:Erik]"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-role"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessRole>

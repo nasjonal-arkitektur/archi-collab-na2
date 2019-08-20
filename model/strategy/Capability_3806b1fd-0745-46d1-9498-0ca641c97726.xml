@@ -1,0 +1,26 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evne til å dele data"
+    id="3806b1fd-0745-46d1-9498-0ca641c97726">
+  <properties
+      key="difi:namespace"
+      value="henrik"/>
+  <properties
+      key="difi:name_no"
+      value="Evne til å dele data [ns:henrik]"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="capability"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Capability>

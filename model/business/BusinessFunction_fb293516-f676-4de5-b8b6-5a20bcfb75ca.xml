@@ -1,0 +1,19 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Location"
+    id="fb293516-f676-4de5-b8b6-5a20bcfb75ca">
+  <properties
+      key="Name"
+      value="Service Location"/>
+  <properties
+      key="ID"
+      value="ABB12"/>
+  <properties
+      key="dct:type"
+      value="Business Capability"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"
+      value="03/06/2016"/>
+</archimate:BusinessFunction>

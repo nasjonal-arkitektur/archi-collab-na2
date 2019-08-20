@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokumentere infomod og infomod-oversikt"
+    id="e7f4f8e4-4531-4bef-b356-3948b1b4bfae"
+    documentation="Å kunne dokumentere oversikt over og beskrivelser av informasjonsmodeller">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Dokumentere infomod og infomod-oversikt [ns:jim]"/>
+  <properties
+      key="difi:description_no"
+      value="Å kunne dokumentere oversikt over og beskrivelser av informasjonsmodeller"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

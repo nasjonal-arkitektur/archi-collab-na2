@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ELI (European Legislation Identifier ontology)"
+    id="64cc137a-c51f-45e3-923e-4c9a69747741"
+    documentation="https://publications.europa.eu/en/web/eu-vocabularies/model/-/resource/dataset/eli">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="ELI (European Legislation Identifier ontology)"/>
+  <properties
+      key="difi:description_no"
+      value="https://publications.europa.eu/en/web/eu-vocabularies/model/-/resource/dataset/eli"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+</archimate:BusinessObject>

@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Felles InfoMod-oversikt"
+    id="c3c8b6ea-3273-463c-b464-6f3208799920"
+    documentation="Å ha en felles oversikt over informasjonsmodeller nasjonalt">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Felles InfoMod-oversikt [ns:jim]"/>
+  <properties
+      key="difi:description_no"
+      value="Å ha en felles oversikt over informasjonsmodeller nasjonalt"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

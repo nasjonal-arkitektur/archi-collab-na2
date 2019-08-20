@@ -1,0 +1,28 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilbyder av data"
+    id="9fa622a6-945e-4e85-815f-d38a47a3459d"
+    documentation="En aktør som tilbyr data til eksterne parter, enten på vegne av andre, som forvalter av data eller som dataansvarlig.">
+  <properties
+      key="difi:namespace"
+      value="henrik"/>
+  <properties
+      key="difi:name_no"
+      value="Tilbyder av data"/>
+  <properties
+      key="difi:description_no"
+      value="En aktør som tilbyr data til eksterne parter, enten på vegne av andre, som forvalter av data eller som dataansvarlig."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+</archimate:BusinessRole>

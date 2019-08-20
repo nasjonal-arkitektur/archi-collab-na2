@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="#Organisasjonsenhet"
+    id="0879c635-89a4-4b90-8493-a6aa798e53c5">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:BusinessActor>

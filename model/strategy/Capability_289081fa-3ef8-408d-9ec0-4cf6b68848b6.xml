@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilgjengeliggjøre oversikt og beskrivelse av APIer"
+    id="289081fa-3ef8-408d-9ec0-4cf6b68848b6"
+    documentation="Å kunne gjøre tilgjengelig oversikt over og beskrivelser av APIer">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Tilgjengeliggjøre oversikt og beskrivelse av APIer [ns:jim]"/>
+  <properties
+      key="difi:description_no"
+      value="Å kunne gjøre tilgjengelig oversikt over og beskrivelser av APIer"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

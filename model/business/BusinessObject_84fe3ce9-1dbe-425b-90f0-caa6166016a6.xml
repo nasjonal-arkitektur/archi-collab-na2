@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="URI-standarden"
+    id="84fe3ce9-1dbe-425b-90f0-caa6166016a6"
+    documentation="https://www.difi.no/referansekatalogen/pekere-til-offentlige-ressurser-pa-nett">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="URI-standarden"/>
+  <properties
+      key="difi:description_no"
+      value="https://www.difi.no/referansekatalogen/pekere-til-offentlige-ressurser-pa-nett"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+</archimate:BusinessObject>

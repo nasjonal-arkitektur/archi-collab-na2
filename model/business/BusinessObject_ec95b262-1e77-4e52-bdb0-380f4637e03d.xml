@@ -1,0 +1,39 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;Public Policy Implementation Approach>> Felles kjøreregler"
+    id="ec95b262-1e77-4e52-bdb0-380f4637e03d"
+    documentation="The delegation mode (centralised or delegated) adopted by organization enablers to implement a public policy. &#xD;&#xA;&#xD;&#xA;Based on Hill, M. and Hupe, P, Implementing Public Policy: Governance in Theory and in Practice, SAGE  Publications Ltd 2002  &#xD;&#xA;&#xD;&#xA;Syn. Governance of Public Policies&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Governance of Public Policies in Decentralised Contexts - The Multi-Level Approach&#xD;&#xA;Multi-level governance is always required for managing public policies in a decentralised context. Multi-level governance (MLG) is the term used to characterise the relationship between public actors situated at different administrative levels. MLG therefore refers to the explicit or implicit sharing of policy-making authority, responsibility, development and implementation at different administrative and territorial levels, i.e. (i) across different ministries and/or public agencies at central government level (upper horizontally), (ii) between different layers of government at local, regional, provincial/state, national and supranational levels (vertically), and (iii) across different actors at sub national level (lower horizontally). “Multi-level governance” approaches often includes also interaction between public and private entities (profit or non profit ones), in particular citizens and businesses. &#xD;&#xA;https://www.oecd.org/governance/regional-policy/48724565.pdf &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB111_SBB1542630476217"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicPolicyDevelopmentApproach"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"
+      value="19/11/2018"/>
+  <properties
+      key="eira:synonym"
+      value="Governance of Public Policies"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="&lt;&lt;Public Policy Implementation Approach>> Felles kjøreregler"/>
+  <properties
+      key="difi:description_no"
+      value="The delegation mode (centralised or delegated) adopted by organization enablers to implement a public policy. &#xD;&#xA;&#xD;&#xA;Based on Hill, M. and Hupe, P, Implementing Public Policy: Governance in Theory and in Practice, SAGE  Publications Ltd 2002  &#xD;&#xA;&#xD;&#xA;Syn. Governance of Public Policies&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Governance of Public Policies in Decentralised Contexts - The Multi-Level Approach&#xD;&#xA;Multi-level governance is always required for managing public policies in a decentralised context. Multi-level governance (MLG) is the term used to characterise the relationship between public actors situated at different administrative levels. MLG therefore refers to the explicit or implicit sharing of policy-making authority, responsibility, development and implementation at different administrative and territorial levels, i.e. (i) across different ministries and/or public agencies at central government level (upper horizontally), (ii) between different layers of government at local, regional, provincial/state, national and supranational levels (vertically), and (iii) across different actors at sub national level (lower horizontally). “Multi-level governance” approaches often includes also interaction between public and private entities (profit or non profit ones), in particular citizens and businesses. &#xD;&#xA;https://www.oecd.org/governance/regional-policy/48724565.pdf &#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

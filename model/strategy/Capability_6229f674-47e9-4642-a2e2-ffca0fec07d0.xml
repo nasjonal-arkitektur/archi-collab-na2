@@ -1,0 +1,26 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokumentere APIer"
+    id="6229f674-47e9-4642-a2e2-ffca0fec07d0">
+  <properties
+      key="difi:namespace"
+      value="na1"/>
+  <properties
+      key="difi:name_no"
+      value="Dokumentere APIer"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

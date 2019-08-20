@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sentral sporingstjeneste"
+    id="5b1becfe-aebc-4c3b-bae9-dec6a23f6a4f">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:ApplicationService>

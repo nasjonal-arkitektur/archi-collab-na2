@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Modeler"
+    id="7279ac3c-6652-4b01-aa35-33cf5f9989bf"
+    documentation="Data Modeler: Responsible for capturing and modeling data requirements, data definitions, business rules, data quality requirements, and logical and physical data models"/>

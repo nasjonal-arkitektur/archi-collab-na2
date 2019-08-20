@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datakonsument"
+    id="ec722c69-eb47-47fe-a8a6-b718adc6d956">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:name_no"
+      value="Datakonsument"/>
+  <properties
+      key="difi:name_en"
+      value="Data Consumer"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+</archimate:BusinessRole>

@@ -1,0 +1,28 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Addressering"
+    id="f5e69459-7f1e-4521-b6d3-04d8e051f530"
+    documentation="Adressering av meldinger&#xD;&#xA;Oppslag av endepunktsadresser">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Addressering"/>
+  <properties
+      key="difi:description_no"
+      value="Adressering av meldinger&#xD;&#xA;Oppslag av endepunktsadresser"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-function"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessFunction>

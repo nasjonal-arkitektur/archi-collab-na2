@@ -1,0 +1,28 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Råd tli KMD om porteføljestyring"
+    id="3f91b0b3-2dd4-4e52-b87b-5c78c479e701"
+    documentation="Difi skal ha en oversikt over felles løsninger og komponenter i forvaltningen, og vurdere merpotensialet knyttet til gjenbruk av disse. Oversikten over infrastruktur, forvaltningsmiljøer, finansieringsmodeller mv. skal utvikles over tid. Difi skal gi råd og anbefalinger til KMD med henblikk på endringer i bruk og innretning av eksisterende felles løsninger og komponenter, samt behovet for nye.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Råd tli KMD om porteføljestyring"/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal ha en oversikt over felles løsninger og komponenter i forvaltningen, og vurdere merpotensialet knyttet til gjenbruk av disse. Oversikten over infrastruktur, forvaltningsmiljøer, finansieringsmodeller mv. skal utvikles over tid. Difi skal gi råd og anbefalinger til KMD med henblikk på endringer i bruk og innretning av eksisterende felles løsninger og komponenter, samt behovet for nye."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="deliverable"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Deliverable>

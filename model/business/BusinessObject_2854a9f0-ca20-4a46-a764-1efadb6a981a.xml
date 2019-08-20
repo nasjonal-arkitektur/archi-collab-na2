@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SKOS (W3C)"
+    id="2854a9f0-ca20-4a46-a764-1efadb6a981a"
+    documentation="W3C SKOS: https://www.w3.org/2004/02/skos/">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="SKOS (W3C)"/>
+  <properties
+      key="difi:description_no"
+      value="W3C SKOS: https://www.w3.org/2004/02/skos/"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+</archimate:BusinessObject>

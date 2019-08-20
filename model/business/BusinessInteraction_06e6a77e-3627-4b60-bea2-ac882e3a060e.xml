@@ -1,0 +1,26 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1. Forretnings-transaksjon mellom to parter (som del av tverrgående prosess) "
+    id="06e6a77e-3627-4b60-bea2-ac882e3a060e">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="1. Forretnings-transaksjon mellom to parter (som del av tverrgående prosess) "/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-interaction"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessInteraction>

@@ -1,0 +1,26 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retten til retting, sletting, til å bli glemt, til begrensning av behandling, til dataportabilitet og til å protestere i forbindelse med behandling av personopplysninger for arkivformål i allmennhetens interesse, for formål knyttet til vitenskapelig eller historisk forskning eller for statistiske formål"
+    id="d64bab52-0c57-42a0-b34d-e081ccb41c86">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+  <properties
+      key="difi:name_no"
+      value="retten til retting, sletting, til å bli glemt, til begrensning av behandling, til dataportabilitet og til å protestere i forbindelse med behandling av personopplysninger for arkivformål i allmennhetens interesse, for formål knyttet til vitenskapelig eller historisk forskning eller for statistiske formål [ns:erik]"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:requirement"/>
+</archimate:Requirement>

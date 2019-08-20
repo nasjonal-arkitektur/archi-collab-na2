@@ -1,0 +1,26 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sikring av informasjon"
+    id="3d3cfc56-6998-447a-b330-5d2c8369959b">
+  <properties
+      key="difi:namespace"
+      value="eirabased"/>
+  <properties
+      key="difi:name_no"
+      value="Sikring av informasjon [ns:RR]"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

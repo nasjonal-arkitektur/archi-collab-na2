@@ -1,0 +1,28 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data (eira:Data)"
+    id="d1e41b50-a083-401d-a6d9-a82fd7cafc1a"
+    documentation="eira:Data">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Data (eira:Data)"/>
+  <properties
+      key="difi:description_no"
+      value="eira:Data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="data-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:DataObject>

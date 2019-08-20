@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vis detaljer om katalogelement(er)"
+    id="083f37aa-3feb-40ba-8ff1-06c0969d6146">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:ApplicationService>

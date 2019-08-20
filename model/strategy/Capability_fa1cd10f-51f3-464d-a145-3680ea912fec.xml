@@ -1,0 +1,31 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Få tilgang til API"
+    id="fa1cd10f-51f3-464d-a145-3680ea912fec"
+    documentation="Evnen til å skaffe seg tilgang til tilbudte data fra annen aktør. Kan omfatte å finne API-er, inngå nødvendige avtaler og få tilganger">
+  <properties
+      key="difi:namespace"
+      value="na1"/>
+  <properties
+      key="difi:name_no"
+      value="Få tilgang til API"/>
+  <properties
+      key="difi:description_no"
+      value="Evnen til å skaffe seg tilgang til tilbudte data fra annen aktør. Kan omfatte å finne API-er, inngå nødvendige avtaler og få tilganger"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="drill down"
+      value="6c5a004d-da35-4fce-b38d-4b09d1167201"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

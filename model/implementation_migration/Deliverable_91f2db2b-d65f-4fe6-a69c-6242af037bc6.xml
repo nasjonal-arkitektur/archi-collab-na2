@@ -1,0 +1,28 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rapport om anonyme søknader i staten"
+    id="91f2db2b-d65f-4fe6-a69c-6242af037bc6"
+    documentation="Difi skal følge og delta i utformingen av forsøk med anonyme&#xD;&#xA;søknader i staten, dokumentere gjennomføringen og evaluere&#xD;&#xA;resultatene. En rapport fra Difi skal bidra til å kaste lys over ulike mekanismer i rekrutteringsprosessene og bidra til læring i statlige&#xD;&#xA;virksomheter.&#xD;&#xA;Forsøk utformet innen 30. april sammen med KMD.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#x9;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Rapport om anonyme søknader i staten"/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal følge og delta i utformingen av forsøk med anonyme&#xD;&#xA;søknader i staten, dokumentere gjennomføringen og evaluere&#xD;&#xA;resultatene. En rapport fra Difi skal bidra til å kaste lys over ulike mekanismer i rekrutteringsprosessene og bidra til læring i statlige&#xD;&#xA;virksomheter.&#xD;&#xA;Forsøk utformet innen 30. april sammen med KMD.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#x9;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="deliverable"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Deliverable>

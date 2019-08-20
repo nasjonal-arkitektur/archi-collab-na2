@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilgjengeliggjøre kodelister"
+    id="d13d5601-ca30-4a6e-8116-7e0a2447e26b"
+    documentation="Å kunne gjøre tilgjengelig kodelister med kodeverider (dvs. ikke bare beskrivelse av), i maskinlesbare formater">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Tilgjengeliggjøre kodelister [ns:jim]"/>
+  <properties
+      key="difi:description_no"
+      value="Å kunne gjøre tilgjengelig kodelister med kodeverider (dvs. ikke bare beskrivelse av), i maskinlesbare formater"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metamodell/utvekslingsformat"
+    id="cefe67ef-38f3-4a6b-b83f-8206e251773e"
+    documentation="Status per 2019-01-01: ikke etablert, MVP under utarbeidelse">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Metamodell/utvekslingsformat"/>
+  <properties
+      key="difi:description_no"
+      value="Status per 2019-01-01: ikke etablert, MVP under utarbeidelse"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

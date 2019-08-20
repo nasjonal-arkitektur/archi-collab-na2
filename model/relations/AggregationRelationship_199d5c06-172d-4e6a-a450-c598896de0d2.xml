@@ -1,0 +1,32 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aggregation"
+    id="199d5c06-172d-4e6a-a450-c598896de0d2">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="aggregation-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [lang:${property:difi:language}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_d5de741c-edb4-4acb-8efa-bb2b191e8e2f.xml#d5de741c-edb4-4acb-8efa-bb2b191e8e2f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_a47be77b-1325-4b85-a1d5-d28ef8b469dc.xml#a47be77b-1325-4b85-a1d5-d28ef8b469dc"/>
+</archimate:AggregationRelationship>

@@ -1,0 +1,28 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adresse-tjeneste"
+    id="0abe42b6-fd6b-4301-b99e-03df5136772c"
+    documentation="Tjeneste som gir mulighet til å slå opp teknisk endepunkt">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Adresse-tjeneste"/>
+  <properties
+      key="difi:description_no"
+      value="Tjeneste som gir mulighet til å slå opp teknisk endepunkt"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-service"/>
+</archimate:BusinessService>

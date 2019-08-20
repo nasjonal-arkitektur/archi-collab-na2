@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document and Content Management"
+    id="958ebde1-deb2-46f6-aa4a-c995e1bb648a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6c93954a-6f17-4978-a25a-660cc435c0b7">
+    <bounds
+        x="246"
+        y="142"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_7b9b14b1-a255-42af-9f94-dad05da69f10.xml#7b9b14b1-a255-42af-9f94-dad05da69f10"/>
+  </children>
+</archimate:ArchimateDiagramModel>

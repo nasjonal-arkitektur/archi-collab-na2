@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dqv-ap-no"
+    id="11ba0b35-b41f-4281-8414-865ae631c84a"
+    documentation="norske utvidelser av W3C/DQV (Data Quality Vocabulary).&#xD;&#xA;&#xD;&#xA;Se ellers spesifikasjon for beskrivels av kvalitet på datasett: https://doc.difi.no/data/kvalitet-pa-datasett/&#xD;&#xA;&#xD;&#xA;Status per 2019-01-01: Planlagt etablert ila. 2019H1. ">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="dqv-ap-no"/>
+  <properties
+      key="difi:description_no"
+      value="norske utvidelser av W3C/DQV (Data Quality Vocabulary).&#xD;&#xA;&#xD;&#xA;Se ellers spesifikasjon for beskrivels av kvalitet på datasett: https://doc.difi.no/data/kvalitet-pa-datasett/&#xD;&#xA;&#xD;&#xA;Status per 2019-01-01: Planlagt etablert ila. 2019H1. "/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

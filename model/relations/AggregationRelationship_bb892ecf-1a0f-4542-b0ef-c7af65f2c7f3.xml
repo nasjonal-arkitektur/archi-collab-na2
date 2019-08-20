@@ -1,0 +1,15 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="hierarki"
+    id="bb892ecf-1a0f-4542-b0ef-c7af65f2c7f3">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_53043fe2-0cad-45d3-896c-1edaf83061fc.xml#53043fe2-0cad-45d3-896c-1edaf83061fc"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_53043fe2-0cad-45d3-896c-1edaf83061fc.xml#53043fe2-0cad-45d3-896c-1edaf83061fc"/>
+</archimate:AggregationRelationship>

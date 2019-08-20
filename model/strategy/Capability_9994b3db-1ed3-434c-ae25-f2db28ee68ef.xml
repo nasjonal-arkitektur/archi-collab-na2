@@ -1,0 +1,26 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontinuerlig revisjon"
+    id="9994b3db-1ed3-434c-ae25-f2db28ee68ef">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+  <properties
+      key="difi:name_no"
+      value="Kontinuerlig revisjon [ns:RR]"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

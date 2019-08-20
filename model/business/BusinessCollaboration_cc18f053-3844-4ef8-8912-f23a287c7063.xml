@@ -1,0 +1,28 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Smarbeid Difi og DFØ"
+    id="cc18f053-3844-4ef8-8912-f23a287c7063"
+    documentation="Både Kommunal- og moderniseringsdepartementet og Finansdepartementet forventer at de to direktoratene samordner sine arbeidsoppgaver og disponerer ressursene på en måte som samlet sett gir størst mulig effekt i statsforvaltningen. Direktoratene skal framstå samordnet og med en tydelig arbeidsdeling.&#xD;&#xA;&#xD;&#xA;Difi og DFØ samarbeider i dag på flere fagområder hvor det ene av direktoratene har hovedansvaret, men hvor det er åpenbare grenseflater mot det andre direktoratet. Kommunal- og moderniseringsdepartementet og Finansdepartementet vil særlig understreke behovet for å se områdene styring, ledelse og organisering i sammenheng.&#xD;&#xA;&#xD;&#xA;Det er viktig at dette arbeidet samordnes allerede i planfasen.&#xD;&#xA;&#xD;&#xA;Direktoratenes kurs- og kompetansetilbud må samordnes. Faglige avklaringer, koordinert planlegging og gjennomgående henvisning til hverandres tilbud, er en naturlig del av dette. Direktoratene skal samordne planleggingen av og innholdet i Styringskonferansen og Forvaltningskonferansen.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Smarbeid Difi og DFØ"/>
+  <properties
+      key="difi:description_no"
+      value="Både Kommunal- og moderniseringsdepartementet og Finansdepartementet forventer at de to direktoratene samordner sine arbeidsoppgaver og disponerer ressursene på en måte som samlet sett gir størst mulig effekt i statsforvaltningen. Direktoratene skal framstå samordnet og med en tydelig arbeidsdeling.&#xD;&#xA;&#xD;&#xA;Difi og DFØ samarbeider i dag på flere fagområder hvor det ene av direktoratene har hovedansvaret, men hvor det er åpenbare grenseflater mot det andre direktoratet. Kommunal- og moderniseringsdepartementet og Finansdepartementet vil særlig understreke behovet for å se områdene styring, ledelse og organisering i sammenheng.&#xD;&#xA;&#xD;&#xA;Det er viktig at dette arbeidet samordnes allerede i planfasen.&#xD;&#xA;&#xD;&#xA;Direktoratenes kurs- og kompetansetilbud må samordnes. Faglige avklaringer, koordinert planlegging og gjennomgående henvisning til hverandres tilbud, er en naturlig del av dette. Direktoratene skal samordne planleggingen av og innholdet i Styringskonferansen og Forvaltningskonferansen.&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-collaboration"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessCollaboration>

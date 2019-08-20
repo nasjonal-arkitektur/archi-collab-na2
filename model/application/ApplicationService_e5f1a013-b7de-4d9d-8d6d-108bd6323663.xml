@@ -1,0 +1,28 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søk i API-katalogen"
+    id="e5f1a013-b7de-4d9d-8d6d-108bd6323663"
+    documentation="Tjeneste for å søke etter API-er som er registrert i felles API-katalog.">
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Søk i API-katalogen"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Tjeneste for å søke etter API-er som er registrert i felles API-katalog."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:ApplicationService>

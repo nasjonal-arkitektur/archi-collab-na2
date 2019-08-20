@@ -1,0 +1,26 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utvikling"
+    id="68e99d6d-0d2f-45c6-a7b8-b08c3a51ffd4">
+  <properties
+      key="difi:namespace"
+      value="na1"/>
+  <properties
+      key="difi:name_no"
+      value="Utvikling"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

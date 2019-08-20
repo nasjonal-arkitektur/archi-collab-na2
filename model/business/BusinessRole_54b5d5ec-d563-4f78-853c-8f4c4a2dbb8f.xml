@@ -1,0 +1,28 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Owner"
+    id="54b5d5ec-d563-4f78-853c-8f4c4a2dbb8f"
+    documentation="A Data Owner is a business Data Steward, who has approval authority for decisions about data within their domain.">
+  <properties
+      key="difi:namespace"
+      value="dama"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Data Owner"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="A Data Owner is a business Data Steward, who has approval authority for decisions about data within their domain."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessRole>

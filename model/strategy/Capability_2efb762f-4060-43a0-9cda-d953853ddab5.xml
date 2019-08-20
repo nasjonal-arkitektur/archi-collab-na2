@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forvaltnings-regime for &quot;masterdata&quot;"
+    id="2efb762f-4060-43a0-9cda-d953853ddab5"
+    documentation="Inkl. fellesbegreper">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Forvaltnings-regime for &quot;masterdata&quot;"/>
+  <properties
+      key="difi:description_no"
+      value="Inkl. fellesbegreper"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="capability"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Capability>

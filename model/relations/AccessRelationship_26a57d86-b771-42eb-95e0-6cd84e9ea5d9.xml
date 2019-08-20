@@ -1,0 +1,15 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="skriver"
+    id="26a57d86-b771-42eb-95e0-6cd84e9ea5d9">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_e76cf2a6-e0b8-48bd-87c3-f57a21ebd0f3.xml#e76cf2a6-e0b8-48bd-87c3-f57a21ebd0f3"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_6eefce9d-fb62-400c-ab70-53a5286b5ad6.xml#6eefce9d-fb62-400c-ab70-53a5286b5ad6"/>
+</archimate:AccessRelationship>

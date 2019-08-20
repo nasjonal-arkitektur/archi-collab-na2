@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kilde"
+    id="bcc81718-0dee-4125-9bee-299aa6f231a1">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:BusinessRole>

@@ -1,0 +1,26 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Krav om tillit"
+    id="36156f85-246e-41b8-a82b-88085c60004a">
+  <properties
+      key="difi:namespace"
+      value="henrik"/>
+  <properties
+      key="difi:name_no"
+      value="Krav om tillit [ns:henrik]"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:requirement"/>
+</archimate:Requirement>

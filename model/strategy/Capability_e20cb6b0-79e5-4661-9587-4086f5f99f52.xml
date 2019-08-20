@@ -1,0 +1,26 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Konfidensialitetssikring"
+    id="e20cb6b0-79e5-4661-9587-4086f5f99f52">
+  <properties
+      key="difi:namespace"
+      value="na1"/>
+  <properties
+      key="difi:name_no"
+      value="Konfidensialitetssikring"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

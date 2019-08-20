@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisasjon"
+    id="74c14128-2f17-4eba-aaf4-8b781ee95fde"
+    documentation="Status per 2019-01-01: ikke etablert / under utarbeidelse (Brreg ansvarlig)">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Organisasjon"/>
+  <properties
+      key="difi:description_no"
+      value="Status per 2019-01-01: ikke etablert / under utarbeidelse (Brreg ansvarlig)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

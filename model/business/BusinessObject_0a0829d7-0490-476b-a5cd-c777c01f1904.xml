@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spesifikasjon for beskrivelser av informasjonsmodeller"
+    id="0a0829d7-0490-476b-a5cd-c777c01f1904"
+    documentation="Status per 2019-02-01: finnes ikke">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Spesifikasjon for beskrivelser av informasjonsmodeller"/>
+  <properties
+      key="difi:description_no"
+      value="Status per 2019-02-01: finnes ikke"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+</archimate:BusinessObject>

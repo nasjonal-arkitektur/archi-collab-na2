@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Quality Analyst"
+    id="bb44abc0-7101-4ce8-8d04-21aa32fb5087"
+    documentation="Data Quality Analyst: Responsible for determining the fitness of data for use and monitoring the ongoing condition of the data; contributes to root cause analysis of data issues and helps the organization identify business process and technical improvements that contribute to higher quality data."/>

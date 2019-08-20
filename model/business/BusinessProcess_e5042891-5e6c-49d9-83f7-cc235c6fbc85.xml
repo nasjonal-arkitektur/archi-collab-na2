@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Databehandlingsprosess"
+    id="e5042891-5e6c-49d9-83f7-cc235c6fbc85">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+  <properties
+      key="label"
+      value="Databehandlings-prosess"/>
+</archimate:BusinessProcess>

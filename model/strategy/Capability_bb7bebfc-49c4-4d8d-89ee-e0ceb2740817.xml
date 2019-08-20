@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datakvalitet"
+    id="bb7bebfc-49c4-4d8d-89ee-e0ceb2740817"
+    documentation="(auto-utløpsdata av datasettbeskrivelser?">
+  <properties
+      key="difi:namespace"
+      value="eirabased"/>
+  <properties
+      key="difi:name_no"
+      value="Datakvalitet"/>
+  <properties
+      key="difi:description_no"
+      value="(auto-utløpsdata av datasettbeskrivelser?"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

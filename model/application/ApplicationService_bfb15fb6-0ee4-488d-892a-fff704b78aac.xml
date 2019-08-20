@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Browse elementer"
+    id="bfb15fb6-0ee4-488d-892a-fff704b78aac">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:ApplicationService>

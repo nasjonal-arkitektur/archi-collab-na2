@@ -1,0 +1,26 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intern arkivering"
+    id="dd8c4ce5-f2d2-4b40-9d12-72ffbb4c145e">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+  <properties
+      key="difi:name_no"
+      value="Intern arkivering [ns:RR]"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

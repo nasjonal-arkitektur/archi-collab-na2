@@ -1,0 +1,16 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kopi"
+    id="f7148695-f4aa-4d0d-b492-27bb2bd3b0b8"
+    accessType="1">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_11b50dd1-527f-4ddc-a933-fd15fcb47643.xml#11b50dd1-527f-4ddc-a933-fd15fcb47643"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_65f60118-f81d-436b-8da0-cf5311a01361.xml#65f60118-f81d-436b-8da0-cf5311a01361"/>
+</archimate:AccessRelationship>

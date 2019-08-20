@@ -1,0 +1,26 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Databehandleravtale "
+    id="b10f4bbd-0a3e-4acd-a8c2-cc8f610655ca">
+  <properties
+      key="difi:namespace"
+      value="gdpr"/>
+  <properties
+      key="difi:name_no"
+      value="Databehandleravtale  [ns:Erik]"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="contract"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Contract>

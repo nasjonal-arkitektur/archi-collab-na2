@@ -1,0 +1,28 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skytjenester"
+    id="d259a63d-f140-40ae-9bb8-354a556378b8"
+    documentation="Skytjenester gir tilgang til delt datakraft via nettet fra&#xD;&#xA;store datasentre. Det gir mulighet til effektiv drift og&#xD;&#xA;distribusjon av programvare og kostnadseffektive&#xD;&#xA;tjenester. Mange bruker skytjenester som karttjenester,&#xD;&#xA;Gmail, OneDrive og Office 365, og i økende grad leveres&#xD;&#xA;annen programvare, som økonomisystemer, som&#xD;&#xA;skytjenester.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Skytjenester"/>
+  <properties
+      key="difi:description_no"
+      value="Skytjenester gir tilgang til delt datakraft via nettet fra&#xD;&#xA;store datasentre. Det gir mulighet til effektiv drift og&#xD;&#xA;distribusjon av programvare og kostnadseffektive&#xD;&#xA;tjenester. Mange bruker skytjenester som karttjenester,&#xD;&#xA;Gmail, OneDrive og Office 365, og i økende grad leveres&#xD;&#xA;annen programvare, som økonomisystemer, som&#xD;&#xA;skytjenester."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="resource"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Resource>

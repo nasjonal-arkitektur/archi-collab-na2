@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="List elementer"
+    id="d143020e-7582-47e9-b409-45d2d9c51d26">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:ApplicationService>

@@ -1,0 +1,32 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="flow"
+    id="af3bbd84-bbc0-4356-a7ca-4673e391be82">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="flow-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [lang:${property:difi:language}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_4b1049ff-2211-411d-93a0-63c66db845d1.xml#4b1049ff-2211-411d-93a0-63c66db845d1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ccb952ae-a561-4728-982c-e86bf059e278.xml#ccb952ae-a561-4728-982c-e86bf059e278"/>
+</archimate:FlowRelationship>

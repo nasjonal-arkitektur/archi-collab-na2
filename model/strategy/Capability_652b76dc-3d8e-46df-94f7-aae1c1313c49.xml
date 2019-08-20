@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilgjengeliggjøre oversikt over hjemler"
+    id="652b76dc-3d8e-46df-94f7-aae1c1313c49"
+    documentation="Å kunne gjøre tilgjengelig oversikt over hjemler">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Tilgjengeliggjøre oversikt over hjemler [ns:jim]"/>
+  <properties
+      key="difi:description_no"
+      value="Å kunne gjøre tilgjengelig oversikt over hjemler"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

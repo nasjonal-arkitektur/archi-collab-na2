@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realization"
+    id="5d57d862-df31-4df9-b21b-309eba828412">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="realization"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value=" "/>
+  <properties
+      key="dct:type"
+      value="archi:realization-relationship"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_a22af1ef-8c9c-4668-8c98-481e476630ab.xml#a22af1ef-8c9c-4668-8c98-481e476630ab"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_70b684a3-ca81-44b2-b9d4-3e52eae83c5c.xml#70b684a3-ca81-44b2-b9d4-3e52eae83c5c"/>
+</archimate:RealizationRelationship>

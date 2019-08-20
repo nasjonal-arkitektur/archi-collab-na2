@@ -1,0 +1,28 @@
+<archimate:ImplementationEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan for utvikling av strategisk digital lederkompetanse"
+    id="3b7acb0b-9971-43be-bfd0-70198cc1ab15"
+    documentation="Difi skal lage en plan for utvikling av strategisk digital kompetanse&#xD;&#xA;hos statlige ledere.&#xD;&#xA;Difi skal sammenfatte et kunnskapsgrunnlag om status når det&#xD;&#xA;gjelder behov for, og tilgang på kompetanse i statlig forvaltning:&#xD;&#xA;digital kompetanse&#xD;&#xA;omstillingskompetanse&#xD;&#xA;Innretningen i arbeidet avklares nærmere mellom KMD og Difi.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Plan for utvikling av strategisk digital lederkompetanse"/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal lage en plan for utvikling av strategisk digital kompetanse&#xD;&#xA;hos statlige ledere.&#xD;&#xA;Difi skal sammenfatte et kunnskapsgrunnlag om status når det&#xD;&#xA;gjelder behov for, og tilgang på kompetanse i statlig forvaltning:&#xD;&#xA;digital kompetanse&#xD;&#xA;omstillingskompetanse&#xD;&#xA;Innretningen i arbeidet avklares nærmere mellom KMD og Difi.&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="implementation-event"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:ImplementationEvent>

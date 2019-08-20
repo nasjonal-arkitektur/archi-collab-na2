@@ -1,0 +1,15 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realisert av"
+    id="4d79f9a1-75e4-4496-8213-0dba6be82232">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_11b50dd1-527f-4ddc-a933-fd15fcb47643.xml#11b50dd1-527f-4ddc-a933-fd15fcb47643"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_408c8f5f-cd92-42de-aed5-0a855fd83007.xml#408c8f5f-cd92-42de-aed5-0a855fd83007"/>
+</archimate:RealizationRelationship>

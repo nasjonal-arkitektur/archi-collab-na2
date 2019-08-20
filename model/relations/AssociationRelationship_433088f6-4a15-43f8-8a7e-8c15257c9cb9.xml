@@ -1,0 +1,33 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is represented by"
+    id="433088f6-4a15-43f8-8a7e-8c15257c9cb9">
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="is represented by"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_f57189c6-1eed-4359-97cf-99982c5cbc72.xml#f57189c6-1eed-4359-97cf-99982c5cbc72"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_7c17d659-677a-4fa1-bbf6-64d761cbfb35.xml#7c17d659-677a-4fa1-bbf6-64d761cbfb35"/>
+</archimate:AssociationRelationship>

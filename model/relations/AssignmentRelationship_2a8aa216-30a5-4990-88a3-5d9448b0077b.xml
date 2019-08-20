@@ -1,0 +1,15 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tilordnet"
+    id="2a8aa216-30a5-4990-88a3-5d9448b0077b">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_ffbd8f89-09f0-4840-88c1-55b57ffa87d6.xml#ffbd8f89-09f0-4840-88c1-55b57ffa87d6"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_7dffffb8-5b40-4d50-b31f-aa4734c45650.xml#7dffffb8-5b40-4d50-b31f-aa4734c45650"/>
+</archimate:AssignmentRelationship>

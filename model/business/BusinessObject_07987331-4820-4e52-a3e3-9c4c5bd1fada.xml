@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SKOS-AP-NO-Begrep"
+    id="07987331-4820-4e52-a3e3-9c4c5bd1fada"
+    documentation="https://doc.difi.no/data/begrep-skos-ap-no/">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="SKOS-AP-NO-Begrep"/>
+  <properties
+      key="difi:description_no"
+      value="https://doc.difi.no/data/begrep-skos-ap-no/"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+</archimate:BusinessObject>

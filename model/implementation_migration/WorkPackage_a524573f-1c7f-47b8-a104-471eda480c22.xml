@@ -1,0 +1,28 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bistå KMD i arbeidet med stortingsmelding om innovasjon"
+    id="a524573f-1c7f-47b8-a104-471eda480c22"
+    documentation="Bistå KMD i arbeidet med stortingsmelding om innovasjon i offentlig sektor">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Bistå KMD i arbeidet med stortingsmelding om innovasjon"/>
+  <properties
+      key="difi:description_no"
+      value="Bistå KMD i arbeidet med stortingsmelding om innovasjon i offentlig sektor"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="work-package"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:WorkPackage>

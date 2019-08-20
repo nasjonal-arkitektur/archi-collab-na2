@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Electronic Signature"
+    id="f25370b7-e813-43d1-bcbe-21bbf2723847"
+    documentation="What is an electronic signature? https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Introduction+to+e-signature&#xD;&#xA;">
+  <properties
+      key="dct:type"
+      value="business-object"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Electronic Signature"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="What is an electronic signature? https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Introduction+to+e-signature&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

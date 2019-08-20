@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Felles kodeliste-oversikt"
+    id="6a3965ff-d34c-496c-8fbf-86acc15d102e"
+    documentation="Å ha en felles kodelisteoversikt nasjonalt">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Felles kodeliste-oversikt [ns:jim]"/>
+  <properties
+      key="difi:description_no"
+      value="Å ha en felles kodelisteoversikt nasjonalt"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

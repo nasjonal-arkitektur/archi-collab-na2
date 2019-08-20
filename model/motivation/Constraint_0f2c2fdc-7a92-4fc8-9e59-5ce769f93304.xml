@@ -1,0 +1,28 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tekniske forutsetninger"
+    id="0f2c2fdc-7a92-4fc8-9e59-5ce769f93304"
+    documentation="F.eks. krav til infrastruktur, teknologiplattform, teknologivalg.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Tekniske forutsetninger"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="F.eks. krav til infrastruktur, teknologiplattform, teknologivalg."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="constraint"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Constraint>

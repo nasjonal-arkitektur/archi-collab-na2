@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Felles API-oversikt"
+    id="07834f8f-900d-4bcb-9499-a29411dc3e3e"
+    documentation="Å ha en felles API-versikt nasjonalt">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Felles API-oversikt [ns:jim]"/>
+  <properties
+      key="difi:description_no"
+      value="Å ha en felles API-versikt nasjonalt"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

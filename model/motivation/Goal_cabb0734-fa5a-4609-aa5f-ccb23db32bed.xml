@@ -1,0 +1,28 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Ta ut potensialet i digitalisering"
+    id="cabb0734-fa5a-4609-aa5f-ccb23db32bed"
+    documentation="Offentlig sektor tar ut potensialet i digitalisering">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value=" Ta ut potensialet i digitalisering"/>
+  <properties
+      key="difi:description_no"
+      value="Offentlig sektor tar ut potensialet i digitalisering"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="goal"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Goal>

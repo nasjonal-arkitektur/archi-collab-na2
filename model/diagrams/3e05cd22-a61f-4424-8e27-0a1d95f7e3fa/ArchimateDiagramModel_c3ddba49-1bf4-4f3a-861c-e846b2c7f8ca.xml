@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inngangsport - pågående arbeid"
+    id="c3ddba49-1bf4-4f3a-861c-e846b2c7f8ca">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="16e1aa00-99e8-457c-bba9-cb76280168b5">
+    <bounds
+        x="60"
+        y="36"
+        width="133"
+        height="71"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_0ef7b75f-f5f1-462b-9d8b-6cee2912f4fd.xml#0ef7b75f-f5f1-462b-9d8b-6cee2912f4fd"/>
+  </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Inngangsport - pågående arbeid"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:ArchimateDiagramModel>

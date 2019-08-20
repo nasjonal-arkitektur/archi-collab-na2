@@ -1,0 +1,15 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kan være"
+    id="ddfda47e-724b-4a47-858a-85e4ba222a8f">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_0879c635-89a4-4b90-8493-a6aa798e53c5.xml#0879c635-89a4-4b90-8493-a6aa798e53c5"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_447aa8fa-f96d-440c-ab75-094560ff9636.xml#447aa8fa-f96d-440c-ab75-094560ff9636"/>
+</archimate:SpecializationRelationship>

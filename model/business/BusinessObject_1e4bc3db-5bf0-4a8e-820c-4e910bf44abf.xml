@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;Public Policy>> ABE-reformen"
+    id="1e4bc3db-5bf0-4a8e-820c-4e910bf44abf"
+    documentation="Designated name for grouping legal acts with a common scope to be implemented by a public authority. It is based on certain values and objectives and is implemented using a variety of resources. It applies on the territory within which the public authority has delegated powers by the legislative authority.&#xD;&#xA;&#xD;&#xA;Based on EuroVoc&#xD;&#xA;http://eurovoc.europa.eu/drupal/?q=request&amp;concepturi=http%3A%2F%2Feurovoc.europa.eu%2F8466&amp;termuri=http%3A%2F%2Feurovoc.europa.eu%2F209598&amp;language=en&amp;view=pt&amp;ifacelang=en &#xD;&#xA;&#xD;&#xA;The policies; overview of EU activities in all areas, from agriculture to transport: http://ec.europa.eu/policies/index_en.htm&#xD;&#xA;&#xD;&#xA;Syn. Policy Action&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Common Agricultural Policy (CAP)&#xD;&#xA;The common agricultural policy (CAP) – one of Europe’s oldest policies – has evolved along with the EU. Today's CAP supports a modern, market-oriented farming sector ensuring the provision of safe, affordable, high quality food, produced sustainably and respecting strict standards (environmental, animal welfare, food safety, etc.), as well as supporting investment in the broader rural economy.&#x9;&#xD;&#xA;https://ec.europa.eu/info/strategy/agriculture_en &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB9_SBB1542631044294"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicPolicy"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"
+      value="19/11/2018"/>
+  <properties
+      key="dct:spatial"/>
+  <properties
+      key="eira:status"/>
+  <properties
+      key="eira:specific_policy_issue"/>
+  <properties
+      key="eira:synonym"
+      value="Policy Action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="&lt;&lt;Public Policy>> ABE-reformen"/>
+  <properties
+      key="difi:description_no"
+      value="Designated name for grouping legal acts with a common scope to be implemented by a public authority. It is based on certain values and objectives and is implemented using a variety of resources. It applies on the territory within which the public authority has delegated powers by the legislative authority.&#xD;&#xA;&#xD;&#xA;Based on EuroVoc&#xD;&#xA;http://eurovoc.europa.eu/drupal/?q=request&amp;concepturi=http%3A%2F%2Feurovoc.europa.eu%2F8466&amp;termuri=http%3A%2F%2Feurovoc.europa.eu%2F209598&amp;language=en&amp;view=pt&amp;ifacelang=en &#xD;&#xA;&#xD;&#xA;The policies; overview of EU activities in all areas, from agriculture to transport: http://ec.europa.eu/policies/index_en.htm&#xD;&#xA;&#xD;&#xA;Syn. Policy Action&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Common Agricultural Policy (CAP)&#xD;&#xA;The common agricultural policy (CAP) – one of Europe’s oldest policies – has evolved along with the EU. Today's CAP supports a modern, market-oriented farming sector ensuring the provision of safe, affordable, high quality food, produced sustainably and respecting strict standards (environmental, animal welfare, food safety, etc.), as well as supporting investment in the broader rural economy.&#x9;&#xD;&#xA;https://ec.europa.eu/info/strategy/agriculture_en &#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

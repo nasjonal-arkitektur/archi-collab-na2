@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="skosno"
+    id="0cc0ae8b-73cc-44d3-8a53-e1cff8267a79"
+    documentation="Norske utvidelser til SKOS.&#xD;&#xA;&#xD;&#xA;Status per 2019-01-01: Ikke etabelert, men identifisert hva utvidelsen bør inneholde. ">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="skosno"/>
+  <properties
+      key="difi:description_no"
+      value="Norske utvidelser til SKOS.&#xD;&#xA;&#xD;&#xA;Status per 2019-01-01: Ikke etabelert, men identifisert hva utvidelsen bør inneholde. "/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

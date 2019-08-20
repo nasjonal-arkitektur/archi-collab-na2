@@ -1,0 +1,28 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autonome gjenstander"
+    id="f8dff8e0-1166-4db2-8af3-56ce557c79ac"
+    documentation="Autonome gjenstander: Førerløse maskiner, biler,&#xD;&#xA;roboter og droner som ved hjelp av sensorer og kunstig&#xD;&#xA;intelligens klarer å forholde seg til omgivelsene uten&#xD;&#xA;menneskelig innblanding. Autonome gjenstander kan&#xD;&#xA;operere på land, i luften eller til sjøs og muliggjør helt&#xD;&#xA;nye tjenester. Førerløse biler vil påvirke alle de som&#xD;&#xA;arbeider som sjåfører, og dermed få betydning for NAV.&#xD;&#xA;Samtidig gir det nye muligheter for mobilitet til eldre&#xD;&#xA;personer og andre som i dag får hjelp med&#xD;&#xA;spesialtilpasning av kjøretøy.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Autonome gjenstander"/>
+  <properties
+      key="difi:description_no"
+      value="Autonome gjenstander: Førerløse maskiner, biler,&#xD;&#xA;roboter og droner som ved hjelp av sensorer og kunstig&#xD;&#xA;intelligens klarer å forholde seg til omgivelsene uten&#xD;&#xA;menneskelig innblanding. Autonome gjenstander kan&#xD;&#xA;operere på land, i luften eller til sjøs og muliggjør helt&#xD;&#xA;nye tjenester. Førerløse biler vil påvirke alle de som&#xD;&#xA;arbeider som sjåfører, og dermed få betydning for NAV.&#xD;&#xA;Samtidig gir det nye muligheter for mobilitet til eldre&#xD;&#xA;personer og andre som i dag får hjelp med&#xD;&#xA;spesialtilpasning av kjøretøy."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="resource"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Resource>

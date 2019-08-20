@@ -1,0 +1,28 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grunnlag for drøfting av &quot;inkluderingsdugnaden&quot;"
+    id="7e49f037-463a-4ac6-b984-97e1472777d3"
+    documentation="KMD vil drøfte med Difi et opplegg for arbeidet med&#xD;&#xA;inkluderingsdugnaden. Et skriftlig grunnlag for drøftingen skal&#xD;&#xA;utarbeides av Difi.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Grunnlag for drøfting av &quot;inkluderingsdugnaden&quot;"/>
+  <properties
+      key="difi:description_no"
+      value="KMD vil drøfte med Difi et opplegg for arbeidet med&#xD;&#xA;inkluderingsdugnaden. Et skriftlig grunnlag for drøftingen skal&#xD;&#xA;utarbeides av Difi.&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="deliverable"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Deliverable>

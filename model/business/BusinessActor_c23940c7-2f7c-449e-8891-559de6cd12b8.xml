@@ -1,0 +1,28 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virksomheter i offentlig sektor"
+    id="c23940c7-2f7c-449e-8891-559de6cd12b8"
+    documentation="Offentlig sektor skal være bærekraftig, effektiv og sette brukeren i sentrum.. Den enkelte virksomheten har ansvar for å oppnå dette målet ved å drive kontinuerlig forbedring og innovasjon knyttet til organisering, tjenester, produkter, arbeidsprosesser og kommunikasjonsformer">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Virksomheter i offentlig sektor"/>
+  <properties
+      key="difi:description_no"
+      value="Offentlig sektor skal være bærekraftig, effektiv og sette brukeren i sentrum.. Den enkelte virksomheten har ansvar for å oppnå dette målet ved å drive kontinuerlig forbedring og innovasjon knyttet til organisering, tjenester, produkter, arbeidsprosesser og kommunikasjonsformer"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-actor"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessActor>

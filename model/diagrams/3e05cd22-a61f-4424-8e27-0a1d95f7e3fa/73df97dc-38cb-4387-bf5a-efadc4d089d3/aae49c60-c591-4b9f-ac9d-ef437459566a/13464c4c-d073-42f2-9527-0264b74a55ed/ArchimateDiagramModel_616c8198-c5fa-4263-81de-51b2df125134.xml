@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="The Open Group SOA RA"
+    id="616c8198-c5fa-4263-81de-51b2df125134">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d298a0e8-c2ca-4314-b7a5-b6039b5192cc"
+      textAlignment="1"
+      content="Se egendatabase/modell: TOG SOA RA">
+    <bounds
+        x="108"
+        y="96"
+        width="160"
+        height="83"/>
+  </children>
+</archimate:ArchimateDiagramModel>

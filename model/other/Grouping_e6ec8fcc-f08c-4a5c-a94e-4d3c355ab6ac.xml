@@ -1,0 +1,27 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kunnskapsforvaltning"
+    id="e6ec8fcc-f08c-4a5c-a94e-4d3c355ab6ac">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kunnskapsforvaltning"/>
+  <properties
+      key="difi:name_en"
+      value="Knowledge management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+</archimate:Grouping>

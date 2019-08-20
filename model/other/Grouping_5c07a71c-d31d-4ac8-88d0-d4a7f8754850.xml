@@ -1,0 +1,28 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virksomhetsnivå - tilgjengeliggjøre oversikter og beskrivelser"
+    id="5c07a71c-d31d-4ac8-88d0-d4a7f8754850"
+    documentation="Å kunne gjøre tilgjengelig oversikter og beskrivelser">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Virksomhetsnivå - tilgjengeliggjøring av oversikter og beskrivelser [ns:jim]"/>
+  <properties
+      key="difi:description_no"
+      value="Å kunne gjøre tilgjengelig oversikter og beskrivelser"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+</archimate:Grouping>

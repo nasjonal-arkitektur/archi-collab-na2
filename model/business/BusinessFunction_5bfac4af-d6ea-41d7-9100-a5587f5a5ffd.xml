@@ -1,0 +1,28 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sentral kilde til kunnskap om offentlig sektor"
+    id="5bfac4af-d6ea-41d7-9100-a5587f5a5ffd"
+    documentation="Difi skal være den sentrale kilden til kunnskap om tilstand, utvikling og endringsbehov i forvaltningen på sine virkeområder. Difi skal også være orientert om den internasjonale utviklingen på disse områdene, og legge internasjonalt samarbeid til grunn for tiltak der dette er aktuelt.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Sentral kilde til kunnskap om offentlig sektor"/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal være den sentrale kilden til kunnskap om tilstand, utvikling og endringsbehov i forvaltningen på sine virkeområder. Difi skal også være orientert om den internasjonale utviklingen på disse områdene, og legge internasjonalt samarbeid til grunn for tiltak der dette er aktuelt."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-function"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessFunction>

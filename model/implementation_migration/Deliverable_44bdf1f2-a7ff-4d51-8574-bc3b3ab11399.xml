@@ -1,0 +1,28 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forberedelse av markedsplass for skytjenester 2020"
+    id="44bdf1f2-a7ff-4d51-8574-bc3b3ab11399"
+    documentation="Difi skal forberede etableringen en innkjøpsordning/markedsplass&#xD;&#xA;for skytjenester, og samtidig støtte virksomhetene i å gjøre de&#xD;&#xA;nødvendige vurderinger av risiko og sikkerhet. Markedsplassen&#xD;&#xA;for skytjenester skal innrettes slik at den effektivt bidrar til økt&#xD;&#xA;utbredelse av sikre, lovlige og kostnadseffektive skytjenester. Difi&#xD;&#xA;skal sikre god forankring av forprosjektene, slik at det legges til&#xD;&#xA;rette for at gjennomføringsfasen kan starte i 2020.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Forberedelse av markedsplass for skytjenester 2020"/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal forberede etableringen en innkjøpsordning/markedsplass&#xD;&#xA;for skytjenester, og samtidig støtte virksomhetene i å gjøre de&#xD;&#xA;nødvendige vurderinger av risiko og sikkerhet. Markedsplassen&#xD;&#xA;for skytjenester skal innrettes slik at den effektivt bidrar til økt&#xD;&#xA;utbredelse av sikre, lovlige og kostnadseffektive skytjenester. Difi&#xD;&#xA;skal sikre god forankring av forprosjektene, slik at det legges til&#xD;&#xA;rette for at gjennomføringsfasen kan starte i 2020.&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="deliverable"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Deliverable>

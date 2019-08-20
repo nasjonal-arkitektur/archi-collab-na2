@@ -1,0 +1,32 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="influence"
+    id="1e005b69-68ab-420a-accf-106b520200cc">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="influence-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [lang:${property:difi:language}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_c15d2fdd-cb96-4075-9761-9550384ad55d.xml#c15d2fdd-cb96-4075-9761-9550384ad55d"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_ffa7ccbc-2162-4c59-86e8-ebdf219de441.xml#ffa7ccbc-2162-4c59-86e8-ebdf219de441"/>
+</archimate:InfluenceRelationship>

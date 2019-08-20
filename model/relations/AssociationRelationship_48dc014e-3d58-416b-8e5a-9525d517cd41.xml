@@ -1,0 +1,33 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperabilitetskrav"
+    id="48dc014e-3d58-416b-8e5a-9525d517cd41">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Interoperabilitetskrav"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="association-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_2fe7dba1-7c67-42a8-84c1-3f9a5375e511.xml#2fe7dba1-7c67-42a8-84c1-3f9a5375e511"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_257ae340-5051-498a-879d-2d2ff0c7f94e.xml#257ae340-5051-498a-879d-2d2ff0c7f94e"/>
+</archimate:AssociationRelationship>

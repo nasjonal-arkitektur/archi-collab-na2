@@ -1,0 +1,15 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiserer"
+    id="851f3933-c2f3-48a0-8a1e-0fc92f7d1b72">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_408c8f5f-cd92-42de-aed5-0a855fd83007.xml#408c8f5f-cd92-42de-aed5-0a855fd83007"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e5042891-5e6c-49d9-83f7-cc235c6fbc85.xml#e5042891-5e6c-49d9-83f7-cc235c6fbc85"/>
+</archimate:RealizationRelationship>

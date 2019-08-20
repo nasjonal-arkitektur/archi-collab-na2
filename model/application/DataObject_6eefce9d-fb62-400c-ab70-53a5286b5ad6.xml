@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sporingsdata"
+    id="6eefce9d-fb62-400c-ab70-53a5286b5ad6">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:DataObject>

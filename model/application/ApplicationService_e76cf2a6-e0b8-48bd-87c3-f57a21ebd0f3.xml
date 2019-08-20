@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sporingstjeneste"
+    id="e76cf2a6-e0b8-48bd-87c3-f57a21ebd0f3">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:ApplicationService>

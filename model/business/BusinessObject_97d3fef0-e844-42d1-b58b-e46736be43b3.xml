@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilgjengeliggjøring"
+    id="97d3fef0-e844-42d1-b58b-e46736be43b3"
+    documentation="Status per 2019-01-01: Vi har ingen felles spesifikasjon for hvordan kodelistene (dvs. kodeverdiene) skal gjøres tilgjengelig maskinelt. ">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Tilgjengeliggjøring"/>
+  <properties
+      key="difi:description_no"
+      value="Status per 2019-01-01: Vi har ingen felles spesifikasjon for hvordan kodelistene (dvs. kodeverdiene) skal gjøres tilgjengelig maskinelt. "/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

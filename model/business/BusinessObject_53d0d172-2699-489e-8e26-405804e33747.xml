@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spesifikasjon for beskrivelse av kvalitet på datasett"
+    id="53d0d172-2699-489e-8e26-405804e33747"
+    documentation="https://doc.difi.no/data/kvalitet-pa-datasett/">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Spesifikasjon for beskrivelse av kvalitet på datasett"/>
+  <properties
+      key="difi:description_no"
+      value="https://doc.difi.no/data/kvalitet-pa-datasett/"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+</archimate:BusinessObject>

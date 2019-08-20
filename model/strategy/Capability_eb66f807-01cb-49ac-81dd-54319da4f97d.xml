@@ -1,0 +1,27 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datautveksling"
+    id="eb66f807-01cb-49ac-81dd-54319da4f97d">
+  <properties
+      key="difi:namespace"
+      value="eirabased"/>
+  <properties
+      key="difi:name_no"
+      value="Datautveksling"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data exchange"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

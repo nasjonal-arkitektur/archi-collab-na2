@@ -1,0 +1,18 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kan representere"
+    id="c9d8aff6-8f99-49c7-a7ee-0ecc46bf3a7c">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+  <properties
+      key="label"
+      value="kan\nrepresentere"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_408c8f5f-cd92-42de-aed5-0a855fd83007.xml#408c8f5f-cd92-42de-aed5-0a855fd83007"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_447aa8fa-f96d-440c-ab75-094560ff9636.xml#447aa8fa-f96d-440c-ab75-094560ff9636"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,28 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brukergruppe-representant "
+    id="d0241a87-78d7-4457-9b8b-e21efde6fe19"
+    documentation="Ref. Håkon, Skate-presentasjon: Gjør avtale med noen som representerer brukerne (mange brukere), på tvers av flere avtaler, dvs. FinansNorge&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+  <properties
+      key="difi:name_no"
+      value="Brukergruppe-representant  [ns:Erik]"/>
+  <properties
+      key="difi:description_no"
+      value="Ref. Håkon, Skate-presentasjon: Gjør avtale med noen som representerer brukerne (mange brukere), på tvers av flere avtaler, dvs. FinansNorge&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-role"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessRole>

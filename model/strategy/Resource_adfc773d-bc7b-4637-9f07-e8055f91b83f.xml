@@ -1,0 +1,28 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tingenes internett"
+    id="adfc773d-bc7b-4637-9f07-e8055f91b83f"
+    documentation="Tingenes internett: Forbruksartikler, klær,&#xD;&#xA;husholdningsprodukter&#xD;&#xA;og maskiner får innebygde&#xD;&#xA;sensorer som gjør det mulig å samle data ved at de er&#xD;&#xA;tilknyttet internett. Hjelpemiddelområdet&#xD;&#xA;kan&#xD;&#xA;eksempelvis nyttiggjøre seg dette for å planlegge&#xD;&#xA;vedlikehold og forstå bruksmønster.&#xD;&#xA;–– Autonome gjenstander: Førerløse maskiner,">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Tingenes internett"/>
+  <properties
+      key="difi:description_no"
+      value="Tingenes internett: Forbruksartikler, klær,&#xD;&#xA;husholdningsprodukter&#xD;&#xA;og maskiner får innebygde&#xD;&#xA;sensorer som gjør det mulig å samle data ved at de er&#xD;&#xA;tilknyttet internett. Hjelpemiddelområdet&#xD;&#xA;kan&#xD;&#xA;eksempelvis nyttiggjøre seg dette for å planlegge&#xD;&#xA;vedlikehold og forstå bruksmønster.&#xD;&#xA;–– Autonome gjenstander: Førerløse maskiner,"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="resource"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Resource>

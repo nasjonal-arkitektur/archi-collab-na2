@@ -1,0 +1,28 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utviklingen i antall ansatte og årsverk i staten, "
+    id="c1b96b04-6519-401f-9c32-2cb950d1e48c"
+    documentation="Kommunal- og moderniseringsdepartementet har behov for&#xD;&#xA;oversikt over utviklingen i antall ansatte og årsverk i staten, jf.&#xD;&#xA;ambisjonene i Jeløya-plattformen.&#xD;&#xA;Difi bes å oppdatere sin kartlegging fra 10. januar 2019, med data&#xD;&#xA;for november 2018 og mars 2019, slik at status kan presenteres i&#xD;&#xA;Prop. 1 S for 2020. Resultatet av kartleggingen publiseres som et&#xD;&#xA;notat/rapport innen 1. september 2019.&#xD;&#xA;Kartleggingen skal:&#xD;&#xA;måle utviklingen i antall ansatte i statsforvaltningen i forhold til&#xD;&#xA;den generelle sysselsettingsveksten&#xD;&#xA;måle utviklingen og nivået på antall ansatte i&#xD;&#xA;sentralforvaltningen samt forklaringsfaktorer til utviklingen&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Utviklingen i antall ansatte og årsverk i staten, "/>
+  <properties
+      key="difi:description_no"
+      value="Kommunal- og moderniseringsdepartementet har behov for&#xD;&#xA;oversikt over utviklingen i antall ansatte og årsverk i staten, jf.&#xD;&#xA;ambisjonene i Jeløya-plattformen.&#xD;&#xA;Difi bes å oppdatere sin kartlegging fra 10. januar 2019, med data&#xD;&#xA;for november 2018 og mars 2019, slik at status kan presenteres i&#xD;&#xA;Prop. 1 S for 2020. Resultatet av kartleggingen publiseres som et&#xD;&#xA;notat/rapport innen 1. september 2019.&#xD;&#xA;Kartleggingen skal:&#xD;&#xA;måle utviklingen i antall ansatte i statsforvaltningen i forhold til&#xD;&#xA;den generelle sysselsettingsveksten&#xD;&#xA;måle utviklingen og nivået på antall ansatte i&#xD;&#xA;sentralforvaltningen samt forklaringsfaktorer til utviklingen&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="deliverable"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Deliverable>

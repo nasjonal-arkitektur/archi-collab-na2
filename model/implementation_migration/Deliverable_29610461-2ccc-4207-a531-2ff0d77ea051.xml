@@ -1,0 +1,28 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utkast til en veileder om departementenes strategiske styring"
+    id="29610461-2ccc-4207-a531-2ff0d77ea051"
+    documentation="Difi skal utvikle et utkast til en veileder om departementenes&#xD;&#xA;strategiske styring av digitalisering i egen sektor. Difi involverer&#xD;&#xA;relevante andre direktorater i arbeidet.&#xD;&#xA;Første utkast forelegges KMD.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Utkast til en veileder om departementenes strategiske styring"/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal utvikle et utkast til en veileder om departementenes&#xD;&#xA;strategiske styring av digitalisering i egen sektor. Difi involverer&#xD;&#xA;relevante andre direktorater i arbeidet.&#xD;&#xA;Første utkast forelegges KMD.&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="deliverable"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Deliverable>

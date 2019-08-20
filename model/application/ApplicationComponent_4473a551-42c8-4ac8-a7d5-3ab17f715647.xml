@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LinkedIn-guppe"
+    id="4473a551-42c8-4ac8-a7d5-3ab17f715647"
+    documentation="Varlsimgsmekansime tatt bort av MS ca. okt. 2018">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="LinkedIn-guppe"/>
+  <properties
+      key="difi:description_no"
+      value="Varlsimgsmekansime tatt bort av MS ca. okt. 2018"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="application-component"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:ApplicationComponent>

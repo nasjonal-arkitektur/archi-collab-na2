@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="22458b0b-19fd-4581-ba8f-a68bdc9bf1a7"
+    documentation="or designing the data structures including physical persistence in databases, virtual data structures, and messages passing information between applications and organizations">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_9cd4b98b-c59d-4b32-8b16-b3eb89a5b84b.xml#9cd4b98b-c59d-4b32-8b16-b3eb89a5b84b"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_01d83735-595d-4f7b-8b29-594326bee620.xml#01d83735-595d-4f7b-8b29-594326bee620"/>
+</archimate:ServingRelationship>

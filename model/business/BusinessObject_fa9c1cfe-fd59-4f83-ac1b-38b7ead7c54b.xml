@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction Structure Data"
+    id="fa9c1cfe-fd59-4f83-ac1b-38b7ead7c54b"
+    documentation="Transaction Structure Data, for example customer identifiers, describes the things must be present for a transaction to occur: products, customers, vendors."/>

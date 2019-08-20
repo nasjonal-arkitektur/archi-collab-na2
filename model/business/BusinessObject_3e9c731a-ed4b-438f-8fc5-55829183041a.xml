@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Core Data Model (eira:CoreDataModel)"
+    id="3e9c731a-ed4b-438f-8fc5-55829183041a"
+    documentation="eira:CoreDataModel">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Core Data Model (eira:CoreDataModel)"/>
+  <properties
+      key="difi:description_no"
+      value="eira:CoreDataModel"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

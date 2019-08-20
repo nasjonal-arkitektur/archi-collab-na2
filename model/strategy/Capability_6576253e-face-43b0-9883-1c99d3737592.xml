@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innhøste InfoMod-oversikt"
+    id="6576253e-face-43b0-9883-1c99d3737592"
+    documentation="Å kunne innhøste infomod-oversikt ">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Innhøste InfoMod-oversikt [ns:jim]"/>
+  <properties
+      key="difi:description_no"
+      value="Å kunne innhøste infomod-oversikt "/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

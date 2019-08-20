@@ -1,0 +1,28 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utviklingstrekk for statlig tilsyn med kommunesektoren"
+    id="c4937e74-b93a-404f-9cf2-65baafbccdf3"
+    documentation="Difi skal utarbeide en rapport som kan danne grunnlag for en vurdering av mål og tiltak om statlig tilsyn som er beskrevet i Prop. 128 S (2016-2017) Kommuneproposisjonen 2018 punkt 6.2. Rapporten skal gi kunnskap om utviklingstrekk for statlig tilsyn med kommunesektoren, herunder omfang. KMD tar sikte på å orientere Stortinget om utviklingstrekk for statlig tilsyn med kommunesektoren hvert fjerde år. Difis arbeid med kunnskapsgrunnlag skal innrettes slik at det kan gisammenliknbar informasjon over tid.  Difi bes utarbeide et forslag til en helhetlig prosjektplan innen 1. mars 2019.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Utviklingstrekk for statlig tilsyn med kommunesektoren"/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal utarbeide en rapport som kan danne grunnlag for en vurdering av mål og tiltak om statlig tilsyn som er beskrevet i Prop. 128 S (2016-2017) Kommuneproposisjonen 2018 punkt 6.2. Rapporten skal gi kunnskap om utviklingstrekk for statlig tilsyn med kommunesektoren, herunder omfang. KMD tar sikte på å orientere Stortinget om utviklingstrekk for statlig tilsyn med kommunesektoren hvert fjerde år. Difis arbeid med kunnskapsgrunnlag skal innrettes slik at det kan gisammenliknbar informasjon over tid.  Difi bes utarbeide et forslag til en helhetlig prosjektplan innen 1. mars 2019.&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="deliverable"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Deliverable>

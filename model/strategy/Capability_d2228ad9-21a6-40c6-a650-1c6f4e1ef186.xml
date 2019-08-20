@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innhøste kodeliste-oversikt"
+    id="d2228ad9-21a6-40c6-a650-1c6f4e1ef186"
+    documentation="Å kunne innhøste kodeliste-oversikt">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Innhøste kodeliste-oversikt [ns:jim]"/>
+  <properties
+      key="difi:description_no"
+      value="Å kunne innhøste kodeliste-oversikt"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

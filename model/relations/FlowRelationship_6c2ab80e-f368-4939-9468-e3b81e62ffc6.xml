@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A spør B om .."
+    id="6c2ab80e-f368-4939-9468-e3b81e62ffc6">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="A spør B om .."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="flow-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_32461096-1373-4260-828b-d7eedff563e9.xml#32461096-1373-4260-828b-d7eedff563e9"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_70eb3f8b-9c1f-4351-90c3-a53d9dd5180d.xml#70eb3f8b-9c1f-4351-90c3-a53d9dd5180d"/>
+</archimate:FlowRelationship>

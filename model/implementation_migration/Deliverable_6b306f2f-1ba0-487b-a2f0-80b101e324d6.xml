@@ -1,0 +1,28 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oversikt over felles løsninger "
+    id="6b306f2f-1ba0-487b-a2f0-80b101e324d6"
+    documentation="Difi skal ha en oversikt over felles løsninger og komponenter i forvaltningen, og vurdere merpotensialet knyttet til gjenbruk av disse. Oversikten over infrastruktur, forvaltningsmiljøer, finansieringsmodeller mv. skal utvikles over tid. Difi skal gi råd og anbefalinger til KMD med henblikk på endringer i bruk og innretning av eksisterende felles løsninger og komponenter, samt behovet for nye.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Oversikt over felles løsninger "/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal ha en oversikt over felles løsninger og komponenter i forvaltningen, og vurdere merpotensialet knyttet til gjenbruk av disse. Oversikten over infrastruktur, forvaltningsmiljøer, finansieringsmodeller mv. skal utvikles over tid. Difi skal gi råd og anbefalinger til KMD med henblikk på endringer i bruk og innretning av eksisterende felles løsninger og komponenter, samt behovet for nye."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="deliverable"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Deliverable>

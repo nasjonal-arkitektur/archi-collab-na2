@@ -1,0 +1,28 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offentlig sektor omstiller seg og innoverer"
+    id="5b056653-78c4-4c50-a51b-ba230c0416dc"
+    documentation="Tildelingsbrevet: &quot;Offentlig sektor omstiller seg og innoverer&quot;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Offentlig sektor omstiller seg og innoverer"/>
+  <properties
+      key="difi:description_no"
+      value="Tildelingsbrevet: &quot;Offentlig sektor omstiller seg og innoverer&quot;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="goal"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Goal>

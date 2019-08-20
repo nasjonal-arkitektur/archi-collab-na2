@@ -1,0 +1,28 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API-katalog eier"
+    id="bc9974a6-ebb0-4003-a329-d772c4623dc4"
+    documentation="en aktør som allerede forvalter en samling av grensesnitt mot egne og/eller andres data. F.eks. Kartverket gjennom GeoNorge. API-katalogeier kan her være en avgrenset rolle fra datakatalogeier.">
+  <properties
+      key="difi:namespace"
+      value="brreg"/>
+  <properties
+      key="difi:name_no"
+      value="API-katalog eier [ns:API-katalogen]"/>
+  <properties
+      key="difi:description_no"
+      value="en aktør som allerede forvalter en samling av grensesnitt mot egne og/eller andres data. F.eks. Kartverket gjennom GeoNorge. API-katalogeier kan her være en avgrenset rolle fra datakatalogeier."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-role"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessRole>

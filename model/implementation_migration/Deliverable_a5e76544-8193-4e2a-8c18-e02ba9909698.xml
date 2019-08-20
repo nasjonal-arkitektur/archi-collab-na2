@@ -1,0 +1,28 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pilot for frivillig mobilitet i statlig sektor"
+    id="a5e76544-8193-4e2a-8c18-e02ba9909698"
+    documentation="Difi skal utvikle og igangsette en pilot for frivillig mobilitet i statlig&#xD;&#xA;sektor med formål om å styrke virksomhetenes kompetanse,&#xD;&#xA;endringserfaring og samhandling.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Pilot for frivillig mobilitet i statlig sektor"/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal utvikle og igangsette en pilot for frivillig mobilitet i statlig&#xD;&#xA;sektor med formål om å styrke virksomhetenes kompetanse,&#xD;&#xA;endringserfaring og samhandling.&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="deliverable"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Deliverable>

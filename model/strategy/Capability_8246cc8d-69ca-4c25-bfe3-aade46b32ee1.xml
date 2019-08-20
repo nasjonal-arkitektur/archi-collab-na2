@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&quot;Styring av datatyper&quot;"
+    id="8246cc8d-69ca-4c25-bfe3-aade46b32ee1"
+    documentation="Styring av den informasjonen som flyter mellom partene.">
+  <properties
+      key="difi:namespace"
+      value="na1"/>
+  <properties
+      key="difi:name_no"
+      value="&quot;Styring av datatyper&quot;"/>
+  <properties
+      key="difi:description_no"
+      value="Styring av den informasjonen som flyter mellom partene."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

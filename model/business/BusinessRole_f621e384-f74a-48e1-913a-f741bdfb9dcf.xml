@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Produsent"
+    id="f621e384-f74a-48e1-913a-f741bdfb9dcf">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:BusinessRole>

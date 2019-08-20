@@ -1,0 +1,28 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regjeringens inkluderings-dugnad"
+    id="f400c07a-c7ec-43e1-926e-92afc75ea2f4"
+    documentation="https://www.regjeringen.no/no/sub/inkluderingsdugnad/id2596993/">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Regjeringens inkluderings-dugnad"/>
+  <properties
+      key="difi:description_no"
+      value="https://www.regjeringen.no/no/sub/inkluderingsdugnad/id2596993/"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="resource"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Resource>

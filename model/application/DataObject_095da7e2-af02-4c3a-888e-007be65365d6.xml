@@ -1,0 +1,28 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grunndataregister"
+    id="095da7e2-af02-4c3a-888e-007be65365d6"
+    documentation="= eira:BaseRegistry">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Grunndataregister"/>
+  <properties
+      key="difi:description_no"
+      value="= eira:BaseRegistry"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
+</archimate:DataObject>

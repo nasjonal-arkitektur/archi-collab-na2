@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisasjonsnummer"
+    id="634babbd-f4e8-41c2-8ee8-d59814365171"
+    documentation="Alle som blir registrert i Enhetsregisteret og Foretaksregisteret får tildelt et organisasjonsnummer.&#xD;&#xA;&#xD;&#xA;Organisasjonsnummeret identifiserer juridiske personer m.m. og er nøkkelen til opplysningene som er lagret om dem i Brønnøysundregistrene. &#xD;&#xA;&#xD;&#xA;https://www.brreg.no/om-oss-nn/oppgavene-vare/registera-vare/om-einingsregisteret/organisasjonsnummeret/">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Organisasjonsnummer"/>
+  <properties
+      key="difi:description_no"
+      value="Alle som blir registrert i Enhetsregisteret og Foretaksregisteret får tildelt et organisasjonsnummer.&#xD;&#xA;&#xD;&#xA;Organisasjonsnummeret identifiserer juridiske personer m.m. og er nøkkelen til opplysningene som er lagret om dem i Brønnøysundregistrene. &#xD;&#xA;&#xD;&#xA;https://www.brreg.no/om-oss-nn/oppgavene-vare/registera-vare/om-einingsregisteret/organisasjonsnummeret/"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

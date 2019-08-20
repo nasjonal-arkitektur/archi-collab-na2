@@ -1,0 +1,28 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan for kategorisering av statlige oppaver og funksjoner"
+    id="a13447c2-8e05-45e2-8ced-9b294811f140"
+    documentation="Difi skal lage en plan for et arbeid som kan kategorisere statlig&#xD;&#xA;organisering og oppgaver og funksjoner. Dette som en&#xD;&#xA;videreføring av arbeidet med enhetsregisteret hvor&#xD;&#xA;virksomhetsbegrepet ble konkretisert.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Plan for kategorisering av statlige oppaver og funksjoner"/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal lage en plan for et arbeid som kan kategorisere statlig&#xD;&#xA;organisering og oppgaver og funksjoner. Dette som en&#xD;&#xA;videreføring av arbeidet med enhetsregisteret hvor&#xD;&#xA;virksomhetsbegrepet ble konkretisert.&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="deliverable"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Deliverable>

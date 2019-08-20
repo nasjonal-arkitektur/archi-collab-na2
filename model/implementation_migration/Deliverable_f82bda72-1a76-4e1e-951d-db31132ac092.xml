@@ -1,0 +1,28 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planlegging av nasjonal IKT-sikkerhetsøvelse 2020"
+    id="f82bda72-1a76-4e1e-951d-db31132ac092"
+    documentation="Difi skal delta aktivt i planleggingen av nasjonal IKT-&#xD;&#xA;sikkerhetsøvelse 2020.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Planlegging av nasjonal IKT-sikkerhetsøvelse 2020"/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal delta aktivt i planleggingen av nasjonal IKT-&#xD;&#xA;sikkerhetsøvelse 2020.&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="deliverable"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Deliverable>

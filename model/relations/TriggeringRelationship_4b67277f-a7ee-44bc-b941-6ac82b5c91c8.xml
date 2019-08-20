@@ -1,0 +1,32 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="4b67277f-a7ee-44bc-b941-6ac82b5c91c8">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+  <properties
+      key="difi:name_no"
+      value=" [ns:erik]"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:triggering-relationship"/>
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_dc3b4a6c-2600-4fee-b46e-bfe85f08dba6.xml#dc3b4a6c-2600-4fee-b46e-bfe85f08dba6"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_ac3ddb7f-f242-4dd8-8da8-b4159e5919d0.xml#ac3ddb7f-f242-4dd8-8da8-b4159e5919d0"/>
+</archimate:TriggeringRelationship>

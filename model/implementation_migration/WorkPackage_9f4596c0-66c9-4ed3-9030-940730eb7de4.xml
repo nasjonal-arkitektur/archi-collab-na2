@@ -1,0 +1,28 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppfølging av NFDs melding om offentlige anskaffelser"
+    id="9f4596c0-66c9-4ed3-9030-940730eb7de4"
+    documentation="NFDs melding om effektivisering og profesjonalisering av offentlige anskaffelser">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Oppfølging av NFDs melding om offentlige anskaffelser"/>
+  <properties
+      key="difi:description_no"
+      value="NFDs melding om effektivisering og profesjonalisering av offentlige anskaffelser"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="work-package"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:WorkPackage>

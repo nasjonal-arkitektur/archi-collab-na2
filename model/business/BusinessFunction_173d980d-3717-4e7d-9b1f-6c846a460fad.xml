@@ -1,0 +1,28 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilgangsstyring/access management"
+    id="173d980d-3717-4e7d-9b1f-6c846a460fad"
+    documentation="Axelos common glossary:&#xD;&#xA;The process responsible for allowing users to make use of IT&#xD;&#xA;services, data or other assets. Access management helps to&#xD;&#xA;protect the confidentiality, integrity and availability of assets&#xD;&#xA;by ensuring that only authorized users are able to access or&#xD;&#xA;modify them. Access management implements the policies of&#xD;&#xA;information security management and is sometimes referred to&#xD;&#xA;as rights management or identity management.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Tilgangsstyring/access management"/>
+  <properties
+      key="difi:description_no"
+      value="Axelos common glossary:&#xD;&#xA;The process responsible for allowing users to make use of IT&#xD;&#xA;services, data or other assets. Access management helps to&#xD;&#xA;protect the confidentiality, integrity and availability of assets&#xD;&#xA;by ensuring that only authorized users are able to access or&#xD;&#xA;modify them. Access management implements the policies of&#xD;&#xA;information security management and is sometimes referred to&#xD;&#xA;as rights management or identity management."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-function"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessFunction>

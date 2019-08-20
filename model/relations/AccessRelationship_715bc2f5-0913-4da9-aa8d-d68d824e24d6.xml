@@ -1,0 +1,16 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bruker"
+    id="715bc2f5-0913-4da9-aa8d-d68d824e24d6"
+    accessType="1">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_447aa8fa-f96d-440c-ab75-094560ff9636.xml#447aa8fa-f96d-440c-ab75-094560ff9636"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_65f60118-f81d-436b-8da0-cf5311a01361.xml#65f60118-f81d-436b-8da0-cf5311a01361"/>
+</archimate:AccessRelationship>

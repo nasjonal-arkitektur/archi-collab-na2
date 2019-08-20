@@ -1,0 +1,33 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consumes service from"
+    id="193cfd6e-cbc5-446b-9d4b-ecc84aff5745">
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Consumes service from"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_55a05170-b4ec-4ef4-9eff-b9340a0fab1c.xml#55a05170-b4ec-4ef4-9eff-b9340a0fab1c"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_55efe908-78dc-4169-a785-7d81ec3534ae.xml#55efe908-78dc-4169-a785-7d81ec3534ae"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TBX-AP-NO"
+    id="3cbc9492-4566-4a39-9930-1e9149a9598f"
+    documentation="https://doc.difi.no/data/begrep-tbx-ap-no/">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="TBX-AP-NO"/>
+  <properties
+      key="difi:description_no"
+      value="https://doc.difi.no/data/begrep-tbx-ap-no/"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+</archimate:BusinessObject>

@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Felles hjemmelsoversikt"
+    id="1c95c787-2027-47ae-b133-0fba4f4f803f"
+    documentation="Å ha en felles hjemmelsoversikt nasjonalt">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Felles hjemmelsoversikt [ns:jim]"/>
+  <properties
+      key="difi:description_no"
+      value="Å ha en felles hjemmelsoversikt nasjonalt"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

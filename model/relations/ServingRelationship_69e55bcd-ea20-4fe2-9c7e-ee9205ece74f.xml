@@ -1,0 +1,15 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tjener"
+    id="69e55bcd-ea20-4fe2-9c7e-ee9205ece74f">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_e76cf2a6-e0b8-48bd-87c3-f57a21ebd0f3.xml#e76cf2a6-e0b8-48bd-87c3-f57a21ebd0f3"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e5042891-5e6c-49d9-83f7-cc235c6fbc85.xml#e5042891-5e6c-49d9-83f7-cc235c6fbc85"/>
+</archimate:ServingRelationship>

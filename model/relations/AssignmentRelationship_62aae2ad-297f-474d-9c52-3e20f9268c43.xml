@@ -1,0 +1,33 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leverer"
+    id="62aae2ad-297f-474d-9c52-3e20f9268c43">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="leverer"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="assignment-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_5014aab8-052e-4240-be95-3de97f481868.xml#5014aab8-052e-4240-be95-3de97f481868"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_4905c3f9-c24d-4a73-a7cb-b391cfc91cc1.xml#4905c3f9-c24d-4a73-a7cb-b391cfc91cc1"/>
+</archimate:AssignmentRelationship>

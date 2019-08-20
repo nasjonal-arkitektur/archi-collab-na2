@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spesifikasjon for API-beskrivelser"
+    id="f9a5480c-5719-45f8-b527-8f6bb10092a2"
+    documentation="Status 2019-02-01: under utarbeidelse">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Spesifikasjon for API-beskrivelser"/>
+  <properties
+      key="difi:description_no"
+      value="Status 2019-02-01: under utarbeidelse"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+</archimate:BusinessObject>

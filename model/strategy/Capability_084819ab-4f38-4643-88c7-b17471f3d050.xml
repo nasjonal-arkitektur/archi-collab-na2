@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innhøste hjemmelsoversikt"
+    id="084819ab-4f38-4643-88c7-b17471f3d050"
+    documentation="Å kunne innhøste hjemmelsaoversikt ">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Innhøste hjemmelsoversikt [ns:jim]"/>
+  <properties
+      key="difi:description_no"
+      value="Å kunne innhøste hjemmelsaoversikt "/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

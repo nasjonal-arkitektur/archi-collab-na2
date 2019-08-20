@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Storage and Operations"
+    id="4415a4b4-e6f1-4dd3-ae51-3500f73d4af1"
+    documentation="Data Storage and Operations includes the design, implementation, and support of stored data to maximize its value. Operations provide support throughout the data lifecycle from planning for to disposal of data."/>

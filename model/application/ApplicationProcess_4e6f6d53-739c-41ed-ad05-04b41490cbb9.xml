@@ -1,0 +1,8 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application process"
+    id="4e6f6d53-739c-41ed-ad05-04b41490cbb9">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:ApplicationProcess>

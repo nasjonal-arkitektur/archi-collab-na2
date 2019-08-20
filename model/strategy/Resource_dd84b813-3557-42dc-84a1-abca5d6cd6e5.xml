@@ -1,0 +1,28 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hybrid virkelighet"
+    id="dd84b813-3557-42dc-84a1-abca5d6cd6e5"
+    documentation="Hybrid virkelighet er sammenblanding av virkelige og&#xD;&#xA;virtuelle verdener, hvor fysiske og digitale objekter ser&#xD;&#xA;ut til å samhandle og integrere naturlig. Hybrid&#xD;&#xA;virkelighet kan deles inn i «virtuell virkelighet» og&#xD;&#xA;«blandet virkelighet». Virtuell virkelighet er en&#xD;&#xA;datateknologi som lar brukeren påvirke og bli påvirket&#xD;&#xA;av et dataskapt miljø som skal etterlikne en virkelighet.&#xD;&#xA;NAV har allerede eksperimentert med å gi ungdom&#xD;&#xA;innsikt i arbeidsoppgaver og jobber de aldri har tenkt på&#xD;&#xA;før (MEMU 2018). I «blandet virkelighet», kan man&#xD;&#xA;blande digital informasjon med det man hører eller ser,&#xD;&#xA;eksempelvis som i spillet Pokemon Go.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Hybrid virkelighet"/>
+  <properties
+      key="difi:description_no"
+      value="Hybrid virkelighet er sammenblanding av virkelige og&#xD;&#xA;virtuelle verdener, hvor fysiske og digitale objekter ser&#xD;&#xA;ut til å samhandle og integrere naturlig. Hybrid&#xD;&#xA;virkelighet kan deles inn i «virtuell virkelighet» og&#xD;&#xA;«blandet virkelighet». Virtuell virkelighet er en&#xD;&#xA;datateknologi som lar brukeren påvirke og bli påvirket&#xD;&#xA;av et dataskapt miljø som skal etterlikne en virkelighet.&#xD;&#xA;NAV har allerede eksperimentert med å gi ungdom&#xD;&#xA;innsikt i arbeidsoppgaver og jobber de aldri har tenkt på&#xD;&#xA;før (MEMU 2018). I «blandet virkelighet», kan man&#xD;&#xA;blande digital informasjon med det man hører eller ser,&#xD;&#xA;eksempelvis som i spillet Pokemon Go."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="resource"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Resource>

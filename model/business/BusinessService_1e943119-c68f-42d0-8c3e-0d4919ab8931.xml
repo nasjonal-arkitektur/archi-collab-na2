@@ -1,0 +1,28 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loggtjeneste"
+    id="1e943119-c68f-42d0-8c3e-0d4919ab8931"
+    documentation="EIRA: &#xD;&#xA;A Logging Service traces all events and user actions impacting a data entity throughout its lifecycle (from its creation to its disposal). It can be used to reproduce a certain state of a data entity at a certain moment in time. Logging = To record details of information or events in an organized record-keeping system, usually sequenced in the order in which they occurred.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Loggtjeneste"/>
+  <properties
+      key="difi:description_no"
+      value="EIRA: &#xD;&#xA;A Logging Service traces all events and user actions impacting a data entity throughout its lifecycle (from its creation to its disposal). It can be used to reproduce a certain state of a data entity at a certain moment in time. Logging = To record details of information or events in an organized record-keeping system, usually sequenced in the order in which they occurred."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-service"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessService>

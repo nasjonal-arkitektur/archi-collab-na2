@@ -1,0 +1,28 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Descriptive Metadata (eira:DescriptiveMetadata)"
+    id="c9c26b0d-1e6e-4ef4-9048-da3e69736a28"
+    documentation="eira:DescriptiveMetadata">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Descriptive Metadata (eira:DescriptiveMetadata)"/>
+  <properties
+      key="difi:description_no"
+      value="eira:DescriptiveMetadata"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="data-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:DataObject>

@@ -1,0 +1,43 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;Semantic Interoperability Specification>> DCAT-AP"
+    id="33258305-5023-43d5-a350-17ecc7b05182"
+    documentation="Semantic interoperability enables organisations to process information from external sources in a meaningful manner. It ensures that the precise meaning of exchanged information is understood and preserved throughout exchanges between parties. In the context of the EIF, semantic interoperability encompasses the following aspects:&#xD;&#xA;•&#x9;Semantic interoperability is about the meaning of data elements and the relationship between them. It includes developing vocabulary to describe data exchanges, and ensures that data elements are understood in the same way by communicating parties.&#xD;&#xA;•&#x9;Syntactic interoperability is about describing the exact format of the information to be exchanged in terms of grammar, format and schemas.&#xD;&#xA;Semantic interoperability specifications support semantic interoperability by addressing the core semantic interoperability background for solutions.&#xD;&#xA;&#xD;&#xA;Source: How does the EIRA© support interoperability?&#xD;&#xA;https://joinup.ec.europa.eu/sites/default/files/how_does_eira_support_interoperability_v1_0_0.pdf&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;United Nations Centre for Trade Facilitation and E-Business (UN/CEFACT) standard - International Plant Protection Convention (IPPC) SPSCertificate&#xD;&#xA;Specification of phytosanitary certificates. These certificates are issued to indicate that consignments of plants, plant products or other regulated articles meet specified phytosanitary import requirements and are in conformity with the certifying statement of the appropriate model certificate.&#xD;&#xA;http://ephyto.ippc.int/UN-CEFACT-schema/ &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB177"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:type"
+      value="eira:SemanticInteroperabilitySpecification"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="eira:identifier"
+      value="https://joinup.ec.europa.eu/asset/dcat_application_profile/description"/>
+  <properties
+      key="eira:url"
+      value="https://joinup.ec.europa.eu/asset/dcat_application_profile/description"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="&lt;&lt;Semantic Interoperability Specification>> DCAT-AP"/>
+  <properties
+      key="difi:description_no"
+      value="Semantic interoperability enables organisations to process information from external sources in a meaningful manner. It ensures that the precise meaning of exchanged information is understood and preserved throughout exchanges between parties. In the context of the EIF, semantic interoperability encompasses the following aspects:&#xD;&#xA;•&#x9;Semantic interoperability is about the meaning of data elements and the relationship between them. It includes developing vocabulary to describe data exchanges, and ensures that data elements are understood in the same way by communicating parties.&#xD;&#xA;•&#x9;Syntactic interoperability is about describing the exact format of the information to be exchanged in terms of grammar, format and schemas.&#xD;&#xA;Semantic interoperability specifications support semantic interoperability by addressing the core semantic interoperability background for solutions.&#xD;&#xA;&#xD;&#xA;Source: How does the EIRA© support interoperability?&#xD;&#xA;https://joinup.ec.europa.eu/sites/default/files/how_does_eira_support_interoperability_v1_0_0.pdf&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;United Nations Centre for Trade Facilitation and E-Business (UN/CEFACT) standard - International Plant Protection Convention (IPPC) SPSCertificate&#xD;&#xA;Specification of phytosanitary certificates. These certificates are issued to indicate that consignments of plants, plant products or other regulated articles meet specified phytosanitary import requirements and are in conformity with the certifying statement of the appropriate model certificate.&#xD;&#xA;http://ephyto.ippc.int/UN-CEFACT-schema/ &#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

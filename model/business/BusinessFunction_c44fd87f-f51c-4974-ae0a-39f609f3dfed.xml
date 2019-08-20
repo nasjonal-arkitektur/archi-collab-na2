@@ -1,0 +1,28 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilgjengelighet"
+    id="c44fd87f-f51c-4974-ae0a-39f609f3dfed"
+    documentation="Egenskap, ikke kapabilitet">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Tilgjengelighet"/>
+  <properties
+      key="difi:description_no"
+      value="Egenskap, ikke kapabilitet"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-function"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessFunction>

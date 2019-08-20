@@ -1,0 +1,19 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message Exchange"
+    id="4e4a6d11-269a-40b6-8850-4370015b6cad">
+  <properties
+      key="Name"
+      value="Message Exchange"/>
+  <properties
+      key="ID"
+      value="ABB12"/>
+  <properties
+      key="dct:type"
+      value="Business Capability"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"
+      value="03/06/2016"/>
+</archimate:BusinessFunction>

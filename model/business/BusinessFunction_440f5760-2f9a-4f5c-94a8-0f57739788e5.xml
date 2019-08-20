@@ -1,0 +1,28 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Styring av datatyper"
+    id="440f5760-2f9a-4f5c-94a8-0f57739788e5"
+    documentation="Styring av den informasjonen som flyter mellom partene.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Styring av datatyper"/>
+  <properties
+      key="difi:description_no"
+      value="Styring av den informasjonen som flyter mellom partene."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-function"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessFunction>

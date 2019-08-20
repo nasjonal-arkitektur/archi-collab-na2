@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DCAT-AP (EU)"
+    id="26e6eda6-fe50-453f-9f1d-4992905aa4e7"
+    documentation="EU sin profil av W3C sin DCAT, https://joinup.ec.europa.eu/release/dcat-ap/12">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="DCAT-AP (EU)"/>
+  <properties
+      key="difi:description_no"
+      value="EU sin profil av W3C sin DCAT, https://joinup.ec.europa.eu/release/dcat-ap/12"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+</archimate:BusinessObject>

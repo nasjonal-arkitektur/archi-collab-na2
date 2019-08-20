@@ -1,0 +1,31 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avgi forespurte data gjennom API"
+    id="f469884e-d708-4a8c-ae89-023ab65ce4d8"
+    documentation="Del av &quot;tilgjengeliggjøreing av data&quot;. Evene til å avgi data på forespørsel gjennom et egnet API. Kan omfatte tilgangsstyring.">
+  <properties
+      key="difi:namespace"
+      value="na1"/>
+  <properties
+      key="difi:name_no"
+      value="Avgi forespurte data gjennom API"/>
+  <properties
+      key="difi:description_no"
+      value="Del av &quot;tilgjengeliggjøreing av data&quot;. Evene til å avgi data på forespørsel gjennom et egnet API. Kan omfatte tilgangsstyring."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="drill down"
+      value="c993199e-3879-4f72-967d-4339159f6641"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

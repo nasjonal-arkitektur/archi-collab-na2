@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadatakatalog"
+    id="2902a704-51d3-4805-82c0-97c8c4c7a03d"
+    documentation="Oversikt, sporing/lineage, virtualisering, dekker også begreper, tjenester, API management">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:ApplicationComponent>

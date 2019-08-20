@@ -1,0 +1,28 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utredning om HTTPS som obligatorisk IT-standard "
+    id="5beab70c-3de4-44ca-ae3b-419f3999377b"
+    documentation="Difi skal utrede HTTPS som obligatorisk IT-standard i&#xD;&#xA;forvaltningen.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Utredning om HTTPS som obligatorisk IT-standard "/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal utrede HTTPS som obligatorisk IT-standard i&#xD;&#xA;forvaltningen.&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="deliverable"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Deliverable>

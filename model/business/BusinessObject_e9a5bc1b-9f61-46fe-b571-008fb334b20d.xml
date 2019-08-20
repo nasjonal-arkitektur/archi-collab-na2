@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Core Person Vocabulary (EU)"
+    id="e9a5bc1b-9f61-46fe-b571-008fb334b20d"
+    documentation="https://joinup.ec.europa.eu/solution/core-person-vocabulary">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Core Person Vocabulary (EU)"/>
+  <properties
+      key="difi:description_no"
+      value="https://joinup.ec.europa.eu/solution/core-person-vocabulary"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

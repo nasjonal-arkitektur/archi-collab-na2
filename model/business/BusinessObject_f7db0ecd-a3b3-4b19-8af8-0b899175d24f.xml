@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantic Interoperability Specification (eira:SemanticInteroperabilitySpecification)"
+    id="f7db0ecd-a3b3-4b19-8af8-0b899175d24f"
+    documentation="eira:SemanticInteroperabilitySpecification">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Semantic Interoperability Specification (eira:SemanticInteroperabilitySpecification)"/>
+  <properties
+      key="difi:description_no"
+      value="eira:SemanticInteroperabilitySpecification"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

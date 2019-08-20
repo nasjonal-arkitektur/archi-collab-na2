@@ -1,0 +1,29 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trust Establishment"
+    id="ca51f5b9-ec99-4fc5-b4b4-e5639283639d">
+  <properties
+      key="Name"
+      value="Trust Establishment"/>
+  <properties
+      key="ID"
+      value="ABB12"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessCapability"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="id"/>
+  <properties
+      key="owner"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="dct:modified"
+      value="13/06/2016"/>
+  <properties
+      key="eira:reusability"/>
+  <properties
+      key="eira:reuse_status"/>
+</archimate:BusinessFunction>

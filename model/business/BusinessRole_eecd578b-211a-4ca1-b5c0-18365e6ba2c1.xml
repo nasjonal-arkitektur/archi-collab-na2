@@ -1,0 +1,28 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API-management"
+    id="eecd578b-211a-4ca1-b5c0-18365e6ba2c1"
+    documentation="Erik: Dette er vel ikke en rolle? Det er en funksjon eller capability!?&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="brreg"/>
+  <properties
+      key="difi:name_no"
+      value="API-management [ns:API-katalogen]"/>
+  <properties
+      key="difi:description_no"
+      value="Erik: Dette er vel ikke en rolle? Det er en funksjon eller capability!?&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-role"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessRole>

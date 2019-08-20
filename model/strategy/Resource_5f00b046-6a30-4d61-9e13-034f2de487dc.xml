@@ -1,0 +1,28 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital tvilling"
+    id="5f00b046-6a30-4d61-9e13-034f2de487dc"
+    documentation="Digital tvilling er en digital representasjon av et fysisk&#xD;&#xA;objekt. Det kan for eksempel være en visuell fremstilling&#xD;&#xA;av et bygg eller en motor ved hjelp av&#xD;&#xA;konstruksjonstegninger, historikk om vedlikehold og&#xD;&#xA;sensorer. En digital representasjon av en organisasjon&#xD;&#xA;kan brukes for å kunne forutse effekter av&#xD;&#xA;organisatoriske endringer og identifisere&#xD;&#xA;prosessendringer.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Digital tvilling"/>
+  <properties
+      key="difi:description_no"
+      value="Digital tvilling er en digital representasjon av et fysisk&#xD;&#xA;objekt. Det kan for eksempel være en visuell fremstilling&#xD;&#xA;av et bygg eller en motor ved hjelp av&#xD;&#xA;konstruksjonstegninger, historikk om vedlikehold og&#xD;&#xA;sensorer. En digital representasjon av en organisasjon&#xD;&#xA;kan brukes for å kunne forutse effekter av&#xD;&#xA;organisatoriske endringer og identifisere&#xD;&#xA;prosessendringer."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="resource"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Resource>

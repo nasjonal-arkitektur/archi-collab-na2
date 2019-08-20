@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Qualified Electronic Signature (QES)"
+    id="fe137a47-6bfb-46be-a16e-c3c7a319b572"
+    documentation="While different levels of electronic signatures may be appropriate in different contexts, only qualified electronic signatures are explicitly recognized to have the equivalent legal effect of hand-written signatures all over the EU.">
+  <properties
+      key="dct:type"
+      value="business-object"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Qualified Electronic Signature (QES)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="A qualified electronic signature (eIDAS Article 3) is an advanced electronic signature which is additionally:"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

@@ -1,0 +1,28 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pådriver"
+    id="c381b917-728e-4807-b5e1-af7fe4fd8e8e"
+    documentation="Difi skal ha en sentral rolle som premissgiver og pådriver for en tverrgående, samordnet og effektiv digitalisering av offentlig sektor.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Pådriver"/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal ha en sentral rolle som premissgiver og pådriver for en tverrgående, samordnet og effektiv digitalisering av offentlig sektor."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-role"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessRole>

@@ -1,0 +1,19 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backend Integration"
+    id="b61c62db-c0ae-49ef-bf05-ea1c2498d2ba">
+  <properties
+      key="Name"
+      value="Backend Integration"/>
+  <properties
+      key="ID"
+      value="ABB12"/>
+  <properties
+      key="dct:type"
+      value="Business Capability"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"
+      value="03/06/2016"/>
+</archimate:BusinessFunction>

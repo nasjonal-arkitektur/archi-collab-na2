@@ -1,0 +1,28 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rådgivning om arbeidsrettslige omstillinger"
+    id="ae71985a-594a-49e6-a323-2d3fb486d68d"
+    documentation="Arbeidsgiverstøtten skal videreutvikles, basert på behov og tilbakemeldinger fra virksomhetene. Rådgivning om arbeidsrettslige omstillinger er særskilt etterspurt">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Rådgivning om arbeidsrettslige omstillinger"/>
+  <properties
+      key="difi:description_no"
+      value="Arbeidsgiverstøtten skal videreutvikles, basert på behov og tilbakemeldinger fra virksomhetene. Rådgivning om arbeidsrettslige omstillinger er særskilt etterspurt"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="deliverable"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Deliverable>

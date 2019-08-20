@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="2b83afbd-66cb-4dd7-bc30-a2e909e3d3c3"
+    documentation="For tracking the technical inventory of data (persistent, virtual, and in motion), the business meaning of the data, the business rules for transforming the data, and the operational history and lineage of the data">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_a7a6a352-6ab5-4cb0-a223-26768ba3ce86.xml#a7a6a352-6ab5-4cb0-a223-26768ba3ce86"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_01d83735-595d-4f7b-8b29-594326bee620.xml#01d83735-595d-4f7b-8b29-594326bee620"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,28 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Støtte virksomhetene i regjeringens inkluderingsdugnad"
+    id="4223382b-c8a6-4fba-ac81-8cf6fd85902c"
+    documentation="Difi skal ha hovedansvar for å støtte virksomhetene i arbeidet med regjeringens inkluderingsdugnad.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Støtte virksomhetene i regjeringens inkluderingsdugnad"/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal ha hovedansvar for å støtte virksomhetene i arbeidet med regjeringens inkluderingsdugnad."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="work-package"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:WorkPackage>

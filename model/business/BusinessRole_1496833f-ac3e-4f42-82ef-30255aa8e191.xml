@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mottaker"
+    id="1496833f-ac3e-4f42-82ef-30255aa8e191">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:BusinessRole>

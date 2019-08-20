@@ -1,0 +1,14 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="0dc8e501-bb03-4eb7-8bb7-7c6f671431b2">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_bcc81718-0dee-4125-9bee-299aa6f231a1.xml#bcc81718-0dee-4125-9bee-299aa6f231a1"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_f621e384-f74a-48e1-913a-f741bdfb9dcf.xml#f621e384-f74a-48e1-913a-f741bdfb9dcf"/>
+</archimate:FlowRelationship>

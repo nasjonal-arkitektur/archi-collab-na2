@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="#Katalog"
+    id="0e523d0f-b3db-4110-b3e0-b733d97a6bf1">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:ApplicationComponent>

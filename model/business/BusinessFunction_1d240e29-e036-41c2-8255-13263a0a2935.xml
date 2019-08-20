@@ -1,0 +1,19 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capability Lookup"
+    id="1d240e29-e036-41c2-8255-13263a0a2935">
+  <properties
+      key="Name"
+      value="Capability Lookup"/>
+  <properties
+      key="ID"
+      value="ABB12"/>
+  <properties
+      key="dct:type"
+      value="Business Capability"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"
+      value="03/06/2016"/>
+</archimate:BusinessFunction>

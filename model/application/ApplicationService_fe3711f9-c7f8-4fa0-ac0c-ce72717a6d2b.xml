@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataakksesstjeneste"
+    id="fe3711f9-c7f8-4fa0-ac0c-ce72717a6d2b">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+  <properties
+      key="label"
+      value="Dataakksess-\ntjeneste"/>
+</archimate:ApplicationService>

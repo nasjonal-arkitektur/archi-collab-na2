@@ -1,0 +1,28 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kunstig intelligens"
+    id="7e534021-44ee-49da-9468-05969e03981a"
+    documentation="Kunstig intelligens er betegnelsen på IT-teknologi&#xD;&#xA;som muliggjør at maskiner lærer fra erfaringer, finner&#xD;&#xA;mønster som ikke var kjent før, tilpasser seg nye&#xD;&#xA;situasjoner og utfører oppgaver vi normalt tenker er&#xD;&#xA;forbeholdt mennesker. Slik teknologi endrer livene&#xD;&#xA;våre, eksempelvis kan du snakke med mobiltelefonen,&#xD;&#xA;oversette språk, gjenkjenne ansikter, la bilen kjøre&#xD;&#xA;selv. Denne muliggjørende teknologien gjør også at&#xD;&#xA;maskiner både kan gi råd og ta selvstendige&#xD;&#xA;beslutninger. Kunstig intelligens kan også brukes til å&#xD;&#xA;diagnostisere sykdommer, og den kan bidra til at man&#xD;&#xA;kan produsere">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kunstig intelligens"/>
+  <properties
+      key="difi:description_no"
+      value="Kunstig intelligens er betegnelsen på IT-teknologi&#xD;&#xA;som muliggjør at maskiner lærer fra erfaringer, finner&#xD;&#xA;mønster som ikke var kjent før, tilpasser seg nye&#xD;&#xA;situasjoner og utfører oppgaver vi normalt tenker er&#xD;&#xA;forbeholdt mennesker. Slik teknologi endrer livene&#xD;&#xA;våre, eksempelvis kan du snakke med mobiltelefonen,&#xD;&#xA;oversette språk, gjenkjenne ansikter, la bilen kjøre&#xD;&#xA;selv. Denne muliggjørende teknologien gjør også at&#xD;&#xA;maskiner både kan gi råd og ta selvstendige&#xD;&#xA;beslutninger. Kunstig intelligens kan også brukes til å&#xD;&#xA;diagnostisere sykdommer, og den kan bidra til at man&#xD;&#xA;kan produsere"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="resource"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Resource>

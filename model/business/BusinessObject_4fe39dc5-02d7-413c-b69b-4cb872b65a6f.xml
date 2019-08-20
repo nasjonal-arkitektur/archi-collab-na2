@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identifier Scheme (eira:IdentifierScheme)"
+    id="4fe39dc5-02d7-413c-b69b-4cb872b65a6f"
+    documentation="eira:IdentifierScheme">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Identifier Scheme (eira:IdentifierScheme)"/>
+  <properties
+      key="difi:description_no"
+      value="eira:IdentifierScheme"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

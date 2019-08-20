@@ -1,0 +1,26 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="9. Garantert leveranse av informasjon til annen kjent part. Avsender skal være trygg på at mottager får informasjonen. Mottager behøver informasjonen umiddelbart.  (copy)"
+    id="d510f804-1f3e-4f4a-b82f-cd52a3fe8da4">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="9. Garantert leveranse av informasjon til annen kjent part. Avsender skal være trygg på at mottager får informasjonen. Mottager behøver informasjonen umiddelbart. "/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-collaboration"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessCollaboration>

@@ -1,0 +1,34 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="støtter"
+    id="33b507ba-9b17-43c0-a100-e349d0b8d0d8">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="støtter"/>
+  <properties
+      key="difi:name_en"
+      value="serves"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value=" "/>
+  <properties
+      key="dct:type"
+      value="archi:serving-relationship"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_fe2f18ef-eb3b-46ef-a872-87777e041152.xml#fe2f18ef-eb3b-46ef-a872-87777e041152"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_ec722c69-eb47-47fe-a8a6-b718adc6d956.xml#ec722c69-eb47-47fe-a8a6-b718adc6d956"/>
+</archimate:ServingRelationship>

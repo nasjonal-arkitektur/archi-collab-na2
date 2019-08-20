@@ -1,0 +1,28 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reference Data (eira:ReferenceData)"
+    id="426e6ead-bfd2-4265-8f65-10d66ea9cb9a"
+    documentation="eira:ReferenceData">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Reference Data (eira:ReferenceData)"/>
+  <properties
+      key="difi:description_no"
+      value="eira:ReferenceData"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="data-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:DataObject>

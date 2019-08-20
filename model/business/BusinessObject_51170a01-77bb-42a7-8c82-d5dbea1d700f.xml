@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standard for begrepskoordinering"
+    id="51170a01-77bb-42a7-8c82-d5dbea1d700f"
+    documentation="Anbefalt forvaltningsstandard i Referansekatalogen. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/standarder/standard-begrepskoordinering&#xD;&#xA;&#xD;&#xA;Status per 2019-01-01: under revisjon, planlagt ferdig revidert innen utgangen av 2019. ">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Standard for begrepskoordinering"/>
+  <properties
+      key="difi:description_no"
+      value="Anbefalt forvaltningsstandard i Referansekatalogen. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/standarder/standard-begrepskoordinering&#xD;&#xA;&#xD;&#xA;Status per 2019-01-01: under revisjon, planlagt ferdig revidert innen utgangen av 2019. "/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

@@ -1,0 +1,28 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Premissgiver"
+    id="ac1d9919-ebe0-4946-b7cd-36c410ad77c2"
+    documentation="Difi skal ha en sentral rolle som premissgiver og pådriver for en tverrgående, samordnet og effektiv digitalisering av offentlig sektor.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Premissgiver"/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal ha en sentral rolle som premissgiver og pådriver for en tverrgående, samordnet og effektiv digitalisering av offentlig sektor."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-role"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessRole>

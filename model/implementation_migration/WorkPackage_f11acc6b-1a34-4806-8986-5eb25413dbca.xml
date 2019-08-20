@@ -1,0 +1,28 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Videreutvikling av arbeidsgiverstøtten"
+    id="f11acc6b-1a34-4806-8986-5eb25413dbca"
+    documentation="Arbeidsgiverstøtten skal videreutvikles">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Videreutvikling av arbeidsgiverstøtten"/>
+  <properties
+      key="difi:description_no"
+      value="Arbeidsgiverstøtten skal videreutvikles"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="work-package"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:WorkPackage>

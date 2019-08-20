@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="#Brukerrolle"
+    id="7dffffb8-5b40-4d50-b31f-aa4734c45650">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:BusinessRole>

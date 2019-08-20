@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TBX (ISO)"
+    id="0a6efec4-f040-4aed-9cbc-2d7c4e0462ed"
+    documentation="ISO TBX: http://www.standard.no/no/Nettbutikk/produktkatalogen/Produktpresentasjon/?ProductID=358786&#xD;&#xA;&#xD;&#xA;Status 2019-02-01: Under revisjon, like før ferdigstilling fra ISO.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="TBX (ISO)"/>
+  <properties
+      key="difi:description_no"
+      value="ISO TBX: http://www.standard.no/no/Nettbutikk/produktkatalogen/Produktpresentasjon/?ProductID=358786&#xD;&#xA;&#xD;&#xA;Status 2019-02-01: Under revisjon, like før ferdigstilling fra ISO."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+</archimate:BusinessObject>

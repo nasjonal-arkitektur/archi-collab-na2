@@ -1,0 +1,39 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;Implementing Guideline>> Felles IKT-arkitekturprinsipper"
+    id="842aa2f2-3775-45b0-b400-7f4e89114e3c"
+    documentation="General rules, principles, or pieces of advice to put a public policy into effect.&#xD;&#xA;&#xD;&#xA;Based on the Oxford Dictionary&#xD;&#xA;https://en.oxforddictionaries.com/definition/guideline &#xD;&#xA;&#xD;&#xA;Syn. Recommendations and Standards&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;European Code of Good Conduct for microcredit provision&#xD;&#xA;This European Code of Good Conduct for microcredit provision, published by the European Commission in October 2011, provides recommendations and standards that should foster best practice in the microcredit sector. It is intended to provide guidance for microcredit providers from the point of view of consumers, investors, funders and regulators.&#xD;&#xA;http://ec.europa.eu/regional_policy/en/information/publications/brochures/2011/european-code-of-good-conduct-for-microcredit-provision &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB117_SBB1542630671897"/>
+  <properties
+      key="dct:type"
+      value="eira:ImplementingGuideline"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"
+      value="19/11/2018"/>
+  <properties
+      key="eira:synonym"
+      value="Recommendations and Standards"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="&lt;&lt;Implementing Guideline>> Felles IKT-arkitekturprinsipper"/>
+  <properties
+      key="difi:description_no"
+      value="General rules, principles, or pieces of advice to put a public policy into effect.&#xD;&#xA;&#xD;&#xA;Based on the Oxford Dictionary&#xD;&#xA;https://en.oxforddictionaries.com/definition/guideline &#xD;&#xA;&#xD;&#xA;Syn. Recommendations and Standards&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;European Code of Good Conduct for microcredit provision&#xD;&#xA;This European Code of Good Conduct for microcredit provision, published by the European Commission in October 2011, provides recommendations and standards that should foster best practice in the microcredit sector. It is intended to provide guidance for microcredit providers from the point of view of consumers, investors, funders and regulators.&#xD;&#xA;http://ec.europa.eu/regional_policy/en/information/publications/brochures/2011/european-code-of-good-conduct-for-microcredit-provision &#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>

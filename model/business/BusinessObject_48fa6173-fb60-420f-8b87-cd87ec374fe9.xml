@@ -1,0 +1,28 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forvaltningsstandard for begrepsbeskrivelser"
+    id="48fa6173-fb60-420f-8b87-cd87ec374fe9"
+    documentation="Anbefalt forvaltningsstandard i Referansekatalogen. https://doc.difi.no/data/forvaltningsstandard-begrepsbeskrivelser/">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Forvaltningsstandard for begrepsbeskrivelser"/>
+  <properties
+      key="difi:description_no"
+      value="Anbefalt forvaltningsstandard i Referansekatalogen. https://doc.difi.no/data/forvaltningsstandard-begrepsbeskrivelser/"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+</archimate:BusinessObject>
