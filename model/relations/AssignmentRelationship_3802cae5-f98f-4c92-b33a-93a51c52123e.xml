@@ -22,7 +22,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <source
       xsi:type="archimate:BusinessInterface"
       href="BusinessInterface_e490448b-0aa7-4621-870b-8332132e0c22.xml#e490448b-0aa7-4621-870b-8332132e0c22"/>

@@ -22,7 +22,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_687e68a1-f92f-4f7d-8009-625afff99197.xml#687e68a1-f92f-4f7d-8009-625afff99197"/>

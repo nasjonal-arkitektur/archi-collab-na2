@@ -22,7 +22,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_58f8a20b-66cc-4f6c-ba1f-62f5f3341e88.xml#58f8a20b-66cc-4f6c-ba1f-62f5f3341e88"/>
