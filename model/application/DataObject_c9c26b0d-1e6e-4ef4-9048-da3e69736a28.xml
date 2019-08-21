@@ -17,12 +17,12 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="dct:type"
-      value="data-object"/>
-  <properties
       key="difi:language"
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
 </archimate:DataObject>

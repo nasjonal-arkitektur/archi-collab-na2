@@ -3,9 +3,6 @@
     name="'Simple' Electronic Signature"
     id="65b6137e-1b83-4454-b3e1-a6a21658ba6f">
   <properties
-      key="dct:type"
-      value="business-object"/>
-  <properties
       key="difi:namespace"
       value="-"/>
   <properties
@@ -22,5 +19,8 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
 </archimate:BusinessObject>

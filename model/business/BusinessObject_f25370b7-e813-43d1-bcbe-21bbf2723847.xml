@@ -4,9 +4,6 @@
     id="f25370b7-e813-43d1-bcbe-21bbf2723847"
     documentation="What is an electronic signature? https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Introduction+to+e-signature&#xD;&#xA;">
   <properties
-      key="dct:type"
-      value="business-object"/>
-  <properties
       key="difi:namespace"
       value="-"/>
   <properties
@@ -24,5 +21,8 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
 </archimate:BusinessObject>
