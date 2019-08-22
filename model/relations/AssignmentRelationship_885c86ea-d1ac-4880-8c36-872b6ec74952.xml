@@ -22,7 +22,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <source
       xsi:type="archimate:TechnologyInterface"
       href="TechnologyInterface_12556677-f6e9-4e60-8e8f-936a2c213b13.xml#12556677-f6e9-4e60-8e8f-936a2c213b13"/>

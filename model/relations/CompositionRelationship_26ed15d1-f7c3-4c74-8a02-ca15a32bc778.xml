@@ -1,7 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="composition"
+    name="har"
     id="26ed15d1-f7c3-4c74-8a02-ca15a32bc778">
   <properties
       key="dct:type"

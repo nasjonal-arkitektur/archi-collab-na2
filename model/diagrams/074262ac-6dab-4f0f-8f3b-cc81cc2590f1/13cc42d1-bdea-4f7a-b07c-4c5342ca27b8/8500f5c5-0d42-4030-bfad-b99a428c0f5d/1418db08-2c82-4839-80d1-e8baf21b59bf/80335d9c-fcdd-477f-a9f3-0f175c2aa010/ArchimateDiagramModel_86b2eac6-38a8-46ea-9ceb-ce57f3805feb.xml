@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Used EIRA concpts"
+    id="86b2eac6-38a8-46ea-9ceb-ce57f3805feb">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="bb0990d5-ca76-444c-85f2-fb14a393ad43"
+      fillColor="#71bfd2">
+    <bounds
+        x="120"
+        y="108"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_61f29d88-8878-4674-aeec-d8062bd684c4.xml#61f29d88-8878-4674-aeec-d8062bd684c4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6b68e186-da85-492d-aabd-c3ce4be7123e">
+    <bounds
+        x="324"
+        y="108"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_eb68c8ca-f2d3-4bab-a04e-e662fcf737cf.xml#eb68c8ca-f2d3-4bab-a04e-e662fcf737cf"/>
+  </children>
+</archimate:ArchimateDiagramModel>

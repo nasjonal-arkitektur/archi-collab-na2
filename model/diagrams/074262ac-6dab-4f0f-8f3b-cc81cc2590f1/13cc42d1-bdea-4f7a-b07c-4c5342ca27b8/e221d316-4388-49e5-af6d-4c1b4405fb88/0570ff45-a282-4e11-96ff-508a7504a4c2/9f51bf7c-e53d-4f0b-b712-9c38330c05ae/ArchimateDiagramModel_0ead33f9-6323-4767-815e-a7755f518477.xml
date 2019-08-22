@@ -22,17 +22,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="c347ddc3-1788-4775-9746-168e9c87bd15"
-      targetConnections="bbd3589c-6049-43e1-b280-f0077cb362de f446415a-954e-4df2-ac9d-ec94a2b1a00c">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="50e39922-3642-4279-9484-9d581884eef0"
-        source="c347ddc3-1788-4775-9746-168e9c87bd15"
-        target="6818823b-166f-47bf-9a9b-c7b5e6bfc145">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_244393e2-1f55-4408-abca-e6c2b7330d52.xml#244393e2-1f55-4408-abca-e6c2b7330d52"/>
-    </sourceConnections>
+      id="c347ddc3-1788-4775-9746-168e9c87bd15">
     <bounds
         x="60"
         y="216"
@@ -84,47 +74,47 @@
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="bbd3589c-6049-43e1-b280-f0077cb362de"
-        textPosition="0"
-        source="1f33d652-22f7-4c59-993e-2967b5ce5f70"
-        target="c347ddc3-1788-4775-9746-168e9c87bd15">
-      <bendpoints
-          startX="-6"
-          startY="75"
-          endX="114"
-          endY="-69"/>
-      <bendpoints
-          startX="-126"
-          startY="75"
-          endX="-6"
-          endY="-69"/>
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_d9542c0b-bc64-47a4-85d9-59cf8ecd93bb.xml#d9542c0b-bc64-47a4-85d9-59cf8ecd93bb"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="adacb7e9-958b-4fee-b1a6-fdeb6edad362"
         textPosition="0"
         source="1f33d652-22f7-4c59-993e-2967b5ce5f70"
         target="86f8d2ac-490d-4245-bc73-ed55e1d8af36">
       <bendpoints
           startX="-6"
-          startY="75"
+          startY="87"
           endX="-114"
-          endY="-57"/>
+          endY="-69"/>
       <bendpoints
-          startX="114"
-          startY="75"
-          endX="6"
-          endY="-57"/>
+          startX="102"
+          startY="87"
+          endX="-6"
+          endY="-69"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_06ccea52-89ff-4c20-8643-45b33fd6f661.xml#06ccea52-89ff-4c20-8643-45b33fd6f661"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="bbd3589c-6049-43e1-b280-f0077cb362de"
+        textPosition="0"
+        source="1f33d652-22f7-4c59-993e-2967b5ce5f70"
+        target="6818823b-166f-47bf-9a9b-c7b5e6bfc145">
+      <bendpoints
+          startX="-6"
+          startY="87"
+          endX="102"
+          endY="-69"/>
+      <bendpoints
+          startX="-114"
+          startY="87"
+          endX="-6"
+          endY="-69"/>
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_d9542c0b-bc64-47a4-85d9-59cf8ecd93bb.xml#d9542c0b-bc64-47a4-85d9-59cf8ecd93bb"/>
+    </sourceConnections>
     <bounds
         x="180"
-        y="72"
+        y="48"
         width="133"
         height="67"/>
     <archimateElement
@@ -134,16 +124,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6818823b-166f-47bf-9a9b-c7b5e6bfc145"
-      targetConnections="50e39922-3642-4279-9484-9d581884eef0 1d2a88d5-10aa-4368-b8c4-2b9d8808f2f3">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="f446415a-954e-4df2-ac9d-ec94a2b1a00c"
-        source="6818823b-166f-47bf-9a9b-c7b5e6bfc145"
-        target="c347ddc3-1788-4775-9746-168e9c87bd15">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_244393e2-1f55-4408-abca-e6c2b7330d52.xml#244393e2-1f55-4408-abca-e6c2b7330d52"/>
-    </sourceConnections>
+      targetConnections="1d2a88d5-10aa-4368-b8c4-2b9d8808f2f3 bbd3589c-6049-43e1-b280-f0077cb362de">
     <bounds
         x="72"
         y="204"
