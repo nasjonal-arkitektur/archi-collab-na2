@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tillitstjenester"
+    name="s.Tillitstjenester"
     id="fcaae8f3-c06c-423c-be0b-9b4325972f9b"
     documentation="Se til Trust services i EU&#xD;&#xA;eSignature: Electronic signatures deliver a way to sign documents in the online world, much like one signs a document with a pen in the offline world.&#xD;&#xA;Time stamping: The date and time on an electronic document which proves that the document existed at a point-in-time and that it has not changed since then&#xD;&#xA;Electronic seal: The electronic equivalent of a seal or stamp which is applied on a document to guarantee its origin and integrity&#xD;&#xA;Electronic delivery: A service that, to a certain extent, is the equivalent in the digital world of registered mail in the physical world&#xD;&#xA;Legal admissibility of electronic documents to ensure their authenticity and integrity&#xD;&#xA;Website authentication: Trusted information on a website (e.g. a certificate) which allows users to verify the authenticity of the website and its link to the entity/person owning the website"/>
