@@ -22,4 +22,7 @@
   <properties
       key="difi:namespace"
       value="eira"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
 </archimate:DataObject>

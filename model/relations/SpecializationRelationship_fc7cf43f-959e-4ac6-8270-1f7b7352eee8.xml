@@ -23,7 +23,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_6f040108-656c-4b62-aadf-2afd2b390877.xml#6f040108-656c-4b62-aadf-2afd2b390877"/>

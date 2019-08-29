@@ -1,10 +1,10 @@
-<archimate:BusinessFunction
+<archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Capability Lookup"
-    id="1d240e29-e036-41c2-8255-13263a0a2935">
+    name="Message Exchange"
+    id="0f228b65-0adc-41b0-aa50-94cb5fae803f">
   <properties
       key="Name"
-      value="Capability Lookup"/>
+      value="Message Exchange"/>
   <properties
       key="ID"
       value="ABB12"/>
@@ -16,4 +16,4 @@
   <properties
       key="dct:modified"
       value="03/06/2016"/>
-</archimate:BusinessFunction>
+</archimate:ApplicationFunction>

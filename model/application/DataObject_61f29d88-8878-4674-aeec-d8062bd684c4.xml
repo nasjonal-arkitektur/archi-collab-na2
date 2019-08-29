@@ -38,5 +38,5 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
 </archimate:DataObject>

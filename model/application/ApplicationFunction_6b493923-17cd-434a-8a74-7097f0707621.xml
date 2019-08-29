@@ -1,7 +1,7 @@
-<archimate:BusinessFunction
+<archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service Location"
-    id="fb293516-f676-4de5-b8b6-5a20bcfb75ca">
+    id="6b493923-17cd-434a-8a74-7097f0707621">
   <properties
       key="Name"
       value="Service Location"/>
@@ -16,4 +16,4 @@
   <properties
       key="dct:modified"
       value="03/06/2016"/>
-</archimate:BusinessFunction>
+</archimate:ApplicationFunction>

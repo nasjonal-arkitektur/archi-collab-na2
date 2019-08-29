@@ -1,10 +1,11 @@
-<archimate:BusinessFunction
+<archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Message Exchange"
-    id="4e4a6d11-269a-40b6-8850-4370015b6cad">
+    name="Backend Integration"
+    id="e228667b-24d2-4e8a-ba41-7a2591692b0f"
+    documentation="erik: Sløyf denne, men ta det med i den generelle beskrivelsen av mønsteret">
   <properties
       key="Name"
-      value="Message Exchange"/>
+      value="Backend Integration"/>
   <properties
       key="ID"
       value="ABB12"/>
@@ -16,4 +17,4 @@
   <properties
       key="dct:modified"
       value="03/06/2016"/>
-</archimate:BusinessFunction>
+</archimate:ApplicationFunction>
