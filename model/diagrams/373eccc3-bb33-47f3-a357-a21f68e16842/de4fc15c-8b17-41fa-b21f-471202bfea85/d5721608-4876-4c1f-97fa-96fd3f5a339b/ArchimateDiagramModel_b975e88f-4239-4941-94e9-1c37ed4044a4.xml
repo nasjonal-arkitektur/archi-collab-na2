@@ -85,8 +85,8 @@
         width="120"
         height="73"/>
     <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_2eff3dca-4848-4731-bb1f-3a32cf8b348b.xml#2eff3dca-4848-4731-bb1f-3a32cf8b348b"/>
+        xsi:type="archimate:Capability"
+        href="Capability_d22b615c-510e-47ee-8c3a-429d4017a373.xml#d22b615c-510e-47ee-8c3a-429d4017a373"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -115,8 +115,8 @@
         width="120"
         height="73"/>
     <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_e228667b-24d2-4e8a-ba41-7a2591692b0f.xml#e228667b-24d2-4e8a-ba41-7a2591692b0f"/>
+        xsi:type="archimate:Capability"
+        href="Capability_97f0e07a-0cea-4500-99cb-8fa3b2745ded.xml#97f0e07a-0cea-4500-99cb-8fa3b2745ded"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -145,8 +145,8 @@
         width="120"
         height="73"/>
     <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_0f228b65-0adc-41b0-aa50-94cb5fae803f.xml#0f228b65-0adc-41b0-aa50-94cb5fae803f"/>
+        xsi:type="archimate:Capability"
+        href="Capability_9c4794c5-99ca-4592-9b52-c98d28762606.xml#9c4794c5-99ca-4592-9b52-c98d28762606"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -166,8 +166,8 @@
         width="120"
         height="73"/>
     <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_6b493923-17cd-434a-8a74-7097f0707621.xml#6b493923-17cd-434a-8a74-7097f0707621"/>
+        xsi:type="archimate:Capability"
+        href="Capability_387e7bb5-491f-4a79-94d9-1670732e1381.xml#387e7bb5-491f-4a79-94d9-1670732e1381"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -187,8 +187,8 @@
         width="120"
         height="73"/>
     <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_19e5d8c3-31de-4341-a291-87529a861c79.xml#19e5d8c3-31de-4341-a291-87529a861c79"/>
+        xsi:type="archimate:Capability"
+        href="Capability_26531306-5f33-4f63-a170-509bb28aba52.xml#26531306-5f33-4f63-a170-509bb28aba52"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

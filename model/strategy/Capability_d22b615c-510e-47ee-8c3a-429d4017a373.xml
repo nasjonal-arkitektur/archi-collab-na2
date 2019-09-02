@@ -1,7 +1,7 @@
-<archimate:ApplicationFunction
+<archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Trust Establishment"
-    id="2eff3dca-4848-4731-bb1f-3a32cf8b348b">
+    id="d22b615c-510e-47ee-8c3a-429d4017a373">
   <properties
       key="Name"
       value="Trust Establishment"/>
@@ -26,4 +26,4 @@
       key="eira:reusability"/>
   <properties
       key="eira:reuse_status"/>
-</archimate:ApplicationFunction>
+</archimate:Capability>

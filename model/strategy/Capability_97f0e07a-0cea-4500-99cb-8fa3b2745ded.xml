@@ -1,10 +1,11 @@
-<archimate:ApplicationFunction
+<archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Location"
-    id="6b493923-17cd-434a-8a74-7097f0707621">
+    name="Backend Integration"
+    id="97f0e07a-0cea-4500-99cb-8fa3b2745ded"
+    documentation="erik: Sløyf denne, men ta det med i den generelle beskrivelsen av mønsteret">
   <properties
       key="Name"
-      value="Service Location"/>
+      value="Backend Integration"/>
   <properties
       key="ID"
       value="ABB12"/>
@@ -16,4 +17,4 @@
   <properties
       key="dct:modified"
       value="03/06/2016"/>
-</archimate:ApplicationFunction>
+</archimate:Capability>

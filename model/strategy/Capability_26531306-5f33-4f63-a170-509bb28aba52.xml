@@ -1,11 +1,10 @@
-<archimate:ApplicationFunction
+<archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Backend Integration"
-    id="e228667b-24d2-4e8a-ba41-7a2591692b0f"
-    documentation="erik: Sløyf denne, men ta det med i den generelle beskrivelsen av mønsteret">
+    name="Capability Lookup"
+    id="26531306-5f33-4f63-a170-509bb28aba52">
   <properties
       key="Name"
-      value="Backend Integration"/>
+      value="Capability Lookup"/>
   <properties
       key="ID"
       value="ABB12"/>
@@ -17,4 +16,4 @@
   <properties
       key="dct:modified"
       value="03/06/2016"/>
-</archimate:ApplicationFunction>
+</archimate:Capability>
