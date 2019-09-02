@@ -8,8 +8,8 @@
       id="8bab1789-a784-473c-bfda-baacd65fec5b"
       targetConnections="e6bcc6b4-0053-49e9-b4b3-1b5a06bbe252 118bb7b1-c190-45ee-ba50-037ff1ee5c02 c836c546-9bf2-4da7-b3f1-8b5d2c6ba92a">
     <bounds
-        x="360"
-        y="84"
+        x="444"
+        y="72"
         width="130"
         height="60"/>
     <archimateElement
@@ -51,7 +51,7 @@
           href="SpecializationRelationship_af30492e-19f2-4225-a1d8-008b5cd32506.xml#af30492e-19f2-4225-a1d8-008b5cd32506"/>
     </sourceConnections>
     <bounds
-        x="384"
+        x="420"
         y="241"
         width="130"
         height="60"/>
@@ -116,7 +116,7 @@
           href="SpecializationRelationship_6311c22a-a6a6-4c8c-a567-5aefddb0eb0c.xml#6311c22a-a6a6-4c8c-a567-5aefddb0eb0c"/>
     </sourceConnections>
     <bounds
-        x="660"
+        x="630"
         y="241"
         width="130"
         height="60"/>

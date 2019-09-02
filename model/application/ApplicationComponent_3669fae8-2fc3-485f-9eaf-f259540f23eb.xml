@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service metadata provider (SMP)"
+    id="3669fae8-2fc3-485f-9eaf-f259540f23eb"
+    documentation="SMP gir ved oppslag ut informasjon om hvorvidt en organisasjon er registrert i SMP-en, hvilke dokumenter en organisasjon kan motta og hvilket aksespsunkt som skal benyttet for hvilket dokument."/>
