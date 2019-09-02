@@ -22,7 +22,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_eca8a6d2-0806-4a8e-b3f8-08b1c617fa2b.xml#eca8a6d2-0806-4a8e-b3f8-08b1c617fa2b"/>

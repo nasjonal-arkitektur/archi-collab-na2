@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Component SBB"
+    id="b2b054ea-fdc2-46cd-8821-f2fd0cb57d9f">
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:ApplicationComponent>

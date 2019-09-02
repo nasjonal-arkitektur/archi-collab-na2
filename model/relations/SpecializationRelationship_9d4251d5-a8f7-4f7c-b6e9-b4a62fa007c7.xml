@@ -22,7 +22,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
   <source
       xsi:type="archimate:Product"
       href="Product_067d1573-34ec-4993-8b4e-c0ce14f79cb6.xml#067d1573-34ec-4993-8b4e-c0ce14f79cb6"/>
