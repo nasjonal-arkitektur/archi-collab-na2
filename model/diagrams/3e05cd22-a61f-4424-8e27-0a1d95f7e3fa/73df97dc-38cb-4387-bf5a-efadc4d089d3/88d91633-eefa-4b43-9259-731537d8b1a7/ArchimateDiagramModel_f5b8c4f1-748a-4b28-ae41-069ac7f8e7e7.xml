@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aktørkatalog"
+    id="f5b8c4f1-748a-4b28-ae41-069ac7f8e7e7">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="339d5bd4-5dab-4005-8c1c-bd5041dca6cc">
+    <bounds
+        x="69"
+        y="95"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_024f1329-47ed-4423-ab37-c99ace152414.xml#024f1329-47ed-4423-ab37-c99ace152414"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ed2bc308-b51e-463e-adc9-a76e2cb8536b">
+    <bounds
+        x="69"
+        y="12"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_502e1560-a807-44b9-9f4a-78cf20a24a3a.xml#502e1560-a807-44b9-9f4a-78cf20a24a3a"/>
+  </children>
+</archimate:ArchimateDiagramModel>

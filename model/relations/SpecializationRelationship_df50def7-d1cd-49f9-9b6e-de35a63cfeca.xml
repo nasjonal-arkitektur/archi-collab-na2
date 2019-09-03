@@ -3,8 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="df50def7-d1cd-49f9-9b6e-de35a63cfeca">
   <properties
-      key="label"
-      value="${name}"/>
+      key="label"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_ab749393-6726-4b1f-a60e-c539a2875fc8.xml#ab749393-6726-4b1f-a60e-c539a2875fc8"/>
