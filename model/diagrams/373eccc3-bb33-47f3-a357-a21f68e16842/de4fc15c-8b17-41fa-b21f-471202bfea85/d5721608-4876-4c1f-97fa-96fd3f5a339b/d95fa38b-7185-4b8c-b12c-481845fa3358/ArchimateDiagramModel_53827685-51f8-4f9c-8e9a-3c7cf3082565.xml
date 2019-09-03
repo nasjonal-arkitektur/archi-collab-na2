@@ -63,12 +63,34 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="2254103d-51d8-43c0-84dc-cb0af50be085">
+      id="2254103d-51d8-43c0-84dc-cb0af50be085"
+      targetConnections="e424ecab-e180-4263-92c9-2aa7f610414b">
     <bounds
         x="408"
         y="336"
         width="517"
         height="193"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="f79f58a7-4f92-43b5-913b-aeeff5665930">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="e424ecab-e180-4263-92c9-2aa7f610414b"
+          source="f79f58a7-4f92-43b5-913b-aeeff5665930"
+          target="2254103d-51d8-43c0-84dc-cb0af50be085">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_093bee9a-110a-4e68-bf6e-520213c35e93.xml#093bee9a-110a-4e68-bf6e-520213c35e93"/>
+      </sourceConnections>
+      <bounds
+          x="146"
+          y="84"
+          width="133"
+          height="71"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_bf07dec4-4c94-4157-8dd2-1a47f0d1dc93.xml#bf07dec4-4c94-4157-8dd2-1a47f0d1dc93"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_74ef546a-e364-407d-a7f1-6f92fa086e19.xml#74ef546a-e364-407d-a7f1-6f92fa086e19"/>
