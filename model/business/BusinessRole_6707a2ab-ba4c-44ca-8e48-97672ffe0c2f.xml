@@ -24,7 +24,7 @@
       value="Legal Authority"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="difi:language"
       value="no"/>

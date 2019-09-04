@@ -7,7 +7,7 @@
       value="archi:business-role"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="difi"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -23,5 +23,5 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
 </archimate:BusinessRole>

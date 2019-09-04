@@ -3,7 +3,25 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="512bc030-c4d3-49db-ae9f-14ab79481814">
   <properties
-      key="label"/>
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:specialization-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_8cb74928-d6d9-40b5-99e2-b1b400f82228.xml#8cb74928-d6d9-40b5-99e2-b1b400f82228"/>
