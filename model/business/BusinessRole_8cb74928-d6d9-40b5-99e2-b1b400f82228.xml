@@ -1,5 +1,27 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Community Governance Authority"
-    id="8cb74928-d6d9-40b5-99e2-b1b400f82228"
-    documentation="Forvalter av fellesskap"/>
+    name="Felleskapsforvalter"
+    id="8cb74928-d6d9-40b5-99e2-b1b400f82228">
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Avtaleforvalter"/>
+  <properties
+      key="difi:name_en"
+      value="Community Governance Authority"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessRole>
