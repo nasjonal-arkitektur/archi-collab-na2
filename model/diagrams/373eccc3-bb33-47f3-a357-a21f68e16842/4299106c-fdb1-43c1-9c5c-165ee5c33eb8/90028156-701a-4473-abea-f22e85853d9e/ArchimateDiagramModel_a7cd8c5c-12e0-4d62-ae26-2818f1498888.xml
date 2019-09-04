@@ -770,7 +770,7 @@
         targetConnections="404d3b54-6332-40ad-91f8-2fe192f6dcac f5f3d12a-c4d4-428e-8e3e-79d2c67742af"
         fontColor="#ff0000">
       <bounds
-          x="153"
+          x="180"
           y="24"
           width="120"
           height="73"/>
@@ -792,7 +792,7 @@
             href="AssociationRelationship_390ecb11-59f9-4c63-8e1d-db7ec1d2df08.xml#390ecb11-59f9-4c63-8e1d-db7ec1d2df08"/>
       </sourceConnections>
       <bounds
-          x="288"
+          x="324"
           y="24"
           width="120"
           height="73"/>

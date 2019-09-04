@@ -22,5 +22,5 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name} [lang:${property:difi:language}]"/>
 </archimate:BusinessService>
