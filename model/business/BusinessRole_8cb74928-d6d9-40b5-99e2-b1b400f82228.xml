@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Community Governance Authority"
-    id="8cb74928-d6d9-40b5-99e2-b1b400f82228"/>
+    id="8cb74928-d6d9-40b5-99e2-b1b400f82228"
+    documentation="Forvalter av fellesskap"/>
