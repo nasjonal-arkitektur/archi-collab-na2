@@ -575,8 +575,8 @@
           href="AssociationRelationship_3b7d309c-43e2-4229-9f53-21c18f4a083e.xml#3b7d309c-43e2-4229-9f53-21c18f4a083e"/>
     </sourceConnections>
     <bounds
-        x="936"
-        y="516"/>
+        x="984"
+        y="528"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_3a8d0cad-5241-4a9a-82d8-2763094f7a0a.xml#3a8d0cad-5241-4a9a-82d8-2763094f7a0a"/>
@@ -933,8 +933,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="340"
-        y="854"/>
+        x="82"
+        y="780"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_22d9336c-e63c-4e9d-a618-faa8bf57a5c2.xml#22d9336c-e63c-4e9d-a618-faa8bf57a5c2"/>
