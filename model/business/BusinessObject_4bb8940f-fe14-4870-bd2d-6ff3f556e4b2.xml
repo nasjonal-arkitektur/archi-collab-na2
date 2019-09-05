@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Adresse mottaker"
+    name="Mottakeradresse"
     id="4bb8940f-fe14-4870-bd2d-6ff3f556e4b2">
   <properties
       key="dct:type"
