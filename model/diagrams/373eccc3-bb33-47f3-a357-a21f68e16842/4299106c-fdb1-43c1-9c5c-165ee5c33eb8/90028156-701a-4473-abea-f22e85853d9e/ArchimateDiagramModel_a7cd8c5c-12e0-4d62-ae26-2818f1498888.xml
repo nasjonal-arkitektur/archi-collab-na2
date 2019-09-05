@@ -973,4 +973,16 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_cd890a14-efc9-461d-9c92-5f8737320cbd.xml#cd890a14-efc9-461d-9c92-5f8737320cbd"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="43c3654d-1cb9-4ac1-ab04-8c005b796456"
+      textPosition="1"
+      type="1">
+    <bounds
+        x="-6"
+        y="698"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_5cd3fa6b-2f08-4bb9-a4e5-3e4ef6ed7639.xml#5cd3fa6b-2f08-4bb9-a4e5-3e4ef6ed7639"/>
+  </children>
 </archimate:ArchimateDiagramModel>

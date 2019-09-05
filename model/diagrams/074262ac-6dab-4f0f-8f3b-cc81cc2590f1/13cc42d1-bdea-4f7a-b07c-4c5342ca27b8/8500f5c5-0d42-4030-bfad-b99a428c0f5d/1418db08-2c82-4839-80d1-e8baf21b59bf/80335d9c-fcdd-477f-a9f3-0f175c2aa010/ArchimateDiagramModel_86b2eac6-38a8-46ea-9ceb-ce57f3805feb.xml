@@ -286,8 +286,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="24"
-        y="1896"/>
+        x="10"
+        y="1872"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_91919998-2163-4a97-8fef-e3913219f20d.xml#91919998-2163-4a97-8fef-e3913219f20d"/>
