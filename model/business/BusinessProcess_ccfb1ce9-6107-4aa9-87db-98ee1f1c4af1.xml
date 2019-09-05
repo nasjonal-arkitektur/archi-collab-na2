@@ -1,4 +1,26 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kontrollere kapabiliteter"
-    id="ccfb1ce9-6107-4aa9-87db-98ee1f1c4af1"/>
+    name="Kontrollere mottakers kapabiliteter"
+    id="ccfb1ce9-6107-4aa9-87db-98ee1f1c4af1">
+  <properties
+      key="dct:type"
+      value="archi:business-process"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Kontrollere kapabiliteter"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessProcess>
