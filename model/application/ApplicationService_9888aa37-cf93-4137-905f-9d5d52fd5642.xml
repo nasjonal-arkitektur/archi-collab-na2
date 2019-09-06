@@ -37,7 +37,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name} [lang:${property:difi:language}] [abb]"/>
   <properties
       key="dct:type"
       value="archi:application-service"/>
