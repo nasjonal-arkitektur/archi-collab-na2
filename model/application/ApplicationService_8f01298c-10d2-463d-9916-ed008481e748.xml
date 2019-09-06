@@ -22,7 +22,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [abb]"/>
   <properties
       key="difi:abstractionLevel"
       value="abb"/>
