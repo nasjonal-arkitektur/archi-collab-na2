@@ -1,0 +1,30 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message header"
+    id="b1da8b17-2549-4e35-aa0e-a6c1e9b73a33">
+  <properties
+      key="dct:type"
+      value="archi:artifact"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Message header"/>
+  <properties
+      key="difi:name_en"
+      value="Message header"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Artifact>

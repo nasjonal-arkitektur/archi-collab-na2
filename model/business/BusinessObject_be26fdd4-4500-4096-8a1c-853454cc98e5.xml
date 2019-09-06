@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information record (evidence)"
+    id="be26fdd4-4500-4096-8a1c-853454cc98e5"
+    documentation="https://en.wikipedia.org/wiki/Records_management: The ISO 15489-1:2016 defines records as &quot;information created, received, and maintained as evidence and as an asset by an organization or person, in pursuit of legal obligations or in the transaction of business&quot;">
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"
+      value="Information record (evidence)"/>
+  <properties
+      key="difi:name_en"
+      value="Information record (evidence)"/>
+  <properties
+      key="difi:description_no"
+      value="https://en.wikipedia.org/wiki/Records_management: The ISO 15489-1:2016 defines records as &quot;information created, received, and maintained as evidence and as an asset by an organization or person, in pursuit of legal obligations or in the transaction of business&quot;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessObject>

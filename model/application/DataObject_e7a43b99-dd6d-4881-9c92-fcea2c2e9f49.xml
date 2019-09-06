@@ -1,0 +1,32 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datasett"
+    id="e7a43b99-dd6d-4881-9c92-fcea2c2e9f49"
+    documentation="A collection of data, published or curated by a single agent, and available for access or download in one or more representations. Ref. https://w3c.github.io/dxwg/dcat/#Class:Dataset">
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Datasett"/>
+  <properties
+      key="difi:name_en"
+      value="Dataset"/>
+  <properties
+      key="difi:description_no"
+      value="A collection of data, published or curated by a single agent, and available for access or download in one or more representations. Ref. https://w3c.github.io/dxwg/dcat/#Class:Dataset"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:DataObject>

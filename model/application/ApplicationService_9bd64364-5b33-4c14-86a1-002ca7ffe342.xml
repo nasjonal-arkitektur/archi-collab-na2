@@ -40,7 +40,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}] [abb]"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
   <properties
       key="difi:abstractionLevel"
       value="abb"/>
