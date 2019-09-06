@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Innhente data"
-    id="aa30d232-3bcf-4969-a022-c66e93a80ec5">
+    id="aa30d232-3bcf-4969-a022-c66e93a80ec5"
+    documentation="Evnen til å innhente data fra en annen aktør.">
   <properties
       key="difi:namespace"
       value="na1"/>
