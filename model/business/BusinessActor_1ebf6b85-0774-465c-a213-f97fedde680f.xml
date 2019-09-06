@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manuell dta"
+    id="1ebf6b85-0774-465c-a213-f97fedde680f">
+  <properties
+      key="difi:namespace"
+      value="erik-rr"/>
+</archimate:BusinessActor>

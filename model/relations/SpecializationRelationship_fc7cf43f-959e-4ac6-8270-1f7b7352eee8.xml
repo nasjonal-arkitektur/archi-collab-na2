@@ -1,6 +1,7 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="specialization"
     id="fc7cf43f-959e-4ac6-8270-1f7b7352eee8">
   <properties
       key="dct:type"
@@ -21,8 +22,7 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="label"
-      value="${name}"/>
+      key="label"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_6f040108-656c-4b62-aadf-2afd2b390877.xml#6f040108-656c-4b62-aadf-2afd2b390877"/>

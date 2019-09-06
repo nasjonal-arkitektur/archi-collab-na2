@@ -1,4 +1,26 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilpasse til meldingsformat"
-    id="427f017f-1edb-47fc-b915-9f7ac9f863b5"/>
+    id="427f017f-1edb-47fc-b915-9f7ac9f863b5">
+  <properties
+      key="dct:type"
+      value="archi:business-process"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tilpasse til meldingsformat"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessProcess>

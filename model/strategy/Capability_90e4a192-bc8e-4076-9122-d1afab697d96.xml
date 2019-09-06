@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="01. Ability to expose data as services, to add/remove/manipulate data entries in different services or service components, and to disable some data from outside access"
+    id="90e4a192-bc8e-4076-9122-d1afab697d96">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

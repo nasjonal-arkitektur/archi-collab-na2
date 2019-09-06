@@ -1,0 +1,39 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;Financial Resource>> Rammefinansiering"
+    id="1e28801c-056d-42ba-88b1-bcfdc3adda5e"
+    documentation="A stock or supply of money.&#xD;&#xA;&#xD;&#xA;Based on the Oxford Dictionary&#xD;&#xA;https://en.oxforddictionaries.com/definition/resource &#xD;&#xA;&#xD;&#xA;Syn. Funding Instrument&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;CEF Programme&#xD;&#xA;The Connecting Europe Facility (CEF) is a key EU funding instrument to promote growth, jobs and competitiveness through targeted infrastructure investment at European level. It supports the development of high performing, sustainable and efficiently interconnected trans-European networks in the fields of transport, energy and digital services. CEF investments fill the missing links in Europe's energy, transport and digital backbone.&#xD;&#xA;https://ec.europa.eu/inea/en/connecting-europe-facility &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB116_SBB1542630566676"/>
+  <properties
+      key="dct:type"
+      value="eira:FinancialResource"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"
+      value="19/11/2018"/>
+  <properties
+      key="eira:synonym"
+      value="Funding Instrument"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="&lt;&lt;Financial Resource>> Rammefinansiering"/>
+  <properties
+      key="difi:description_no"
+      value="A stock or supply of money.&#xD;&#xA;&#xD;&#xA;Based on the Oxford Dictionary&#xD;&#xA;https://en.oxforddictionaries.com/definition/resource &#xD;&#xA;&#xD;&#xA;Syn. Funding Instrument&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;CEF Programme&#xD;&#xA;The Connecting Europe Facility (CEF) is a key EU funding instrument to promote growth, jobs and competitiveness through targeted infrastructure investment at European level. It supports the development of high performing, sustainable and efficiently interconnected trans-European networks in the fields of transport, energy and digital services. CEF investments fill the missing links in Europe's energy, transport and digital backbone.&#xD;&#xA;https://ec.europa.eu/inea/en/connecting-europe-facility &#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:BusinessObject>
