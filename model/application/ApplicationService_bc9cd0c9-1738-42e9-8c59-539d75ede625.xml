@@ -23,4 +23,7 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
 </archimate:ApplicationService>
