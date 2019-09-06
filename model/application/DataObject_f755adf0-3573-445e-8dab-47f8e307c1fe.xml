@@ -1,0 +1,30 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data i ro"
+    id="f755adf0-3573-445e-8dab-47f8e307c1fe">
+  <properties
+      key="dct:type"
+      value="archi:artifact"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Data i ro"/>
+  <properties
+      key="Data at rest"
+      value="Data at rest"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:DataObject>

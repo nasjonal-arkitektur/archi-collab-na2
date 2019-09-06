@@ -10,4 +10,7 @@
   <properties
       key="difi:current_language"
       value="no"/>
+  <properties
+      key="difi:docRootPath"
+      value="C:\Users\eha\OneDrive\GitHub\Difi\nasjonal_arkitektur"/>
 </archimate:ArchimateModel>

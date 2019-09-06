@@ -1,0 +1,30 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Register"
+    id="30c12781-6552-40e8-bf7b-750836f91268">
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Register"/>
+  <properties
+      key="difi:name_en"
+      value="Registry"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:DataObject>

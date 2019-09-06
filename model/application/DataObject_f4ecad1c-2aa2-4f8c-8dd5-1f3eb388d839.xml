@@ -1,0 +1,30 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokument"
+    id="f4ecad1c-2aa2-4f8c-8dd5-1f3eb388d839">
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Dokument"/>
+  <properties
+      key="difi:name_en"
+      value="Document"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:DataObject>

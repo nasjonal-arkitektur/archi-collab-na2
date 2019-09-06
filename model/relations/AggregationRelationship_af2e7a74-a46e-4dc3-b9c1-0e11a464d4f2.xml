@@ -21,12 +21,11 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="label"
-      value="${name} [lang:${property:difi:language}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+      key="label"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_f058314c-d74f-43a9-8241-520cc8841ffc.xml#f058314c-d74f-43a9-8241-520cc8841ffc"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_d1e41b50-a083-401d-a6d9-a82fd7cafc1a.xml#d1e41b50-a083-401d-a6d9-a82fd7cafc1a"/>
+      href="DataObject_61f29d88-8878-4674-aeec-d8062bd684c4.xml#61f29d88-8878-4674-aeec-d8062bd684c4"/>
 </archimate:AggregationRelationship>
