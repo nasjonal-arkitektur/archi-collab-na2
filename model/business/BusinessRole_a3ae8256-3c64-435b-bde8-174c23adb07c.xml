@@ -1,0 +1,38 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Consumer Agent"
+    id="a3ae8256-3c64-435b-bde8-174c23adb07c"
+    documentation="Any agent that consumes a public service. This includes people, organisations and groups. A Public Service Consumer Agent consumes a public service on behalf of a Service Consumers. &#xD;&#xA;&#xD;&#xA;Source:&#xD;&#xA;https://joinup.ec.europa.eu/rdf_entity/http_e_f_fdata_ceuropa_ceu_fw21_f7661a4a0_bbdf9_b4e98_bb04a_b967c6a1053f9&quot;&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;&#xD;&#xA;The Public Service Consumer Agent is salient for organisational interoperability because it acts on behalf of a Public Service Consumer (the &quot;Principal&quot;) to consume a Public Service. An agent is described by the tuple &lt;agent_type, principal_type>, where agent_type belongs to {human, machine}, and principal_type belongs to {citizen, business, PA}.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;Your Europe Advice – ECAS&#xD;&#xA;Your Europe Advice is an EU advice service provided by legal experts from ECAS (European Citizen Action Service) operating under contract with the European Commission. It consists of a team of about 60 lawyers who cover all 24 official EU languages and are familiar both with EU law and national laws in all EU countries. Your Europe Advice replies to questions from citizens or businesses on their personal EU rights. The experts respond to the questions within one week, free of charge and in the language chosen by the user. ECAS’ mission is to empower citizens to exercise their rights and promote open and inclusive decision-making through the provision of high quality advice, research and advocacy, as well as capacity building for civil society organisations.&#xD;&#xA;http://ecas.org/services/your-europe-advice-yea/ &quot;&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB230"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicServiceConsumerAgent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Public Service Consumer Agent"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Any agent that consumes a public service. This includes people, organisations and groups. A Public Service Consumer Agent consumes a public service on behalf of a Service Consumers. &#xD;&#xA;&#xD;&#xA;Source:&#xD;&#xA;https://joinup.ec.europa.eu/rdf_entity/http_e_f_fdata_ceuropa_ceu_fw21_f7661a4a0_bbdf9_b4e98_bb04a_b967c6a1053f9&quot;&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;&#xD;&#xA;The Public Service Consumer Agent is salient for organisational interoperability because it acts on behalf of a Public Service Consumer (the &quot;Principal&quot;) to consume a Public Service. An agent is described by the tuple &lt;agent_type, principal_type>, where agent_type belongs to {human, machine}, and principal_type belongs to {citizen, business, PA}.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;Your Europe Advice – ECAS&#xD;&#xA;Your Europe Advice is an EU advice service provided by legal experts from ECAS (European Citizen Action Service) operating under contract with the European Commission. It consists of a team of about 60 lawyers who cover all 24 official EU languages and are familiar both with EU law and national laws in all EU countries. Your Europe Advice replies to questions from citizens or businesses on their personal EU rights. The experts respond to the questions within one week, free of charge and in the language chosen by the user. ECAS’ mission is to empower citizens to exercise their rights and promote open and inclusive decision-making through the provision of high quality advice, research and advocacy, as well as capacity building for civil society organisations.&#xD;&#xA;http://ecas.org/services/your-europe-advice-yea/ &quot;&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+</archimate:BusinessRole>

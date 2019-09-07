@@ -1,7 +1,6 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="flow"
     id="f55ec9ed-c7f3-456d-aa1d-fa077cb0bbd1">
   <properties
       key="difi:namespace"
@@ -24,6 +23,9 @@
   <properties
       key="dct:type"
       value="archi:flow-relationship"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_4f1be894-9303-49f1-969c-9da2bd94301f.xml#4f1be894-9303-49f1-969c-9da2bd94301f"/>

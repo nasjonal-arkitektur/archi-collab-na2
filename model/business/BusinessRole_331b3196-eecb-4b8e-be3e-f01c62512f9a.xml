@@ -1,0 +1,38 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Delivery Agent"
+    id="331b3196-eecb-4b8e-be3e-f01c62512f9a"
+    documentation="DESCRIPTION:&#xD;&#xA;Any agent that delivers or has the power to deliver a public service. This includes people, organisations and groups. &#xD;&#xA;A Public Service Delivery Agent delivers a public service on behalf of a Service Providers. An example of this would be pharmacies that deliver a service 'on the behalf of' the Ministry of Health. In this case the pharmacies would be captured as a Service Delivery Agent whereas the Service Provider would be the Ministry of Health.&#xD;&#xA;&#xD;&#xA;Based on definition of Agent class in ISA2 Core Vocabularies&#xD;&#xA;https://joinup.ec.europa.eu/catalogue/distribution/cpsv-ap-specification-v20-pdf &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Service Delivery Agent is salient for organisational interoperability because it acts on behalf of a Public Service Provider (the &quot;Principal&quot;) to deliver a Public Service. An agent is described by the tuple &lt;agent_type, principal_type>, where agent_type belongs to {human, machine}, and principal_type belongs to {citizen, business, PA}.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Your Europe Advice – ECAS&#xD;&#xA;Your Europe Advice is an EU advice service provided by legal experts from ECAS (European Citizen Action Service) operating under contract with the European Commission. It consists of a team of about 60 lawyers who cover all 24 official EU languages and are familiar both with EU law and national laws in all EU countries. Your Europe Advice replies to questions from citizens or businesses on their personal EU rights. The experts respond to the questions within one week, free of charge and in the language chosen by the user. ECAS’ mission is to empower citizens to exercise their rights and promote open and inclusive decision-making through the provision of high quality advice, research and advocacy, as well as capacity building for civil society organisations.&#xD;&#xA;http://ecas.org/services/your-europe-advice-yea/ &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB173"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicServiceDeliveryAgent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Public Service Delivery Agent"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Any agent that delivers or has the power to deliver a public service. This includes people, organisations and groups. &#xD;&#xA;A Public Service Delivery Agent delivers a public service on behalf of a Service Providers. An example of this would be pharmacies that deliver a service 'on the behalf of' the Ministry of Health. In this case the pharmacies would be captured as a Service Delivery Agent whereas the Service Provider would be the Ministry of Health.&#xD;&#xA;&#xD;&#xA;Based on definition of Agent class in ISA2 Core Vocabularies&#xD;&#xA;https://joinup.ec.europa.eu/catalogue/distribution/cpsv-ap-specification-v20-pdf &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Service Delivery Agent is salient for organisational interoperability because it acts on behalf of a Public Service Provider (the &quot;Principal&quot;) to deliver a Public Service. An agent is described by the tuple &lt;agent_type, principal_type>, where agent_type belongs to {human, machine}, and principal_type belongs to {citizen, business, PA}.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Your Europe Advice – ECAS&#xD;&#xA;Your Europe Advice is an EU advice service provided by legal experts from ECAS (European Citizen Action Service) operating under contract with the European Commission. It consists of a team of about 60 lawyers who cover all 24 official EU languages and are familiar both with EU law and national laws in all EU countries. Your Europe Advice replies to questions from citizens or businesses on their personal EU rights. The experts respond to the questions within one week, free of charge and in the language chosen by the user. ECAS’ mission is to empower citizens to exercise their rights and promote open and inclusive decision-making through the provision of high quality advice, research and advocacy, as well as capacity building for civil society organisations.&#xD;&#xA;http://ecas.org/services/your-europe-advice-yea/ &#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+</archimate:BusinessRole>

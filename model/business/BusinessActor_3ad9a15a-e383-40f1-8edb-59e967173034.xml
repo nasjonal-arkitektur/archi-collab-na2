@@ -1,0 +1,38 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business"
+    id="3ad9a15a-e383-40f1-8edb-59e967173034"
+    documentation="DESCRIPTION:&#xD;&#xA;Employment, occupation, profession, or commercial activity engaged in for gain or livelihood. Activity or enterprise for gain, benefit, advantage or livelihood. Enterprise in which person engaged shows willingness to invest time and capital on future outcome.&#xD;&#xA;&#xD;&#xA;Source: IATE (definition of business, entry Environment [CdT])&#xD;&#xA;http://iate.europa.eu/ &#xD;&#xA;&#xD;&#xA;Syn. Company&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Business ABB is salient for organisation interoperability because organisations can play the role of consumers of Public Services (Public Administration or businesses), as stated in the EIF: &quot;A European public service comprises any public sector service exposed to a cross-border dimension and supplied by public administrations, either to one another or to businesses and citizens in the Union.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Cosmetic Product Notification Portal - Economic operators&#xD;&#xA;Economic operators involved in intra-community trade are using the Cosmetic Product Notification Portal in order to either notify cosmetic products put on the EU market (distributors) or notify and update the data (manufacturers and importers).&#xD;&#xA;https://webgate.ec.europa.eu/cpnp/faq/?event=faq.show &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB169"/>
+  <properties
+      key="dct:type"
+      value="eira:Business"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Business"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Employment, occupation, profession, or commercial activity engaged in for gain or livelihood. Activity or enterprise for gain, benefit, advantage or livelihood. Enterprise in which person engaged shows willingness to invest time and capital on future outcome.&#xD;&#xA;&#xD;&#xA;Source: IATE (definition of business, entry Environment [CdT])&#xD;&#xA;http://iate.europa.eu/ &#xD;&#xA;&#xD;&#xA;Syn. Company&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Business ABB is salient for organisation interoperability because organisations can play the role of consumers of Public Services (Public Administration or businesses), as stated in the EIF: &quot;A European public service comprises any public sector service exposed to a cross-border dimension and supplied by public administrations, either to one another or to businesses and citizens in the Union.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Cosmetic Product Notification Portal - Economic operators&#xD;&#xA;Economic operators involved in intra-community trade are using the Cosmetic Product Notification Portal in order to either notify cosmetic products put on the EU market (distributors) or notify and update the data (manufacturers and importers).&#xD;&#xA;https://webgate.ec.europa.eu/cpnp/faq/?event=faq.show &#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessActor>

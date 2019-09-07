@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Forvalter"
+    name="Produsent"
     id="1d6506e3-90d3-4ce9-b3f8-13f76585d54d">
   <properties
       key="difi:namespace"
@@ -22,5 +22,8 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:BusinessRole>

@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:contract"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Contract>

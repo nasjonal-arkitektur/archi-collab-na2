@@ -1,0 +1,38 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Consumer"
+    id="0b92954c-d630-4f4b-aaa9-802a4e3bc645"
+    documentation="DESCRIPTION:&#xD;&#xA;A Public Service Consumer is a Public Administration, Business or Citizen consuming public services. [European Interoperability Framework]&#xD;&#xA;&#xD;&#xA;Source: Based on EIF 2.0&#xD;&#xA;http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Service Consumer ABB is salient for organisational interoperability because it is one of the main actors involved in the interoperability of the public service as stated in the EIF: &quot;Service orientation, upon which the conceptual model for public services is conceived, means that the relationship between service providers and service consumers must be clearly defined&quot;. EIF Recommendation n.29 also suggests:&#xD;&#xA;&quot;Clarify and formalise your organisational relationships for establishing and operating European public services.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Cosmetic Product Notification Portal CPNP - Poison centre, Responsible person, Market surveillance authority, Distributor, Health advisor, Administrations&#xD;&#xA;The CPNP is making this information available electronically to:&#xD;&#xA;&#xD;&#xA;•&#x9;Competent Authorities (for the purposes of market surveillance, market analysis, evaluation and consumer information)&#xD;&#xA;•&#x9;Poison Centres or similar bodies established by EU countries (for the purposes of medical treatment).&#xD;&#xA;&#xD;&#xA;The CPNP is accessible to:&#xD;&#xA;&#xD;&#xA;•&#x9;Competent Authorities&#xD;&#xA;•&#x9;European Poison Centres&#xD;&#xA;•&#x9;Cosmetic products responsible persons&#xD;&#xA;•&#x9;Distributors of cosmetic products&#xD;&#xA;&#xD;&#xA;https://ec.europa.eu/growth/sectors/cosmetics/cpnp_fr ">
+  <properties
+      key="ID"
+      value="ABB5"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicServiceConsumer"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Public Service Consumer"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;A Public Service Consumer is a Public Administration, Business or Citizen consuming public services. [European Interoperability Framework]&#xD;&#xA;&#xD;&#xA;Source: Based on EIF 2.0&#xD;&#xA;http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Service Consumer ABB is salient for organisational interoperability because it is one of the main actors involved in the interoperability of the public service as stated in the EIF: &quot;Service orientation, upon which the conceptual model for public services is conceived, means that the relationship between service providers and service consumers must be clearly defined&quot;. EIF Recommendation n.29 also suggests:&#xD;&#xA;&quot;Clarify and formalise your organisational relationships for establishing and operating European public services.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Cosmetic Product Notification Portal CPNP - Poison centre, Responsible person, Market surveillance authority, Distributor, Health advisor, Administrations&#xD;&#xA;The CPNP is making this information available electronically to:&#xD;&#xA;&#xD;&#xA;•&#x9;Competent Authorities (for the purposes of market surveillance, market analysis, evaluation and consumer information)&#xD;&#xA;•&#x9;Poison Centres or similar bodies established by EU countries (for the purposes of medical treatment).&#xD;&#xA;&#xD;&#xA;The CPNP is accessible to:&#xD;&#xA;&#xD;&#xA;•&#x9;Competent Authorities&#xD;&#xA;•&#x9;European Poison Centres&#xD;&#xA;•&#x9;Cosmetic products responsible persons&#xD;&#xA;•&#x9;Distributors of cosmetic products&#xD;&#xA;&#xD;&#xA;https://ec.europa.eu/growth/sectors/cosmetics/cpnp_fr "/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+</archimate:BusinessRole>

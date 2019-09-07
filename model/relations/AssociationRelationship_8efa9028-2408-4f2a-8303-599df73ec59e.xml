@@ -1,0 +1,36 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="acts on behalf of"
+    id="8efa9028-2408-4f2a-8303-599df73ec59e">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="acts on behalf of"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_a3ae8256-3c64-435b-bde8-174c23adb07c.xml#a3ae8256-3c64-435b-bde8-174c23adb07c"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_0b92954c-d630-4f4b-aaa9-802a4e3bc645.xml#0b92954c-d630-4f4b-aaa9-802a4e3bc645"/>
+</archimate:AssociationRelationship>

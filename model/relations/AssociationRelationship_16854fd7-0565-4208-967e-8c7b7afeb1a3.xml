@@ -1,7 +1,6 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="association"
     id="16854fd7-0565-4208-967e-8c7b7afeb1a3">
   <properties
       key="dct:type"
@@ -24,6 +23,9 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_9fa622a6-945e-4e85-815f-d38a47a3459d.xml#9fa622a6-945e-4e85-815f-d38a47a3459d"/>

@@ -1,13 +1,13 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leverandør"
+    name="Leverandør (Erik)"
     id="30edfb19-461f-4a0b-806b-31eec4b8e307">
   <properties
       key="difi:namespace"
       value="erik"/>
   <properties
       key="difi:name_no"
-      value="Leverandør"/>
+      value="Leverandør (Erik)"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -22,5 +22,8 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:BusinessRole>

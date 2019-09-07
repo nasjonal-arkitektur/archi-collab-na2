@@ -7,7 +7,7 @@
       value="archi:business-actor"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="oasis"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -22,5 +22,5 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
 </archimate:BusinessActor>

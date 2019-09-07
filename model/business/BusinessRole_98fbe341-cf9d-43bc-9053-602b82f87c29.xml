@@ -10,7 +10,7 @@
       value="archi:business-role"/>
   <properties
       key="difi:name_no"
-      value="Tilbyder av eBevis"/>
+      value="Tilbyder av eBevis "/>
   <properties
       key="difi:name_en"
       value="Evidence Service Broker"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Triggerhendelse for databehandling"
+    id="3d0d99f1-6099-4f24-a780-d5339200d4c5"
+    documentation="Med triggerhendelse menes &#xD;&#xA;&#xD;&#xA;Eksempler på triggerhendelser:&#xD;&#xA;&#xD;&#xA;* mottak av melding fra annen samhandlingsaktør, som ledd i en tverrgående &#xD;&#xA;* "/>

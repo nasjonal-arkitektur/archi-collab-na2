@@ -1,0 +1,38 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Agent"
+    id="6ee2e5af-a3d2-45e4-9756-43b22bc11898"
+    documentation="DESCRIPTION:&#xD;&#xA;Any agent that consumes or delivers a public service. This includes people, organisations and groups. &#xD;&#xA;&#xD;&#xA;Source:&#xD;&#xA;https://joinup.ec.europa.eu/rdf_entity/http_e_f_fdata_ceuropa_ceu_fw21_f7661a4a0_bbdf9_b4e98_bb04a_b967c6a1053f9&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Service Agent is salient for organisational interoperability because it acts on behalf of a Public Service Consumer Agent to consume a Public Service and Public Service Provider Agent to deliver a Publice Service. &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;&#xD;&#xA;Your Europe Advice – ECAS&#xD;&#xA;Your Europe Advice is an EU advice service provided by legal experts from ECAS (European Citizen Action Service) operating under contract with the European Commission. It consists of a team of about 60 lawyers who cover all 24 official EU languages and are familiar both with EU law and national laws in all EU countries. Your Europe Advice replies to questions from citizens or businesses on their personal EU rights. The experts respond to the questions within one week, free of charge and in the language chosen by the user. ECAS’ mission is to empower citizens to exercise their rights and promote open and inclusive decision-making through the provision of high quality advice, research and advocacy, as well as capacity building for civil society organisations.&#xD;&#xA;http://ecas.org/services/your-europe-advice-yea/ &quot;&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB229"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicServiceAgent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Public Service Agent"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Any agent that consumes or delivers a public service. This includes people, organisations and groups. &#xD;&#xA;&#xD;&#xA;Source:&#xD;&#xA;https://joinup.ec.europa.eu/rdf_entity/http_e_f_fdata_ceuropa_ceu_fw21_f7661a4a0_bbdf9_b4e98_bb04a_b967c6a1053f9&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Service Agent is salient for organisational interoperability because it acts on behalf of a Public Service Consumer Agent to consume a Public Service and Public Service Provider Agent to deliver a Publice Service. &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;&#xD;&#xA;Your Europe Advice – ECAS&#xD;&#xA;Your Europe Advice is an EU advice service provided by legal experts from ECAS (European Citizen Action Service) operating under contract with the European Commission. It consists of a team of about 60 lawyers who cover all 24 official EU languages and are familiar both with EU law and national laws in all EU countries. Your Europe Advice replies to questions from citizens or businesses on their personal EU rights. The experts respond to the questions within one week, free of charge and in the language chosen by the user. ECAS’ mission is to empower citizens to exercise their rights and promote open and inclusive decision-making through the provision of high quality advice, research and advocacy, as well as capacity building for civil society organisations.&#xD;&#xA;http://ecas.org/services/your-europe-advice-yea/ &quot;&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessActor>

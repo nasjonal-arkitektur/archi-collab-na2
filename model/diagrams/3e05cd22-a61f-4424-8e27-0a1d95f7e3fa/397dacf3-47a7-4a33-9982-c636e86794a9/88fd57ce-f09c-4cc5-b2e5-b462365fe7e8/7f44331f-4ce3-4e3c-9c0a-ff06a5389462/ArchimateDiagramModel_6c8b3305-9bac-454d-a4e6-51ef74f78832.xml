@@ -1,0 +1,28 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avtaler"
+    id="6c8b3305-9bac-454d-a4e6-51ef74f78832">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e5447fa2-e695-41c9-bdd3-629915e4f336"
+      textPosition="1">
+    <bounds
+        x="60"
+        y="62"/>
+    <archimateElement
+        xsi:type="archimate:Contract"
+        href="Contract_3797e3fd-6fa2-4d70-ac19-faddd5065e87.xml#3797e3fd-6fa2-4d70-ac19-faddd5065e87"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="132e995e-d7c5-42cb-a9da-71e1104d20c1"
+      textPosition="1">
+    <bounds
+        x="60"
+        y="143"/>
+    <archimateElement
+        xsi:type="archimate:Contract"
+        href="Contract_a6447828-a1f5-4fbd-bfed-e42b4d712e7c.xml#a6447828-a1f5-4fbd-bfed-e42b4d712e7c"/>
+  </children>
+</archimate:ArchimateDiagramModel>

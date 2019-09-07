@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Databruker"
+    name="Konsument"
     id="ac3459d9-7233-48eb-8c62-e453ecd1ac86">
   <properties
       key="difi:namespace"
@@ -22,5 +22,8 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:BusinessRole>

@@ -1,7 +1,6 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="access"
     id="476d7270-7994-442f-b84b-08622db2ff1f"
     accessType="1">
   <properties
@@ -25,10 +24,13 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_9fa622a6-945e-4e85-815f-d38a47a3459d.xml#9fa622a6-945e-4e85-815f-d38a47a3459d"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_e7818677-7f7e-4af6-9285-33c5446a8f6b.xml#e7818677-7f7e-4af6-9285-33c5446a8f6b"/>
+      href="BusinessObject_488c66f9-26d2-4c68-826d-5a3261958d0a.xml#488c66f9-26d2-4c68-826d-5a3261958d0a"/>
 </archimate:AccessRelationship>
