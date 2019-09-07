@@ -1,0 +1,31 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sikker levering"
+    id="a9cc81a2-48e0-48ca-9c11-dcfd165c6dda"
+    documentation="Electronic delivery: A service that, to a certain extent, is the equivalent in the digital world of registered mail in the physical world">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Sikker levering"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Electronic delivery: A service that, to a certain extent, is the equivalent in the digital world of registered mail in the physical world"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Capability>

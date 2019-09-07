@@ -21,8 +21,7 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="label"
-      value="${name} [lang:${property:difi:language}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+      key="label"/>
   <source
       xsi:type="archimate:Requirement"
       href="Requirement_0e97ca05-13ce-4e6a-9960-94b606b74625.xml#0e97ca05-13ce-4e6a-9960-94b606b74625"/>

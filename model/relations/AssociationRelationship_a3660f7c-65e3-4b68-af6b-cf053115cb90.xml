@@ -23,7 +23,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
   <source
       xsi:type="archimate:Resource"
       href="Resource_7024aa8a-1a19-4dc5-b018-84c822bc92b3.xml#7024aa8a-1a19-4dc5-b018-84c822bc92b3"/>

@@ -27,4 +27,18 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_502e1560-a807-44b9-9f4a-78cf20a24a3a.xml#502e1560-a807-44b9-9f4a-78cf20a24a3a"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Aktørkatalog"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

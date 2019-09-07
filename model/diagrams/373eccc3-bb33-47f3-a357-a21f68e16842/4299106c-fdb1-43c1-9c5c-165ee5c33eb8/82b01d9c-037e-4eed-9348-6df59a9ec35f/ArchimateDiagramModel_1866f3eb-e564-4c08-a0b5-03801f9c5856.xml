@@ -1169,4 +1169,6 @@
       value="https://ec.europa.eu/isa2/solutions/core-public-service-vocabulary-application-profile-cpsv-ap_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

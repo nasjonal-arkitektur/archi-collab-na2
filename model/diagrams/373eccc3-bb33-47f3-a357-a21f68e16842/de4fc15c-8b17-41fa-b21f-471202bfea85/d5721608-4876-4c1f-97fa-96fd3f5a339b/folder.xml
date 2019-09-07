@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="eMelding"
-    id="d5721608-4876-4c1f-97fa-96fd3f5a339b"/>
+    id="d5721608-4876-4c1f-97fa-96fd3f5a339b">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="eMelding"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

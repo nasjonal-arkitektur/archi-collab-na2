@@ -85,4 +85,18 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_6b465205-6658-4fc6-94b1-3724276fc474.xml#6b465205-6658-4fc6-94b1-3724276fc474"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Veiledning til valg av referansearkitektur"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

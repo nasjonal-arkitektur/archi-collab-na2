@@ -1,6 +1,6 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Semistructured information"
+    name="Semistrukturert informasjion"
     id="46dc65db-a488-4cfa-9667-2ed5057fb489">
   <properties
       key="dct:type"
@@ -16,7 +16,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Semistructured information"/>
+      value="Semistrukturert informasjion"/>
   <properties
       key="difi:name_en"/>
   <properties

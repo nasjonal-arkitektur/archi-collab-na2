@@ -340,7 +340,7 @@
             href="SpecializationRelationship_5d21cd75-f55d-4980-bed1-484befa0f293.xml#5d21cd75-f55d-4980-bed1-484befa0f293"/>
       </sourceConnections>
       <bounds
-          x="48"
+          x="36"
           y="228"
           width="130"
           height="60"/>
@@ -412,4 +412,6 @@
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

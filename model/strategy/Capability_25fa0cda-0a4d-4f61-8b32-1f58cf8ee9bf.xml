@@ -2,4 +2,30 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Behandlingsgrunnlag"
     id="25fa0cda-0a4d-4f61-8b32-1f58cf8ee9bf"
-    documentation="Evne til å legge frem behandlingsgrunnlag for tilgang til og behandling av data.&#xD;&#xA;Dataminimering&#xD;&#xA;"/>
+    documentation="Evne til å legge frem behandlingsgrunnlag for tilgang til og behandling av data.&#xD;&#xA;Dataminimering&#xD;&#xA;">
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Behandlingsgrunnlag"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Evne til å legge frem behandlingsgrunnlag for tilgang til og behandling av data.&#xD;&#xA;Dataminimering&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Capability>

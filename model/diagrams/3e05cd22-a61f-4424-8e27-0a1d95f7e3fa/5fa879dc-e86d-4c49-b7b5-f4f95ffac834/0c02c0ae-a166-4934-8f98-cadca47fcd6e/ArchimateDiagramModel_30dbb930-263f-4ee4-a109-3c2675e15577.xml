@@ -196,4 +196,18 @@
         xsi:type="archimate:Grouping"
         href="Grouping_14099543-5569-4dff-a613-8cddd11db263.xml#14099543-5569-4dff-a613-8cddd11db263"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Inngangsport - Datadeling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

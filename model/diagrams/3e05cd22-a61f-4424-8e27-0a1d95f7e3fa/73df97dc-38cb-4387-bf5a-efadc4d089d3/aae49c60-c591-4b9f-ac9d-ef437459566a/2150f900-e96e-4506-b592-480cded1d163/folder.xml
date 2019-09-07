@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fellesløsninger"
-    id="2150f900-e96e-4506-b592-480cded1d163"/>
+    id="2150f900-e96e-4506-b592-480cded1d163">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Fellesløsninger"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

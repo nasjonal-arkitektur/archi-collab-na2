@@ -12,7 +12,8 @@
       key="difi:language"
       value="en"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Autentisere bruker"/>
   <properties
       key="difi:name_en"
       value="User Authentication"/>

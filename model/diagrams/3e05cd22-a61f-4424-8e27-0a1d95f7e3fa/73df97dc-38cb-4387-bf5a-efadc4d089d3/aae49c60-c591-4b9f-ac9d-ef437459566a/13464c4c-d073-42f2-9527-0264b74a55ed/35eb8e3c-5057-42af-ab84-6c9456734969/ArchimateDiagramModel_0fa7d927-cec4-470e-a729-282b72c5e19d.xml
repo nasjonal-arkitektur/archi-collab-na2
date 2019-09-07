@@ -298,4 +298,18 @@
         xsi:type="archimate:Grouping"
         href="Grouping_d3a935e9-cf67-408f-a305-278cf8e6f25a.xml#d3a935e9-cf67-408f-a305-278cf8e6f25a"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="DMBOK2 Reference and Master Data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

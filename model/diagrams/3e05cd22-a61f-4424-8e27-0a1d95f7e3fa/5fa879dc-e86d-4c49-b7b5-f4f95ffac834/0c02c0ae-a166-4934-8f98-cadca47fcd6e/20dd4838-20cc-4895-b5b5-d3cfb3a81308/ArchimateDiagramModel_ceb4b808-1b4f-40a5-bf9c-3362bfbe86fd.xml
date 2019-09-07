@@ -286,4 +286,18 @@
         xsi:type="archimate:Contract"
         href="Contract_48be3c08-79a5-458c-8ee7-4c8966d57e3f.xml#48be3c08-79a5-458c-8ee7-4c8966d57e3f"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Fremgangsmåte for tilgang til data (copy)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

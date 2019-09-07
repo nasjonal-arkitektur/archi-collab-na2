@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Prosjekter"
-    id="5fa879dc-e86d-4c49-b7b5-f4f95ffac834"/>
+    id="5fa879dc-e86d-4c49-b7b5-f4f95ffac834">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Prosjekter"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

@@ -1,6 +1,6 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Structured information"
+    name="Strukturert informasjion"
     id="22aab2cf-12ab-4c4e-9039-d459f398c77c">
   <properties
       key="dct:type"
@@ -16,7 +16,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Structured information"/>
+      value="Strukturert informasjion"/>
   <properties
       key="difi:name_en"
       value="Structured information"/>

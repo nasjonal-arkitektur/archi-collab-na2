@@ -7,11 +7,25 @@
       xsi:type="archimate:DiagramModelNote"
       id="d298a0e8-c2ca-4314-b7a5-b6039b5192cc"
       textAlignment="1"
-      content="Se egendatabase/modell: TOG SOA RA">
+      content="Se egen database/modell: TOG SOA RA">
     <bounds
         x="108"
         y="96"
         width="160"
         height="83"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="The Open Group SOA RA"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

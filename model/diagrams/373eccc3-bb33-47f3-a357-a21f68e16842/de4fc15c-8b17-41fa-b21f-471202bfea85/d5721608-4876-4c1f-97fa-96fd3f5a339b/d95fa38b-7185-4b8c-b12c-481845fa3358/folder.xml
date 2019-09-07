@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Prosesser"
-    id="d95fa38b-7185-4b8c-b12c-481845fa3358"/>
+    id="d95fa38b-7185-4b8c-b12c-481845fa3358">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Prosesser"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

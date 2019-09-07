@@ -1224,4 +1224,18 @@
         xsi:type="archimate:Grouping"
         href="Grouping_55ebd603-1ce8-447f-b651-d38dbc7e8b35.xml#55ebd603-1ce8-447f-b651-d38dbc7e8b35"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Metadatakatalog RA"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

@@ -1425,6 +1425,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f57573e7-6355-4972-8e85-cb5aa2ca1968"
         font="1|Arial|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
+        fontColor="#ff0000"
         lineColor="#000000"
         fillColor="#f5deaa"
         textPosition="1">
@@ -1599,4 +1600,6 @@
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

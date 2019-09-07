@@ -1,0 +1,31 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eDelivery trust"
+    id="7b083b9d-4dd0-4194-81b5-a981afd4bda3"
+    documentation="The eDelivery Trust is what holds an eDelivery community together. A PKI serves as the &quot;ticket&quot; for the a participants belonging to a specific eDelivery. When sending a message to another participant in the eDelivery community, the PKI must accompany the message as proof that this message was from a participant in the eDelivery community.&#xD;&#xA;&#xD;&#xA;This Trust Establishment Model is based on using a single PKI issuing Certificate for all members of a Trust Domain (TD). The PKI may be a hierarchical one, having different sub CAs for different types of Trust Services Providers (TSPs) allocated to the Trust Domain.&#xD;&#xA;&#xD;&#xA;__&#xD;&#xA;&#xD;&#xA;eDelivery Trust defines the overall Trust circle between Sending Enterprise and Receiving Enterprise. It also specifies how the implementation of a virtual eDelivery community.&#xD;&#xA;&#xD;&#xA;The Certificate of the Virtual Community Trust (ABB-eDelivery_Trust) is added to the Message and a Message Exchange (ABB-Message_Exchange) with a Receiver is performed. As a Receiver the receives the Message through the Message Exchange (ABB-Message_Exchange) and the Certificate of the Virtual Community Trust (ABB-eDelivery_Trust) is verified.&#xD;&#xA;&#xD;&#xA;Access point&#xD;&#xA;&#xD;&#xA;Adds the Virtual Community Trust (ABB-eDelivery_Trust) to the eDocument&#xD;&#xA;&#xD;&#xA;Verifies the Virtual Community Trust (ABB-eDelivery_Trust) to the eDocument">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="eDelivery trust"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="The eDelivery Trust is what holds an eDelivery community together. A PKI serves as the &quot;ticket&quot; for the a participants belonging to a specific eDelivery. When sending a message to another participant in the eDelivery community, the PKI must accompany the message as proof that this message was from a participant in the eDelivery community.&#xD;&#xA;&#xD;&#xA;This Trust Establishment Model is based on using a single PKI issuing Certificate for all members of a Trust Domain (TD). The PKI may be a hierarchical one, having different sub CAs for different types of Trust Services Providers (TSPs) allocated to the Trust Domain.&#xD;&#xA;&#xD;&#xA;__&#xD;&#xA;&#xD;&#xA;eDelivery Trust defines the overall Trust circle between Sending Enterprise and Receiving Enterprise. It also specifies how the implementation of a virtual eDelivery community.&#xD;&#xA;&#xD;&#xA;The Certificate of the Virtual Community Trust (ABB-eDelivery_Trust) is added to the Message and a Message Exchange (ABB-Message_Exchange) with a Receiver is performed. As a Receiver the receives the Message through the Message Exchange (ABB-Message_Exchange) and the Certificate of the Virtual Community Trust (ABB-eDelivery_Trust) is verified.&#xD;&#xA;&#xD;&#xA;Access point&#xD;&#xA;&#xD;&#xA;Adds the Virtual Community Trust (ABB-eDelivery_Trust) to the eDocument&#xD;&#xA;&#xD;&#xA;Verifies the Virtual Community Trust (ABB-eDelivery_Trust) to the eDocument"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Capability>

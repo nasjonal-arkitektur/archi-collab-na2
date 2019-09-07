@@ -3,6 +3,33 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="realizes"
     id="a7d89e39-4cfe-488d-b22d-d8f3460de5d3">
+  <properties
+      key="dct:type"
+      value="archi:realization-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="metamodel"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="realizes"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [lang:${property:difi:language}]"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_b2b054ea-fdc2-46cd-8821-f2fd0cb57d9f.xml#b2b054ea-fdc2-46cd-8821-f2fd0cb57d9f"/>

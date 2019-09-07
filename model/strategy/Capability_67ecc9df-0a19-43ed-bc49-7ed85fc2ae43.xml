@@ -17,7 +17,8 @@
       key="difi:name_en"
       value="Service Offering Management"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Forvalte tjenestetilbud"/>
   <properties
       key="difi:description_en"/>
   <properties

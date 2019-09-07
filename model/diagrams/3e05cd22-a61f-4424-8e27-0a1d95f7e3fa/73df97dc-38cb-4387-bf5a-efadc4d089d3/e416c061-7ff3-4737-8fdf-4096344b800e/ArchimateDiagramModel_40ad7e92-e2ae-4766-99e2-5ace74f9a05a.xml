@@ -196,4 +196,18 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_ab904f94-37d8-4569-98b2-b8fe29ff0197.xml#ab904f94-37d8-4569-98b2-b8fe29ff0197"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Standarder, informasjonsforvaltning"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

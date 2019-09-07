@@ -12,7 +12,8 @@
       key="difi:language"
       value="en"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Slå opp  kompetent myndighet"/>
   <properties
       key="difi:name_en"
       value="Competent Authority Lookup"/>

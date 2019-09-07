@@ -211,4 +211,6 @@
       value="Tjeneste for å registrere og vedlikeholde API-definisjoner og scopes i Maskinporten."/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

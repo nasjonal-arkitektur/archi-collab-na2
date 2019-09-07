@@ -1,4 +1,29 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Eksponere grensesnitt"
-    id="2b3362bc-3521-49c4-9784-0b787f4fa37b"/>
+    id="2b3362bc-3521-49c4-9784-0b787f4fa37b">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Eksponere grensesnitt"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Capability>

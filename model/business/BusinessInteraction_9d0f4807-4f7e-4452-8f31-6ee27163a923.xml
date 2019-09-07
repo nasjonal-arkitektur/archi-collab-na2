@@ -1,0 +1,29 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oversende informasjon mellom to parter med uavhengige prosesser"
+    id="9d0f4807-4f7e-4452-8f31-6ee27163a923">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="3. Oversende informasjon mellom to parter (uavhengige prosesser) "/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-interaction"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+</archimate:BusinessInteraction>

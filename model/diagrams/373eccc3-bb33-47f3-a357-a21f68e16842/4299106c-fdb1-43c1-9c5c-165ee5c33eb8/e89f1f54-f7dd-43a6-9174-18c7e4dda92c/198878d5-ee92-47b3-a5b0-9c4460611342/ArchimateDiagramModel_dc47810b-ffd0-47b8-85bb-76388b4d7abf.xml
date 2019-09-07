@@ -250,6 +250,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="56c8a85c-2808-45e5-9c82-20e746963930"
         targetConnections="a6b59d68-53a8-4d6a-bce5-e8f3d4fe6b34 a39fcdf0-acf7-4f16-8bd5-7fe2d8ab9cac 6f650809-3b03-4180-9d6f-ab608fc20de3"
+        fillColor="#c0c0c0"
         textPosition="1">
       <bounds
           x="180"
@@ -267,7 +268,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="97e891fe-58da-4a30-9b10-f7a2d4ccc492"
-      targetConnections="97c50577-4858-4ea2-9ef0-54b2af337021 175c0e6e-8252-40c6-b099-36dc310b7576">
+      targetConnections="97c50577-4858-4ea2-9ef0-54b2af337021 175c0e6e-8252-40c6-b099-36dc310b7576"
+      textPosition="1">
     <bounds
         x="84"
         y="144"
@@ -279,7 +281,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="1152c7fa-cc7f-4938-b18d-2fa9be698282">
+      id="1152c7fa-cc7f-4938-b18d-2fa9be698282"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="d2c09cc7-1769-4124-ae80-2813bb26a584"
@@ -341,7 +344,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="38dbed8c-f27f-4707-af25-aa6961d585b6"
-      targetConnections="b88607e8-e899-4bb7-b48e-13411491459e">
+      targetConnections="b88607e8-e899-4bb7-b48e-13411491459e"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="175c0e6e-8252-40c6-b099-36dc310b7576"
@@ -384,7 +388,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="d3856248-1253-4af3-a51b-9d5d8ae03bff">
+      id="d3856248-1253-4af3-a51b-9d5d8ae03bff"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="1d9b84e1-4565-4a4a-ac3f-ad3fe473b62b"
@@ -415,4 +420,6 @@
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

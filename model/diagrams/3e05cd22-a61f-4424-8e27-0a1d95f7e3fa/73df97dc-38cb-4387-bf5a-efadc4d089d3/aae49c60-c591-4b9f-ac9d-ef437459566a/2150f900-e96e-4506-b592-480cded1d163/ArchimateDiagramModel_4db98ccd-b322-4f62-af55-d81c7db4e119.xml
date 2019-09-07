@@ -120,4 +120,18 @@
         xsi:type="archimate:Grouping"
         href="Grouping_3e4f139d-5a5d-41c9-b25a-067d28df2c11.xml#3e4f139d-5a5d-41c9-b25a-067d28df2c11"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Fellesløsninger til vurdering"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

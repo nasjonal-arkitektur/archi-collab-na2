@@ -1,6 +1,6 @@
 <archimate:BusinessInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1. Garantert leveranse av informasjon til annen kjent part. Avsender skal være trygg på at mottager får informasjonen. Mottager behøver ikke informasjonen umiddelbart. "
+    name="4. Forespørsel om informasjon mellom to parter med «umiddelbar» respons (prosess hos en part er avhengig av informasjon fra annen part for å fortsette)  "
     id="ac917656-7b4e-4185-91cf-c2eb28c29f5d">
   <properties
       key="difi:namespace"
@@ -22,5 +22,5 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
 </archimate:BusinessInteraction>

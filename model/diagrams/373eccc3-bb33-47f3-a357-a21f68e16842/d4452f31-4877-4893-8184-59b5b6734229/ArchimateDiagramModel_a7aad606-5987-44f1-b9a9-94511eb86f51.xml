@@ -478,4 +478,6 @@
       value="Eksemplene er ikke uttømmende"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

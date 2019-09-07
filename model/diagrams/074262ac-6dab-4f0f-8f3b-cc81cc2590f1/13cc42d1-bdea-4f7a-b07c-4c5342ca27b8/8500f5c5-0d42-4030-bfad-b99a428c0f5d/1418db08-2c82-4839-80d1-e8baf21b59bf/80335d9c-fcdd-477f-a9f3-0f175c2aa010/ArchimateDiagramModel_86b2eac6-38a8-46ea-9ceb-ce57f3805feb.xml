@@ -364,4 +364,18 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_fa461d98-d788-4b5c-b345-06a22856b64f.xml#fa461d98-d788-4b5c-b345-06a22856b64f"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Used EIRA concepts"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

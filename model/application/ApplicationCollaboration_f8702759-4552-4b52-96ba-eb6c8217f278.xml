@@ -1,4 +1,32 @@
 <archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Collaborating Component ABBs"
-    id="f8702759-4552-4b52-96ba-eb6c8217f278"/>
+    id="f8702759-4552-4b52-96ba-eb6c8217f278">
+  <properties
+      key="dct:type"
+      value="archi:application-collaboration"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="metamodel"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Collaborating Component ABBs"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [lang:${property:difi:language}]"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
+</archimate:ApplicationCollaboration>

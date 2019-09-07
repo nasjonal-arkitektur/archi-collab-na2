@@ -28,15 +28,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b57273bc-1f4c-4c5a-803b-b690d829217a">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="821c36f7-393d-4cff-b25c-ab3374f53ded"
-        source="b57273bc-1f4c-4c5a-803b-b690d829217a"
-        target="6499596d-0627-4481-b16c-c7ca3611d52b">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_b12367ca-dd23-4376-9a59-1e4d1dbfc1ee.xml#b12367ca-dd23-4376-9a59-1e4d1dbfc1ee"/>
-    </sourceConnections>
     <bounds
         x="888"
         y="60"
@@ -50,15 +41,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="498e8433-6793-46c7-b96c-203c313e1e2a"
       targetConnections="9a58484a-d5c9-43ee-bf01-984419684add">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="06dc87a7-22b3-47a5-bcd0-509a02c72cb2"
-        source="498e8433-6793-46c7-b96c-203c313e1e2a"
-        target="6499596d-0627-4481-b16c-c7ca3611d52b">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_143b60ba-5aca-4500-9803-68f346e378d9.xml#143b60ba-5aca-4500-9803-68f346e378d9"/>
-    </sourceConnections>
     <bounds
         x="480"
         y="192"
@@ -239,7 +221,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6499596d-0627-4481-b16c-c7ca3611d52b"
-      targetConnections="821c36f7-393d-4cff-b25c-ab3374f53ded 2b95f8c2-df40-46c4-ae0f-3f7aef31358f 4532253c-2337-416c-bb1a-953612dfac43 b8570f8b-dbcd-4f9a-ba5e-1cb4f36ad5d0 06dc87a7-22b3-47a5-bcd0-509a02c72cb2 32a70c63-7578-429c-98c3-cb0debe43cea">
+      targetConnections="32a70c63-7578-429c-98c3-cb0debe43cea">
     <bounds
         x="684"
         y="192"
@@ -274,15 +256,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cb2978a8-ebf2-4ed8-826d-4576e6a114c8">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="b8570f8b-dbcd-4f9a-ba5e-1cb4f36ad5d0"
-        source="cb2978a8-ebf2-4ed8-826d-4576e6a114c8"
-        target="6499596d-0627-4481-b16c-c7ca3611d52b">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_b18c2b1c-4d8d-4b84-a41f-4cf623b583cb.xml#b18c2b1c-4d8d-4b84-a41f-4cf623b583cb"/>
-    </sourceConnections>
     <bounds
         x="888"
         y="144"
@@ -295,15 +268,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="90bb24da-abb9-4517-8da0-7ae855d05bf4">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="4532253c-2337-416c-bb1a-953612dfac43"
-        source="90bb24da-abb9-4517-8da0-7ae855d05bf4"
-        target="6499596d-0627-4481-b16c-c7ca3611d52b">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_43ae6324-f9a8-4f58-b874-885253d0fe80.xml#43ae6324-f9a8-4f58-b874-885253d0fe80"/>
-    </sourceConnections>
     <bounds
         x="888"
         y="312"
@@ -340,15 +304,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="23ebf502-d2e2-4762-b7c3-79f73a93d1b9">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="2b95f8c2-df40-46c4-ae0f-3f7aef31358f"
-        source="23ebf502-d2e2-4762-b7c3-79f73a93d1b9"
-        target="6499596d-0627-4481-b16c-c7ca3611d52b">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_d5b1b055-3a54-4bbc-bb38-c4938aa4e35f.xml#d5b1b055-3a54-4bbc-bb38-c4938aa4e35f"/>
-    </sourceConnections>
     <bounds
         x="888"
         y="228"
@@ -514,4 +469,18 @@
         xsi:type="archimate:DataObject"
         href="DataObject_61f29d88-8878-4674-aeec-d8062bd684c4.xml#61f29d88-8878-4674-aeec-d8062bd684c4"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Komplisert bilde om data og informasjon"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>
