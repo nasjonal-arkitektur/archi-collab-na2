@@ -245,7 +245,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="97f8e10a-bd5d-45ea-abd1-e4ee3a59db46"
         targetConnections="71030bcb-3862-4c0d-8b61-c6d53b017d3d"
-        fontColor="#ff0000"
+        fontColor="#000000"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -269,7 +269,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="fdcdf569-fa7c-4fd8-a849-0d0fd5e93892"
         targetConnections="b6a56faf-07f6-4524-b249-9cd9d77a52fd 1d3beb2f-94f9-4aea-8544-920cfddc3a05 e40099d7-3139-4550-abd4-76f2080d8a67"
-        fontColor="#ff0000"
+        fontColor="#000000"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -330,7 +330,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="d19771a8-45ba-4197-9859-fac8dab34578"
         targetConnections="e9105d3a-ea97-4680-a94d-38c1251236e9"
-        fontColor="#ff0000"
+        fontColor="#000000"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -353,17 +353,6 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_c8c37088-923f-490f-9943-3e0f42ee935c.xml#c8c37088-923f-490f-9943-3e0f42ee935c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="8e181b8a-b333-4152-935e-61bd9d715a84"
-      textAlignment="1"
-      content="+ EIRA Legal Athority&#xD;&#xA;">
-    <bounds
-        x="1068"
-        y="264"
-        width="185"
-        height="80"/>
   </children>
   <properties
       key="difi:language"
