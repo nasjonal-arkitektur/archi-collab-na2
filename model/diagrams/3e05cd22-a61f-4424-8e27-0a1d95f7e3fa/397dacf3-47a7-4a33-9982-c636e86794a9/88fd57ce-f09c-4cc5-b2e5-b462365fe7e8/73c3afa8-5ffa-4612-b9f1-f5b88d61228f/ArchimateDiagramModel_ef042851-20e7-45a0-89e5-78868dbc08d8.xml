@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hva er data"
     id="ef042851-20e7-45a0-89e5-78868dbc08d8"
-    documentation="Hva er _data_? &#xD;&#xA;&#xD;&#xA;Hva er _data_ i forhold til _informasjon_? Hva er forholdet mellom data og dokumenter? Hva er _datasett_? Hva menes med _bevis_ og _eBevis_?&#xD;&#xA;&#xD;&#xA;Disse begrepene benyttes på ulike måter og kan lett misforstås. Her gjøres noen presiseringer i tilknytning til nasjonale referansearkitekurer (Norge). &#xD;&#xA;&#xD;&#xA;NOTE: Archimate-standarden skiller mellom konseptuelle data (Business Object), logiske data (Data Object)  og fysiske data  (Artifact).&#xD;&#xA;&#xD;&#xA;Iflg. https://en.wikipedia.org/wiki/Data: Data and information or knowledge are often used interchangeably; however data becomes information when it is viewed in context or in post-analysis.&#xD;&#xA;&#xD;&#xA;Iflg. https://no.wikipedia.org/wiki/Data: Data er det materielle (eller fysiske) grunnlaget for å tilføre mennesker informasjon. Data er dermed det materielle grunnlaget for å overføre informasjon og kunnskap mellom mennesker ved kommunikasjon. Data kan registreres, lagres, behandles og flyttes av menneskeskapte innretninger som kalles datasystemer.&#xD;&#xA;&#xD;&#xA;I tilknytning til nasjonale referansearkitekturer for datautveksling benyttes begrepet _data_ heller enn _informasjon_, så langt det gir mening. Det skilles likevel mellom data og informasjon i visse sammenhenger. Det gir f.eks. mening å si _informasjonssikkerhet_, mens en snakker om _sikring av data_ for å oppnå _informasjonssikkerhet_.&#xD;&#xA;&#xD;&#xA;Data kan finnes med større eller mindre grad av struktur, og det er en flytende overgang mellom ustrukturerte og strukturerte data. Med nyere teknologier innen maskinlæring kan en også tolke og gi struktur og mening til data som en tidligere har definert som ustrukturert. &#xD;&#xA;&#xD;&#xA;Data kan samles i _datasett_. &#xD;&#xA;&#xD;&#xA;Vi skiller på den logiske representasjonen av _datasett_ og den fysiske representasjonen i form av _datasettdistrubusjoner_ (ut fra begrepet _distribution_ i DCAT-standarden).  Det er den fysiske forekomsten av data i ulike systemer som vi må sikre og ha oversikt over, enten det dreier seg om data som er lagret over tid eller data som er i bevegelse mellom systemer i form av _meldinger_.&#xD;&#xA;&#xD;&#xA;Begrepet _dokument_ benyttes tilsvarende om &quot;logiske dokumenter&quot;, mens den fysiske representasjonen kan variere i ulike _dokumentdistribusjoner_.&#xD;&#xA;&#xD;&#xA;En fysisk dokumentdistribusjon kan fungere som _bevis_, gitt at innholdet er tilstrekkelig sikret (integritet, ikkebenektelse). &#xD;&#xA;&#xD;&#xA;Begrepet _melding_ brukes om data som er på vei mellom &#xD;&#xA;Meldingsutveksling er en viktig mekanisme for  datautveksling.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+    documentation="Hva er _data_? &#xD;&#xA;&#xD;&#xA;Hva er _data_ i forhold til _informasjon_? Hva er forholdet mellom data og dokumenter? Hva er _datasett_? Hva menes med _bevis_ og _eBevis_?&#xD;&#xA;&#xD;&#xA;Disse begrepene benyttes på ulike måter og kan lett misforstås. Her gjøres noen presiseringer i tilknytning til nasjonale referansearkitekurer (Norge). &#xD;&#xA;&#xD;&#xA;Iflg. https://en.wikipedia.org/wiki/Data: Data and information or knowledge are often used interchangeably; however data becomes information when it is viewed in context or in post-analysis.&#xD;&#xA;&#xD;&#xA;Iflg. https://no.wikipedia.org/wiki/Data: Data er det materielle (eller fysiske) grunnlaget for å tilføre mennesker informasjon. Data er dermed det materielle grunnlaget for å overføre informasjon og kunnskap mellom mennesker ved kommunikasjon. Data kan registreres, lagres, behandles og flyttes av menneskeskapte innretninger som kalles datasystemer.&#xD;&#xA;&#xD;&#xA;NOTE: Archimate-standarden skiller mellom konseptuelle data (Business Object), logiske data (Data Object)  og fysiske data  (Artifact). Et slikt skille kan være nyttig.&#xD;&#xA;&#xD;&#xA;I tilknytning til nasjonale referansearkitekturer for datautveksling benyttes begrepet _data_ heller enn _informasjon_, så langt det gir mening. Det skilles likevel mellom data og informasjon i visse sammenhenger. Det gir f.eks. mening å si _informasjonssikkerhet_, mens en snakker om _sikring av data_ for å oppnå _informasjonssikkerhet_.&#xD;&#xA;&#xD;&#xA;Data kan finnes med større eller mindre grad av struktur, og det er en flytende overgang mellom ustrukturerte, semistrukturerte og strukturerte data. Med nyere teknologier innen maskinlæring kan en også tolke og gi struktur og mening til data som en tidligere har definert som ustrukturerte. &#xD;&#xA;&#xD;&#xA;Data kan samles i _datasett_. Vi skiller mellom logiske  _datasett_ og den fysiske representasjonen i form av _datasettdistrubusjoner_ (ut fra begrepet _distribution_ i DCAT-standarden).  Det er den fysiske forekomsten av data i ulike systemer som vi må sikre og ha oversikt over, enten det dreier seg om data som er lagret over tid eller data som er i bevegelse mellom systemer i form av _meldinger_.&#xD;&#xA;&#xD;&#xA;Begrepet _dokument_ benyttes tilsvarende om &quot;logiske dokumenter&quot;, mens den fysiske representasjonen kan variere i ulike _dokumentdistribusjoner_.&#xD;&#xA;&#xD;&#xA;En fysisk dokumentdistribusjon kan fungere som _bevis_, gitt at innholdet er tilstrekkelig sikret (integritet, ikkebenektelse). &#xD;&#xA;&#xD;&#xA;Meldingsutveksling er en grunnleggende mekanisme for  datautveksling.&#xD;&#xA;&#xD;&#xA;Meldinger er i utgangspunktet i bevegelse og på vei i kommunikasjonssytemer, men kan mellomlagres og logges. &#xD;&#xA;&#xD;&#xA;Lagring av data skjer tradisjonelt ved å lagre hele datasett, men kan også gjøres ved at en lagrer inkrementelle endringer etterhvert som endringene mottas i en strøm av meldinger, eller _hendelsesstrøm_.&#xD;&#xA;&#xD;&#xA;NOTE: Meldinger kan også vises på logisk og konseptuelt nivå (som meldingsspesifikasjon eller som begrep). Dette er ikke vist her.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="8abd32f7-ba3b-418d-9c87-665508d5b792"
@@ -505,6 +505,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_15cf190b-335a-4f4b-b54b-9ce12e083e73.xml#15cf190b-335a-4f4b-b54b-9ce12e083e73"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="3adccd73-b405-41a5-951f-071961d99ce1"
+        source="032a8359-02e9-43ba-8e9a-18f5d9ffc8ef"
+        target="6697b9e7-a36f-40a9-8ec0-966b1b1cbe79">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_64528a52-eadb-4d0d-a92e-7847d5800ee4.xml#64528a52-eadb-4d0d-a92e-7847d5800ee4"/>
+    </sourceConnections>
     <bounds
         x="36"
         y="516"
@@ -524,6 +533,15 @@
             xsi:type="archimate:SpecializationRelationship"
             href="SpecializationRelationship_134ce378-3d71-4ad0-b74e-d6420432faf5.xml#134ce378-3d71-4ad0-b74e-d6420432faf5"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="2f4a25c1-50f4-4939-bf3c-205ed4611740"
+          source="e6f05698-e9ae-4313-8d81-d8cdae9c003e"
+          target="6697b9e7-a36f-40a9-8ec0-966b1b1cbe79">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_02c5842b-471b-42e6-8728-303d1bbac93f.xml#02c5842b-471b-42e6-8728-303d1bbac93f"/>
+      </sourceConnections>
       <bounds
           x="228"
           y="288"
@@ -536,7 +554,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="40b0b841-e60a-4dcf-92d9-37db09923acf"
-        targetConnections="43804c61-6909-4838-b8dd-3968faa57b87 d07efe9f-1848-4a2e-8ba6-69fe489f3f4f 852a553d-1861-490d-a3d8-6b4a1ac820ae"
+        targetConnections="43804c61-6909-4838-b8dd-3968faa57b87 d07efe9f-1848-4a2e-8ba6-69fe489f3f4f 852a553d-1861-490d-a3d8-6b4a1ac820ae a7ea6a03-3e4c-4e4d-9495-bf7ddc7c7b34"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -793,6 +811,29 @@
       <archimateElement
           xsi:type="archimate:Artifact"
           href="Artifact_4a8dd68a-bb33-4fb1-b020-90d5568d977b.xml#4a8dd68a-bb33-4fb1-b020-90d5568d977b"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="6697b9e7-a36f-40a9-8ec0-966b1b1cbe79"
+        targetConnections="3adccd73-b405-41a5-951f-071961d99ce1 2f4a25c1-50f4-4939-bf3c-205ed4611740"
+        textPosition="1">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="a7ea6a03-3e4c-4e4d-9495-bf7ddc7c7b34"
+          source="6697b9e7-a36f-40a9-8ec0-966b1b1cbe79"
+          target="40b0b841-e60a-4dcf-92d9-37db09923acf">
+        <archimateRelationship
+            xsi:type="archimate:SpecializationRelationship"
+            href="SpecializationRelationship_5c8fdc77-42d2-4925-88c0-68830d6060a0.xml#5c8fdc77-42d2-4925-88c0-68830d6060a0"/>
+      </sourceConnections>
+      <bounds
+          x="420"
+          y="288"
+          width="133"
+          height="71"/>
+      <archimateElement
+          xsi:type="archimate:Artifact"
+          href="Artifact_4f33dcc6-b7fb-4eb4-a43f-02d63673883b.xml#4f33dcc6-b7fb-4eb4-a43f-02d63673883b"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
