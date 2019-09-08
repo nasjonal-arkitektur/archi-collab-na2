@@ -1,6 +1,6 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Strukturert informasjion"
+    name="Strukturerte data"
     id="22aab2cf-12ab-4c4e-9039-d459f398c77c">
   <properties
       key="dct:type"
@@ -10,7 +10,7 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="undefined"/>
+      value="abb"/>
   <properties
       key="difi:language"
       value="no"/>
@@ -27,4 +27,7 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
 </archimate:DataObject>

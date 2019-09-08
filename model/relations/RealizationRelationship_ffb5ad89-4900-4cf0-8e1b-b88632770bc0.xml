@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="spesialiserer"
+    id="ffb5ad89-4900-4cf0-8e1b-b88632770bc0">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_ad54df93-4a44-4aed-a52c-eee7de0325a6.xml#ad54df93-4a44-4aed-a52c-eee7de0325a6"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_ad54df93-4a44-4aed-a52c-eee7de0325a6.xml#ad54df93-4a44-4aed-a52c-eee7de0325a6"/>
+</archimate:RealizationRelationship>

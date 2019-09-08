@@ -10,7 +10,7 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="undefined"/>
+      value="abb"/>
   <properties
       key="difi:language"
       value="no"/>
@@ -23,8 +23,12 @@
   <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"/>
+      key="difi:description_en"
+      value="Ref. https://en.wikipedia.org/wiki/Document_(disambiguation): Document is a basic theoretical construct that refers to everything that may be preserved or represented in order to serve as evidence for some purpose."/>
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
 </archimate:DataObject>

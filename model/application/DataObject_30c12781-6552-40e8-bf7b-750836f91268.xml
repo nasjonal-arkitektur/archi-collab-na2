@@ -10,7 +10,7 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="undefined"/>
+      value="abb"/>
   <properties
       key="difi:language"
       value="no"/>
@@ -27,4 +27,7 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
 </archimate:DataObject>

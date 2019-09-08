@@ -25,6 +25,9 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_46dc65db-a488-4cfa-9667-2ed5057fb489.xml#46dc65db-a488-4cfa-9667-2ed5057fb489"/>
