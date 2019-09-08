@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Difi BCP?"
-    id="7394bfe5-220c-4384-bfa4-78e05a2c822f"/>
+    id="7394bfe5-220c-4384-bfa4-78e05a2c822f"
+    documentation="Business Certificate Publisher"/>
