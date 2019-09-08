@@ -22,8 +22,7 @@
       key="difi:name_no"
       value="Garanti for versjon, kilde og integritet "/>
   <properties
-      key="difi:name_en"
-      value="Legal admissibility of electronic documents"/>
+      key="difi:name_en"/>
   <properties
       key="difi:description_no"/>
   <properties
