@@ -1,0 +1,32 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autentisering av web-steder"
+    id="fa80aa5e-ed26-458c-ae7e-8bad9ca7385a"
+    documentation="Trusted information on a website (e.g. a certificate) which allows users to verify the authenticity of the website and its link to the entity/person owning the website.&#xD;&#xA;&#xD;&#xA;Relevant ifm. API-kall.">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Autentisering av web-steder"/>
+  <properties
+      key="difi:name_en"
+      value="Website authentication"/>
+  <properties
+      key="difi:description_no"
+      value="Trusted information on a website (e.g. a certificate) which allows users to verify the authenticity of the website and its link to the entity/person owning the website"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Capability>

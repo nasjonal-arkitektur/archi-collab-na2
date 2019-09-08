@@ -44,15 +44,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="9395ff0d-e8fc-4ed5-950c-673f37d2edc5"
-        source="594c8644-5578-4ff4-830d-673bf99ccd62"
-        target="d622c45c-0771-4e07-9350-d3031d4b7cef">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_5b1e41ac-6cfc-4d28-9ad1-c8879180a3ba.xml#5b1e41ac-6cfc-4d28-9ad1-c8879180a3ba"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="d55c0563-95f5-4df5-9d1d-43dffb3995fc"
         source="594c8644-5578-4ff4-830d-673bf99ccd62"
         target="ed01b9a4-8357-44a0-aed4-d72708259993">
@@ -168,20 +159,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="d622c45c-0771-4e07-9350-d3031d4b7cef"
-        targetConnections="c7d9bfb2-0e42-488c-9e30-b2dfa04a3f72 9395ff0d-e8fc-4ed5-950c-673f37d2edc5"
-        textPosition="1">
-      <bounds
-          x="84"
-          y="336"
-          width="133"
-          height="71"/>
-      <archimateElement
-          xsi:type="archimate:Capability"
-          href="Capability_58c0d0a7-066b-482c-bcdf-cfbf2093b220.xml#58c0d0a7-066b-482c-bcdf-cfbf2093b220"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="ed01b9a4-8357-44a0-aed4-d72708259993"
         targetConnections="d55c0563-95f5-4df5-9d1d-43dffb3995fc"
         textPosition="1">
@@ -252,15 +229,6 @@
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_ec76361c-4f9d-4d43-beea-2c220b8e7f33.xml#ec76361c-4f9d-4d43-beea-2c220b8e7f33"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="c7d9bfb2-0e42-488c-9e30-b2dfa04a3f72"
-          source="ed01b9a4-8357-44a0-aed4-d72708259993"
-          target="d622c45c-0771-4e07-9350-d3031d4b7cef">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_fd06131f-fa04-4e62-83e6-7ae25460e5b8.xml#fd06131f-fa04-4e62-83e6-7ae25460e5b8"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -363,4 +331,30 @@
         xsi:type="archimate:Capability"
         href="Capability_b85c9319-fad4-40e8-b3a3-440995f1386b.xml#b85c9319-fad4-40e8-b3a3-440995f1386b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c1b753ee-1652-4589-886e-cf5c3ab4316d">
+    <bounds
+        x="84"
+        y="336"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_ec89f22f-8357-4a90-bb3b-773933a8101f.xml#ec89f22f-8357-4a90-bb3b-773933a8101f"/>
+  </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Dataforvaltning områder (DMBOK)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

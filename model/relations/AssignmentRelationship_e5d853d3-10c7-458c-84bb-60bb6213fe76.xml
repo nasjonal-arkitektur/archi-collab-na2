@@ -1,13 +1,13 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="assignment"
     id="e5d853d3-10c7-458c-84bb-60bb6213fe76">
   <properties
       key="difi:namespace"
       value="-"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="assignment"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -22,7 +22,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
   <source
       xsi:type="archimate:BusinessCollaboration"
       href="BusinessCollaboration_2346484f-ea14-4383-8167-c179954cc08c.xml#2346484f-ea14-4383-8167-c179954cc08c"/>

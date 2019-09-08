@@ -40,4 +40,18 @@
         xsi:type="archimate:DataObject"
         href="DataObject_eb68c8ca-f2d3-4bab-a04e-e662fcf737cf.xml#eb68c8ca-f2d3-4bab-a04e-e662fcf737cf"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Business objects related to data exchange"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

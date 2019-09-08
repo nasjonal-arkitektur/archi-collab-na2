@@ -1,4 +1,32 @@
 <archimate:BusinessCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Collaborative Business Process"
-    id="5bfdebef-63f8-4952-a756-df3df8981289"/>
+    name="Collaborative Business Process ABB"
+    id="5bfdebef-63f8-4952-a756-df3df8981289">
+  <properties
+      key="dct:type"
+      value="archi:business-collaboration"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="metamodel"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Collaborative Business Process"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [lang:${property:difi:language}]"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
+</archimate:BusinessCollaboration>

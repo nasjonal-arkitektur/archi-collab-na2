@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Brukersystem"
+    name="Tjenestetilbyder"
     id="401b2e14-225a-4021-a23b-9c8500e65a2c">
   <properties
       key="difi:namespace"
@@ -22,5 +22,8 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:BusinessRole>

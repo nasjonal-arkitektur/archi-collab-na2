@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Avtale direkte mellom tilbyder og konsument"
+    name="Avtale mellom tilbyder og felles representant"
     id="e0fc1b3f-8c67-4bae-b66b-0ff4c7174c22">
   <properties
       key="difi:namespace"
@@ -22,5 +22,8 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:BusinessObject>

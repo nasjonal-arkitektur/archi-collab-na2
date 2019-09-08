@@ -229,6 +229,24 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_f4843fb9-f0ad-4a3f-8754-c33828028305.xml#f4843fb9-f0ad-4a3f-8754-c33828028305"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="8780bac5-ddfc-4c3d-a57f-4a9f5b5082a7"
+        source="3556fd86-5de7-4fbd-8b2a-3d81326678d3"
+        target="dee8d148-92cd-4a2c-bce7-2ae60fc1e9f2">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_6a42d8a3-c51c-4cdc-b00a-013e7b6831c6.xml#6a42d8a3-c51c-4cdc-b00a-013e7b6831c6"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="290b265e-a1f8-4fce-b369-8b079add22d9"
+        source="3556fd86-5de7-4fbd-8b2a-3d81326678d3"
+        target="a2efffa9-58cf-4233-9970-790c35f68b7c">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_5f0d4b9c-4c41-43bf-9873-6b8157519321.xml#5f0d4b9c-4c41-43bf-9873-6b8157519321"/>
+    </sourceConnections>
     <bounds
         x="300"
         y="108"
@@ -337,7 +355,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="2d023491-42de-4357-8219-9f4ebdf4c638"
         targetConnections="1b044bc7-812e-4cc6-9521-e39aeba2e528"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         textPosition="1">
       <bounds
           x="168"
@@ -380,4 +398,45 @@
         xsi:type="archimate:Capability"
         href="Capability_01d83735-595d-4f7b-8b29-594326bee620.xml#01d83735-595d-4f7b-8b29-594326bee620"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="dee8d148-92cd-4a2c-bce7-2ae60fc1e9f2"
+      targetConnections="8780bac5-ddfc-4c3d-a57f-4a9f5b5082a7"
+      textPosition="1">
+    <bounds
+        x="697"
+        y="189"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_ec89f22f-8357-4a90-bb3b-773933a8101f.xml#ec89f22f-8357-4a90-bb3b-773933a8101f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a2efffa9-58cf-4233-9970-790c35f68b7c"
+      targetConnections="290b265e-a1f8-4fce-b369-8b079add22d9">
+    <bounds
+        x="697"
+        y="287"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_ce968246-fc4f-4d58-901a-c2ebb6601b71.xml#ce968246-fc4f-4d58-901a-c2ebb6601b71"/>
+  </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="DMBOK2 Data Integration and Interoperability"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

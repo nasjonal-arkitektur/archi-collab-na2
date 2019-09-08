@@ -355,4 +355,6 @@
       value="https://www.nav.no/no/NAV+og+samfunn/Kunnskap/Analyser+fra+NAV/Analyser/navs-omverdensanalyse-2019"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

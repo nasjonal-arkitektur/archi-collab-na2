@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hendelsesstrømming"
-    id="a7c95ea5-b642-4813-b473-202adc2ab114"/>
+    id="a7c95ea5-b642-4813-b473-202adc2ab114">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Hendelsesstrømming"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

@@ -1,0 +1,31 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eForsegling"
+    id="10568998-0642-4fec-8f6e-2dee5addbc6c"
+    documentation="The electronic equivalent of a seal or stamp which is applied on a document to guarantee its origin and integrity">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="eForsegling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="The electronic equivalent of a seal or stamp which is applied on a document to guarantee its origin and integrity"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Capability>

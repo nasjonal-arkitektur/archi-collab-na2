@@ -1,0 +1,38 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisation"
+    id="fba516c9-acbf-4a4a-a697-b1a7ecfd1cdf"
+    documentation="DESCRIPTION:&#xD;&#xA;An Organisation is an entity that provides and/or consumes Public Services. Organisations here [in new EIF] means public administration units or any entity acting on their behalf, or EU institutions or bodies. Public Organization: Any organization that is defined as being part of the public sector by a legal framework at any level. &#xD;&#xA;&#xD;&#xA;Based on the New EIF and the ISA2 Core Vocabularies&#xD;&#xA;http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF&#xD;&#xA;https://joinup.ec.europa.eu/asset/cpov/asset_release/core-public-organisation-vocabulary-v100#download-links  &#xD;&#xA;&#xD;&#xA;Syn. Institution, body&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Organisation ABB is salient for organisation interoperability because organisations can play the role both of providers of Public Services (mainly Public Administrations) and consumers of Public Services (Public Administration or businesses), as stated in the EIF: &quot;A European public service comprises any public sector service exposed to a cross-border dimension and supplied by public administrations, either to one another or to businesses and citizens in the Union.&quot; &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;AFIS - Europol organisation&#xD;&#xA;Europol is the European Union’s law enforcement agency. Its main goal is to achieve a safer Europe for the benefit of all the EU citizens.&#xD;&#xA;https://www.europol.europa.eu/ &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB7"/>
+  <properties
+      key="dct:type"
+      value="eira:Organisation"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Organisation"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;An Organisation is an entity that provides and/or consumes Public Services. Organisations here [in new EIF] means public administration units or any entity acting on their behalf, or EU institutions or bodies. Public Organization: Any organization that is defined as being part of the public sector by a legal framework at any level. &#xD;&#xA;&#xD;&#xA;Based on the New EIF and the ISA2 Core Vocabularies&#xD;&#xA;http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF&#xD;&#xA;https://joinup.ec.europa.eu/asset/cpov/asset_release/core-public-organisation-vocabulary-v100#download-links  &#xD;&#xA;&#xD;&#xA;Syn. Institution, body&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Organisation ABB is salient for organisation interoperability because organisations can play the role both of providers of Public Services (mainly Public Administrations) and consumers of Public Services (Public Administration or businesses), as stated in the EIF: &quot;A European public service comprises any public sector service exposed to a cross-border dimension and supplied by public administrations, either to one another or to businesses and citizens in the Union.&quot; &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;AFIS - Europol organisation&#xD;&#xA;Europol is the European Union’s law enforcement agency. Its main goal is to achieve a safer Europe for the benefit of all the EU citizens.&#xD;&#xA;https://www.europol.europa.eu/ &#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessActor>

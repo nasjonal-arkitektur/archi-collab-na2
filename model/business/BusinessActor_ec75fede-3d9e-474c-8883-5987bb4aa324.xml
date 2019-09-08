@@ -1,0 +1,38 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citizen"
+    id="ec75fede-3d9e-474c-8883-5987bb4aa324"
+    documentation="DESCRIPTION:&#xD;&#xA;A person who is a member of a particular country and who has rights because of being born there or because of being given rights, or a person who lives in a particular town or city.&#xD;&#xA;Every national of a Member State shall be a citizen of the Union. Citizenship of the Union shall be additional to national citizenship and shall not replace it (Treaty of Maastricht on European Union, Title II Provisions on democratic principles, article 8).&#xD;&#xA;The main difference between the two (European citizenship and citizenship of a Member State) is that the rights that citizens enjoy as a result of European citizenship are not matched with duties. Legal basis: Articles 9 to 12 TEU and 18 to 25 TFEU (European Parliament).&#xD;&#xA;The additional rights EU citizenship confers are detailed at http://ec.europa.eu/justice/citizen/index_en.htm (European Commission).&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Citizen ABB is salient for organisation interoperability because citizens can play the role of consumers of Public Services, as stated in the EIF: &quot;A European public service comprises any public sector service exposed to a cross-border dimension and supplied by public administrations, either to one another or to businesses and citizens in the Union.&quot;&#xD;&#xA;&#xD;&#xA;Based on EUR-Lex, Europa web site and the Cambridge Dictionary&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C:2007:306:FULL&amp;from=EN&#xD;&#xA;http://www.europarl.europa.eu/atyourservice/en/displayFtu.html?ftuId=FTU_2.1.1.html&#xD;&#xA;http://dictionary.cambridge.org/dictionary/english/citizen &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;EUROPASS2 - EU citizen&#xD;&#xA;Every national of a Member State shall be a citizen of the Union.&#xD;&#xA;http://europass.cedefop.europa.eu/europass-and-you ">
+  <properties
+      key="ID"
+      value="ABB8"/>
+  <properties
+      key="dct:type"
+      value="eira:Citizen"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Citizen"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;A person who is a member of a particular country and who has rights because of being born there or because of being given rights, or a person who lives in a particular town or city.&#xD;&#xA;Every national of a Member State shall be a citizen of the Union. Citizenship of the Union shall be additional to national citizenship and shall not replace it (Treaty of Maastricht on European Union, Title II Provisions on democratic principles, article 8).&#xD;&#xA;The main difference between the two (European citizenship and citizenship of a Member State) is that the rights that citizens enjoy as a result of European citizenship are not matched with duties. Legal basis: Articles 9 to 12 TEU and 18 to 25 TFEU (European Parliament).&#xD;&#xA;The additional rights EU citizenship confers are detailed at http://ec.europa.eu/justice/citizen/index_en.htm (European Commission).&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Citizen ABB is salient for organisation interoperability because citizens can play the role of consumers of Public Services, as stated in the EIF: &quot;A European public service comprises any public sector service exposed to a cross-border dimension and supplied by public administrations, either to one another or to businesses and citizens in the Union.&quot;&#xD;&#xA;&#xD;&#xA;Based on EUR-Lex, Europa web site and the Cambridge Dictionary&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C:2007:306:FULL&amp;from=EN&#xD;&#xA;http://www.europarl.europa.eu/atyourservice/en/displayFtu.html?ftuId=FTU_2.1.1.html&#xD;&#xA;http://dictionary.cambridge.org/dictionary/english/citizen &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;EUROPASS2 - EU citizen&#xD;&#xA;Every national of a Member State shall be a citizen of the Union.&#xD;&#xA;http://europass.cedefop.europa.eu/europass-and-you "/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessActor>

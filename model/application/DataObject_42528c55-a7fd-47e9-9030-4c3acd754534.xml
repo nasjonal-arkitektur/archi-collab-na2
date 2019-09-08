@@ -8,10 +8,10 @@
       value="archi:data-object"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="dcat"/>
   <properties
       key="difi:abstractionLevel"
-      value="undefined"/>
+      value="instance"/>
   <properties
       key="difi:language"
       value="no"/>

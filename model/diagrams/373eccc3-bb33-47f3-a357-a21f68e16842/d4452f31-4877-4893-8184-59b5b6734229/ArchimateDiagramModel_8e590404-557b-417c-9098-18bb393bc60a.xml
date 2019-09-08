@@ -850,4 +850,6 @@
       value="Oversikt over (virksomhetsinterne og felles) kataloger, og kopling til kapabiliteter (for å ha oversikter)"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

@@ -669,4 +669,18 @@
         xsi:type="archimate:BusinessCollaboration"
         href="BusinessCollaboration_f8dcb005-3693-4e11-90aa-c0e11f3143c8.xml#f8dcb005-3693-4e11-90aa-c0e11f3143c8"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Overordnet konsept, datadeling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

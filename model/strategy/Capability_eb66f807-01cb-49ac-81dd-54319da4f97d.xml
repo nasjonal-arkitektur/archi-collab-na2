@@ -4,7 +4,7 @@
     id="eb66f807-01cb-49ac-81dd-54319da4f97d">
   <properties
       key="difi:namespace"
-      value="eirabased"/>
+      value="difi"/>
   <properties
       key="difi:name_no"
       value="Datautveksling"/>
@@ -20,8 +20,11 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

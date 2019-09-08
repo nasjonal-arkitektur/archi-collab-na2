@@ -26,7 +26,7 @@
       value="archi:specialization-relationship"/>
   <source
       xsi:type="archimate:Capability"
-      href="Capability_03177331-5c11-41f6-9be1-8490c620df06.xml#03177331-5c11-41f6-9be1-8490c620df06"/>
+      href="Capability_473d6c02-7417-4ae9-91f0-7c832216dd04.xml#473d6c02-7417-4ae9-91f0-7c832216dd04"/>
   <target
       xsi:type="archimate:Capability"
       href="Capability_1d685a75-2a6a-4344-b426-9a670cc798bb.xml#1d685a75-2a6a-4344-b426-9a670cc798bb"/>

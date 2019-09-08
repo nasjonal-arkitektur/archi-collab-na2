@@ -173,4 +173,18 @@
         xsi:type="archimate:Capability"
         href="Capability_41d44569-c42d-4f83-9577-630e46831292.xml#41d44569-c42d-4f83-9577-630e46831292"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="DMBOK2 Essential Conceopts"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

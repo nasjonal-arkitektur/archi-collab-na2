@@ -15,4 +15,18 @@
         xsi:type="archimate:Resource"
         href="Resource_7b9b14b1-a255-42af-9f94-dad05da69f10.xml#7b9b14b1-a255-42af-9f94-dad05da69f10"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Document and Content Management"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

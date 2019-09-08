@@ -1,5 +1,31 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Delegering av rettigheter"
+    name="Delegere rettigheter"
     id="3b627c5f-3c45-41c2-acd0-2847b140db6a"
-    documentation="Evne til å delegere en rettighet til en annen aktør feks. en driftslevereandør på en slik måte at dette kan etterprøves.&#xD;&#xA;Registrering og kontroll av representasjonsforhold. Trenger ikke være begrenset til virksomheter men også omfatter f.eks. foreldre-barn relasjon, vergemål, bobestyrer osv.&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="Evne til å delegere en rettighet til en annen aktør feks. en driftslevereandør på en slik måte at dette kan etterprøves.&#xD;&#xA;Registrering og kontroll av representasjonsforhold. Trenger ikke være begrenset til virksomheter men også omfatter f.eks. foreldre-barn relasjon, vergemål, bobestyrer osv.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Delegere rettigheter"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Evne til å delegere en rettighet til en annen aktør feks. en driftslevereandør på en slik måte at dette kan etterprøves.&#xD;&#xA;Registrering og kontroll av representasjonsforhold. Trenger ikke være begrenset til virksomheter men også omfatter f.eks. foreldre-barn relasjon, vergemål, bobestyrer osv.&#xD;&#xA;&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Capability>

@@ -39,4 +39,10 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
 </archimate:DataObject>

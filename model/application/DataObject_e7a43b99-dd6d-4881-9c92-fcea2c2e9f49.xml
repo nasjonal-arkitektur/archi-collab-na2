@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datasett"
     id="e7a43b99-dd6d-4881-9c92-fcea2c2e9f49"
-    documentation="A collection of data, published or curated by a single agent, and available for access or download in one or more representations. Ref. https://w3c.github.io/dxwg/dcat/#Class:Dataset">
+    documentation="Iflg. https://w3c.github.io/dxwg/dcat/#Class:Dataset : A collection of data, published or curated by a single agent, and available for access or download in one or more representations.&#xD;&#xA;&#xD;&#xA;Et datasett kan inneholde eller lenkes til andre datasett. &#xD;&#xA;&#xD;&#xA;Oppbyggingen av datasett, samt relasjoner melom datasett, uttrykkes i datamodeller.">
   <properties
       key="dct:type"
       value="archi:data-object"/>
@@ -11,7 +11,7 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="undefined"/>
+      value="abb"/>
   <properties
       key="difi:language"
       value="no"/>
@@ -29,4 +29,7 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
 </archimate:DataObject>

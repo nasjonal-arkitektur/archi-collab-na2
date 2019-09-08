@@ -1,6 +1,6 @@
 <archimate:ApplicationInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Asynkron melding mellom to parter"
+    name="eOppslag"
     id="693f5f7c-e03c-4c74-a286-750faa75ec4b">
   <properties
       key="difi:namespace"
@@ -22,5 +22,5 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
 </archimate:ApplicationInteraction>

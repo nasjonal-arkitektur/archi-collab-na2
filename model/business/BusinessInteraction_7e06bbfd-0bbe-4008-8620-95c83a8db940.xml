@@ -1,6 +1,6 @@
 <archimate:BusinessInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Samhandlingsmønster, datautveksling"
+    name="Business Interaction"
     id="7e06bbfd-0bbe-4008-8620-95c83a8db940">
   <properties
       key="difi:namespace"
@@ -22,5 +22,5 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
 </archimate:BusinessInteraction>

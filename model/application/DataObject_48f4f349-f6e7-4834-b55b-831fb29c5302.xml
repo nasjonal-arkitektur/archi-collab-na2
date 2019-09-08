@@ -1,6 +1,6 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Unstructured information"
+    name="Ustrukturerte data"
     id="48f4f349-f6e7-4834-b55b-831fb29c5302">
   <properties
       key="dct:type"
@@ -10,13 +10,13 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="undefined"/>
+      value="abb"/>
   <properties
       key="difi:language"
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Unstructured information"/>
+      value="Ustrukturert informasjion"/>
   <properties
       key="difi:name_en"
       value="Unstructured information"/>
@@ -27,4 +27,7 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
 </archimate:DataObject>

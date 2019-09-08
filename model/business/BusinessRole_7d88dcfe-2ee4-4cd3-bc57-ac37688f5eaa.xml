@@ -1,0 +1,40 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Provider"
+    id="7d88dcfe-2ee4-4cd3-bc57-ac37688f5eaa"
+    documentation="DESCRIPTION:&#xD;&#xA;Any natural or legal person or public entity or group of such persons and/or bodies which offers the execution of public services.&#xD;&#xA;&#xD;&#xA;Based on IATE definition (definition of service producer, entry Economics, Taxation [Council])&#xD;&#xA;http://iate.europa.eu/ &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Service Provider ABB is salient for organisational interoperability because it is one of the main actors involved in the interoperability of the public service as stated in the EIF: &quot;&quot;Service orientation, upon which the conceptual model for public services is conceived, means that the relationship between service providers and service consumers must be clearly defined. EIF Recommendation 29 also suggests:&#xD;&#xA;&quot;Clarify and formalise your organisational relationships for establishing and operating European public services.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Ecolabel - Member State Competent Body &#xD;&#xA;The Competent Body is the independent organisation responsible for assessing, awarding, and managing EU Ecolabel applications and licences on the national level. The Competent Body provides guidance on the documents needed for the dossier, such as declarations, data sheets, and test results. Recommendations on product testing laboratories that are ISO 17025 accredited or equivalent are shared, along with any relevant technical expertise needed to complete the application.&#xD;&#xA;Upon application approval, the Competent Body issues the contract and licence upon approving the application. This contract sets out the services or range of products covered within the licence, including any trade names or manufacturer’s internal reference numbers. It will also lay out the terms of use of the EU Ecolabel, following the standard contract in Annex IV of the Regulation (EC) No 66/2010 of 25 November 2009. Once the contract has been signed, a certificate can be asked for/will be sent, depending on the Competent Body. This certificate will detail: the licence number that can be used with the EU Ecolabel logo; the legal name of the applicant; the services or range of products awarded the EU Ecolabel; all relevant trade names under which the product is sold or the service is marketed. The Competent Body will give the final validation on when the EU Ecolabel logo and the licence number can be used on the EU Ecolabel services and products that have met the criteria.&#xD;&#xA;http://ec.europa.eu/environment/ecolabel/how-to-apply-for-eu-ecolabel.html   &#xD;&#xA;http://ec.europa.eu/environment/ecolabel/competent-bodies.html#be &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB174"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicServiceProvider"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:unit_in_DG"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Public Service Provider"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Any natural or legal person or public entity or group of such persons and/or bodies which offers the execution of public services.&#xD;&#xA;&#xD;&#xA;Based on IATE definition (definition of service producer, entry Economics, Taxation [Council])&#xD;&#xA;http://iate.europa.eu/ &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Service Provider ABB is salient for organisational interoperability because it is one of the main actors involved in the interoperability of the public service as stated in the EIF: &quot;&quot;Service orientation, upon which the conceptual model for public services is conceived, means that the relationship between service providers and service consumers must be clearly defined. EIF Recommendation 29 also suggests:&#xD;&#xA;&quot;Clarify and formalise your organisational relationships for establishing and operating European public services.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Ecolabel - Member State Competent Body &#xD;&#xA;The Competent Body is the independent organisation responsible for assessing, awarding, and managing EU Ecolabel applications and licences on the national level. The Competent Body provides guidance on the documents needed for the dossier, such as declarations, data sheets, and test results. Recommendations on product testing laboratories that are ISO 17025 accredited or equivalent are shared, along with any relevant technical expertise needed to complete the application.&#xD;&#xA;Upon application approval, the Competent Body issues the contract and licence upon approving the application. This contract sets out the services or range of products covered within the licence, including any trade names or manufacturer’s internal reference numbers. It will also lay out the terms of use of the EU Ecolabel, following the standard contract in Annex IV of the Regulation (EC) No 66/2010 of 25 November 2009. Once the contract has been signed, a certificate can be asked for/will be sent, depending on the Competent Body. This certificate will detail: the licence number that can be used with the EU Ecolabel logo; the legal name of the applicant; the services or range of products awarded the EU Ecolabel; all relevant trade names under which the product is sold or the service is marketed. The Competent Body will give the final validation on when the EU Ecolabel logo and the licence number can be used on the EU Ecolabel services and products that have met the criteria.&#xD;&#xA;http://ec.europa.eu/environment/ecolabel/how-to-apply-for-eu-ecolabel.html   &#xD;&#xA;http://ec.europa.eu/environment/ecolabel/competent-bodies.html#be &#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+</archimate:BusinessRole>

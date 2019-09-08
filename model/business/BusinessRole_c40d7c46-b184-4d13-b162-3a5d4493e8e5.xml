@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:business-role"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:BusinessRole>

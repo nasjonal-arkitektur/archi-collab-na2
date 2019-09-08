@@ -23,4 +23,10 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Product>

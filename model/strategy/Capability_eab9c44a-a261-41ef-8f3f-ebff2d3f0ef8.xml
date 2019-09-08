@@ -17,7 +17,8 @@
       key="difi:name_en"
       value="Consent Collection"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Innhente samtykke"/>
   <properties
       key="difi:description_en"/>
   <properties

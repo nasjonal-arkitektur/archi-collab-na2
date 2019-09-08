@@ -1,7 +1,6 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="serving"
     id="6404db69-2ca5-4148-9f09-eeec215630f1">
   <properties
       key="difi:namespace"
@@ -22,7 +21,10 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_30edfb19-461f-4a0b-806b-31eec4b8e307.xml#30edfb19-461f-4a0b-806b-31eec4b8e307"/>

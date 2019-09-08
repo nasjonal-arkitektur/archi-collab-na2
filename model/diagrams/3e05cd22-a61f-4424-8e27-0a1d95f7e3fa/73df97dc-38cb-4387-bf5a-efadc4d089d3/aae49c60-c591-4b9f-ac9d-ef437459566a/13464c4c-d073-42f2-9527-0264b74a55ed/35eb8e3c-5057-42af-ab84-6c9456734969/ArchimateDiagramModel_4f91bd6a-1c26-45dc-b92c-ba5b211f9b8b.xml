@@ -1,4 +1,19 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DMBOK2 Metadata"
-    id="4f91bd6a-1c26-45dc-b92c-ba5b211f9b8b"/>
+    id="4f91bd6a-1c26-45dc-b92c-ba5b211f9b8b">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="DMBOK2 Metadata"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
+</archimate:ArchimateDiagramModel>

@@ -7,10 +7,10 @@
       value="archi:business-role"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="difi"/>
   <properties
       key="difi:language"
-      value="en"/>
+      value="no"/>
   <properties
       key="difi:name_no"
       value="Formidler"/>
@@ -24,4 +24,7 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:BusinessRole>

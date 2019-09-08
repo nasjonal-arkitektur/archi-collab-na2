@@ -293,4 +293,6 @@
       value="* sad&#xD;&#xA;* asdsadsasadsad"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

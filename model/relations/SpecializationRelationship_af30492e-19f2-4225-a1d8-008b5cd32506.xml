@@ -1,7 +1,6 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="specialization"
     id="af30492e-19f2-4225-a1d8-008b5cd32506">
   <properties
       key="difi:namespace"
@@ -23,6 +22,12 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
   <source
       xsi:type="archimate:Product"
       href="Product_01403775-ce32-4fa0-8eac-572abd407fe4.xml#01403775-ce32-4fa0-8eac-572abd407fe4"/>

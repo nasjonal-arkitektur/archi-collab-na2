@@ -690,4 +690,6 @@
       value="Standarder og spesifikasjoner som finnes eller som ikke ennå finnes men som trengs, for å kunne oppnå semantisk interoperabitet"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

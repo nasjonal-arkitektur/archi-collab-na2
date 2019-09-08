@@ -1,0 +1,41 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Administration"
+    id="42306299-8f05-4b52-a7a4-f7f40ac292c3"
+    documentation="DESCRIPTION:&#xD;&#xA;A state, regional or local authority governed by public law or an association formed by one or several such authorities or a private entity mandated by at least one of those authorities or associations to provide public services, when acting under such a mandate.&#xD;&#xA;&#xD;&#xA;Source: Connecting Europe Facility (CEF), eIDAS regulation&#xD;&#xA;https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/CEF+Definitions &#xD;&#xA;&#xD;&#xA;Syn. Public institution, public body&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Administration ABB is salient for organisation interoperability because Public Administrations can play the role both of providers and consumers of Public Services, as stated in the EIF: &quot;A European public service comprises any public sector service exposed to a cross-border dimension and supplied by public administrations, either to one another or to businesses and citizens in the Union.&quot; &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;EWRS – ECHA&#xD;&#xA;The European Chemicals Agency (ECHA) is the driving force among regulatory authorities in implementing the EU's ground breaking chemicals legislation for the benefit of human health and the environment as well as for innovation and competitiveness.&#xD;&#xA;https://echa.europa.eu/about-us &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB172"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicAdministration"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:spatial"
+      value="[ EU | National | Sub-national | Worldwide ]"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Public Administration"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;A state, regional or local authority governed by public law or an association formed by one or several such authorities or a private entity mandated by at least one of those authorities or associations to provide public services, when acting under such a mandate.&#xD;&#xA;&#xD;&#xA;Source: Connecting Europe Facility (CEF), eIDAS regulation&#xD;&#xA;https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/CEF+Definitions &#xD;&#xA;&#xD;&#xA;Syn. Public institution, public body&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Public Administration ABB is salient for organisation interoperability because Public Administrations can play the role both of providers and consumers of Public Services, as stated in the EIF: &quot;A European public service comprises any public sector service exposed to a cross-border dimension and supplied by public administrations, either to one another or to businesses and citizens in the Union.&quot; &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;EWRS – ECHA&#xD;&#xA;The European Chemicals Agency (ECHA) is the driving force among regulatory authorities in implementing the EU's ground breaking chemicals legislation for the benefit of human health and the environment as well as for innovation and competitiveness.&#xD;&#xA;https://echa.europa.eu/about-us &#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessActor>

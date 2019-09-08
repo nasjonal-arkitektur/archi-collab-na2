@@ -209,4 +209,18 @@
         xsi:type="archimate:Capability"
         href="Capability_399dbce1-f2bf-4f58-a96f-b8b9db12b0cc.xml#399dbce1-f2bf-4f58-a96f-b8b9db12b0cc"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="verdistrøm"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>
