@@ -111,15 +111,6 @@
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="025977ac-b63f-4b68-a93e-df411c6ed33f"
-        source="70d656b7-dba2-4e96-988f-e4a702f3a4a6"
-        target="afbb86ba-8a6b-46ed-bc0d-a47ca0a90681">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_3c056e03-fee6-4ef6-b28a-3f5ecd0676b0.xml#3c056e03-fee6-4ef6-b28a-3f5ecd0676b0"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="0b2056fc-ce66-42c7-bd84-53446050e4bb"
         source="70d656b7-dba2-4e96-988f-e4a702f3a4a6"
         target="bc16f849-fa3a-4cdc-b1a5-677d11329046">
@@ -132,19 +123,6 @@
         y="779"
         width="217"
         height="140"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="afbb86ba-8a6b-46ed-bc0d-a47ca0a90681"
-        targetConnections="025977ac-b63f-4b68-a93e-df411c6ed33f">
-      <bounds
-          x="24"
-          y="48"
-          width="169"
-          height="73"/>
-      <archimateElement
-          xsi:type="archimate:BusinessInteraction"
-          href="BusinessInteraction_57fa2c20-c7cb-4a72-98a6-cbb5bfb671a2.xml#57fa2c20-c7cb-4a72-98a6-cbb5bfb671a2"/>
-    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_2016cef9-87db-49f9-9b27-bebb7a5412c2.xml#2016cef9-87db-49f9-9b27-bebb7a5412c2"/>
@@ -644,6 +622,18 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_aa30d232-3bcf-4969-a022-c66e93a80ec5.xml#aa30d232-3bcf-4969-a022-c66e93a80ec5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="22459372-ac12-42f5-ab24-a226007ad8e0">
+    <bounds
+        x="24"
+        y="48"
+        width="169"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:BusinessInteraction"
+        href="BusinessInteraction_ac917656-7b4e-4185-91cf-c2eb28c29f5d.xml#ac917656-7b4e-4185-91cf-c2eb28c29f5d"/>
   </children>
   <properties
       key="difi:language"

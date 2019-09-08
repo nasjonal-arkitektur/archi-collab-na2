@@ -2,6 +2,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="48ff8b5f-f4cd-43cf-ab30-7fea0c60788f">
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="label"
+      value="${name}"/>
   <source
       xsi:type="archimate:Capability"
       href="Capability_f93c0051-8c61-4d8e-bf9d-edbb1b3cfd2d.xml#f93c0051-8c61-4d8e-bf9d-edbb1b3cfd2d"/>

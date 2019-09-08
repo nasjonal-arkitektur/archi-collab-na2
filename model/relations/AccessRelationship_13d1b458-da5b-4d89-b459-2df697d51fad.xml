@@ -2,10 +2,33 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="13d1b458-da5b-4d89-b459-2df697d51fad">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:access-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_8a5de78e-0b6f-449f-af00-6ce15fbbca00.xml#8a5de78e-0b6f-449f-af00-6ce15fbbca00"/>
   <target
-      xsi:type="archimate:DataObject"
-      href="DataObject_fc5b368b-06e2-416b-bdac-171d3f6f9dbf.xml#fc5b368b-06e2-416b-bdac-171d3f6f9dbf"/>
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_d841b0c1-3a0b-4c8a-b8ac-75ba9f3c2ecf.xml#d841b0c1-3a0b-4c8a-b8ac-75ba9f3c2ecf"/>
 </archimate:AccessRelationship>

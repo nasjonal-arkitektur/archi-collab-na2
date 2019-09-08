@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lover og regler"
+    id="0c0805d8-83f8-4239-a489-8b27ac1d144c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="00638832-9e05-4787-997e-f74d9a65d9a1"
+      type="1">
+    <bounds
+        x="99"
+        y="90"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_244d0729-54ac-456e-a161-94f50f4e85f4.xml#244d0729-54ac-456e-a161-94f50f4e85f4"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -6,4 +6,29 @@
   <properties
       key="drill down"
       value="71c012c6-bb1f-43c1-9bfe-91e376a48ec8"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Data Integration and Interoperability"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Data Integration and Interoperability includes processes related to the movement and consolidation of data within and between data stores, applications, and organizations."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
 </archimate:Capability>

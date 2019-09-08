@@ -19,11 +19,14 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:${property:difi:language}]"/>
   <properties
       key="dct:type"
       value="archi:capability"/>
   <properties
       key="drill down"
       value="6ba2856a-47dd-4972-998f-b2feec678139"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

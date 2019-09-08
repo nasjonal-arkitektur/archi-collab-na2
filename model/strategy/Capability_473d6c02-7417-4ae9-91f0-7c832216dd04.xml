@@ -4,7 +4,7 @@
     id="473d6c02-7417-4ae9-91f0-7c832216dd04">
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:capability"/>

@@ -18,19 +18,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="1f82f16e-86ef-48e9-b20d-53d3decf3d88"
-      targetConnections="47698bed-f0d6-4b7b-b6dc-bafe841c93f5">
-    <bounds
-        x="72"
-        y="300"
-        width="217"
-        height="109"/>
-    <archimateElement
-        xsi:type="archimate:BusinessInteraction"
-        href="BusinessInteraction_57fa2c20-c7cb-4a72-98a6-cbb5bfb671a2.xml#57fa2c20-c7cb-4a72-98a6-cbb5bfb671a2"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="1a63ab6b-3108-479d-834a-fcdcef1d98a3"
       targetConnections="0ba7260c-12b2-44ad-8a32-e31824c845b9">
     <bounds
@@ -315,15 +302,6 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_f959b88f-3cc4-4ed3-978b-4887cf85d253.xml#f959b88f-3cc4-4ed3-978b-4887cf85d253"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="47698bed-f0d6-4b7b-b6dc-bafe841c93f5"
-        source="462243c8-ef03-490b-a21c-caf01dccd19a"
-        target="1f82f16e-86ef-48e9-b20d-53d3decf3d88">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_e703996f-12cd-48ef-955f-9c59fd12183f.xml#e703996f-12cd-48ef-955f-9c59fd12183f"/>
-    </sourceConnections>
     <bounds
         x="393"
         y="300"
@@ -568,6 +546,18 @@
     <archimateElement
         xsi:type="archimate:BusinessInteraction"
         href="BusinessInteraction_9f1a8d83-950b-4c73-86d5-f349f79d9752.xml#9f1a8d83-950b-4c73-86d5-f349f79d9752"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4d948792-88af-408b-8e05-5a49256c8501">
+    <bounds
+        x="72"
+        y="300"
+        width="217"
+        height="109"/>
+    <archimateElement
+        xsi:type="archimate:BusinessInteraction"
+        href="BusinessInteraction_ac917656-7b4e-4185-91cf-c2eb28c29f5d.xml#ac917656-7b4e-4185-91cf-c2eb28c29f5d"/>
   </children>
   <properties
       key="difi:language"

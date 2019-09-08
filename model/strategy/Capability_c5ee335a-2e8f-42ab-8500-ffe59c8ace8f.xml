@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Avtalehåndtering"
     id="c5ee335a-2e8f-42ab-8500-ffe59c8ace8f"
-    documentation="Evne til å inngå og håndtere avtaler om tilganger, tjenestekvalitet mv. inkludert behandlingsgrunnlag, merkantile forhold og bruksvilkår.">
+    documentation="Evne til å inngå og håndtere avtaler om tilganger, tjenestekvalitet mv. inkludert behandlingsgrunnlag, merkantile forhold og bruksvilkår. Alle samhandlinglag skal dekkes, dvs. juridisk, organisatorisk semantisk og teknisk.">
   <properties
       key="label"
       value="${name}"/>

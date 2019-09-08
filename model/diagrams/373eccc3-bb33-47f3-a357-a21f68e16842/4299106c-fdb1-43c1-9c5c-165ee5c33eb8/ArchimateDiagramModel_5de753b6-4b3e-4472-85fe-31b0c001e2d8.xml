@@ -363,18 +363,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="00ccfef8-ac8d-4fed-9127-ca91e7b020ff">
-    <bounds
-        x="864"
-        y="216"
-        width="130"
-        height="60"/>
-    <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_1cf1c7e4-cbac-4c19-bd24-6d4a707c00e1.xml#1cf1c7e4-cbac-4c19-bd24-6d4a707c00e1"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="3e10edea-55b5-4098-9b36-3ba2084eeb5e"
       fontColor="#0080ff">
     <bounds
@@ -497,6 +485,19 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_3207d6b7-860b-4966-8ed9-19d72bd8194f.xml#3207d6b7-860b-4966-8ed9-19d72bd8194f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b4cbef52-addc-441a-a6df-5abcfcad1666"
+      textPosition="1">
+    <bounds
+        x="900"
+        y="210"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_473d6c02-7417-4ae9-91f0-7c832216dd04.xml#473d6c02-7417-4ae9-91f0-7c832216dd04"/>
   </children>
   <properties
       key="difi:language"

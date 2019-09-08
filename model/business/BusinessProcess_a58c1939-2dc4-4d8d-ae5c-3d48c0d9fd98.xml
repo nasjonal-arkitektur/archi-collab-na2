@@ -1,4 +1,29 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Utfør databehandling og ta vare på data for bevis og gjenbruk"
-    id="a58c1939-2dc4-4d8d-ae5c-3d48c0d9fd98"/>
+    id="a58c1939-2dc4-4d8d-ae5c-3d48c0d9fd98">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-process"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Utfør databehandling og ta vare på data for bevis og gjenbruk"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:BusinessProcess>
