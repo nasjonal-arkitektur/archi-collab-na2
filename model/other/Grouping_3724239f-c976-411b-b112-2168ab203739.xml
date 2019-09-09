@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Personvern"
-    id="3724239f-c976-411b-b112-2168ab203739"/>
+    id="3724239f-c976-411b-b112-2168ab203739"
+    documentation="Privacy Service shares the functionalities of storing, securing, anonymising, pseudonymising, rectifying and erasing personal data."/>

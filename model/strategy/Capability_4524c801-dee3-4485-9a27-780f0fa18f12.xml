@@ -1,13 +1,13 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Autentisere"
+    name="Autentisere samhandlingsaktør"
     id="4524c801-dee3-4485-9a27-780f0fa18f12">
   <properties
       key="difi:namespace"
-      value="eirabased"/>
+      value="difi"/>
   <properties
       key="difi:name_no"
-      value="Autentisere"/>
+      value="Autentisere samhandlingsaktør"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:capability"/>
