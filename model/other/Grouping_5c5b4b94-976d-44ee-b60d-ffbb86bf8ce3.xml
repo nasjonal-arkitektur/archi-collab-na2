@@ -1,8 +1,0 @@
-<archimate:Grouping
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Runtime"
-    id="5c5b4b94-976d-44ee-b60d-ffbb86bf8ce3">
-  <properties
-      key="label"
-      value="${name} [lang:${property:difi:language}]"/>
-</archimate:Grouping>

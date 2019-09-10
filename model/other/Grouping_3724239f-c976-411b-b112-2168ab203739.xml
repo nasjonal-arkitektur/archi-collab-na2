@@ -2,4 +2,30 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Personvern"
     id="3724239f-c976-411b-b112-2168ab203739"
-    documentation="Privacy Service shares the functionalities of storing, securing, anonymising, pseudonymising, rectifying and erasing personal data."/>
+    documentation="Privacy Service shares the functionalities of storing, securing, anonymising, pseudonymising, rectifying and erasing personal data.">
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Personvern"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Privacy Service shares the functionalities of storing, securing, anonymising, pseudonymising, rectifying and erasing personal data."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

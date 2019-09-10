@@ -20,11 +20,12 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Semantisk samhandlingsevne"/>
+      value="Tagging med metadata"/>
   <properties
       key="difi:name_en"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Semantisk interoperabilitet krever "/>
   <properties
       key="difi:description_en"/>
 </archimate:Capability>
