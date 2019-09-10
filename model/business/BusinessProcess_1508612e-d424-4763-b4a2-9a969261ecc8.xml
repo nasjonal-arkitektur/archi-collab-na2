@@ -1,4 +1,26 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Validere forsendelse"
-    id="1508612e-d424-4763-b4a2-9a969261ecc8"/>
+    id="1508612e-d424-4763-b4a2-9a969261ecc8">
+  <properties
+      key="dct:type"
+      value="archi:business-process"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Validere forsendelse"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessProcess>

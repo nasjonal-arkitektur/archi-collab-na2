@@ -1,7 +1,6 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="triggering"
     id="dc6396a9-e0fd-4aa4-887c-4cda2e595b76">
   <properties
       key="difi:namespace"
@@ -20,7 +19,7 @@
       value="no"/>
   <properties
       key="label"
-      value=" "/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:triggering-relationship"/>

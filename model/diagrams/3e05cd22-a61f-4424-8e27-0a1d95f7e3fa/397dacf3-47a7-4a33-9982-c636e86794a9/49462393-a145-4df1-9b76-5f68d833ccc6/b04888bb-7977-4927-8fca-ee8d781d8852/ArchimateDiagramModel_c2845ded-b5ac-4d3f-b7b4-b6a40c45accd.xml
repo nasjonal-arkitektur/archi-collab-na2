@@ -31,7 +31,7 @@
     </sourceConnections>
     <bounds
         x="72"
-        y="132"
+        y="120"
         width="133"
         height="71"/>
     <archimateElement
@@ -238,7 +238,7 @@
       targetConnections="854ca6d8-9b53-4dae-88c7-b7b9163e0276">
     <bounds
         x="228"
-        y="132"
+        y="120"
         width="133"
         height="71"/>
     <archimateElement
@@ -251,7 +251,7 @@
       targetConnections="dd52fd71-22eb-456b-9baf-d64b89ea53e2">
     <bounds
         x="372"
-        y="132"
+        y="120"
         width="133"
         height="71"/>
     <archimateElement
@@ -265,7 +265,7 @@
       textPosition="1">
     <bounds
         x="684"
-        y="132"
+        y="120"
         width="133"
         height="71"/>
     <archimateElement
@@ -279,7 +279,7 @@
       textPosition="1">
     <bounds
         x="984"
-        y="132"
+        y="120"
         width="133"
         height="71"/>
     <archimateElement
@@ -293,7 +293,7 @@
       textPosition="1">
     <bounds
         x="840"
-        y="132"
+        y="120"
         width="133"
         height="71"/>
     <archimateElement
@@ -307,7 +307,7 @@
       textPosition="1">
     <bounds
         x="528"
-        y="132"
+        y="120"
         width="133"
         height="71"/>
     <archimateElement

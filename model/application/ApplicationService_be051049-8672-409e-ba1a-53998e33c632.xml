@@ -7,7 +7,7 @@
       value="difi"/>
   <properties
       key="label"
-      value="${name} [abb]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:application-service"/>
