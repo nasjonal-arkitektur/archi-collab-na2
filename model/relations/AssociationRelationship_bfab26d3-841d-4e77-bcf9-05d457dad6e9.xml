@@ -1,10 +1,10 @@
-<archimate:ServingRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="92fbe9d9-233e-4bdb-aa49-5ae7955abcc0">
+    id="bfab26d3-841d-4e77-bcf9-05d457dad6e9">
   <properties
       key="dct:type"
-      value="archi:serving-relationship"/>
+      value="archi:association-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -23,9 +23,9 @@
       key="label"
       value="${name}"/>
   <source
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_8837b7a0-d28b-4fbc-84e3-0aac8bedf25e.xml#8837b7a0-d28b-4fbc-84e3-0aac8bedf25e"/>
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_1fbf4637-708e-48ba-b070-330713e2ff89.xml#1fbf4637-708e-48ba-b070-330713e2ff89"/>
   <target
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_7fae9960-eb0a-4177-96eb-c40e05bbf7e7.xml#7fae9960-eb0a-4177-96eb-c40e05bbf7e7"/>
-</archimate:ServingRelationship>
+      href="BusinessProcess_5b71c388-c7c4-4c4b-9ae1-084bff4afdc2.xml#5b71c388-c7c4-4c4b-9ae1-084bff4afdc2"/>
+</archimate:AssociationRelationship>

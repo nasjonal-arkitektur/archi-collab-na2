@@ -22,5 +22,5 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:${property:difi:language}]"/>
 </archimate:BusinessProcess>

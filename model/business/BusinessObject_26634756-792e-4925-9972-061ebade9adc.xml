@@ -1,4 +1,26 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interoperability specification"
-    id="26634756-792e-4925-9972-061ebade9adc"/>
+    id="26634756-792e-4925-9972-061ebade9adc">
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Interoperability specification"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+</archimate:BusinessObject>

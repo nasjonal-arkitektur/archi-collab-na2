@@ -8,7 +8,7 @@
       id="8b7d138b-b98b-442c-ba54-22aea8b4841d"
       targetConnections="b426f2f2-a4a5-4584-9202-b54ecbcdca26 2589730e-9a3a-4d9d-9f66-feff80320e39">
     <bounds
-        x="132"
+        x="144"
         y="228"
         width="133"
         height="71"/>
@@ -30,8 +30,8 @@
           href="AssociationRelationship_ef58e346-cb41-422f-a20a-728e1862af68.xml#ef58e346-cb41-422f-a20a-728e1862af68"/>
     </sourceConnections>
     <bounds
-        x="132"
-        y="108"
+        x="144"
+        y="84"
         width="133"
         height="71"/>
     <archimateElement
@@ -52,8 +52,8 @@
           href="AssociationRelationship_e412821c-b041-4560-922b-8dfb5b9f0f0c.xml#e412821c-b041-4560-922b-8dfb5b9f0f0c"/>
     </sourceConnections>
     <bounds
-        x="324"
-        y="60"
+        x="336"
+        y="84"
         width="133"
         height="71"/>
     <archimateElement
@@ -111,7 +111,7 @@
     <bounds
         x="312"
         y="192"
-        width="649"
+        width="733"
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -128,7 +128,7 @@
             href="TriggeringRelationship_cac15c57-45d4-41ee-9775-7ede5c5bcc61.xml#cac15c57-45d4-41ee-9775-7ede5c5bcc61"/>
       </sourceConnections>
       <bounds
-          x="336"
+          x="360"
           y="36"
           width="133"
           height="71"/>
@@ -165,7 +165,7 @@
         targetConnections="15e59021-f678-42b4-9f91-20a2bfb3d17d 7279ea19-cf88-4811-a4df-0aa891f0e434 66873a59-0ce4-4a04-b312-92c53039675f 361d0b00-6ae8-4137-beac-dd98e626071e"
         textPosition="1">
       <bounds
-          x="492"
+          x="576"
           y="36"
           width="133"
           height="71"/>
@@ -188,7 +188,7 @@
             href="TriggeringRelationship_7bd6766f-6b45-46ae-ba15-674ee7348680.xml#7bd6766f-6b45-46ae-ba15-674ee7348680"/>
       </sourceConnections>
       <bounds
-          x="180"
+          x="204"
           y="36"
           width="133"
           height="71"/>
@@ -215,7 +215,7 @@
           href="ServingRelationship_cc0e5a5c-99a0-4217-9cde-ddae13419f89.xml#cc0e5a5c-99a0-4217-9cde-ddae13419f89"/>
     </sourceConnections>
     <bounds
-        x="648"
+        x="672"
         y="360"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -236,7 +236,7 @@
           href="ServingRelationship_3982866a-1aab-4290-bbf5-5c362d747e67.xml#3982866a-1aab-4290-bbf5-5c362d747e67"/>
     </sourceConnections>
     <bounds
-        x="264"
+        x="240"
         y="360"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -257,8 +257,8 @@
           href="ServingRelationship_e1fba791-9e9c-4de3-adc5-534f148b7bf4.xml#e1fba791-9e9c-4de3-adc5-534f148b7bf4"/>
     </sourceConnections>
     <bounds
-        x="372"
-        y="444"/>
+        x="384"
+        y="360"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_3207d6b7-860b-4966-8ed9-19d72bd8194f.xml#3207d6b7-860b-4966-8ed9-19d72bd8194f"/>
@@ -278,8 +278,8 @@
           href="ServingRelationship_92fbe9d9-233e-4bdb-aa49-5ae7955abcc0.xml#92fbe9d9-233e-4bdb-aa49-5ae7955abcc0"/>
     </sourceConnections>
     <bounds
-        x="756"
-        y="444"/>
+        x="816"
+        y="360"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_8837b7a0-d28b-4fbc-84e3-0aac8bedf25e.xml#8837b7a0-d28b-4fbc-84e3-0aac8bedf25e"/>
@@ -299,7 +299,7 @@
           href="ServingRelationship_3221fdec-a02c-4450-a652-1713be2a39ff.xml#3221fdec-a02c-4450-a652-1713be2a39ff"/>
     </sourceConnections>
     <bounds
-        x="864"
+        x="960"
         y="360"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -320,7 +320,7 @@
           href="ServingRelationship_ef640c36-726e-45e4-9628-770838899887.xml#ef640c36-726e-45e4-9628-770838899887"/>
     </sourceConnections>
     <bounds
-        x="492"
+        x="528"
         y="360"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"

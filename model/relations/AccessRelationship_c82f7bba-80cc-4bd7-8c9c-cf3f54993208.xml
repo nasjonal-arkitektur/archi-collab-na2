@@ -1,7 +1,6 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="access"
     id="c82f7bba-80cc-4bd7-8c9c-cf3f54993208">
   <properties
       key="difi:namespace"
@@ -20,7 +19,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value=" "/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:access-relationship"/>

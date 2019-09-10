@@ -10,9 +10,6 @@
       key="difi:namespace"
       value="-"/>
   <properties
-      key="difi:abstractionLevel"
-      value="undefined"/>
-  <properties
       key="difi:language"
       value="no"/>
   <properties

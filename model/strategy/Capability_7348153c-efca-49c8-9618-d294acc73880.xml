@@ -24,7 +24,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:${property:difi:language}]"/>
   <properties
       key="dct:type"
       value="archi:capability"/>

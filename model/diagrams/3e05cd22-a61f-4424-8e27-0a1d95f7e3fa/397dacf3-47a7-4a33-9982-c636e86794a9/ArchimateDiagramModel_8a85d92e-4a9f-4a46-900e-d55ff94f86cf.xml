@@ -365,6 +365,17 @@
         width="185"
         height="80"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="a7c60923-8258-4d1e-a132-85d6cb63dd02"
+      textAlignment="1"
+      content="Se på TOOP RA opp mot Formidler og Tiltrodd tredjepart&#xD;&#xA;">
+    <bounds
+        x="1052"
+        y="120"
+        width="185"
+        height="80"/>
+  </children>
   <properties
       key="difi:language"
       value="no"/>

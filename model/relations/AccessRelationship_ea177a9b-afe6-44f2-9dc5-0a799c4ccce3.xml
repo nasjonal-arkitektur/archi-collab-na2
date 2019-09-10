@@ -3,6 +3,26 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="ea177a9b-afe6-44f2-9dc5-0a799c4ccce3"
     accessType="1">
+  <properties
+      key="dct:type"
+      value="archi:access-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_9691edae-b7f7-4d4f-8339-a80a5d986865.xml#9691edae-b7f7-4d4f-8339-a80a5d986865"/>
