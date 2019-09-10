@@ -1,6 +1,7 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="en form for"
     id="e27ebcf4-be7c-45fc-a9fa-6ab7ff7fb058">
   <properties
       key="dct:type"
@@ -22,9 +23,6 @@
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
-  <properties
-      key="label"
-      value="${name}"/>
   <properties
       key="difi:metaLevel"
       value="meta"/>
