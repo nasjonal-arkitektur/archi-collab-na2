@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ELMA"
-    id="949ec5f8-d06f-4d48-978a-c90dcf651980">
+    id="949ec5f8-d06f-4d48-978a-c90dcf651980"
+    documentation="Elektronisk mottakeradresseregister">
   <properties
       key="dct:type"
       value="archi:application-component"/>

@@ -183,9 +183,9 @@
     </sourceConnections>
     <bounds
         x="672"
-        y="144"
+        y="192"
         width="133"
-        height="205"/>
+        height="71"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_0442a2d9-0a27-4aee-ac78-82b12deccf85.xml#0442a2d9-0a27-4aee-ac78-82b12deccf85"/>
@@ -223,9 +223,9 @@
     </sourceConnections>
     <bounds
         x="96"
-        y="144"
+        y="192"
         width="133"
-        height="205"/>
+        height="71"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_c777850b-1ce0-4af0-b1b2-d180411baaca.xml#c777850b-1ce0-4af0-b1b2-d180411baaca"/>

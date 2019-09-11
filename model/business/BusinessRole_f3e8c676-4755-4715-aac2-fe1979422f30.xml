@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mottaker"
     id="f3e8c676-4755-4715-aac2-fe1979422f30"
-    documentation="Aktør som mottar melding">
+    documentation="Den som mottar en melding.">
   <properties
       key="difi:namespace"
       value="na1"/>

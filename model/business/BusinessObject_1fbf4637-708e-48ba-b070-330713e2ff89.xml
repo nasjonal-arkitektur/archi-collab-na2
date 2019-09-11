@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Forsendelse"
-    id="1fbf4637-708e-48ba-b070-330713e2ff89">
+    id="1fbf4637-708e-48ba-b070-330713e2ff89"
+    documentation="Den pakken som sendes til mottaker. Inkluderer forretningsmelding, metadata, adresse etc.">
   <properties
       key="dct:type"
       value="archi:business-object"/>

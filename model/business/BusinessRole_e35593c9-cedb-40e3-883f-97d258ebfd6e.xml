@@ -1,7 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samhandlingsaktør"
-    id="e35593c9-cedb-40e3-883f-97d258ebfd6e">
+    id="e35593c9-cedb-40e3-883f-97d258ebfd6e"
+    documentation="Den som inngår i en samhandlingsprosess og samhandler med en annen samhandlingsaktør. Kan være en tilbyder, konsument, avsender, mottaker, leverandør etc.">
   <properties
       key="label"
       value="${name}"/>

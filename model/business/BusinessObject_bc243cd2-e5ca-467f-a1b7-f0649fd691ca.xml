@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mottakersertifikat"
-    id="bc243cd2-e5ca-467f-a1b7-f0649fd691ca">
+    id="bc243cd2-e5ca-467f-a1b7-f0649fd691ca"
+    documentation="Offentlig nøkkel for bruk til kryptering og validering.">
   <properties
       key="dct:type"
       value="archi:business-object"/>

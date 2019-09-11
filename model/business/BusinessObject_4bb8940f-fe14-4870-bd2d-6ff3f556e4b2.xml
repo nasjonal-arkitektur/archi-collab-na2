@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mottakeradresse"
-    id="4bb8940f-fe14-4870-bd2d-6ff3f556e4b2">
+    id="4bb8940f-fe14-4870-bd2d-6ff3f556e4b2"
+    documentation="Teknsik adresse for hvor meldinger skal sendes. Dette kan være adressen til inet">
   <properties
       key="dct:type"
       value="archi:business-object"/>

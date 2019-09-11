@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Adresseregistrering"
-    id="a3a8c51d-2f44-4733-8dab-e85aa79f1f00">
+    id="a3a8c51d-2f44-4733-8dab-e85aa79f1f00"
+    documentation="Tjeneste for å registrere adresse for å sende melding til mottaker.">
   <properties
       key="dct:type"
       value="archi:application-service"/>

@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interoperability specification"
-    id="26634756-792e-4925-9972-061ebade9adc">
+    id="26634756-792e-4925-9972-061ebade9adc"
+    documentation="Spesifikasjoner for hvordan man samhandler i et fellesskap. Dette kan være meldingsformater, krav til tekniske komponenter etc.">
   <properties
       key="dct:type"
       value="archi:business-object"/>

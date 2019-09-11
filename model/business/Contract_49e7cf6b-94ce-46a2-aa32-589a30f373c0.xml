@@ -1,7 +1,8 @@
 <archimate:Contract
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samhandlingsavtale"
-    id="49e7cf6b-94ce-46a2-aa32-589a30f373c0">
+    id="49e7cf6b-94ce-46a2-aa32-589a30f373c0"
+    documentation="Avtale som regulerer forhold tilknyttet samhandlingen i et fellesskap for eMelding.">
   <properties
       key="dct:type"
       value="archi:contract"/>

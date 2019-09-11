@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kapabilitetsregistrering"
-    id="be051049-8672-409e-ba1a-53998e33c632">
+    id="be051049-8672-409e-ba1a-53998e33c632"
+    documentation="Tjeneste for å registrere kapabiliteter">
   <properties
       key="difi:namespace"
       value="difi"/>

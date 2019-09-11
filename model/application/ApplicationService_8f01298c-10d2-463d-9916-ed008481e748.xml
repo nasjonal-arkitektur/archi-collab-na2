@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Adresseoppslag"
-    id="8f01298c-10d2-463d-9916-ed008481e748">
+    id="8f01298c-10d2-463d-9916-ed008481e748"
+    documentation="Tjeneste for å slå opp adressen til en mottaker.">
   <properties
       key="dct:type"
       value="archi:application-service"/>
