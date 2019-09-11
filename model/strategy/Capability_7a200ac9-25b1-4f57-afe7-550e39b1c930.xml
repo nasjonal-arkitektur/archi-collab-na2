@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Garanti for versjon, kilde og integritet"
+    name="Garanti for versjon, kilde og integritet "
     id="7a200ac9-25b1-4f57-afe7-550e39b1c930"
     documentation="Garanti for versjon, kilde og integritet">
   <properties
@@ -22,10 +22,10 @@
       key="difi:name_no"
       value="Garanti for versjon, kilde og integritet "/>
   <properties
-      key="difi:name_en"
-      value="Legal admissibility of electronic documents"/>
+      key="difi:name_en"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Garanti for versjon, kilde og integritet"/>
   <properties
       key="difi:description_en"
       value="Legal admissibility of electronic documents to ensure their authenticity and integrity"/>

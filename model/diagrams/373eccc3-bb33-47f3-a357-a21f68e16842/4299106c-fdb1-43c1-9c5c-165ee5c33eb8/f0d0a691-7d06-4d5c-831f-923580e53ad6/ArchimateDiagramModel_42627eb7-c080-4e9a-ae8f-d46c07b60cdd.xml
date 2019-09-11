@@ -211,8 +211,8 @@
           href="SpecializationRelationship_853ce2f7-f18f-479b-b857-576fea43ede1.xml#853ce2f7-f18f-479b-b857-576fea43ede1"/>
     </sourceConnections>
     <bounds
-        x="179"
-        y="337"
+        x="168"
+        y="360"
         width="130"
         height="60"/>
     <archimateElement
@@ -514,7 +514,7 @@
       targetConnections="32a5c57e-2fd6-4216-a04f-88f87e595cec">
     <bounds
         x="650"
-        y="491"
+        y="445"
         width="130"
         height="60"/>
     <archimateElement
@@ -703,7 +703,7 @@
       id="539d7f83-758c-4da1-ab25-0b15a455b2bf"
       textPosition="1">
     <bounds
-        x="36"
+        x="12"
         y="300"
         width="133"
         height="71"/>

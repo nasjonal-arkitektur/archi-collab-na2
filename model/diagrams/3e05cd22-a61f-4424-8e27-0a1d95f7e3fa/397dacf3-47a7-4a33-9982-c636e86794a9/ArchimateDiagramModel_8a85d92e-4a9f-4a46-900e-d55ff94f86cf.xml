@@ -360,8 +360,8 @@
       textAlignment="1"
       content="+ EIRA Legal Athority&#xD;&#xA;">
     <bounds
-        x="1052"
-        y="272"
+        x="1056"
+        y="120"
         width="185"
         height="80"/>
   </children>
