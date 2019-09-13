@@ -1,11 +1,11 @@
-<archimate:BusinessProcess
+<archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Motta forsendelse"
-    id="d6817dde-f77f-4f10-b8ab-1788e2fba37e"
-    documentation="Prosessen med å motta en melding fra avsender">
+    name="Datautvekslings-tjeneste"
+    id="0c051f18-03b6-4561-a6d8-a77912e4686c"
+    documentation="Tjeneste for utveksling av data. Samme som data exchange service. Benyttes av avsender og mottaker for transport av meldinger.">
   <properties
       key="dct:type"
-      value="archi:business-process"/>
+      value="archi:application-service"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -14,7 +14,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Motta forsendelse"/>
+      value="Datautvekslings-tjeneste"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -24,4 +24,4 @@
   <properties
       key="label"
       value="${name}"/>
-</archimate:BusinessProcess>
+</archimate:ApplicationService>

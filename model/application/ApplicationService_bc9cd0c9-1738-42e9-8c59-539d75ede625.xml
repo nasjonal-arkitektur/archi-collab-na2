@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kapabilitetsoppslag"
-    id="bc9cd0c9-1738-42e9-8c59-539d75ede625">
+    id="bc9cd0c9-1738-42e9-8c59-539d75ede625"
+    documentation="Tjeneste for å slå opp kapabilitetene til en samhandlingspart">
   <properties
       key="dct:type"
       value="archi:application-service"/>

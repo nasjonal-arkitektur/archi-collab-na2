@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Håndtere melding"
-    id="7fae9960-eb0a-4177-96eb-c40e05bbf7e7">
+    id="7fae9960-eb0a-4177-96eb-c40e05bbf7e7"
+    documentation="Prosessen med å håndtere innholdet i meldingen.">
   <properties
       key="dct:type"
       value="archi:business-process"/>
