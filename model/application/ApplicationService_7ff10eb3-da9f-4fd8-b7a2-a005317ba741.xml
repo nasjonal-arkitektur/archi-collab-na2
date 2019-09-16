@@ -1,11 +1,10 @@
-<archimate:BusinessProcess
+<archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Motta forsendelse"
-    id="d6817dde-f77f-4f10-b8ab-1788e2fba37e"
-    documentation="Prosessen med å motta en melding fra avsender">
+    name="Sertifikatoppslag (copy)"
+    id="7ff10eb3-da9f-4fd8-b7a2-a005317ba741">
   <properties
       key="dct:type"
-      value="archi:business-process"/>
+      value="archi:application-service"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -14,7 +13,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Motta forsendelse"/>
+      value="Sertifikatoppslag"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -23,5 +22,5 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
-</archimate:BusinessProcess>
+      value="${name} [lang:${property:difi:language}]"/>
+</archimate:ApplicationService>
