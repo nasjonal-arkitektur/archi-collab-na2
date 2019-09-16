@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilbyder"
     id="c777850b-1ce0-4af0-b1b2-d180411baaca"
-    documentation="Den som tilbyr data.">
+    documentation="En aktør som tilbyr data til eksterne parter, enten på vegne av andre, som forvalter av data eller som dataansvarlig.">
   <properties
       key="dct:type"
       value="archi:business-role"/>
@@ -28,4 +28,6 @@
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:BusinessRole>

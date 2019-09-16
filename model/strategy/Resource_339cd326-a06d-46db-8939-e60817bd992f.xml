@@ -1,0 +1,5 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shared database integration pattern"
+    id="339cd326-a06d-46db-8939-e60817bd992f"
+    documentation="Have the applications store the data they wish to share in a common database."/>

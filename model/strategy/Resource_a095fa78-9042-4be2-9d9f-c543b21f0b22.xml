@@ -1,0 +1,5 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="File Transfer integration pattern"
+    id="a095fa78-9042-4be2-9d9f-c543b21f0b22"
+    documentation="Have each application produce files of shared data for others to consume, and consume files that others have produced."/>

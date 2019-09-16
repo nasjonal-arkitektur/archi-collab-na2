@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prosess for avtaleforvaltning"
+    id="5aa17d87-b0e9-4b3b-b915-0628432940a2">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1d5019ad-5a2c-4dc1-b859-7ffe167328fc"
+      textPosition="1">
+    <bounds
+        x="339"
+        y="151"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_8cb74928-d6d9-40b5-99e2-b1b400f82228.xml#8cb74928-d6d9-40b5-99e2-b1b400f82228"/>
+  </children>
+</archimate:ArchimateDiagramModel>

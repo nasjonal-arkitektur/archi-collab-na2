@@ -4,23 +4,29 @@
     id="9692a02f-1935-4517-8c6b-d3344ba8b721">
   <properties
       key="difi:namespace"
-      value="gdpr"/>
+      value="difi"/>
   <properties
       key="difi:name_no"
-      value="Databehandler [ns:GDPR]"/>
+      value="Databehandler"/>
   <properties
       key="difi:description_no"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Data processor"/>
   <properties
       key="difi:description_en"/>
   <properties
       key="dct:type"
-      value="business-role"/>
+      value="archi:business-role"/>
   <properties
       key="difi:language"
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:BusinessRole>

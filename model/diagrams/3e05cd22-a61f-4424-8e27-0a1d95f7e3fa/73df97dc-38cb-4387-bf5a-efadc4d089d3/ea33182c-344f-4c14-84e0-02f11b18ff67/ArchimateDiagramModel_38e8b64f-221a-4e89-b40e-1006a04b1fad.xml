@@ -179,7 +179,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4294dd17-49de-43c1-9be7-6b6daffa9a47"
-      targetConnections="d56bbb8a-444d-4c32-9769-3e50f238c2b9 5285fa56-fb3f-4a66-9425-b99628bcd0f8"
+      targetConnections="5285fa56-fb3f-4a66-9425-b99628bcd0f8"
       textAlignment="1"
       fillColor="#e9e9e9">
     <sourceConnections
@@ -346,28 +346,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="3bec1f59-b4c4-40aa-86af-74cfdc5f5cf4"
-      textPosition="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="d56bbb8a-444d-4c32-9769-3e50f238c2b9"
-        source="3bec1f59-b4c4-40aa-86af-74cfdc5f5cf4"
-        target="4294dd17-49de-43c1-9be7-6b6daffa9a47">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_7e6e9be8-28de-4d8e-b4ee-15c34d91a807.xml#7e6e9be8-28de-4d8e-b4ee-15c34d91a807"/>
-    </sourceConnections>
-    <bounds
-        x="864"
-        y="373"
-        width="130"
-        height="60"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_72cb513d-41ce-4910-b19a-df732d6687a3.xml#72cb513d-41ce-4910-b19a-df732d6687a3"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="e8492e3b-3236-42b0-9be8-65bfb2c03e6a"
       textPosition="1">
     <sourceConnections
@@ -440,6 +418,18 @@
     <archimateElement
         xsi:type="archimate:BusinessInteraction"
         href="BusinessInteraction_ac917656-7b4e-4185-91cf-c2eb28c29f5d.xml#ac917656-7b4e-4185-91cf-c2eb28c29f5d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3fd41518-270e-4b75-a2e7-073c709a9004">
+    <bounds
+        x="864"
+        y="373"
+        width="130"
+        height="60"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_0442a2d9-0a27-4aee-ac78-82b12deccf85.xml#0442a2d9-0a27-4aee-ac78-82b12deccf85"/>
   </children>
   <properties
       key="difi:language"

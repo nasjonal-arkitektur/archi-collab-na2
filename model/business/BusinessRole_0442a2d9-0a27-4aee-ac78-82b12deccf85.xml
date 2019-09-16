@@ -14,18 +14,21 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Konsument"/>
+      value="Konsument [ns:erik]"/>
   <properties
       key="difi:name_en"
       value="Consumer"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Den som konsumerer data."/>
   <properties
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name} [lang:${property:difi:language}]"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:BusinessRole>

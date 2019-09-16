@@ -8,7 +8,7 @@
       value="archi:capability"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="difi"/>
   <properties
       key="difi:language"
       value="no"/>

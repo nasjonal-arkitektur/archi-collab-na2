@@ -1,13 +1,13 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Identitets-forvaltning"
+    name="Identitetsforvaltning"
     id="7720f128-ae08-44d0-a1d0-b469930fb486">
   <properties
       key="difi:namespace"
-      value="eirabased"/>
+      value="-"/>
   <properties
       key="difi:name_no"
-      value="Identitets-forvaltning"/>
+      value="Identitetsforvaltning"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -19,8 +19,8 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
-      value="archi:capability"/>
+      value="capability"/>
 </archimate:Capability>

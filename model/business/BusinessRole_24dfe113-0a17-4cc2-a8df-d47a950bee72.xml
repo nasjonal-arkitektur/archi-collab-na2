@@ -20,8 +20,13 @@
       key="difi:description_en"/>
   <properties
       key="difi:language"
-      value="no"/>
+      value="en"/>
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:BusinessRole>

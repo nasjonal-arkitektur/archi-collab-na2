@@ -5,7 +5,7 @@
     documentation="Evnene til å motta en melding eller forsendelse fra en avsender.">
   <properties
       key="difi:namespace"
-      value="na1"/>
+      value="difi"/>
   <properties
       key="difi:name_no"
       value="Mottak av data"/>
