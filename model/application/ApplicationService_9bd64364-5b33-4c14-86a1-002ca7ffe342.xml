@@ -26,18 +26,18 @@
       key="difi:namespace"
       value="eira"/>
   <properties
-      key="difi:name_no"
+      key="difi:name_no"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"
       value="Service Registration Service [ns:eira]"/>
   <properties
-      key="difi:description_no"
+      key="difi:description_en"
       value="DESCRIPTION:&#xD;&#xA;Shares the functionality of registering the system service within a catalogue to be discovered by other services.&#xD;&#xA;&#xD;&#xA;Source ISA2 - EIA Action&#xD;&#xA;&#xD;&#xA;Syn. Service Catalogue Service&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Service Registration Service ABB  is salient for interoperability because it enables the registration of services in a catalogue with commonly agreed descriptions as stated in the EIF recommendation n°44: &quot;Put in place catalogues of public services, public data, and interoperability solutions and use common models for describing them.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Apache ZooKeeper&#xD;&#xA;Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.&#xD;&#xA;ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. All of these kinds of services are used in some form or another by distributed applications. Each time they are implemented there is a lot of work that goes into fixing the bugs and race conditions that are inevitable. Because of the difficulty of implementing these kinds of services, applications initially usually skimp on them, which make them brittle in the presence of change and difficult to manage. Even when done correctly, different implementations of these services lead to management complexity when the applications are deployed.&#xD;&#xA;ZooKeeper aims at distilling the essence of these different services into a very simple interface to a centralized coordination service. The service itself is distributed and highly reliable. Consensus, group management, and presence protocols will be implemented by the service so that the applications do not need to implement them on their own. Application specific uses of these will consist of a mixture of specific components of Zoo Keeper and application specific conventions. ZooKeeper Recipes shows how this simple service can be used to build much more powerful abstractions.&#xD;&#xA;Apache have Java and C interfaces to Zoo Keeper for the applications themselves. A variety of client bindings is available for a number of languages including Python, Ruby and Go.&#xD;&#xA;https://cwiki.apache.org/confluence/display/ZOOKEEPER/Index &#xD;&#xA;"/>
   <properties
-      key="difi:name_en"/>
-  <properties
-      key="difi:description_en"/>
-  <properties
       key="difi:language"
-      value="no"/>
+      value="en"/>
   <properties
       key="label"
       value="${name} [lang:${property:difi:language}]"/>
