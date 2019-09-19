@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Behandlingsgrunnlag"
+    name="Dokumentere behandlingsgrunnlag for personopplysninger"
     id="18c728a5-77a6-48df-aa09-b45428202e89"
     documentation="Evne til å legge frem behandlingsgrunnlag for tilgang til og behandling av data.&#xD;&#xA;Dataminimering">
   <properties

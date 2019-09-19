@@ -5,7 +5,7 @@
     documentation="Evnene til å sende data til en mottaker.">
   <properties
       key="difi:namespace"
-      value="na1"/>
+      value="difi"/>
   <properties
       key="difi:name_no"
       value="Sending av data"/>

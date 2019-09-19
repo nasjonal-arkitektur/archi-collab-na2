@@ -23,7 +23,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+      value="${name} [lang:${property:difi:language}]"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_c8c37088-923f-490f-9943-3e0f42ee935c.xml#c8c37088-923f-490f-9943-3e0f42ee935c"/>

@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:capability"/>

@@ -26,9 +26,11 @@
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:BusinessRole"
-      href="BusinessRole_7b1aa0dd-0d3e-4713-bfa2-729f0b7e5f47.xml#7b1aa0dd-0d3e-4713-bfa2-729f0b7e5f47"/>
+      href="BusinessRole_f3e8c676-4755-4715-aac2-fe1979422f30.xml#f3e8c676-4755-4715-aac2-fe1979422f30"/>
   <target
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_0442a2d9-0a27-4aee-ac78-82b12deccf85.xml#0442a2d9-0a27-4aee-ac78-82b12deccf85"/>

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="eSignering"
+    name="Signere data"
     id="6e8c60d0-71b9-47c9-8163-68c15b6ba17a"
     documentation="Electronic signatures deliver a way to sign documents in the online world, much like one signs a document with a pen in the offline world.">
   <properties

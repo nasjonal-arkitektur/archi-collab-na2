@@ -912,8 +912,8 @@
         width="133"
         height="71"/>
     <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_040e29bf-0c3e-4269-a8b9-8e870f6952a9.xml#040e29bf-0c3e-4269-a8b9-8e870f6952a9"/>
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_ef371e72-b318-46a4-94ff-88035f7d0075.xml#ef371e72-b318-46a4-94ff-88035f7d0075"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

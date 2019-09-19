@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Unntakshåndtering"
+    name="Håndtere feil ved datautveksling"
     id="75f3f929-5c10-4cc6-bd38-78a74352ccc7">
   <properties
       key="label"

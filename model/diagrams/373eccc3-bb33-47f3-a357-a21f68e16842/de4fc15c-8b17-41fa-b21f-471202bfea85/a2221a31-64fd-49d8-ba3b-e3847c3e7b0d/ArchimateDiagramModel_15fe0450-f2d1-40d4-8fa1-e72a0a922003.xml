@@ -27,27 +27,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="61d72935-015f-4b93-9f58-3407ca9187a3">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6302e3f4-f749-42a2-aef1-97c3d7205a44"
-        source="61d72935-015f-4b93-9f58-3407ca9187a3"
-        target="71c06013-d15d-438a-807a-c69b6e682355">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_1682d986-d97a-4099-afa7-c5f5e59dd41c.xml#1682d986-d97a-4099-afa7-c5f5e59dd41c"/>
-    </sourceConnections>
-    <bounds
-        x="126"
-        y="276"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_b96228d9-abd3-4638-a566-7f0b54daa805.xml#b96228d9-abd3-4638-a566-7f0b54daa805"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="505a79c6-6850-4a75-8007-b442b717af24">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -197,7 +176,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="71c06013-d15d-438a-807a-c69b6e682355"
-        targetConnections="80b14be6-ccc3-4eb0-b914-e13bb19ca4ee 6302e3f4-f749-42a2-aef1-97c3d7205a44 46f23ff8-da56-4c9a-9389-7195567c9b5c">
+        targetConnections="80b14be6-ccc3-4eb0-b914-e13bb19ca4ee 46f23ff8-da56-4c9a-9389-7195567c9b5c">
       <bounds
           x="12"
           y="36"
@@ -210,6 +189,18 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_a1033a4a-04df-49e5-9ad1-bf7d7248e62c.xml#a1033a4a-04df-49e5-9ad1-bf7d7248e62c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="87bad91b-e53e-4310-8dcd-8f88fe3735c4">
+    <bounds
+        x="126"
+        y="276"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_f3e8c676-4755-4715-aac2-fe1979422f30.xml#f3e8c676-4755-4715-aac2-fe1979422f30"/>
   </children>
   <properties
       key="difi:language"

@@ -186,15 +186,6 @@
         fillColor="#ffefdf">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="f5368073-fe40-4fa7-ad78-af2afbcfefaf"
-          source="b72ada56-1aa3-4152-badf-a873c337f370"
-          target="a409a4ee-90ad-4ffb-90c3-7cad4337e0f4">
-        <archimateRelationship
-            xsi:type="archimate:AggregationRelationship"
-            href="AggregationRelationship_f4db2592-9768-4df3-81c2-d725e3dbd42d.xml#f4db2592-9768-4df3-81c2-d725e3dbd42d"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="fd740224-75d7-4013-aeb3-bbaa17af8323"
           source="b72ada56-1aa3-4152-badf-a873c337f370"
           target="09b44082-4f4f-4d62-85e3-a87c6ac5d7a4">
@@ -219,6 +210,15 @@
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_941e3290-2f3d-4cae-b8d0-310ee8cf60ff.xml#941e3290-2f3d-4cae-b8d0-310ee8cf60ff"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="f5368073-fe40-4fa7-ad78-af2afbcfefaf"
+          source="b72ada56-1aa3-4152-badf-a873c337f370"
+          target="a409a4ee-90ad-4ffb-90c3-7cad4337e0f4">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_f4db2592-9768-4df3-81c2-d725e3dbd42d.xml#f4db2592-9768-4df3-81c2-d725e3dbd42d"/>
       </sourceConnections>
       <bounds
           x="36"
@@ -288,7 +288,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="8a49ebc9-47fe-44c2-857b-ebef4e6eb270"
-          targetConnections="fca2a403-471f-4946-bf3c-5239ab9d1d4b c9d7fb8a-a8e4-4d23-a652-820d6f5beff9"
+          targetConnections="c9d7fb8a-a8e4-4d23-a652-820d6f5beff9 fca2a403-471f-4946-bf3c-5239ab9d1d4b"
           textPosition="1">
         <bounds
             x="180"
@@ -329,21 +329,21 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="527ecc87-995f-427c-9b9d-02101ab9e544"
-          source="b5cd784d-a7cd-4b48-ba71-29e1e4ddd3ba"
-          target="915c6a9d-5952-4b6c-8420-c6281f6610af">
-        <archimateRelationship
-            xsi:type="archimate:AggregationRelationship"
-            href="AggregationRelationship_4538060f-b06e-4d07-b2fe-5c676ae175bf.xml#4538060f-b06e-4d07-b2fe-5c676ae175bf"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="56d65c9b-27dd-41f1-ab76-32d53b5bb27f"
           source="b5cd784d-a7cd-4b48-ba71-29e1e4ddd3ba"
           target="f1c4c07d-4cbb-46af-89fa-5013c7b88290">
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_a5ce1c6b-04a5-48fc-839a-76c8f48d1663.xml#a5ce1c6b-04a5-48fc-839a-76c8f48d1663"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="527ecc87-995f-427c-9b9d-02101ab9e544"
+          source="b5cd784d-a7cd-4b48-ba71-29e1e4ddd3ba"
+          target="915c6a9d-5952-4b6c-8420-c6281f6610af">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_4538060f-b06e-4d07-b2fe-5c676ae175bf.xml#4538060f-b06e-4d07-b2fe-5c676ae175bf"/>
       </sourceConnections>
       <bounds
           x="36"
@@ -353,7 +353,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="22e12cbb-efa9-41e2-a646-172f53d7dcce"
-          targetConnections="a648868b-e059-4d46-8a95-3b4e6e4e1234 754217a1-43f0-41d8-a750-372797a12150"
+          targetConnections="754217a1-43f0-41d8-a750-372797a12150 a648868b-e059-4d46-8a95-3b4e6e4e1234"
           textPosition="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"

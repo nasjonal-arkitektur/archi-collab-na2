@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Logging"
+    name="Logge dataaksess"
     id="f93c0051-8c61-4d8e-bf9d-edbb1b3cfd2d"
     documentation="Evne til å logge transaksjoner og hendelser i tilknytning til forespørsler, forsendelser, utlevering mv. av data.">
   <properties

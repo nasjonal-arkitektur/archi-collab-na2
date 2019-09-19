@@ -328,8 +328,8 @@
           href="ServingRelationship_2297baea-e87b-4cec-81b6-f3089b511c21.xml#2297baea-e87b-4cec-81b6-f3089b511c21"/>
     </sourceConnections>
     <bounds
-        x="1524"
-        y="420"
+        x="1483"
+        y="432"
         width="133"
         height="71"/>
     <archimateElement
@@ -510,7 +510,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="a4a28fa9-e29e-43a4-b17f-44a70b854624">
+      id="a4a28fa9-e29e-43a4-b17f-44a70b854624"
+      textPosition="1">
     <bounds
         x="864"
         y="216"

@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Formidler"
+    name="Mellomledd"
     id="ab749393-6726-4b1f-a60e-c539a2875fc8">
   <properties
       key="dct:type"
@@ -13,7 +13,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Formidler"/>
+      value="Mellomledd"/>
   <properties
       key="difi:name_en"
       value="Mediator"/>
@@ -27,4 +27,6 @@
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:BusinessRole>
