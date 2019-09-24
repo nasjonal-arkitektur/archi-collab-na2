@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Altinn autorisasjon"
-    id="f62ede33-8269-4ea4-ad18-813afceec80d">
+    id="f62ede33-8269-4ea4-ad18-813afceec80d"
+    documentation="Autorisasjonskomponenten i Altinn som gir muligheter til å delegere rettigheter til andre organisasjoner eller personer. Rettigheter til bruk av autorisasjonskomponenten baserer seg på registrerte roller i Enhetsregisteret.">
   <properties
       key="difi:namespace"
       value="-"/>
