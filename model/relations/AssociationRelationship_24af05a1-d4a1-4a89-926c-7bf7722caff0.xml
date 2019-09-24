@@ -1,10 +1,10 @@
-<archimate:TriggeringRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="7bd6766f-6b45-46ae-ba15-674ee7348680">
+    id="24af05a1-d4a1-4a89-926c-7bf7722caff0">
   <properties
       key="dct:type"
-      value="archi:triggering-relationship"/>
+      value="archi:association-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -23,9 +23,9 @@
       key="label"
       value="${name}"/>
   <source
-      xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_4e3927e0-802a-4baa-9df3-f11e64b6aaee.xml#4e3927e0-802a-4baa-9df3-f11e64b6aaee"/>
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_a78e4d41-51c6-41a7-bbbd-015cb1debd7a.xml#a78e4d41-51c6-41a7-bbbd-015cb1debd7a"/>
   <target
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_8d386042-8f25-4c75-8db4-1688caa9fa60.xml#8d386042-8f25-4c75-8db4-1688caa9fa60"/>
-</archimate:TriggeringRelationship>
+      href="BusinessProcess_4e3927e0-802a-4baa-9df3-f11e64b6aaee.xml#4e3927e0-802a-4baa-9df3-f11e64b6aaee"/>
+</archimate:AssociationRelationship>
