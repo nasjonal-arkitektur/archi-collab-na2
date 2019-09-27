@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RabbitMQ"
+    id="235c5472-e6a4-490c-89d6-31bba32a345e"
+    documentation="https://www.rabbitmq.com/"/>

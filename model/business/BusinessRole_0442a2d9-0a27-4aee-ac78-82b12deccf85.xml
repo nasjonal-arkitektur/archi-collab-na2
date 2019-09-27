@@ -14,7 +14,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Konsument [ns:erik]"/>
+      value="Konsument"/>
   <properties
       key="difi:name_en"
       value="Consumer"/>
@@ -25,7 +25,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>

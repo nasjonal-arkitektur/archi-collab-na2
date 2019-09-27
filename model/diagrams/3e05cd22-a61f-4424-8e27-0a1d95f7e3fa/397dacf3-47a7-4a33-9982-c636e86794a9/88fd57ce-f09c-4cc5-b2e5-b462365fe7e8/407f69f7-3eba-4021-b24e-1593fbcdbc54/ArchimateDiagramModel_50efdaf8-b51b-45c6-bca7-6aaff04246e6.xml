@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Main integration patterns"
+    name="Integration styles"
     id="50efdaf8-b51b-45c6-bca7-6aaff04246e6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

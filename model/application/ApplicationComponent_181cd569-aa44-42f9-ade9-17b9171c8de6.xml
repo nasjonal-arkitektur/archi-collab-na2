@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ActiveMQ"
+    id="181cd569-aa44-42f9-ade9-17b9171c8de6"
+    documentation="http://activemq.apache.org/"/>
