@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Forretningsmelding"
+    name="Forretningsmelding SBB"
     id="881b2bc7-1153-4fc3-bde4-a1cd23f1bee6"
     documentation="Meldingsinnholdet eller informasjonen som skal sendes til ekstern part. ">
   <properties
@@ -23,5 +23,5 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:${property:difi:language}]"/>
 </archimate:BusinessObject>
