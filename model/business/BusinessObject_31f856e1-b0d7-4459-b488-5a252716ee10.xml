@@ -17,7 +17,7 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="undefined"/>
+      value="conceptual"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -26,4 +26,9 @@
       value="Business Object"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
 </archimate:BusinessObject>

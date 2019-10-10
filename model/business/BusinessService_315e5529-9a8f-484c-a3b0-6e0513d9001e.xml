@@ -1,6 +1,6 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Service ABB"
+    name="Business Service Type"
     id="315e5529-9a8f-484c-a3b0-6e0513d9001e">
   <properties
       key="dct:type"
@@ -10,7 +10,7 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="metamodel"/>
+      value="conceptual"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -29,4 +29,6 @@
   <properties
       key="difi:metaLevel"
       value="meta"/>
+  <properties
+      key="difi:notes"/>
 </archimate:BusinessService>

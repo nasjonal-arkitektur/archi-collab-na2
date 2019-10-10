@@ -28,6 +28,8 @@
   <properties
       key="difi:metaLevel"
       value="meta"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_d1bf91ed-45cc-47b8-b40a-4457ebbbdccf.xml#d1bf91ed-45cc-47b8-b40a-4457ebbbdccf"/>

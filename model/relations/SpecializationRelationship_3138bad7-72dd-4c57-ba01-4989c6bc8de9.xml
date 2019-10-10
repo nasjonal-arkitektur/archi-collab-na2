@@ -30,6 +30,8 @@
   <properties
       key="difi:metaLevel"
       value="meta"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_7a080413-7407-461a-ac95-795c0988c271.xml#7a080413-7407-461a-ac95-795c0988c271"/>

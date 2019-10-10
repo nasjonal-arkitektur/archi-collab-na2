@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Component SBB"
+    name="Application Component SBB"
     id="b2b054ea-fdc2-46cd-8821-f2fd0cb57d9f">
   <properties
       key="label"
@@ -13,7 +13,7 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="metamodel"/>
+      value="physical"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -29,4 +29,6 @@
   <properties
       key="difi:metaLevel"
       value="meta"/>
+  <properties
+      key="difi:notes"/>
 </archimate:ApplicationComponent>

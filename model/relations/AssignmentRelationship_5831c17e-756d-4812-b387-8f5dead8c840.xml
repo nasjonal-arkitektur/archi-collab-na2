@@ -28,6 +28,8 @@
   <properties
       key="difi:metaLevel"
       value="meta"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:BusinessInterface"
       href="BusinessInterface_f12fab7f-d37a-4157-a275-96f89334bd46.xml#f12fab7f-d37a-4157-a275-96f89334bd46"/>

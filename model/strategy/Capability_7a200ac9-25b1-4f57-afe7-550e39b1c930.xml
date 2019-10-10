@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Garatere versjon, kilde og integritet for utvekslede data"
+    name="Garantere versjon, kilde og integritet for utvekslede data"
     id="7a200ac9-25b1-4f57-afe7-550e39b1c930"
     documentation="Garanti for versjon, kilde og integritet">
   <properties

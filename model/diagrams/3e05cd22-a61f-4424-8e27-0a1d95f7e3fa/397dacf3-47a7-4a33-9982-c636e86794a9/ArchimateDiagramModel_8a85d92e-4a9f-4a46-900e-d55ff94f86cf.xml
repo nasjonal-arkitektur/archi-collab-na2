@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b69e6f33-080a-4e9e-bf09-b2250c360bab"
-      targetConnections="a78970c2-3910-42e0-9286-c3a9bd84ada9 d9cf2308-2c79-48fb-a325-a5353e7fe418 8947a952-8663-4fa4-926b-28d114e6bd0b 3a550d1f-524d-47bb-96be-17825463cb1f"
+      targetConnections="a78970c2-3910-42e0-9286-c3a9bd84ada9 8947a952-8663-4fa4-926b-28d114e6bd0b 3a550d1f-524d-47bb-96be-17825463cb1f"
       textAlignment="1"
       fillColor="#fef2cf">
     <sourceConnections
@@ -652,21 +652,6 @@
         y="228"
         width="185"
         height="97"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="dd111f13-b459-4f40-90d9-70c11cf43e81"
-      textAlignment="1"
-      content="Behøver å skille mellom behandlingsansvarlig og databehandler forå kunne beskrive opplege rundt avtaler!">
-    <sourceConnections
-        id="d9cf2308-2c79-48fb-a325-a5353e7fe418"
-        source="dd111f13-b459-4f40-90d9-70c11cf43e81"
-        target="b69e6f33-080a-4e9e-bf09-b2250c360bab"/>
-    <bounds
-        x="1092"
-        y="348"
-        width="185"
-        height="80"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"

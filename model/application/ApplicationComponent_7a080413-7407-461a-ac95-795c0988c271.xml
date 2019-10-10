@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Component ABB"
+    name="Application Component Type"
     id="7a080413-7407-461a-ac95-795c0988c271">
   <properties
       key="label"
@@ -13,7 +13,7 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="metamodel"/>
+      value="conceptual"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -29,4 +29,6 @@
   <properties
       key="difi:metaLevel"
       value="meta"/>
+  <properties
+      key="difi:notes"/>
 </archimate:ApplicationComponent>
