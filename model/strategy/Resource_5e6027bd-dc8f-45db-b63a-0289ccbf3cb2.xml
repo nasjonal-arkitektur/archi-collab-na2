@@ -1,5 +1,5 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Messaging integration pattern"
+    name="Messaging integration style"
     id="5e6027bd-dc8f-45db-b63a-0289ccbf3cb2"
     documentation="Have each application connect to a common messaging system, and exchange data and invoke behavior using messages."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Google Cloud Pub/Sub"
+    id="c891ce15-a9d2-4e08-9e09-37a1ee48749f"
+    documentation="https://cloud.google.com/pubsub/"/>

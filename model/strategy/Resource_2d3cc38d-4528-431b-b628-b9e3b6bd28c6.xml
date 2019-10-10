@@ -1,0 +1,33 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Migration"
+    id="2d3cc38d-4528-431b-b628-b9e3b6bd28c6"
+    documentation="Ref. https://www.mulesoft.com/resources/esb/top-five-data-integration-patterns&#xD;&#xA;&#xD;&#xA;Migration is the act of moving a specific set of data at a point in time from one system to the other. A migration contains a source system where the data resides at prior to execution, a criteria which determines the scope of the data to be migrated, a transformation that the data set will go through, a destination system where the data will be inserted and an ability to capture the results of the migration to know the final state vs the desired state.&#xD;&#xA;&#xD;&#xA;*Why is it valuable?*&#xD;&#xA;&#xD;&#xA;Migrations are essential to all data systems and are used extensively in any organization that has data operations. We spend a lot of time creating and maintaining data, and migration is key to keep that data agnostic from the tools that we use to create it, view it, and manage it. Without migration, we would be forced to lose all the data that we have amassed any time that we want to change tools, and this would cripple our ability to be productive in the digital world.&#xD;&#xA;&#xD;&#xA;*When is it useful?*&#xD;&#xA;&#xD;&#xA;Migrations will most commonly occur whenever you are moving from one system to another, moving from an instance of a system to another or newer instance of that system, spinning up a new system that extends your current infrastructure, backing up a dataset, adding nodes to database clusters, replacing database hardware, consolidating systems and many more.">
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="mulesoft"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Migration"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Ref. https://www.mulesoft.com/resources/esb/top-five-data-integration-patterns&#xD;&#xA;&#xD;&#xA;Migration is the act of moving a specific set of data at a point in time from one system to the other. A migration contains a source system where the data resides at prior to execution, a criteria which determines the scope of the data to be migrated, a transformation that the data set will go through, a destination system where the data will be inserted and an ability to capture the results of the migration to know the final state vs the desired state.&#xD;&#xA;&#xD;&#xA;*Why is it valuable?*&#xD;&#xA;&#xD;&#xA;Migrations are essential to all data systems and are used extensively in any organization that has data operations. We spend a lot of time creating and maintaining data, and migration is key to keep that data agnostic from the tools that we use to create it, view it, and manage it. Without migration, we would be forced to lose all the data that we have amassed any time that we want to change tools, and this would cripple our ability to be productive in the digital world.&#xD;&#xA;&#xD;&#xA;*When is it useful?*&#xD;&#xA;&#xD;&#xA;Migrations will most commonly occur whenever you are moving from one system to another, moving from an instance of a system to another or newer instance of that system, spinning up a new system that extends your current infrastructure, backing up a dataset, adding nodes to database clusters, replacing database hardware, consolidating systems and many more."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Resource>

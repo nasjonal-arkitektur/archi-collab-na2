@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apache Kafka"
+    id="f2b4e53f-5b59-4621-93e3-9f741e8d67af"
+    documentation="https://kafka.apache.org/"/>

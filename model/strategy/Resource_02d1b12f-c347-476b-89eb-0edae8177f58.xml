@@ -1,5 +1,5 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Remote Procedure Invocation integration pattern"
+    name="Remote Procedure Invocation integration style"
     id="02d1b12f-c347-476b-89eb-0edae8177f58"
     documentation="Have each application expose some of its procedures so that they can be invoked remotely, and have applications invoke those to run behavior and exchange data."/>

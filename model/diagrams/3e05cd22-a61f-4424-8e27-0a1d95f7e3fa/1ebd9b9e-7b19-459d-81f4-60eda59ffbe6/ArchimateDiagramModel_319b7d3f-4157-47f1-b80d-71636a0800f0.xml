@@ -156,6 +156,11 @@
           id="ad29a927-532e-4b05-8b07-3e7d1e0578f5"
           source="76849364-e423-4f37-ae99-18237330f48f"
           target="ae29317b-013f-4f4a-a46f-0a84209d7017">
+        <bendpoints
+            startX="114"
+            startY="1"
+            endX="-6"
+            endY="-71"/>
         <archimateRelationship
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_5831c17e-756d-4812-b387-8f5dead8c840.xml#5831c17e-756d-4812-b387-8f5dead8c840"/>
