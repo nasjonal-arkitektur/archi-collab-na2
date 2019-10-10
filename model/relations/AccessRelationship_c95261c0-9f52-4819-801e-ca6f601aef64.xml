@@ -25,7 +25,7 @@
       value="${name}"/>
   <source
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_ad2c0fb3-17ee-45c4-b24c-b64a5cea6ca0.xml#ad2c0fb3-17ee-45c4-b24c-b64a5cea6ca0"/>
+      href="BusinessProcess_991487a6-2e63-4a25-80d6-2077e9e2a3f5.xml#991487a6-2e63-4a25-80d6-2077e9e2a3f5"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_a78e4d41-51c6-41a7-bbbd-015cb1debd7a.xml#a78e4d41-51c6-41a7-bbbd-015cb1debd7a"/>

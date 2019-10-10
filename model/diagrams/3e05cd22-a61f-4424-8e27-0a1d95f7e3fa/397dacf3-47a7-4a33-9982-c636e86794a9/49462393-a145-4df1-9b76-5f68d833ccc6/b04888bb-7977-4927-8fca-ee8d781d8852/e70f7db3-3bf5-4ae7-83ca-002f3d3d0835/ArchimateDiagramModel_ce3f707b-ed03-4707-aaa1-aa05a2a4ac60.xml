@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Klargjøre for forsendelse (copy)"
+    name="Klargjøre for forsendelse ABB"
     id="ce3f707b-ed03-4707-aaa1-aa05a2a4ac60">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -318,50 +318,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="4ae915d2-4a12-4ce9-930a-3b801a7c060a">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="d539faf2-25ed-44e7-bb3f-2975514bb128"
-        source="4ae915d2-4a12-4ce9-930a-3b801a7c060a"
-        target="26fb0db7-9852-4e3f-aed7-07367d8a6f35">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_6da0a2af-153e-4edc-b7a7-9544055332e8.xml#6da0a2af-153e-4edc-b7a7-9544055332e8"/>
-    </sourceConnections>
-    <bounds
-        x="684"
-        y="504"
-        width="133"
-        height="71"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_ac5e2f5c-704c-4b54-b3e8-707e828242f7.xml#ac5e2f5c-704c-4b54-b3e8-707e828242f7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="340ee357-5ea1-4023-8120-04e08ac4494e">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="58d9b464-d771-4f38-8061-782b61719d45"
-        source="340ee357-5ea1-4023-8120-04e08ac4494e"
-        target="cdb5c961-4e04-4886-b46e-c04c4e5a4bb3">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_30283d65-3301-41eb-a98a-1bc4b65e9cfb.xml#30283d65-3301-41eb-a98a-1bc4b65e9cfb"/>
-    </sourceConnections>
-    <bounds
-        x="912"
-        y="504"
-        width="133"
-        height="71"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_7394bfe5-220c-4384-bfa4-78e05a2c822f.xml#7394bfe5-220c-4384-bfa4-78e05a2c822f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="cdb5c961-4e04-4886-b46e-c04c4e5a4bb3"
-      targetConnections="58d9b464-d771-4f38-8061-782b61719d45"
       textPosition="1"
       type="1">
     <sourceConnections
@@ -385,7 +342,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="26fb0db7-9852-4e3f-aed7-07367d8a6f35"
-      targetConnections="d539faf2-25ed-44e7-bb3f-2975514bb128"
       textPosition="1"
       type="1">
     <sourceConnections
@@ -409,7 +365,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7468af5a-d64a-4b6c-bcb6-9e9e55bb53b6"
-      targetConnections="0b9f6049-8047-4fc7-a981-307797bcef7d"
       textPosition="1"
       type="1">
     <sourceConnections
@@ -429,27 +384,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_be051049-8672-409e-ba1a-53998e33c632.xml#be051049-8672-409e-ba1a-53998e33c632"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="c890f764-d579-4789-8913-4a6d5a0584a6">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="0b9f6049-8047-4fc7-a981-307797bcef7d"
-        source="c890f764-d579-4789-8913-4a6d5a0584a6"
-        target="7468af5a-d64a-4b6c-bcb6-9e9e55bb53b6">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_50c3a5ac-953c-4625-b528-b3cae2fc4e6a.xml#50c3a5ac-953c-4625-b528-b3cae2fc4e6a"/>
-    </sourceConnections>
-    <bounds
-        x="528"
-        y="504"
-        width="133"
-        height="71"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_949ec5f8-d06f-4d48-978a-c90dcf651980.xml#949ec5f8-d06f-4d48-978a-c90dcf651980"/>
   </children>
   <properties
       key="difi:language"
