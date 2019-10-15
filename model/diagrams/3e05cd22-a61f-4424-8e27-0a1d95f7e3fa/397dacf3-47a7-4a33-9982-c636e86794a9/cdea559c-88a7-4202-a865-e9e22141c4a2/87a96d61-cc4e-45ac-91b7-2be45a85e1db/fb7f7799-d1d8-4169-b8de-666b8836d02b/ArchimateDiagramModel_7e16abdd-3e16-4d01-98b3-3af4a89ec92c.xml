@@ -45,7 +45,7 @@
       targetConnections="380b417a-84d5-48e8-9b8a-80e57e09711d"
       textPosition="1">
     <bounds
-        x="792"
+        x="840"
         y="264"
         width="133"
         height="70"/>
@@ -69,7 +69,7 @@
           href="ServingRelationship_02fdbadb-08aa-4207-a3d7-510bac8bfed9.xml#02fdbadb-08aa-4207-a3d7-510bac8bfed9"/>
     </sourceConnections>
     <bounds
-        x="624"
+        x="540"
         y="264"
         width="133"
         height="70"/>
@@ -148,7 +148,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="0aca5b88-465d-4d9f-89b7-f89b0ae79650"
-        targetConnections="17412d96-7886-4114-b046-ba642f9479f5 5e3b3364-7af5-47b0-90de-27150014b47f 6e771d52-2dc6-48a7-966e-45bd789351f8"
+        targetConnections="17412d96-7886-4114-b046-ba642f9479f5 5e3b3364-7af5-47b0-90de-27150014b47f 6e771d52-2dc6-48a7-966e-45bd789351f8 6f281d63-2f88-47d4-bb35-09882cfea2b9"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -196,6 +196,40 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_4d506c4b-360e-41c7-8d16-e80804280f51.xml#4d506c4b-360e-41c7-8d16-e80804280f51"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a78a9576-2574-4d30-881a-0fe3cab6dc37"
+      textPosition="1"
+      type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="6f281d63-2f88-47d4-bb35-09882cfea2b9"
+        source="a78a9576-2574-4d30-881a-0fe3cab6dc37"
+        target="0aca5b88-465d-4d9f-89b7-f89b0ae79650">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_77e2fcef-2e7d-4270-a2dc-4ef82012b5e7.xml#77e2fcef-2e7d-4270-a2dc-4ef82012b5e7"/>
+    </sourceConnections>
+    <bounds
+        x="696"
+        y="263"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_fd7e1845-c763-4b67-a13d-50897a14a779.xml#fd7e1845-c763-4b67-a13d-50897a14a779"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="f061be25-fe70-4962-9a51-2029e9feb22d"
+      textAlignment="1"
+      content="Se på om det skal hete autentiseringstjeneste&#xD;&#xA;&#xD;&#xA;Legge til prosessteg med autentisering.&#xD;&#xA;">
+    <bounds
+        x="300"
+        y="312"
+        width="229"
+        height="145"/>
   </children>
   <properties
       key="difi:language"
