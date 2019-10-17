@@ -1,7 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Databehandler"
-    id="9692a02f-1935-4517-8c6b-d3344ba8b721">
+    id="9692a02f-1935-4517-8c6b-d3344ba8b721"
+    documentation="Datatilsynets definisjon: https://www.datatilsynet.no/rettigheter-og-plikter/virksomhetenes-plikter/databehandleravtale/behandlingsansvarlig-og-databehandler/">
   <properties
       key="difi:namespace"
       value="difi"/>

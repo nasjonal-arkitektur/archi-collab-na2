@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Få tilgang til data (konsument)"
+    name="Etablere tilgang til data (konsument)"
     id="c41a20ad-848f-4590-9d50-04e25f3dc6df"
     documentation="Evnen til å skaffe seg tilgang til tilbudte data fra annen aktør. ">
   <properties

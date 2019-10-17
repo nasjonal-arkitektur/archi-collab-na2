@@ -1,6 +1,7 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="er en type"
     id="1c5360a9-fec2-443d-8d39-474409ada487">
   <source
       xsi:type="archimate:Artifact"

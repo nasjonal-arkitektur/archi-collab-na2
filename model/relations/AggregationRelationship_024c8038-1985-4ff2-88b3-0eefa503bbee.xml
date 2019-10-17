@@ -28,6 +28,6 @@
       xsi:type="archimate:Grouping"
       href="Grouping_c8c37088-923f-490f-9943-3e0f42ee935c.xml#c8c37088-923f-490f-9943-3e0f42ee935c"/>
   <target
-      xsi:type="archimate:BusinessActor"
-      href="BusinessActor_ef371e72-b318-46a4-94ff-88035f7d0075.xml#ef371e72-b318-46a4-94ff-88035f7d0075"/>
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_9bbe4f39-4faf-4739-aab5-add7ad440cc0.xml#9bbe4f39-4faf-4739-aab5-add7ad440cc0"/>
 </archimate:AggregationRelationship>

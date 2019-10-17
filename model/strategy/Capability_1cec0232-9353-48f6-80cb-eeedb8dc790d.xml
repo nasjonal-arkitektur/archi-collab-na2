@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ta rede på eget informasjonsbehov"
-    id="1cec0232-9353-48f6-80cb-eeedb8dc790d"/>
+    name="Oppdage data"
+    id="1cec0232-9353-48f6-80cb-eeedb8dc790d"
+    documentation="Ta rede på eget databehov, søk og gjenfininng"/>

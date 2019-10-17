@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Delegere rettigheter"
+    name="Delegere rettigheter og gi fullmakter (tilbyder)"
     id="3b627c5f-3c45-41c2-acd0-2847b140db6a"
     documentation="Evne til å delegere en rettighet til en annen aktør feks. en driftslevereandør på en slik måte at dette kan etterprøves.&#xD;&#xA;Registrering og kontroll av representasjonsforhold. Trenger ikke være begrenset til virksomheter men også omfatter f.eks. foreldre-barn relasjon, vergemål, bobestyrer osv.&#xD;&#xA;&#xD;&#xA;">
   <properties
