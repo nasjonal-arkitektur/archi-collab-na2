@@ -39,8 +39,8 @@
     <bounds
         x="48"
         y="48"
-        width="625"
-        height="169"/>
+        width="637"
+        height="145"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f4debe35-484e-4b84-a00e-f2b58cf01017"
@@ -48,10 +48,10 @@
         textAlignment="1"
         fillColor="#ffe49f">
       <bounds
-          x="420"
-          y="48"
-          width="169"
-          height="97"/>
+          x="432"
+          y="36"
+          width="181"
+          height="85"/>
       <archimateElement
           xsi:type="archimate:Grouping"
           href="Grouping_58fdb791-aa0d-4798-800b-8b6a99ebc11a.xml#58fdb791-aa0d-4798-800b-8b6a99ebc11a"/>
@@ -64,9 +64,9 @@
         fillColor="#ffe49f">
       <bounds
           x="228"
-          y="48"
-          width="169"
-          height="97"/>
+          y="36"
+          width="181"
+          height="85"/>
       <archimateElement
           xsi:type="archimate:Grouping"
           href="Grouping_cd4e885b-ef01-48d2-8bf2-ec15871f7dd5.xml#cd4e885b-ef01-48d2-8bf2-ec15871f7dd5"/>
@@ -78,10 +78,10 @@
         textAlignment="1"
         fillColor="#ffe49f">
       <bounds
-          x="36"
-          y="48"
-          width="169"
-          height="97"/>
+          x="24"
+          y="36"
+          width="181"
+          height="85"/>
       <archimateElement
           xsi:type="archimate:Grouping"
           href="Grouping_fce6cb0c-47bb-4044-bcb1-b3cd2122ac93.xml#fce6cb0c-47bb-4044-bcb1-b3cd2122ac93"/>
@@ -103,5 +103,6 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="difi:docViewPath"/>
+      key="difi:docViewPath"
+      value="nab_arkitekturlandskap_segmentarkitektur_datadeling"/>
 </archimate:ArchimateDiagramModel>
