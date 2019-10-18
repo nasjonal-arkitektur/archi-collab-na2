@@ -7,7 +7,7 @@
       value="-"/>
   <properties
       key="difi:name_no"
-      value="Hendelsesdrevet deling av data"/>
+      value="Deling av data ved publisering"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:grouping"/>

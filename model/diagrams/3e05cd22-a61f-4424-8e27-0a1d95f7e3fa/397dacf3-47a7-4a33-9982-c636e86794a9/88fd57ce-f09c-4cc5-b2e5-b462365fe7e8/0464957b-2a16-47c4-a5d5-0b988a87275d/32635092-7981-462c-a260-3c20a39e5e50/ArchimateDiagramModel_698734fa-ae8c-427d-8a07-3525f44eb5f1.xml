@@ -104,15 +104,6 @@
         type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="09ef90b4-c49c-4a27-967f-8523c7f8a2de"
-          source="7ee10534-c861-429d-b266-017f6adc3e36"
-          target="7083c539-7449-4328-88c5-403bc8038428">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_8a35e7b7-3710-4452-b728-c732e6599c3a.xml#8a35e7b7-3710-4452-b728-c732e6599c3a"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="038239c5-ec95-4970-97d8-156fccc42e37"
           source="7ee10534-c861-429d-b266-017f6adc3e36"
           target="320f6942-e7b2-4be9-bf31-f5fcfad48edb">
@@ -125,20 +116,6 @@
           y="176"
           width="400"
           height="121"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="7083c539-7449-4328-88c5-403bc8038428"
-          targetConnections="09ef90b4-c49c-4a27-967f-8523c7f8a2de"
-          textPosition="1">
-        <bounds
-            x="24"
-            y="36"
-            width="133"
-            height="71"/>
-        <archimateElement
-            xsi:type="archimate:Capability"
-            href="Capability_cf137b28-8e49-465f-b765-da6bf035787a.xml#cf137b28-8e49-465f-b765-da6bf035787a"/>
-      </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="320f6942-e7b2-4be9-bf31-f5fcfad48edb"
@@ -490,5 +467,17 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_f935cd6b-2178-4c67-befc-33716bc351af.xml#f935cd6b-2178-4c67-befc-33716bc351af"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="018584e5-0583-43dd-8af8-025572a0dbfd">
+    <bounds
+        x="24"
+        y="36"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_7ceeeb2b-770c-497e-a543-6ccbb479c9d8.xml#7ceeeb2b-770c-497e-a543-6ccbb479c9d8"/>
   </children>
 </archimate:ArchimateDiagramModel>

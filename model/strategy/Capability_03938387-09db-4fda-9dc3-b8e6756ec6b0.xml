@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Konsumere publiserte hendelsesdata"
+    name="Konsumere publiserte data"
     id="03938387-09db-4fda-9dc3-b8e6756ec6b0">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Konsumere publiserte hendelsesdata"/>
+      value="Konsumere publiserte data"/>
   <properties
       key="difi:name_en"/>
   <properties
