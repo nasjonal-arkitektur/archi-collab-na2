@@ -1,13 +1,13 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hendelsesdrevet deling av data"
+    name="Deling av data ved publisering"
     id="58fdb791-aa0d-4798-800b-8b6a99ebc11a">
   <properties
       key="difi:namespace"
       value="-"/>
   <properties
       key="difi:name_no"
-      value="Hendelsesdrevet deling av data"/>
+      value="Deling av data ved publisering"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -23,4 +23,12 @@
   <properties
       key="dct:type"
       value="archi:grouping"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:Grouping>

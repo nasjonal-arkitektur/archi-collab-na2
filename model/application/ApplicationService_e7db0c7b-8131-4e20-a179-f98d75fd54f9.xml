@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="API-registreringstjeneste"
-    id="e7db0c7b-8131-4e20-a179-f98d75fd54f9"
-    documentation="Tjeneste for å registerer de API-ene man ønsker å tilby til konsumenter og egenskaper ved disse."/>

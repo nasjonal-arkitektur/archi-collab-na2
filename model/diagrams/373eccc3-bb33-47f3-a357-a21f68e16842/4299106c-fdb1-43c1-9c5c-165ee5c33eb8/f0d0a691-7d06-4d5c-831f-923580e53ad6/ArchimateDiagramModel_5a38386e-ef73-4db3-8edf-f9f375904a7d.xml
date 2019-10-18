@@ -28,15 +28,6 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_248787e9-116a-42d1-80bb-ebd2818c0cc8.xml#248787e9-116a-42d1-80bb-ebd2818c0cc8"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="3e8956a4-56cf-4764-aaf3-d872cfce4d4c"
-        source="87ba2a36-710e-459a-b276-c72dd2c01078"
-        target="b9232ab2-60c0-4b89-9258-1795b0074f07">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_eb5b5311-ec2a-4d31-9d7e-0d35b70f27c8.xml#eb5b5311-ec2a-4d31-9d7e-0d35b70f27c8"/>
-    </sourceConnections>
     <bounds
         x="192"
         y="216"
@@ -54,20 +45,6 @@
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_811179cd-061b-4644-9f28-878a35d7f094.xml#811179cd-061b-4644-9f28-878a35d7f094"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="b9232ab2-60c0-4b89-9258-1795b0074f07"
-        targetConnections="3e8956a4-56cf-4764-aaf3-d872cfce4d4c"
-        textPosition="1">
-      <bounds
-          x="22"
-          y="108"
-          width="133"
-          height="71"/>
-      <archimateElement
-          xsi:type="archimate:Capability"
-          href="Capability_cf137b28-8e49-465f-b765-da6bf035787a.xml#cf137b28-8e49-465f-b765-da6bf035787a"/>
     </children>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -1235,6 +1212,18 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_ab749393-6726-4b1f-a60e-c539a2875fc8.xml#ab749393-6726-4b1f-a60e-c539a2875fc8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="be2f38df-9f8a-41c1-906d-2920d7d1d0d1">
+    <bounds
+        x="22"
+        y="108"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_7ceeeb2b-770c-497e-a543-6ccbb479c9d8.xml#7ceeeb2b-770c-497e-a543-6ccbb479c9d8"/>
   </children>
   <properties
       key="difi:language"

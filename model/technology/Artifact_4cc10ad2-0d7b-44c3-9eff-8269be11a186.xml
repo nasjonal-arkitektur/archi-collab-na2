@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Melding"
     id="4cc10ad2-0d7b-44c3-9eff-8269be11a186"
-    documentation="Foreløpig tekst:  Meldinger består grovt sett av _meldingshode_ og _nyttelast_. Nyttelasten kan krypteres og sikres ende-til-ende mellom kommunikasjonspartene, mens meldingshodet inneholder adresseinformasjon og annet som må kunne inspiseres i kommunikasjonssystemene underveis. . ">
+    documentation="Meldinger består grovt sett av _meldingshode_ og _nyttelast_. Nyttelasten kan krypteres og sikres ende-til-ende mellom kommunikasjonspartene, mens meldingshodet inneholder adresseinformasjon og annet som må kunne inspiseres i kommunikasjonssystemene underveis. . ">
   <properties
       key="difi:abstractionLevel"
       value="instance"/>

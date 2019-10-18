@@ -1,6 +1,7 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="spesialiserer"
     id="7c1ad482-bdf7-4db6-bc72-fc423450b779">
   <source
       xsi:type="archimate:Artifact"

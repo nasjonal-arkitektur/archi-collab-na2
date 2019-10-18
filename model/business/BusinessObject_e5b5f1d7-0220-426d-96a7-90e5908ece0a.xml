@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Autorisasjonsdata"
-    id="e5b5f1d7-0220-426d-96a7-90e5908ece0a"
-    documentation="Data som autoriserer konsument, f.eks. påstander i en sikkerhetsbillett."/>

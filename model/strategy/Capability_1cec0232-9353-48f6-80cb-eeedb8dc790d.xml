@@ -1,4 +1,36 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ta rede på eget informasjonsbehov"
-    id="1cec0232-9353-48f6-80cb-eeedb8dc790d"/>
+    name="Oppdage data"
+    id="1cec0232-9353-48f6-80cb-eeedb8dc790d"
+    documentation="Ta rede på eget databehov, søk og gjenfininng">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Oppdage data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Ta rede på eget databehov, søk og gjenfininng"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

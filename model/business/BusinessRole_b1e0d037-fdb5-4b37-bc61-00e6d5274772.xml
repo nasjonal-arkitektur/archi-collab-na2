@@ -1,7 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Behandlingsansvarlig"
-    id="b1e0d037-fdb5-4b37-bc61-00e6d5274772">
+    id="b1e0d037-fdb5-4b37-bc61-00e6d5274772"
+    documentation="Se https://www.datatilsynet.no/rettigheter-og-plikter/virksomhetenes-plikter/databehandleravtale/behandlingsansvarlig-og-databehandler/">
   <properties
       key="label"
       value="${name}"/>

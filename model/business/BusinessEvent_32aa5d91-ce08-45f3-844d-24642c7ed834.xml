@@ -1,5 +1,4 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hendelse"
-    id="32aa5d91-ce08-45f3-844d-24642c7ed834"
-    documentation="En hendelse som kan være aktuell å formidel til andre aktører og brukere av data. "/>
+    id="32aa5d91-ce08-45f3-844d-24642c7ed834"/>

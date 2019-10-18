@@ -129,8 +129,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ad39e5d8-4335-4612-aed9-bbe7fec5e7d8"
-      textPosition="1">
+      id="277696fc-0de5-47a5-b630-38dafd4ccca5">
     <bounds
         x="108"
         y="348"
@@ -138,7 +137,7 @@
         height="71"/>
     <archimateElement
         xsi:type="archimate:Capability"
-        href="Capability_cf137b28-8e49-465f-b765-da6bf035787a.xml#cf137b28-8e49-465f-b765-da6bf035787a"/>
+        href="Capability_7ceeeb2b-770c-497e-a543-6ccbb479c9d8.xml#7ceeeb2b-770c-497e-a543-6ccbb479c9d8"/>
   </children>
   <properties
       key="difi:language"

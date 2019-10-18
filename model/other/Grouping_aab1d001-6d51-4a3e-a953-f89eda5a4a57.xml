@@ -1,0 +1,36 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standardisering og spesifikasjoner (copy)"
+    id="aab1d001-6d51-4a3e-a953-f89eda5a4a57"
+    documentation="Inkl. semantisk, teknisk - både standarder og andre samhandlingsspesifikasjoner  ">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Standardisering og spesifikasjoner"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Inkl. semantisk, teknisk - både standarder og andre samhandlingsspesifikasjoner  "/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

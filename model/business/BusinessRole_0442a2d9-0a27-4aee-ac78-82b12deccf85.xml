@@ -31,4 +31,7 @@
       value="undefined"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
 </archimate:BusinessRole>

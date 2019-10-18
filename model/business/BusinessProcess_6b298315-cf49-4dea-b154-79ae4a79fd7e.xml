@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kontroller tilgang"
     id="6b298315-cf49-4dea-b154-79ae4a79fd7e"
-    documentation="Prosessen med kontroll og håndheving av konsumentens rettigheter til å få forespurte data. I tillegg til &quot;validering av sikkerhetsbillet&quot;, kan det være behov for kontroll mot virksomhetsinterne policies.">
+    documentation="Kontroll og håndheving av konsumentens rettigheter til å få forespurte data.  I tillegg til &quot;validering av sikkerhetsbillet&quot;, kan det være behov for kontroll mot virksomhetsinterne policies.">
   <properties
       key="difi:namespace"
       value="-"/>

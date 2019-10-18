@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Autentiseringstjeneste"
-    id="7dfbcaa9-ab5f-478d-b756-0d3dafc67bb8"
-    documentation="Tjeneste som benyttes av tilbyder for å validere og kontrollere autentisiteten til et OAUTH2 token fra Maskinporten"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inngå avtale om tilgang til data"
     id="50847a53-cf38-4f78-a767-123f2bb511fe"
-    documentation="Prosess hvor konsumenten inngår eventuell avtale med tilbyder om tilgang til data.">
+    documentation="Konsumenten sin prosess med å inngå eventuell avtale med tilbyder om tilgang til data.">
   <properties
       key="difi:namespace"
       value="-"/>

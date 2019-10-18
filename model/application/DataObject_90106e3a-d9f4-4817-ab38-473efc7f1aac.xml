@@ -1,0 +1,28 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open API Specification"
+    id="90106e3a-d9f4-4817-ab38-473efc7f1aac"
+    documentation="Maskinlesbar beskrivelse av REST API-er. Dette er formatet som benyttes for å registrere et API i felles API-katalog">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Open API Specification"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Maskinlesbar beskrivelse av REST API-er. Dette er formatet som benyttes for å registrere et API i felles API-katalog"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
+</archimate:DataObject>

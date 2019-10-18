@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Deling av data ved forsendelse - eMelding"
+    name="Deling av data ved forsendelse"
     id="cd4e885b-ef01-48d2-8bf2-ec15871f7dd5">
   <properties
       key="difi:namespace"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:grouping"/>

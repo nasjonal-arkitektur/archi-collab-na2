@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interoperabilitet (alle EIF-nivåer)"
-    id="e928fa73-211f-44ed-953b-1c24abbccd6d"/>
+    id="e928fa73-211f-44ed-953b-1c24abbccd6d">
+  <properties
+      key="drill down"
+      value="698734fa-ae8c-427d-8a07-3525f44eb5f1"/>
+</archimate:Grouping>

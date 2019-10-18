@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SMP Service Provider"
+    name="SMP tjenestetilbyder"
     id="933367fa-6875-4e01-8cf1-c6bb9544b43a">
   <properties
       key="dct:type"
@@ -13,9 +13,10 @@
       value="undefined"/>
   <properties
       key="difi:language"
-      value="en"/>
+      value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="SMP tjenestetilbyder"/>
   <properties
       key="difi:name_en"
       value="SMP Service Provider"/>
@@ -25,7 +26,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:BusinessRole>

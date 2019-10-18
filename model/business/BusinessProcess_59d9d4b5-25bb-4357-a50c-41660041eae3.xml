@@ -1,5 +1,4 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generere notifikasjon"
-    id="59d9d4b5-25bb-4357-a50c-41660041eae3"
-    documentation="Prosessen med å generere notifikasjon når det inntreffer en relevant hendelse. Normalt vil dette være en endring i en database eller datasett som er av interesse for brukerene av dataene.&#xD;&#xA;"/>
+    id="59d9d4b5-25bb-4357-a50c-41660041eae3"/>
