@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Temaområde datautveksling, med mellomledd (copy)"
+    name="Temaområde datautveksling, med mellomledd (backup copy)"
     id="a6921c73-78f4-4242-8d01-d1d2a84f08f8">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -779,15 +779,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="09ee794d-e1e5-4274-a413-cd6ce6828565"
-          source="66bd3d05-4abb-4154-b9b5-637889a33b3d"
-          target="fc2ea915-f35a-4f57-b20e-418c0522d206">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_3909b22a-c0cf-44b3-9420-3d20d81dc36f.xml#3909b22a-c0cf-44b3-9420-3d20d81dc36f"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="f089f157-1737-4818-849f-9f3acccfd408"
           source="66bd3d05-4abb-4154-b9b5-637889a33b3d"
           target="8d14165e-66be-402d-b871-f2857f62bd2d">
@@ -836,7 +827,6 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="fc2ea915-f35a-4f57-b20e-418c0522d206"
-          targetConnections="09ee794d-e1e5-4274-a413-cd6ce6828565"
           fillColor="#feeab6"
           textPosition="1">
         <bounds

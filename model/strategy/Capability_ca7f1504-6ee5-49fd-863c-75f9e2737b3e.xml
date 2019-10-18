@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Varsling av hendelse"
+    name="Publisere hendelse"
     id="ca7f1504-6ee5-49fd-863c-75f9e2737b3e">
   <properties
       key="difi:namespace"

@@ -438,15 +438,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="03c9e17e-f075-4982-8198-08a66b4b45f9"
-        source="1dad2b70-9814-4ebf-b69c-38f4cfa75e8c"
-        target="3d797916-be4c-4ba8-aaf2-5c01df348753">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_3909b22a-c0cf-44b3-9420-3d20d81dc36f.xml#3909b22a-c0cf-44b3-9420-3d20d81dc36f"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="01699059-f28c-47f9-993c-64ff6e47fcaa"
         source="1dad2b70-9814-4ebf-b69c-38f4cfa75e8c"
         target="d4d0948f-12c5-405e-910f-256576e6ec9c">
@@ -511,28 +502,13 @@
         fillColor="#feeab6"
         textPosition="1">
       <bounds
-          x="804"
-          y="36"
-          width="138"
-          height="71"/>
-      <archimateElement
-          xsi:type="archimate:Grouping"
-          href="Grouping_311ecfef-11b3-49a5-ac62-2856c3462b5f.xml#311ecfef-11b3-49a5-ac62-2856c3462b5f"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="3d797916-be4c-4ba8-aaf2-5c01df348753"
-        targetConnections="03c9e17e-f075-4982-8198-08a66b4b45f9"
-        fillColor="#feeab6"
-        textPosition="1">
-      <bounds
           x="648"
           y="36"
           width="138"
           height="71"/>
       <archimateElement
           xsi:type="archimate:Grouping"
-          href="Grouping_ed73d3f3-a0f1-4836-a704-5a4b2e1275e8.xml#ed73d3f3-a0f1-4836-a704-5a4b2e1275e8"/>
+          href="Grouping_311ecfef-11b3-49a5-ac62-2856c3462b5f.xml#311ecfef-11b3-49a5-ac62-2856c3462b5f"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -571,7 +547,7 @@
         fillColor="#feeab6"
         textPosition="1">
       <bounds
-          x="960"
+          x="804"
           y="36"
           width="138"
           height="71"/>

@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Adressere forsendelse"
+    name="Adresser forsendelse"
     id="1bd311b8-bdfa-4402-8847-59331351bc25"
     documentation="Prosess med å adressere forsendelsen. Dette kan være til mottaker direkte eller til dennes representant eller aksesspunkt,">
   <properties
@@ -14,7 +14,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Adressere forsendelse"/>
+      value="Adresser forsendelse"/>
   <properties
       key="difi:name_en"/>
   <properties

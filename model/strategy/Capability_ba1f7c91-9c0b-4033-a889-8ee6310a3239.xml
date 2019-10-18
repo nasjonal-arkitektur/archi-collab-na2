@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Kildesporing (data lineage)"/>
+      value="Spore datakilder (data lineage)"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -28,4 +28,9 @@
       value="Evnen til å spore opphavet til data og senere håndtering og hendelser.&#xD;&#xA;I arkvisammenheng benyttes ofte begrepet proveniens."/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:Capability>

@@ -25,8 +25,8 @@
       key="dct:type"
       value="archi:aggregation-relationship"/>
   <source
-      xsi:type="archimate:Capability"
-      href="Capability_bb488999-749c-409c-875a-b07217175d3a.xml#bb488999-749c-409c-875a-b07217175d3a"/>
+      xsi:type="archimate:Grouping"
+      href="Grouping_086dc87e-4fd8-4082-a251-159312df89e0.xml#086dc87e-4fd8-4082-a251-159312df89e0"/>
   <target
       xsi:type="archimate:Capability"
       href="Capability_305ec223-6e1e-4e96-9d35-dbbf640df451.xml#305ec223-6e1e-4e96-9d35-dbbf640df451"/>

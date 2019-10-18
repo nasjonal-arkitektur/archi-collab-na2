@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kontrollere forsendelse"
+    name="Kontroller forsendelse"
     id="4e3927e0-802a-4baa-9df3-f11e64b6aaee"
     documentation="Prosessen med å kontrollere om forsendelsen er autentisk og fra en legitim avsender.">
   <properties

@@ -779,15 +779,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="f0570788-7b03-43e7-9965-ed2282f9cb74"
-          source="68a82821-3a8a-4764-b7ff-fd7cc9e940ca"
-          target="72d7a2ed-228d-42b0-95eb-ecf6777f37d7">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_3909b22a-c0cf-44b3-9420-3d20d81dc36f.xml#3909b22a-c0cf-44b3-9420-3d20d81dc36f"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="cfe182bf-1261-4601-b8c4-afab74b32a24"
           source="68a82821-3a8a-4764-b7ff-fd7cc9e940ca"
           target="79d2cac6-788e-462b-a89e-d23e7c3675b0">
@@ -825,28 +816,13 @@
           fillColor="#feeab6"
           textPosition="1">
         <bounds
-            x="804"
-            y="36"
-            width="138"
-            height="71"/>
-        <archimateElement
-            xsi:type="archimate:Grouping"
-            href="Grouping_311ecfef-11b3-49a5-ac62-2856c3462b5f.xml#311ecfef-11b3-49a5-ac62-2856c3462b5f"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="72d7a2ed-228d-42b0-95eb-ecf6777f37d7"
-          targetConnections="f0570788-7b03-43e7-9965-ed2282f9cb74"
-          fillColor="#feeab6"
-          textPosition="1">
-        <bounds
             x="648"
             y="36"
             width="138"
             height="71"/>
         <archimateElement
             xsi:type="archimate:Grouping"
-            href="Grouping_ed73d3f3-a0f1-4836-a704-5a4b2e1275e8.xml#ed73d3f3-a0f1-4836-a704-5a4b2e1275e8"/>
+            href="Grouping_311ecfef-11b3-49a5-ac62-2856c3462b5f.xml#311ecfef-11b3-49a5-ac62-2856c3462b5f"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -885,7 +861,7 @@
           fillColor="#feeab6"
           textPosition="1">
         <bounds
-            x="960"
+            x="804"
             y="36"
             width="138"
             height="71"/>

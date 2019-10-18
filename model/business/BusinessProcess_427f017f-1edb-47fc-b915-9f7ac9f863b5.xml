@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Formatere melding"
+    name="Formater melding"
     id="427f017f-1edb-47fc-b915-9f7ac9f863b5"
     documentation="Prosess for å tilpasse informasjonspakken til mottakers kapabiliteter og fellesskapets standarder.">
   <properties
@@ -14,7 +14,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Tilpasse til meldingsformat"/>
+      value="Formater melding"/>
   <properties
       key="difi:name_en"/>
   <properties

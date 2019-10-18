@@ -16,7 +16,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Dataminimering"/>
+      value="Minimere persondata"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -26,4 +26,9 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:Capability>

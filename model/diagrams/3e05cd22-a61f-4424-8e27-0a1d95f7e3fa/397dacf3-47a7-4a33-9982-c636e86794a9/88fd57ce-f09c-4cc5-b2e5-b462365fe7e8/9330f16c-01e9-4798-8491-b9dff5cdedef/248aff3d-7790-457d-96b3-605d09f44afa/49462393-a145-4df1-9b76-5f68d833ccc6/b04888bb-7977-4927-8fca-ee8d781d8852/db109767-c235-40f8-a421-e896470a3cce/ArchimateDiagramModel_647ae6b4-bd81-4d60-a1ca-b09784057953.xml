@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sende melding SBB"
+    name="Send melding SBB"
     id="647ae6b4-bd81-4d60-a1ca-b09784057953">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -280,7 +280,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b5f560d7-505c-423a-9246-705ade195bdb"
-      targetConnections="7fe9fd39-1246-4cb9-9a8a-ba9040677298 c40b7ed8-5647-43ed-a4db-cb6893e6e49c">
+      targetConnections="7fe9fd39-1246-4cb9-9a8a-ba9040677298 c40b7ed8-5647-43ed-a4db-cb6893e6e49c"
+      textPosition="1">
     <bounds
         x="72"
         y="253"

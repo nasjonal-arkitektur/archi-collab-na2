@@ -1,7 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="aggregation"
+    name="omfatter"
     id="c887c8f5-b1cb-410d-bd47-95122ce210ff">
   <properties
       key="difi:namespace"

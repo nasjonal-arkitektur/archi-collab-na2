@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BCL"
     id="8fbe4ae4-162d-4c79-946d-8a4d6a8e7b34"
-    documentation="Business Certificate Locater&#xD;&#xA;"/>
+    documentation="Business Certificate Locater&#xD;&#xA;">
+  <properties
+      key="label"
+      value="${name} [lang:${property:difi:language}]"/>
+</archimate:ApplicationComponent>

@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Tidsstempling"/>
+      value="Tidsstemple data"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -28,4 +28,9 @@
       value="The date and time on an electronic document which proves that the document existed at a point-in-time and that it has not changed since then"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:Capability>

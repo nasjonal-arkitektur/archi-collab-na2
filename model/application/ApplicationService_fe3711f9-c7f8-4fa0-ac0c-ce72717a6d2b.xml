@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dataakksesstjeneste"
+    name="Dataaksesstjeneste"
     id="fe3711f9-c7f8-4fa0-ac0c-ce72717a6d2b">
   <properties
       key="difi:namespace"
