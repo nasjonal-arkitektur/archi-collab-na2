@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datautvekslings-tjeneste"
     id="0c051f18-03b6-4561-a6d8-a77912e4686c"
-    documentation="Tjeneste for utveksling av data. Samme som data exchange service. Benyttes av avsender og mottaker for transport av meldinger.">
+    documentation="Tjeneste for utveksling av data. Benyttes av avsender/tilbyder og mottaker/konsument for transport av data.">
   <properties
       key="dct:type"
       value="archi:application-service"/>

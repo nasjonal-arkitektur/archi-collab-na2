@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Motta  forespørsel om oppslag"
     id="83e31a03-97cf-478c-b05f-5eeb3fbe8f79"
-    documentation="Motta forespørsler fra API-konsument om å avgi data.">
+    documentation="Prosessen med å motta forespørsler fra API-konsument om å avgi data.">
   <properties
       key="difi:namespace"
       value="-"/>

@@ -100,7 +100,7 @@
       type="1">
     <bounds
         x="1128"
-        y="348"
+        y="372"
         width="139"
         height="72"/>
     <archimateElement
@@ -114,7 +114,7 @@
       textPosition="1"
       type="1">
     <bounds
-        x="1092"
+        x="1128"
         y="264"
         width="139"
         height="72"/>
@@ -129,8 +129,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="708"
-        y="348"
+        x="696"
+        y="372"
         width="139"
         height="72"/>
     <archimateElement
@@ -144,8 +144,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="876"
-        y="348"
+        x="888"
+        y="372"
         width="139"
         height="72"/>
     <archimateElement
@@ -189,7 +189,7 @@
       textPosition="1"
       type="1">
     <bounds
-        x="36"
+        x="96"
         y="732"
         width="139"
         height="72"/>
@@ -263,7 +263,7 @@
       textPosition="1"
       type="1">
     <bounds
-        x="72"
+        x="96"
         y="36"
         width="139"
         height="72"/>
@@ -278,7 +278,7 @@
       textPosition="1"
       type="1">
     <bounds
-        x="180"
+        x="174"
         y="600"
         width="139"
         height="72"/>
@@ -293,7 +293,7 @@
       textPosition="1"
       type="1">
     <bounds
-        x="84"
+        x="96"
         y="504"
         width="139"
         height="72"/>
@@ -338,7 +338,7 @@
       textPosition="1"
       type="1">
     <bounds
-        x="240"
+        x="267"
         y="504"
         width="133"
         height="71"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Les notifikasjon"
-    id="ea911e87-31ee-4524-bb56-ae6d5074e99a"/>
+    id="ea911e87-31ee-4524-bb56-ae6d5074e99a"
+    documentation="Prosessen med å lese notifikasjoner fra en hendelsesliste."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adressetjeneste"
+    id="a59b3d6b-3589-41bc-881d-9e6aadd6c64b"
+    documentation="Tjeneste som gir mulighet til å slå opp teknisk endepunkt"/>

@@ -1,12 +1,13 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Genere notifikasjoner"
+    name="Generere notifikasjoner"
     id="8bcc44fa-54e5-4cba-aed8-9462ee32ed2a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="68c5c066-6b83-453c-8cda-d84510aba3c3"
-      targetConnections="81f1ab60-358f-4140-aa68-3fe84d4d1d0a 25906bae-5f65-4dac-b542-23e246048e2a">
+      targetConnections="81f1ab60-358f-4140-aa68-3fe84d4d1d0a 25906bae-5f65-4dac-b542-23e246048e2a"
+      textPosition="1">
     <bounds
         x="96"
         y="204"
@@ -19,6 +20,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c31f9849-f6a0-4fc7-955c-82caf9a3b06b"
+      textPosition="1"
       type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -98,7 +100,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="2f598288-3d67-474a-bda6-9e65c47b3d92"
-        targetConnections="5ad6376a-14e8-4348-a590-ff6d00d8573b c753c6ce-a04d-4cd2-aaf7-9f76da7b13f2">
+        targetConnections="5ad6376a-14e8-4348-a590-ff6d00d8573b c753c6ce-a04d-4cd2-aaf7-9f76da7b13f2"
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="d77b086a-7cf9-43bb-9e70-eac071e5f427"
@@ -120,7 +123,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="a68ba243-e17d-4d6f-bb31-9ad2b06a6147"
-        targetConnections="d77b086a-7cf9-43bb-9e70-eac071e5f427 35a00fb5-2cda-4d58-9110-5d207635f422">
+        targetConnections="d77b086a-7cf9-43bb-9e70-eac071e5f427 35a00fb5-2cda-4d58-9110-5d207635f422"
+        textPosition="1">
       <bounds
           x="192"
           y="36"

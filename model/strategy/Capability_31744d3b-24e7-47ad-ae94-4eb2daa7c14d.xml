@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Innhente og håndtere notifikasjoner"
-    id="31744d3b-24e7-47ad-ae94-4eb2daa7c14d"/>
+    id="31744d3b-24e7-47ad-ae94-4eb2daa7c14d"
+    documentation="Evene til å innhente og håndtere notifikasjoner om endringer i et datasett."/>

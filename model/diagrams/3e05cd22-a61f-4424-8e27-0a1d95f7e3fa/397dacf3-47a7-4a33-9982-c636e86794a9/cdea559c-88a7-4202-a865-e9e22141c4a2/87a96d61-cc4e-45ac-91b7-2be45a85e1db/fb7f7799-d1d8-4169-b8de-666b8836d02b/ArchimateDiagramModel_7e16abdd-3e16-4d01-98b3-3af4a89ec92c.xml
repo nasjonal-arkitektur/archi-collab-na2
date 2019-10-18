@@ -126,16 +126,6 @@
         id="2deb40a6-cf24-49ba-a667-49b5482bc4bb"
         targetConnections="80af0839-db12-41b8-bbea-9e4ace05a195"
         textPosition="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="5e3b3364-7af5-47b0-90de-27150014b47f"
-          textPosition="0"
-          source="2deb40a6-cf24-49ba-a667-49b5482bc4bb"
-          target="0aca5b88-465d-4d9f-89b7-f89b0ae79650">
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_ebf8d316-ae76-4f48-9978-cc101633c8d9.xml#ebf8d316-ae76-4f48-9978-cc101633c8d9"/>
-      </sourceConnections>
       <bounds
           x="12"
           y="32"
@@ -148,7 +138,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="0aca5b88-465d-4d9f-89b7-f89b0ae79650"
-        targetConnections="17412d96-7886-4114-b046-ba642f9479f5 5e3b3364-7af5-47b0-90de-27150014b47f 6e771d52-2dc6-48a7-966e-45bd789351f8 6f281d63-2f88-47d4-bb35-09882cfea2b9"
+        targetConnections="17412d96-7886-4114-b046-ba642f9479f5 6e771d52-2dc6-48a7-966e-45bd789351f8 6f281d63-2f88-47d4-bb35-09882cfea2b9"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -226,8 +216,8 @@
       textAlignment="1"
       content="Se på om det skal hete autentiseringstjeneste&#xD;&#xA;&#xD;&#xA;Legge til prosessteg med autentisering.&#xD;&#xA;">
     <bounds
-        x="300"
-        y="312"
+        x="132"
+        y="324"
         width="229"
         height="145"/>
   </children>
