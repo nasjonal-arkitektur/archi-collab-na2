@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Forespørsel"
-    id="23ea706e-2af2-45eb-ae2c-16d11039b1b6"/>
+    id="23ea706e-2af2-45eb-ae2c-16d11039b1b6"
+    documentation="Informasjon om det som forespørres."/>
