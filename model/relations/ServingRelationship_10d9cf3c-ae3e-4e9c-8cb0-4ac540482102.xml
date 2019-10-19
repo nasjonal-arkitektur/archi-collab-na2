@@ -22,6 +22,14 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_8a16bebd-2eef-459d-9846-a20c1d7f5d85.xml#8a16bebd-2eef-459d-9846-a20c1d7f5d85"/>

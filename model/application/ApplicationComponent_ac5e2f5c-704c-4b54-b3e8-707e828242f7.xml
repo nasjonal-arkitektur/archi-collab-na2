@@ -27,4 +27,9 @@
   <properties
       key="difi:abstractionLevel"
       value="sbb"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:ApplicationComponent>
