@@ -11,9 +11,9 @@
       type="1">
     <bounds
         x="96"
-        y="-48"
+        y="132"
         width="162"
-        height="263"/>
+        height="83"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_fce6cb0c-47bb-4044-bcb1-b3cd2122ac93.xml#fce6cb0c-47bb-4044-bcb1-b3cd2122ac93"/>

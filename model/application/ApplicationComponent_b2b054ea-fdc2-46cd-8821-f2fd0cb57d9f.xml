@@ -13,7 +13,7 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="physical"/>
+      value="sbb"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -21,7 +21,7 @@
       key="difi:name_no"/>
   <properties
       key="difi:name_en"
-      value="Component SBB"/>
+      value="Application Component SBB"/>
   <properties
       key="difi:description_no"/>
   <properties

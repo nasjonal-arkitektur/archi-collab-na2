@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Object"
+    name="Business Object ABB"
     id="31f856e1-b0d7-4459-b488-5a252716ee10">
   <properties
       key="label"
@@ -17,13 +17,13 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="conceptual"/>
+      value="abb"/>
   <properties
       key="difi:language"
       value="en"/>
   <properties
       key="difi:name_en"
-      value="Business Object"/>
+      value="Business Object ABB"/>
   <properties
       key="difi:description_en"/>
   <properties

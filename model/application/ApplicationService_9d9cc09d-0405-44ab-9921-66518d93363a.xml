@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Service Specification"
+    name="Application Service Solution"
     id="9d9cc09d-0405-44ab-9921-66518d93363a"
     documentation="Example: Definition of Service for adding two numbers ">
   <properties
@@ -11,7 +11,7 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="logical"/>
+      value="sbb"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -19,7 +19,7 @@
       key="difi:name_no"/>
   <properties
       key="difi:name_en"
-      value="Application Service SBB"/>
+      value="Application Service Specification"/>
   <properties
       key="difi:description_no"/>
   <properties

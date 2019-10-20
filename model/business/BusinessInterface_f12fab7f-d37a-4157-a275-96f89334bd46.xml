@@ -10,7 +10,7 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="conceptual"/>
+      value="abb"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -18,7 +18,7 @@
       key="difi:name_no"/>
   <properties
       key="difi:name_en"
-      value="Business Interface"/>
+      value="Business Interface ABB"/>
   <properties
       key="difi:description_no"/>
   <properties
