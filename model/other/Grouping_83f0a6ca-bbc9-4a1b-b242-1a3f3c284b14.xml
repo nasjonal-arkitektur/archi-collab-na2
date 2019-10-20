@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Datautveksling- forvaltningsmessige kapabiliteter"
-    id="2dad9b2e-1125-44a2-abc4-8fdda2d66d54">
+    name="Arkitektur- og løsningsmønstre for datautveksling"
+    id="83f0a6ca-bbc9-4a1b-b242-1a3f3c284b14"
+    documentation="Inkl. semantisk, teknisk - både standarder og andre samhandlingsspesifikasjoner  ">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -19,11 +20,12 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Datautveksling- forvaltningsmessig"/>
+      value="Standardisering og spesifikasjoner"/>
   <properties
       key="difi:name_en"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Inkl. semantisk, teknisk - både standarder og andre samhandlingsspesifikasjoner  "/>
   <properties
       key="difi:description_en"/>
   <properties

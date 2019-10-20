@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Datautveksling- forvaltningsmessige kapabiliteter"
-    id="2dad9b2e-1125-44a2-abc4-8fdda2d66d54">
+    name="Datautveksling"
+    id="6d571bee-c1ad-4505-990b-b262506f4354"
+    documentation="Sporing av dataaksess og &quot;data lineage&quot; .... logging,  ">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -19,11 +20,12 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Datautveksling- forvaltningsmessig"/>
+      value="Sporing"/>
   <properties
       key="difi:name_en"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Sporing av dataaksess og &quot;data lineage&quot; .... logging,  "/>
   <properties
       key="difi:description_en"/>
   <properties

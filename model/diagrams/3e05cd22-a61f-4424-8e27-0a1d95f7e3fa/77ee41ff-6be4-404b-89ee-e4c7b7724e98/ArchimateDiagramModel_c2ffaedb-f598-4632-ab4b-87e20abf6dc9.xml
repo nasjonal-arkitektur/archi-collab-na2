@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Temaområde datautveksling, med mellomledd"
+    name="Datautveksling - overordnet oversikt over kapabiliteter og temaer"
     id="c2ffaedb-f598-4632-ab4b-87e20abf6dc9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -11,7 +11,7 @@
       type="1">
     <bounds
         x="108"
-        y="182"
+        y="72"
         width="138"
         height="71"/>
     <archimateElement
@@ -26,7 +26,7 @@
       type="1">
     <bounds
         x="264"
-        y="182"
+        y="72"
         width="138"
         height="71"/>
     <archimateElement
@@ -41,7 +41,7 @@
       type="1">
     <bounds
         x="420"
-        y="182"
+        y="72"
         width="138"
         height="71"/>
     <archimateElement
@@ -83,7 +83,7 @@
     </sourceConnections>
     <bounds
         x="36"
-        y="252"
+        y="142"
         width="1189"
         height="685"/>
     <children
@@ -741,15 +741,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="b5be8eab-5e73-42a8-9b6b-87694078635b"
-          source="68a82821-3a8a-4764-b7ff-fd7cc9e940ca"
-          target="4bb87491-6921-4185-a590-26b15c0ae5cc">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_5ae6870d-c03c-4e45-9e92-c556ad544613.xml#5ae6870d-c03c-4e45-9e92-c556ad544613"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="cfe182bf-1261-4601-b8c4-afab74b32a24"
           source="68a82821-3a8a-4764-b7ff-fd7cc9e940ca"
           target="79d2cac6-788e-462b-a89e-d23e7c3675b0">
@@ -782,29 +773,13 @@
           height="121"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="4bb87491-6921-4185-a590-26b15c0ae5cc"
-          targetConnections="b5be8eab-5e73-42a8-9b6b-87694078635b"
-          fillColor="#feeab6"
-          textPosition="1"
-          type="1">
-        <bounds
-            x="768"
-            y="36"
-            width="138"
-            height="71"/>
-        <archimateElement
-            xsi:type="archimate:Grouping"
-            href="Grouping_311ecfef-11b3-49a5-ac62-2856c3462b5f.xml#311ecfef-11b3-49a5-ac62-2856c3462b5f"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
           id="6e7a2aac-8f68-4587-b17c-f335755d9c1a"
           targetConnections="72047244-97cf-40b1-b4e7-9c3c9ad13a3c"
           fillColor="#feeab6"
           textPosition="1"
           type="1">
         <bounds
-            x="588"
+            x="720"
             y="36"
             width="138"
             height="71"/>
@@ -820,7 +795,7 @@
           textPosition="1"
           type="1">
         <bounds
-            x="408"
+            x="504"
             y="36"
             width="138"
             height="71"/>
@@ -852,7 +827,7 @@
           textPosition="1"
           type="1">
         <bounds
-            x="228"
+            x="276"
             y="36"
             width="138"
             height="71"/>
@@ -889,7 +864,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Temaområde datautveksling, med mellomledd"/>
+      value="Datautveksling - overordnet oversikt over kapabiliteter og temaer"/>
   <properties
       key="difi:name_en"/>
   <properties
