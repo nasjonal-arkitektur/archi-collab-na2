@@ -8,7 +8,7 @@
       value="na1"/>
   <properties
       key="difi:name_no"
-      value="Behandlingsgrunnlag"/>
+      value="Dokumentere behandlingsgrunnlag for personopplysninger"/>
   <properties
       key="difi:description_no"
       value="Evne til å legge frem behandlingsgrunnlag for tilgang til og behandling av data.&#xD;&#xA;Dataminimering"/>
@@ -28,4 +28,9 @@
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:Capability>

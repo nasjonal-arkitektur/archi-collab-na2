@@ -19,11 +19,16 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Samsvar med lover og regler"/>
+      value="Etterleve lover og regler"/>
   <properties
       key="difi:name_en"/>
   <properties
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:Capability>

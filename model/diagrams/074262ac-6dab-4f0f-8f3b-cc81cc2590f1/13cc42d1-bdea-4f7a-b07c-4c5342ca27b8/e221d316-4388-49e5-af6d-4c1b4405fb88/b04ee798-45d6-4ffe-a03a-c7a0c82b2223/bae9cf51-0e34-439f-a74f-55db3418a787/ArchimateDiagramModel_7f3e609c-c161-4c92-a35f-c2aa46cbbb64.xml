@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kapabiliteter, datautveksling, hendelse"
+    name="Kapabiliteter, datautveksling, publisering"
     id="7f3e609c-c161-4c92-a35f-c2aa46cbbb64">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

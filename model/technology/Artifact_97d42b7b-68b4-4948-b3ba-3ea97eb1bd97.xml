@@ -1,6 +1,6 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Component Artifact SBB"
+    name="Data Artifact Instance"
     id="97d42b7b-68b4-4948-b3ba-3ea97eb1bd97">
   <properties
       key="dct:type"
@@ -10,7 +10,7 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="physical"/>
+      value="instance"/>
   <properties
       key="difi:language"
       value="en"/>

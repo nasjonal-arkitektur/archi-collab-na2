@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="eSignering"/>
+      value="Signere dokumenter"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -28,4 +28,9 @@
       value="Electronic signatures deliver a way to sign documents in the online world, much like one signs a document with a pen in the offline world."/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:Capability>

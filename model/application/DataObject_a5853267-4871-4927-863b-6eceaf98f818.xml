@@ -17,13 +17,13 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="logical"/>
+      value="abb"/>
   <properties
       key="difi:language"
-      value="en"/>
+      value="no"/>
   <properties
       key="difi:name_en"
-      value="Data Object"/>
+      value="Data Object ABB"/>
   <properties
       key="difi:description_en"/>
   <properties

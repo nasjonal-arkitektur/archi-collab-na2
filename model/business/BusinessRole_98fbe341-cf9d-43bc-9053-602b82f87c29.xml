@@ -25,5 +25,5 @@
       value="${name}[ns:${property:difi:language}]"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:${property:difi:language}]"/>
 </archimate:BusinessRole>

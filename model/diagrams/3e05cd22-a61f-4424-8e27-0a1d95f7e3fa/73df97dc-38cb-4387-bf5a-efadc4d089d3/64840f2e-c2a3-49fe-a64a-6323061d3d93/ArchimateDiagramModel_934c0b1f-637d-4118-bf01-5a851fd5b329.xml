@@ -20,7 +20,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4673c741-333d-4e05-b1c5-899ef0277c61"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textPosition="1">
     <bounds
         x="816"
         y="419"
@@ -33,7 +34,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a3bf5f2d-02bb-442c-8965-6c653c178a3b"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textPosition="1">
     <bounds
         x="39"
         y="288"
@@ -46,7 +48,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6a1dbe11-02cf-4395-9ae8-8b62175cdf05"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textPosition="1">
     <bounds
         x="795"
         y="288"

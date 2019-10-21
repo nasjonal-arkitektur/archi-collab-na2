@@ -39,19 +39,19 @@
     <bounds
         x="48"
         y="48"
-        width="637"
-        height="145"/>
+        width="529"
+        height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f4debe35-484e-4b84-a00e-f2b58cf01017"
         targetConnections="8591d935-3da4-4d27-9262-8c85c7071016"
-        textAlignment="1"
-        fillColor="#ffe49f">
+        fillColor="#ffe49f"
+        textPosition="1">
       <bounds
-          x="432"
+          x="348"
           y="36"
-          width="181"
-          height="85"/>
+          width="138"
+          height="71"/>
       <archimateElement
           xsi:type="archimate:Grouping"
           href="Grouping_58fdb791-aa0d-4798-800b-8b6a99ebc11a.xml#58fdb791-aa0d-4798-800b-8b6a99ebc11a"/>
@@ -60,13 +60,13 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="9b768de2-5f30-499e-a7fc-c64979086e82"
         targetConnections="2b7a4925-4671-48e4-8978-16f30e99c4cc"
-        textAlignment="1"
-        fillColor="#ffe49f">
+        fillColor="#ffe49f"
+        textPosition="1">
       <bounds
-          x="228"
+          x="192"
           y="36"
-          width="181"
-          height="85"/>
+          width="138"
+          height="71"/>
       <archimateElement
           xsi:type="archimate:Grouping"
           href="Grouping_cd4e885b-ef01-48d2-8bf2-ec15871f7dd5.xml#cd4e885b-ef01-48d2-8bf2-ec15871f7dd5"/>
@@ -75,13 +75,13 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="193788eb-85ea-4673-b098-64c2078b32c0"
         targetConnections="3065e7af-8d4c-4b51-be7d-a57c1e31fbae"
-        textAlignment="1"
-        fillColor="#ffe49f">
+        fillColor="#ffe49f"
+        textPosition="1">
       <bounds
           x="24"
           y="36"
-          width="181"
-          height="85"/>
+          width="138"
+          height="71"/>
       <archimateElement
           xsi:type="archimate:Grouping"
           href="Grouping_fce6cb0c-47bb-4044-bcb1-b3cd2122ac93.xml#fce6cb0c-47bb-4044-bcb1-b3cd2122ac93"/>

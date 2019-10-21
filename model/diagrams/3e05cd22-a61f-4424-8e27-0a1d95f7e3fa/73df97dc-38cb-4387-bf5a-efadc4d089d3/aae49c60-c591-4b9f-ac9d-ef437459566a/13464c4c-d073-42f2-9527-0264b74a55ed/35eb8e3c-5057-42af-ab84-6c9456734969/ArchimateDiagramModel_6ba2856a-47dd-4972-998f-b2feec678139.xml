@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dataforvaltning områder (DMBOK)"
+    name="Områder innen informasjonsforvaltning (DMBOK)"
     id="6ba2856a-47dd-4972-998f-b2feec678139">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -169,7 +169,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="ed01b9a4-8357-44a0-aed4-d72708259993"
-        targetConnections="d55c0563-95f5-4df5-9d1d-43dffb3995fc"
+        targetConnections="d55c0563-95f5-4df5-9d1d-43dffb3995fc f9aa304a-771d-49a0-bd5a-00c8bb63e0ec"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -340,9 +340,18 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c1b753ee-1652-4589-886e-cf5c3ab4316d"
         targetConnections="82bb9f6a-566f-4a5c-9729-fe0e4738cfe7">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="f9aa304a-771d-49a0-bd5a-00c8bb63e0ec"
+          source="c1b753ee-1652-4589-886e-cf5c3ab4316d"
+          target="ed01b9a4-8357-44a0-aed4-d72708259993">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_a5659c3a-cac1-4cdc-98a8-6634cadefdb4.xml#a5659c3a-cac1-4cdc-98a8-6634cadefdb4"/>
+      </sourceConnections>
       <bounds
-          x="24"
-          y="362"
+          x="84"
+          y="336"
           width="133"
           height="71"/>
       <archimateElement
@@ -366,5 +375,6 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="difi:docViewPath"/>
+      key="difi:docViewPath"
+      value="nab_arkitekturlandskap_segmentarkitektur_informasjonsforvaltning"/>
 </archimate:ArchimateDiagramModel>

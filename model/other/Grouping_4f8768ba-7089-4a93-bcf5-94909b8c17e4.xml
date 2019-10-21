@@ -23,7 +23,7 @@
       value="Ability to define, organize, structure, secure, protect, and disseminate facts, statistics, attributes, and other types of data about an organization’s set of business objects."/>
   <properties
       key="label"
-      value="${name}"/>
+      value="Informasjons-forvaltning"/>
   <properties
       key="dct:type"
       value="archi:capability"/>

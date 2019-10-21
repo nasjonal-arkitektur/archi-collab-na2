@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Validere forsendelse"
+    name="Valider forsendelse"
     id="1508612e-d424-4763-b4a2-9a969261ecc8"
-    documentation="Prosessen med å kontrollere om innholder i en forsendelse er i henhold til avtale og avtalte formater.">
+    documentation="Prosessen med å kontrollere om innholdet i en forsendelse er i henhold til avtale og avtalte formater.">
   <properties
       key="dct:type"
       value="archi:business-process"/>
@@ -14,7 +14,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Validere forsendelse"/>
+      value="Valider forsendelse"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -24,4 +24,12 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:BusinessProcess>

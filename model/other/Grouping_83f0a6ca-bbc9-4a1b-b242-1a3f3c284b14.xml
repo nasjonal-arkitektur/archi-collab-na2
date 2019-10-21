@@ -1,0 +1,36 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arkitektur- og løsningsmønstre for datautveksling"
+    id="83f0a6ca-bbc9-4a1b-b242-1a3f3c284b14"
+    documentation="Inkl. semantisk, teknisk - både standarder og andre samhandlingsspesifikasjoner  ">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Standardisering og spesifikasjoner"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Inkl. semantisk, teknisk - både standarder og andre samhandlingsspesifikasjoner  "/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

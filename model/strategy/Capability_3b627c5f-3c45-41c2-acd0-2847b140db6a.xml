@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Delegere rettigheter"/>
+      value="Delegere rettigheter og gi fullmakter (tilbyder)"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -28,4 +28,9 @@
       value="Evne til å delegere en rettighet til en annen aktør feks. en driftslevereandør på en slik måte at dette kan etterprøves.&#xD;&#xA;Registrering og kontroll av representasjonsforhold. Trenger ikke være begrenset til virksomheter men også omfatter f.eks. foreldre-barn relasjon, vergemål, bobestyrer osv.&#xD;&#xA;&#xD;&#xA;"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:Capability>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sende melding SBB"
+    name="Send melding SBB"
     id="647ae6b4-bd81-4d60-a1ca-b09784057953">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -280,7 +280,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b5f560d7-505c-423a-9246-705ade195bdb"
-      targetConnections="7fe9fd39-1246-4cb9-9a8a-ba9040677298 c40b7ed8-5647-43ed-a4db-cb6893e6e49c">
+      targetConnections="7fe9fd39-1246-4cb9-9a8a-ba9040677298 c40b7ed8-5647-43ed-a4db-cb6893e6e49c"
+      textPosition="1">
     <bounds
         x="72"
         y="253"
@@ -407,7 +408,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="76f7c602-adf5-461d-84ae-768288f0f04d">
+      id="76f7c602-adf5-461d-84ae-768288f0f04d"
+      fillColor="#80ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="c7d1deb1-03a4-40cc-ad4a-2a9db6d69759"
@@ -429,7 +431,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="85ccc7cc-51cb-44f0-8c4d-30fe37577447"
-      targetConnections="232bb4c7-f29e-4f83-9bcd-6b438f8be0ca">
+      targetConnections="232bb4c7-f29e-4f83-9bcd-6b438f8be0ca"
+      fillColor="#80ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="2c6cc524-c799-4ed5-ab62-f1ea6214a384"
@@ -450,7 +453,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="247836ae-4e7e-470f-86ba-8ac900b5643f">
+      id="247836ae-4e7e-470f-86ba-8ac900b5643f"
+      fillColor="#80ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="e4217e1c-098d-449c-934f-116800114fc6"
@@ -471,7 +475,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="470809da-d501-4e64-be9f-3fe5c9f06830">
+      id="470809da-d501-4e64-be9f-3fe5c9f06830"
+      fillColor="#80ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="232bb4c7-f29e-4f83-9bcd-6b438f8be0ca"
@@ -493,6 +498,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6f9c0501-79d3-4ac3-8501-2f39de5d4984"
+      fillColor="#80ffff"
       textPosition="1"
       type="1">
     <sourceConnections

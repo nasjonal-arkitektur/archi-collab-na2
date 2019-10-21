@@ -2,10 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sending av data"
     id="627f362e-2204-42ce-a032-e904c0151e14"
-    documentation="Evnene til å sende data til en mottaker.">
+    documentation="Evnen til å sende data til en mottaker.">
   <properties
       key="difi:namespace"
-      value="difi"/>
+      value="na1"/>
   <properties
       key="difi:name_no"
       value="Sending av data"/>
@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:capability"/>
