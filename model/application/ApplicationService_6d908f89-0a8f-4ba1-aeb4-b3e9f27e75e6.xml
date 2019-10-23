@@ -8,7 +8,7 @@
       value="-"/>
   <properties
       key="difi:name_no"
-      value="Tokenvaliderings-tjeneste"/>
+      value="Tokenvalideringstjeneste"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -24,4 +24,12 @@
   <properties
       key="difi:language"
       value="no"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+  <properties
+      key="difi:notes"/>
 </archimate:ApplicationService>

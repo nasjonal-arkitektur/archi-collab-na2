@@ -144,6 +144,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b6d04db1-c328-4b3c-a619-b17f3220d652"
+      fillColor="#00ffff"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"

@@ -7,6 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6277d77f-8553-46f8-84f3-fd223d9e538f"
+      fillColor="#00ffff"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -18,7 +19,7 @@
           href="RealizationRelationship_284deedd-5f0e-41bb-8cc4-cd5fc1c24f17.xml#284deedd-5f0e-41bb-8cc4-cd5fc1c24f17"/>
     </sourceConnections>
     <bounds
-        x="708"
+        x="720"
         y="396"
         width="133"
         height="71"/>
@@ -29,6 +30,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9b0cbce0-2428-44f3-a713-e01a176e14ff"
+      fillColor="#00ffff"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -40,7 +42,7 @@
           href="RealizationRelationship_d76b1315-6ba9-474e-bb92-dda9819cd179.xml#d76b1315-6ba9-474e-bb92-dda9819cd179"/>
     </sourceConnections>
     <bounds
-        x="396"
+        x="408"
         y="397"
         width="133"
         height="70"/>
@@ -51,6 +53,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="16217046-38e2-4a60-820a-e5aebcb8b5f5"
+      fillColor="#00ffff"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -306,6 +309,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4a13aced-0c08-4ffc-9286-d71068b382e6"
       targetConnections="3009dfad-c8d1-457a-907f-75fbc9225c83"
+      fillColor="#00ffff"
       textPosition="1"
       type="1">
     <sourceConnections
@@ -327,10 +331,10 @@
           href="ServingRelationship_3021e158-e4d9-4853-a34f-274d6014d870.xml#3021e158-e4d9-4853-a34f-274d6014d870"/>
     </sourceConnections>
     <bounds
-        x="420"
+        x="408"
         y="290"
-        width="133"
-        height="70"/>
+        width="138"
+        height="71"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_6d908f89-0a8f-4ba1-aeb4-b3e9f27e75e6.xml#6d908f89-0a8f-4ba1-aeb4-b3e9f27e75e6"/>

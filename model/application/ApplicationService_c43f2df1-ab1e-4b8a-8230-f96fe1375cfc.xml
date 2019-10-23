@@ -24,4 +24,12 @@
   <properties
       key="dct:type"
       value="archi:application-service"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
+  <properties
+      key="difi:notes"/>
 </archimate:ApplicationService>

@@ -19,6 +19,17 @@
   <properties
       key="dct:type"
       value="archi:serving-relationship"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_fc699973-2737-4319-ae75-9839ceb74181.xml#fc699973-2737-4319-ae75-9839ceb74181"/>
