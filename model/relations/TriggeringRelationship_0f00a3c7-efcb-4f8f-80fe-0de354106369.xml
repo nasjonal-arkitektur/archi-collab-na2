@@ -25,7 +25,7 @@
       value="archi:triggering-relationship"/>
   <source
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_50847a53-cf38-4f78-a767-123f2bb511fe.xml#50847a53-cf38-4f78-a767-123f2bb511fe"/>
+      href="BusinessProcess_bb9600f7-587d-423e-85a3-4215e45f09e4.xml#bb9600f7-587d-423e-85a3-4215e45f09e4"/>
   <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_8f899729-16a6-4b20-8438-fb3ccdfd837e.xml#8f899729-16a6-4b20-8438-fb3ccdfd837e"/>

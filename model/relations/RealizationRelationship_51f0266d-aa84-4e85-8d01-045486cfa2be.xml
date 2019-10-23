@@ -1,7 +1,6 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="realization"
     id="51f0266d-aa84-4e85-8d01-045486cfa2be">
   <properties
       key="difi:namespace"
@@ -18,9 +17,6 @@
   <properties
       key="difi:language"
       value="no"/>
-  <properties
-      key="label"
-      value=" "/>
   <properties
       key="dct:type"
       value="archi:realization-relationship"/>

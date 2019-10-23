@@ -1,7 +1,6 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="serving"
     id="f1d60f51-7cb2-4d78-a781-bde416e0ff93">
   <properties
       key="dct:type"
@@ -13,17 +12,13 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"
-      value="serving"/>
+      key="difi:name_no"/>
   <properties
       key="difi:name_en"/>
   <properties
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
-  <properties
-      key="label"
-      value=" "/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_6d908f89-0a8f-4ba1-aeb4-b3e9f27e75e6.xml#6d908f89-0a8f-4ba1-aeb4-b3e9f27e75e6"/>

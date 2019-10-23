@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API-søk"
+    id="9bea2c14-0d88-4df5-a942-f5b69afc0c8b"
+    documentation="Tjeneste for å søke etter og finne tilgjengelige API-er"/>

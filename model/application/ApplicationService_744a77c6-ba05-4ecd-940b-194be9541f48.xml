@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreringstjeneste for API-brukere"
+    id="744a77c6-ba05-4ecd-940b-194be9541f48"
+    documentation="Tjeneste for å registrere klienter som skal ha tilgang til et gitt API."/>
