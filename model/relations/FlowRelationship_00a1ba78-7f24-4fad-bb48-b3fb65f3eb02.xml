@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="informasjonsflyt"
+    id="00a1ba78-7f24-4fad-bb48-b3fb65f3eb02">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_e55163c2-be2b-427e-8a7e-3c4725ca14b3.xml#e55163c2-be2b-427e-8a7e-3c4725ca14b3"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_f5819824-bb99-457a-9fe9-cabb566bb414.xml#f5819824-bb99-457a-9fe9-cabb566bb414"/>
+</archimate:FlowRelationship>

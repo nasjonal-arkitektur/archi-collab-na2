@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2. Meldingsutveksling mellom to parter (copy)"
+    name="Generisk forsendelse"
     id="94193398-d267-4e20-a5dd-68b3cba88758">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -59,7 +59,7 @@
           href="ServingRelationship_5235bceb-d4a4-46e0-860c-dc4faadeee97.xml#5235bceb-d4a4-46e0-860c-dc4faadeee97"/>
     </sourceConnections>
     <bounds
-        x="809"
+        x="478"
         y="264"
         width="138"
         height="71"/>
@@ -73,8 +73,8 @@
       targetConnections="c5ccf5f2-2891-4e46-804f-751bb0239038"
       textPosition="1">
     <bounds
-        x="432"
-        y="194"
+        x="312"
+        y="190"
         width="138"
         height="71"/>
     <archimateElement
@@ -112,7 +112,7 @@
       targetConnections="e112261c-a33f-42da-8ffc-b4bb649215a5 a6c96fa3-0cff-4e2e-8a72-8c7a212c6bdf"
       textPosition="1">
     <bounds
-        x="811"
+        x="480"
         y="96"
         width="133"
         height="71"/>
@@ -134,12 +134,36 @@
           href="AssociationRelationship_c0368d95-e3c2-4615-b283-373861fcc667.xml#c0368d95-e3c2-4615-b283-373861fcc667"/>
     </sourceConnections>
     <bounds
-        x="432"
+        x="312"
         y="26"
         width="138"
         height="71"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_d507b2d6-2d18-4667-8b63-f1f0cb783003.xml#d507b2d6-2d18-4667-8b63-f1f0cb783003"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b6784961-b777-4110-b75c-d61eebeba759">
+    <bounds
+        x="120"
+        y="420"
+        width="138"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:CommunicationNetwork"
+        href="CommunicationNetwork_ff1f5509-4599-4ff3-922d-3c405638a77b.xml#ff1f5509-4599-4ff3-922d-3c405638a77b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="570cd141-8e69-4bfa-b842-d9555ce7d9f3">
+    <bounds
+        x="324"
+        y="384"
+        width="138"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_4610f9af-4408-4d19-afe7-10ade011bf31.xml#4610f9af-4408-4d19-afe7-10ade011bf31"/>
   </children>
 </archimate:ArchimateDiagramModel>

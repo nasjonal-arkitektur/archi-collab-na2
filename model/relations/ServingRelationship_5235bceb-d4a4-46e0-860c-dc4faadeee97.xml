@@ -2,6 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="5235bceb-d4a4-46e0-860c-dc4faadeee97">
+  <properties
+      key="label"
+      value="tjener"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_11352172-f31c-4b74-a8d7-55d996e558d3.xml#11352172-f31c-4b74-a8d7-55d996e558d3"/>
