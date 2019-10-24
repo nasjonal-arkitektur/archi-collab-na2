@@ -1,8 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tilbyder"
+    name="Datatilbyder"
     id="c777850b-1ce0-4af0-b1b2-d180411baaca"
-    documentation="En aktør som tilbyr data til eksterne parter, enten på vegne av andre, som forvalter av data eller som dataansvarlig.">
+    documentation="Tilbyder av data til eksterne parter, eventuelt på vegne av andre.">
   <properties
       key="dct:type"
       value="archi:business-role"/>

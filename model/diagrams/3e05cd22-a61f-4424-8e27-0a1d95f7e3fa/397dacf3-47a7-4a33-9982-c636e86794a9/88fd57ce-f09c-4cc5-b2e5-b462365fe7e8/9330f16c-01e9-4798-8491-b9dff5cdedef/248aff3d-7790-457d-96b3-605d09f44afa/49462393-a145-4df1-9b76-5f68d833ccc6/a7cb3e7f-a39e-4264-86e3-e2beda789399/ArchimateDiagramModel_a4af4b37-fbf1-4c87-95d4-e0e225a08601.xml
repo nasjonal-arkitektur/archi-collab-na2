@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Firehjørnersmodellen (eMelding) (copy)"
-    id="a4af4b37-fbf1-4c87-95d4-e0e225a08601">
+    name="Firehjørnersmodellen - operativt"
+    id="a4af4b37-fbf1-4c87-95d4-e0e225a08601"
+    documentation="Avsender ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5fed59e8-74f6-49e9-bc35-13659c31f6db">
@@ -47,6 +48,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="8e396698-7e9b-4d47-8d3a-0e785d6bc64a"
+          lineWidth="3"
           textPosition="0"
           source="53e2ae2b-e0bc-4e15-ba64-ace7af78d021"
           target="205f3ad6-ef60-4349-98ef-84302bdc0d74">
@@ -71,6 +73,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="7b4587c5-8979-4d5f-82d5-17a4619e1397"
+          lineWidth="3"
           source="205f3ad6-ef60-4349-98ef-84302bdc0d74"
           target="40dc42da-0771-4339-9b6f-c0cd35e07f26">
         <archimateRelationship
@@ -148,6 +151,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="92a8d908-78ac-450c-9266-8e800173a4b3"
+          lineWidth="3"
           textPosition="0"
           source="40dc42da-0771-4339-9b6f-c0cd35e07f26"
           target="63c3ac67-8f7b-4848-bda4-9ca5e4d8ee13">
