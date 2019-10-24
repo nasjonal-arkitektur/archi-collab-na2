@@ -1,13 +1,13 @@
-<archimate:CommunicationNetwork
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Meldingsinfrastruktur"
-    id="ff1f5509-4599-4ff3-922d-3c405638a77b">
+    id="0a6b9d05-6c69-4795-a06c-14b5fd68ebae">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:communication-network"/>
+      value="archi:specialization-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -18,8 +18,7 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"
-      value="Meldingsinfrastruktur"/>
+      key="difi:name_no"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -31,4 +30,10 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-</archimate:CommunicationNetwork>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_9b22334b-9c4c-465c-81ec-7e2c5496095e.xml#9b22334b-9c4c-465c-81ec-7e2c5496095e"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_0c051f18-03b6-4561-a6d8-a77912e4686c.xml#0c051f18-03b6-4561-a6d8-a77912e4686c"/>
+</archimate:SpecializationRelationship>

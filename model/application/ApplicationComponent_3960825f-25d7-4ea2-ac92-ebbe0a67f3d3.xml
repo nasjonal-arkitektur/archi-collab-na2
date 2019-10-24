@@ -1,10 +1,7 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Avsenders kommunikasjonsløsning"
-    id="70cb5d42-ee12-4f2d-9f2f-0502438bd63a">
-  <properties
-      key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+    name="Felles datalager"
+    id="3960825f-25d7-4ea2-ac92-ebbe0a67f3d3">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -22,13 +19,16 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Avsenders kommunikasjonsløsning"/>
+      value="Felles datalager"/>
   <properties
       key="difi:name_en"/>
   <properties
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:ApplicationComponent>

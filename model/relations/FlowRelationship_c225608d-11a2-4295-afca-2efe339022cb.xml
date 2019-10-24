@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="meldingsflyt"
-    id="b75e8aff-a7a3-46c8-8f01-06f19e475877">
+    id="c225608d-11a2-4295-afca-2efe339022cb">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_8632cc9b-ad16-43e4-a28d-501a4828288f.xml#8632cc9b-ad16-43e4-a28d-501a4828288f"/>
+      href="ApplicationComponent_70cb5d42-ee12-4f2d-9f2f-0502438bd63a.xml#70cb5d42-ee12-4f2d-9f2f-0502438bd63a"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_ec5cde55-f663-432f-8eff-c73b687ad915.xml#ec5cde55-f663-432f-8eff-c73b687ad915"/>
+      href="ApplicationComponent_11352172-f31c-4b74-a8d7-55d996e558d3.xml#11352172-f31c-4b74-a8d7-55d996e558d3"/>
 </archimate:FlowRelationship>

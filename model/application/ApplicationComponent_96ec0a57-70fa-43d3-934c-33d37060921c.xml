@@ -1,10 +1,7 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Avsenders kommunikasjonsløsning"
-    id="70cb5d42-ee12-4f2d-9f2f-0502438bd63a">
-  <properties
-      key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+    name="Peppol eDelivery Network"
+    id="96ec0a57-70fa-43d3-934c-33d37060921c">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -16,19 +13,22 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="undefined"/>
+      value="sbb"/>
   <properties
       key="difi:language"
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Avsenders kommunikasjonsløsning"/>
+      value="Peppol eDelvery Network"/>
   <properties
       key="difi:name_en"/>
   <properties
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:ApplicationComponent>

@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="anvender"
     id="3383e120-0372-40f7-80db-f941c6b1f789"
     accessType="1">
   <source

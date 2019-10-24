@@ -4,5 +4,31 @@
     id="11352172-f31c-4b74-a8d7-55d996e558d3">
   <properties
       key="label"
-      value="Motakers kommunikasjons-løsning"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Motakers kommunikasjonsløsning"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
 </archimate:ApplicationComponent>
