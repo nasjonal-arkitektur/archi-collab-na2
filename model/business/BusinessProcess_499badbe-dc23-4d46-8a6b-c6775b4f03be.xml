@@ -14,7 +14,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Motta eMelding"/>
+      value="Motta melding"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -23,7 +23,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>

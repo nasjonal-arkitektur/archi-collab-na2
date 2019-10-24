@@ -22,6 +22,14 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_39a534e2-fba3-4725-8be0-19961e77cb37.xml#39a534e2-fba3-4725-8be0-19961e77cb37"/>

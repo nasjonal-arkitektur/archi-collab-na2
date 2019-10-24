@@ -25,4 +25,12 @@
   <properties
       key="dct:type"
       value="archi:data-object"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:DataObject>

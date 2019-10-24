@@ -24,6 +24,14 @@
   <properties
       key="dct:type"
       value="archi:association-relationship"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_49b0b5a9-4f7d-4325-92e9-6eddf285ae09.xml#49b0b5a9-4f7d-4325-92e9-6eddf285ae09"/>

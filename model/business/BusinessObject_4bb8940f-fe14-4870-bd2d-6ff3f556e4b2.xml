@@ -14,7 +14,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Adresse mottaker"/>
+      value="Mottakeradresse"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -23,5 +23,5 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
 </archimate:BusinessObject>

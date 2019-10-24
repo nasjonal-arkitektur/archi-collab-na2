@@ -25,7 +25,7 @@
       value="archi:composition-relationship"/>
   <source
       xsi:type="archimate:Capability"
-      href="Capability_260f44ee-7dc5-4874-8dbf-cc5ae9690877.xml#260f44ee-7dc5-4874-8dbf-cc5ae9690877"/>
+      href="Capability_38a2e1ca-ea83-4955-b758-f9c2b9cc2f06.xml#38a2e1ca-ea83-4955-b758-f9c2b9cc2f06"/>
   <target
       xsi:type="archimate:Capability"
       href="Capability_b5e91436-f0fc-4906-bfee-a4b3846693a2.xml#b5e91436-f0fc-4906-bfee-a4b3846693a2"/>

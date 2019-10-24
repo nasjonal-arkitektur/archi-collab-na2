@@ -1,7 +1,6 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="realization"
     id="06edcb5f-3597-4873-a019-461931e6ef46">
   <properties
       key="dct:type"
@@ -24,6 +23,14 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_e13e1fcc-f913-4614-afe7-97e9f1c0d8da.xml#e13e1fcc-f913-4614-afe7-97e9f1c0d8da"/>

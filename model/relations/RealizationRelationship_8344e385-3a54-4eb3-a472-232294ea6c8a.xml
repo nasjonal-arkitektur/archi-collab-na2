@@ -24,6 +24,14 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_4d9e5050-ecaf-4365-a8c3-3e45ade4518d.xml#4d9e5050-ecaf-4365-a8c3-3e45ade4518d"/>

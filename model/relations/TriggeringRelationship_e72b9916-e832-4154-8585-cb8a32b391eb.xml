@@ -23,6 +23,14 @@
   <properties
       key="dct:type"
       value="archi:triggering-relationship"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_401e79ba-83e5-4aec-9f55-66e228109fbd.xml#401e79ba-83e5-4aec-9f55-66e228109fbd"/>
