@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Egen autorisasjons-komponent"
-    id="83934395-83d2-4ebc-824b-21daed1e5601">
+    id="83934395-83d2-4ebc-824b-21daed1e5601"
+    documentation="Komponent for å håndheve virksomhetens regler for tilgang. &#xD;&#xA;Også kalt policy enforcement point (PEP).">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
