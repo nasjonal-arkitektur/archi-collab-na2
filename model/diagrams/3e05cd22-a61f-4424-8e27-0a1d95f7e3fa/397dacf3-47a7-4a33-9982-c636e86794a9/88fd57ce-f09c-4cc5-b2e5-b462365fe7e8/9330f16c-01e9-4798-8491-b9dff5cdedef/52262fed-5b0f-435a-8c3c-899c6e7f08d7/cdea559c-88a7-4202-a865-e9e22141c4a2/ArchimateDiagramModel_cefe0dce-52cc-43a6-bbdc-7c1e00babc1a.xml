@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dataobjekter eOppslag"
+    name="Dataobjekter eOppslag - kladd"
     id="cefe0dce-52cc-43a6-bbdc-7c1e00babc1a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -468,5 +468,17 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_a0a82e42-2b0a-439c-b85c-c30fdf25a702.xml#a0a82e42-2b0a-439c-b85c-c30fdf25a702"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="01550be8-d384-47f8-a1b0-52ac002667d4">
+    <bounds
+        x="374"
+        y="768"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_05ac791f-056e-41c8-9019-d03e91c76c31.xml#05ac791f-056e-41c8-9019-d03e91c76c31"/>
   </children>
 </archimate:ArchimateDiagramModel>

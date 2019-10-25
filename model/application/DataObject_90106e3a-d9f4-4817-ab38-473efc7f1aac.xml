@@ -1,8 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Open API Specification"
+    name="Spesifikasjon på API (OAS)"
     id="90106e3a-d9f4-4817-ab38-473efc7f1aac"
-    documentation="Maskinlesbar beskrivelse av REST API-er. Dette er formatet som benyttes for å registrere et API i felles API-katalog">
+    documentation="Maskinlesbar beskrivelse av REST API-er iht. Open API Specification. Dette er formatet som benyttes for å registrere et API i felles API-katalog">
   <properties
       key="difi:namespace"
       value="-"/>
