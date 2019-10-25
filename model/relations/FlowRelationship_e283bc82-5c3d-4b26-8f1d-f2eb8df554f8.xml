@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="meldingsflyt"
+    id="e283bc82-5c3d-4b26-8f1d-f2eb8df554f8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d4c6ee33-4695-4265-9898-5b7f7b0b3c9d.xml#d4c6ee33-4695-4265-9898-5b7f7b0b3c9d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_81e63d87-5e5b-4d80-ad5f-0eecf5cc3b8a.xml#81e63d87-5e5b-4d80-ad5f-0eecf5cc3b8a"/>
+</archimate:FlowRelationship>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Masterdatahåndtering"
     id="58ff647b-a89d-4e23-976d-5bb5c590e5ad"
-    documentation="Duplikatdeteksjon, deduplisering">
+    documentation="Husk: Duplikatdeteksjon, deduplisering.">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

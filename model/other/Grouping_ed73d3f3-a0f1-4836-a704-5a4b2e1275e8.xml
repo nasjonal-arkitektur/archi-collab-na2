@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dataoppdagelse"
-    id="ed73d3f3-a0f1-4836-a704-5a4b2e1275e8">
+    id="ed73d3f3-a0f1-4836-a704-5a4b2e1275e8"
+    documentation="Dataoppdagelse...">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
