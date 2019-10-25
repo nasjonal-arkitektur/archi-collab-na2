@@ -225,18 +225,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="d52dc30a-5572-4c51-b8c3-90c2efca5fdb">
-    <bounds
-        x="311"
-        y="594"
-        width="133"
-        height="67"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_23ccb4be-b2d2-4d0f-9013-03f70484e774.xml#23ccb4be-b2d2-4d0f-9013-03f70484e774"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="44559e6b-93a2-42b8-ba47-b2b8b72f9b7e">
     <bounds
         x="291"
@@ -295,6 +283,18 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_061c1be1-143a-4ba2-8e02-5247f686a7b3.xml#061c1be1-143a-4ba2-8e02-5247f686a7b3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="aefd68fc-f16b-4849-b6b2-9d0e78cf0f9f">
+    <bounds
+        x="286"
+        y="612"
+        width="138"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_7f9641a5-a677-4aa7-a032-cf0c4f0858d9.xml#7f9641a5-a677-4aa7-a032-cf0c4f0858d9"/>
   </children>
   <properties
       key="difi:language"

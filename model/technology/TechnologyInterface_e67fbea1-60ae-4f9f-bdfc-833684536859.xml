@@ -1,6 +1,6 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Technology Interface"
+    name="Technology Interface ABB"
     id="e67fbea1-60ae-4f9f-bdfc-833684536859">
   <properties
       key="difi:metaLevel"
@@ -13,22 +13,23 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="undefined"/>
+      value="abb"/>
   <properties
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Technology Interface ABB"/>
   <properties
       key="difi:name_en"
-      value="Technology Interface"/>
+      value="Technology Interface ABB"/>
   <properties
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:TechnologyInterface>

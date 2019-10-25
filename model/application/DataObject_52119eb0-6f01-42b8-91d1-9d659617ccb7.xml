@@ -4,9 +4,10 @@
     id="52119eb0-6f01-42b8-91d1-9d659617ccb7">
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Data Object INSTANCE"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -17,13 +18,13 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="sbb"/>
+      value="instance"/>
   <properties
       key="difi:language"
       value="no"/>
   <properties
       key="difi:name_en"
-      value="Data Object ABB"/>
+      value="Data Object INSTANCE"/>
   <properties
       key="difi:description_en"/>
   <properties

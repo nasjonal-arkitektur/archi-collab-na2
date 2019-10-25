@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
   <properties
       key="dct:type"
       value="archi:business-role"/>

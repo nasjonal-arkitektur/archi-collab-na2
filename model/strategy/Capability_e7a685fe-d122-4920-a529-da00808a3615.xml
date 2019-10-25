@@ -1,5 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Slå opp adresse og kapabiliteter"
-    id="e7a685fe-d122-4920-a529-da00808a3615"
-    documentation="Evnen å finne nødvendig informasjon om mottaker til å kunne sende en melding. Dette omfatter teknisk adresse, formater på melding, eventuelle sertifikater mv."/>

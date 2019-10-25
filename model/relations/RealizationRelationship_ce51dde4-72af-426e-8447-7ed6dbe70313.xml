@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realizes"
     id="ce51dde4-72af-426e-8447-7ed6dbe70313">
   <properties
       key="dct:type"

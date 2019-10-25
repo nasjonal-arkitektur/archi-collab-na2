@@ -15,17 +15,18 @@
       key="difi:language"
       value="en"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Application Interface ABB"/>
   <properties
       key="difi:name_en"
-      value="Application Interface SBB"/>
+      value="Application Interface ABB"/>
   <properties
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
       key="difi:metaLevel"
       value="meta"/>

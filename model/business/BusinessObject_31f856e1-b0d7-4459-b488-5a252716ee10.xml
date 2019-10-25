@@ -4,9 +4,10 @@
     id="31f856e1-b0d7-4459-b488-5a252716ee10">
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Business Object ABB"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -20,7 +21,7 @@
       value="abb"/>
   <properties
       key="difi:language"
-      value="en"/>
+      value="no"/>
   <properties
       key="difi:name_en"
       value="Business Object ABB"/>

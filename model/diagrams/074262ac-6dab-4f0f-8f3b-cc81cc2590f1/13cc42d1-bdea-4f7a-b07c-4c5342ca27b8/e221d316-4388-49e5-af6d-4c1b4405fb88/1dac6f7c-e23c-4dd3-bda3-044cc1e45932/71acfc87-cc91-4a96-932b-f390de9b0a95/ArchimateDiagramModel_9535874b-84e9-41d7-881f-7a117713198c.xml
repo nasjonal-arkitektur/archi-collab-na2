@@ -1,0 +1,34 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eiere og forvaltere"
+    id="9535874b-84e9-41d7-881f-7a117713198c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f2dc5bdf-50bd-41a4-b461-b345b66d18ef"
+      fontColor="#808080"
+      textPosition="1">
+    <bounds
+        x="134"
+        y="119"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_0665a936-cd73-4e44-9638-64413ef390bb.xml#0665a936-cd73-4e44-9638-64413ef390bb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="cdfcfeff-c464-4383-b5b0-fe83ce637255"
+      fontColor="#808080"
+      textPosition="1">
+    <bounds
+        x="134"
+        y="227"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_853c8bae-4c37-4060-8aad-5cbb08a0de0a.xml#853c8bae-4c37-4060-8aad-5cbb08a0de0a"/>
+  </children>
+</archimate:ArchimateDiagramModel>

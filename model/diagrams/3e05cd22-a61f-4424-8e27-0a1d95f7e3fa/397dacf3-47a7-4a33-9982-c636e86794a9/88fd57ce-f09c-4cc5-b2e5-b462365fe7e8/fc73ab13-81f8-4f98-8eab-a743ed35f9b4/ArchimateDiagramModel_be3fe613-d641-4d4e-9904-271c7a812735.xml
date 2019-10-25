@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lover og regler - datautveksling"
+    id="be3fe613-d641-4d4e-9904-271c7a812735">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="791695b2-fdde-43f8-a652-49a0f4f578cb">
+    <bounds
+        x="120"
+        y="96"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_55aafff8-6948-4a91-b3c5-f7c42a4ca91a.xml#55aafff8-6948-4a91-b3c5-f7c42a4ca91a"/>
+  </children>
+</archimate:ArchimateDiagramModel>

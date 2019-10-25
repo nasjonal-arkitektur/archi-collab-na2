@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Certificate Authority"
+    name="Sertifikatutsteder"
     id="454b7c22-2338-4184-8237-ee4006b70e95">
   <properties
       key="dct:type"
@@ -13,9 +13,10 @@
       value="undefined"/>
   <properties
       key="difi:language"
-      value="en"/>
+      value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Sertifikatutsteder"/>
   <properties
       key="difi:name_en"
       value="Certificate Authority"/>
@@ -25,5 +26,5 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
 </archimate:BusinessRole>

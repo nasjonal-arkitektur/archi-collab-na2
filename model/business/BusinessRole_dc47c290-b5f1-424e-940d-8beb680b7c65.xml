@@ -7,7 +7,7 @@
       value="-"/>
   <properties
       key="difi:name_no"
-      value="API-eier"/>
+      value="API-eier [ns:Erik]"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -22,7 +22,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>

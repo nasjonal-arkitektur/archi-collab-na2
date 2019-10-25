@@ -18,7 +18,8 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Business Service Solution"/>
   <properties
       key="difi:name_en"
       value="Business Service Solution"/>
@@ -28,7 +29,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:BusinessService>
