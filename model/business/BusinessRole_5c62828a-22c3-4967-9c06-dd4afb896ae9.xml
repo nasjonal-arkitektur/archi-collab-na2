@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Help Desk Administrator"
     id="5c62828a-22c3-4967-9c06-dd4afb896ae9"
-    documentation="Help Desk Administrator: Responsible for handling, tracking, and resolving issues related to use of information, information systems, or the IT infrastructure."/>
+    documentation="Help Desk Administrator: Responsible for handling, tracking, and resolving issues related to use of information, information systems, or the IT infrastructure.">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="dmbok"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Help Desk Administrator"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Help Desk Administrator: Responsible for handling, tracking, and resolving issues related to use of information, information systems, or the IT infrastructure."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessRole>

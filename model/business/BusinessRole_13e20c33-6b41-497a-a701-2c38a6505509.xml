@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IT Auditor"
     id="13e20c33-6b41-497a-a701-2c38a6505509"
-    documentation="IT Auditor: An internal or external auditor of IT responsibilities, including data quality and data security."/>
+    documentation="IT Auditor: An internal or external auditor of IT responsibilities, including data quality and data security.">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="dmbok"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="IT Auditor"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="IT Auditor: An internal or external auditor of IT responsibilities, including data quality and data security."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessRole>

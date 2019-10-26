@@ -8,7 +8,7 @@
       value="archi:association-relationship"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="oasis"/>
   <properties
       key="difi:language"
       value="en"/>

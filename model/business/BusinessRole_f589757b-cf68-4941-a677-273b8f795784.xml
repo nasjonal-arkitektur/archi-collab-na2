@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Security Administrator"
     id="f589757b-cf68-4941-a677-273b8f795784"
-    documentation="Data Security Administrator: Responsible for ensuring controlled access to data requiring different levels of protection."/>
+    documentation="Data Security Administrator: Responsible for ensuring controlled access to data requiring different levels of protection.">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="dmbok"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Data Security Administrator"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Data Security Administrator: Responsible for ensuring controlled access to data requiring different levels of protection."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessRole>

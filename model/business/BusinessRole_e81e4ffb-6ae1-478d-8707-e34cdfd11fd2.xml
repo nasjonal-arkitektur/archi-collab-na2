@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Intelligence Analyst / Administrator"
     id="e81e4ffb-6ae1-478d-8707-e34cdfd11fd2"
-    documentation="Business Intelligence Analyst / Administrator: Responsible for supporting effective use of Business Intelligence data by business professionals."/>
+    documentation="Business Intelligence Analyst / Administrator: Responsible for supporting effective use of Business Intelligence data by business professionals.">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="dmbok"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Business Intelligence Analyst / Administrator"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Business Intelligence Analyst / Administrator: Responsible for supporting effective use of Business Intelligence data by business professionals."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessRole>

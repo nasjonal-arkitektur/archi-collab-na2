@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Modeler"
     id="7279ac3c-6652-4b01-aa35-33cf5f9989bf"
-    documentation="Data Modeler: Responsible for capturing and modeling data requirements, data definitions, business rules, data quality requirements, and logical and physical data models"/>
+    documentation="Data Modeler: Responsible for capturing and modeling data requirements, data definitions, business rules, data quality requirements, and logical and physical data models">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="dmbok"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Data Modeler"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Data Modeler: Responsible for capturing and modeling data requirements, data definitions, business rules, data quality requirements, and logical and physical data models"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessRole>

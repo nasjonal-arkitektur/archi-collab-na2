@@ -9,7 +9,7 @@
       value="archi:association-relationship"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="eira"/>
   <properties
       key="difi:language"
       value="en"/>

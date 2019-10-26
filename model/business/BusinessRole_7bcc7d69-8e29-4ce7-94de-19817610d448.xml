@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Integration Architect"
     id="7bcc7d69-8e29-4ce7-94de-19817610d448"
-    documentation="Data Integration Architect: A senior data integration developer responsible for designing technology to integrate and improve the quality of enterprise data assets."/>
+    documentation="Data Integration Architect: A senior data integration developer responsible for designing technology to integrate and improve the quality of enterprise data assets.">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="dmbok"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Data Integration Architect"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Data Integration Architect: A senior data integration developer responsible for designing technology to integrate and improve the quality of enterprise data assets."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessRole>

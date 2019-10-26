@@ -25,6 +25,11 @@
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_ed3164ca-891c-4544-b985-2a11af9fb38b.xml#ed3164ca-891c-4544-b985-2a11af9fb38b"/>

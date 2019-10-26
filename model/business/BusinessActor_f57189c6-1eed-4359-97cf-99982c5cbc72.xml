@@ -9,9 +9,6 @@
       key="difi:namespace"
       value="oasis"/>
   <properties
-      key="difi:language"
-      value="en"/>
-  <properties
       key="difi:name_no"/>
   <properties
       key="difi:name_en"
@@ -23,4 +20,7 @@
   <properties
       key="label"
       value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="difi:language"
+      value="en"/>
 </archimate:BusinessActor>

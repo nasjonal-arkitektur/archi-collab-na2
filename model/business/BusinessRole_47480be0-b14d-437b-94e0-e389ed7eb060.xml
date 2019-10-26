@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Technical Engineer"
     id="47480be0-b14d-437b-94e0-e389ed7eb060"
-    documentation="Technical Engineer: Senior technical analyst responsible for researching, implementing, administering, and supporting a portion of the information technology infrastructure."/>
+    documentation="Technical Engineer: Senior technical analyst responsible for researching, implementing, administering, and supporting a portion of the information technology infrastructure.">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="dmbok"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Technical Engineer"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Technical Engineer: Senior technical analyst responsible for researching, implementing, administering, and supporting a portion of the information technology infrastructure."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessRole>
