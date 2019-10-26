@@ -1,13 +1,13 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Oversikt over aktuelle områder og referansearkitekturer"
-    id="f3ad542e-5cb6-4f93-aad2-415b262e9022">
+    name="Fellesløsninger for eMelding"
+    id="2150f900-e96e-4506-b592-480cded1d163">
   <properties
       key="difi:language"
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Oversikt"/>
+      value="Fellesløsninger"/>
   <properties
       key="difi:name_en"/>
   <properties

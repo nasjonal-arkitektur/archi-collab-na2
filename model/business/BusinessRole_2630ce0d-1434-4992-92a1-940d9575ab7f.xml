@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Access Point Provider"
+    name="Aksesspunktleverandør"
     id="2630ce0d-1434-4992-92a1-940d9575ab7f">
   <properties
       key="dct:type"
@@ -13,9 +13,10 @@
       value="undefined"/>
   <properties
       key="difi:language"
-      value="en"/>
+      value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Aksesspunktleverandør"/>
   <properties
       key="difi:name_en"
       value="Access Point Provider"/>
@@ -25,5 +26,5 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
 </archimate:BusinessRole>

@@ -27,7 +27,7 @@
       value="undefined"/>
   <source
       xsi:type="archimate:BusinessRole"
-      href="BusinessRole_4f1be894-9303-49f1-969c-9da2bd94301f.xml#4f1be894-9303-49f1-969c-9da2bd94301f"/>
+      href="BusinessRole_ed3164ca-891c-4544-b985-2a11af9fb38b.xml#ed3164ca-891c-4544-b985-2a11af9fb38b"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_dc2f8650-a487-4ce7-a247-d58857f4c17a.xml#dc2f8650-a487-4ce7-a247-d58857f4c17a"/>

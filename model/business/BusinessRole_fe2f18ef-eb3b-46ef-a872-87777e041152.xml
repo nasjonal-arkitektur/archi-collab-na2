@@ -4,7 +4,7 @@
     id="fe2f18ef-eb3b-46ef-a872-87777e041152">
   <properties
       key="difi:namespace"
-      value="erik"/>
+      value="toopra"/>
   <properties
       key="dct:type"
       value="archi:business-role"/>
@@ -19,7 +19,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:${property:difi:language}]"/>
   <properties
       key="difi:language"
       value="no"/>

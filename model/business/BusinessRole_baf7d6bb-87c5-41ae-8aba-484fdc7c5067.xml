@@ -8,10 +8,10 @@
       value="brreg"/>
   <properties
       key="difi:name_no"
-      value="API-konsument (design time) [ns:API-katalogen]"/>
+      value="API-konsument (design time)"/>
   <properties
       key="difi:description_no"
-      value="en bruker av API, i hovedsak en utvikler i forvaltningen eller i det private. F.eks. bankene som benytter Skattemeldingsdata fra SKD ved lånesøknad."/>
+      value="En bruker av API, i hovedsak en utvikler i forvaltningen eller i det private. F.eks. bankene som benytter Skattemeldingsdata fra SKD ved lånesøknad."/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -24,5 +24,5 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
 </archimate:BusinessRole>

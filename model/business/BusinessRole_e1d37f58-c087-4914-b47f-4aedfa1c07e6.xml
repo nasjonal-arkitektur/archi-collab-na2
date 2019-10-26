@@ -7,7 +7,7 @@
       value="erik"/>
   <properties
       key="difi:name_no"
-      value="API-tilbyder [ns:Erik]"/>
+      value="API-tilbyder"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -22,7 +22,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>

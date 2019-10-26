@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Datakonsument (TOOPRA)"
+    name="Datakonsument"
     id="ec722c69-eb47-47fe-a8a6-b718adc6d956">
   <properties
       key="difi:namespace"
@@ -20,7 +20,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
   <properties
       key="difi:language"
       value="no"/>
