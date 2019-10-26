@@ -18,8 +18,8 @@
           href="RealizationRelationship_6f4295f2-8ba5-4f3b-bce1-1e52ecc6618f.xml#6f4295f2-8ba5-4f3b-bce1-1e52ecc6618f"/>
     </sourceConnections>
     <bounds
-        x="20"
-        y="20"
+        x="48"
+        y="90"
         width="133"
         height="71"/>
     <archimateElement
@@ -31,7 +31,7 @@
       id="77b2b1d0-5d25-4792-9690-a752c611abe7"
       targetConnections="edc8b0d6-183a-4aee-88b0-96567a1f24a3">
     <bounds
-        x="170"
+        x="276"
         y="20"
         width="133"
         height="71"/>
@@ -52,8 +52,8 @@
           href="AssociationRelationship_0b07072b-4ddf-4f8a-9049-44d9a5c26465.xml#0b07072b-4ddf-4f8a-9049-44d9a5c26465"/>
     </sourceConnections>
     <bounds
-        x="170"
-        y="100"
+        x="288"
+        y="168"
         width="133"
         height="71"/>
     <archimateElement
