@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Identitetsleverandør"
+    name="Identity Provider"
     id="24dfe113-0a17-4cc2-a8df-d47a950bee72">
   <properties
       key="difi:namespace"

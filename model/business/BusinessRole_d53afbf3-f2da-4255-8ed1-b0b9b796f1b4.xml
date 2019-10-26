@@ -4,7 +4,7 @@
     id="d53afbf3-f2da-4255-8ed1-b0b9b796f1b4">
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>

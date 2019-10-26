@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Document and Content Management "
+    name="Dokumentforvaltning"
     id="87ce7eb9-bd9d-4bc5-b051-e4aa8b431eb5"
     documentation="Document and Content Management includes planning, implementation, and control activities used to manage the lifecycle of data and information found in a range of unstructured media, especially documents needed to support legal and regulatory compliance requirements.">
   <properties
@@ -8,7 +8,7 @@
       value="archi:capability"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="dmbok"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
@@ -17,9 +17,10 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Document and Content Management "/>
+      value="Dokumentforvaltning"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Document and Content Management "/>
   <properties
       key="difi:description_no"
       value="Document and Content Management includes planning, implementation, and control activities used to manage the lifecycle of data and information found in a range of unstructured media, especially documents needed to support legal and regulatory compliance requirements."/>

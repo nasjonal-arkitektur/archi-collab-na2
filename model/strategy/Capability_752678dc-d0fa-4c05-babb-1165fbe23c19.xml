@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Brukeridentifikasjon"
+    name="User Identification"
     id="752678dc-d0fa-4c05-babb-1165fbe23c19">
   <properties
       key="difi:namespace"
@@ -10,10 +10,10 @@
       value="archi:capability"/>
   <properties
       key="difi:language"
-      value="no"/>
+      value="en"/>
   <properties
       key="difi:name_no"
-      value="Brukeridentifikasjon"/>
+      value="Identifisere bruker"/>
   <properties
       key="difi:name_en"
       value="User Identification"/>

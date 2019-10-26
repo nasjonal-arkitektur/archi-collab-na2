@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Metadata"
+    name="Metadataforvaltning"
     id="a7a6a352-6ab5-4cb0-a223-26768ba3ce86"
     documentation="Metadata includes planning, implementation, and control activities to enable access to high quality, integrated Metadata, including definitions, models, data flows, and other information critical to understanding data and the systems through which it is created, maintained, and accessed.">
   <properties
@@ -8,7 +8,7 @@
       value="archi:capability"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="dmbok"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
@@ -17,9 +17,10 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Metadata"/>
+      value="Metadataforvaltning"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Metadata"/>
   <properties
       key="difi:description_no"
       value="Metadata includes planning, implementation, and control activities to enable access to high quality, integrated Metadata, including definitions, models, data flows, and other information critical to understanding data and the systems through which it is created, maintained, and accessed."/>
@@ -27,5 +28,5 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
 </archimate:Capability>

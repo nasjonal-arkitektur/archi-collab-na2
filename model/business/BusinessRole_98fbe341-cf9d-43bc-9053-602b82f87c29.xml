@@ -1,15 +1,16 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Evidence Service Broker"
+    name="Identity Service broker"
     id="98fbe341-cf9d-43bc-9053-602b82f87c29">
   <properties
       key="difi:namespace"
-      value="toopra"/>
+      value="-"/>
   <properties
       key="dct:type"
       value="archi:business-role"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Tjenesteformidler"/>
   <properties
       key="difi:name_en"
       value="Evidence Service Broker"/>
@@ -19,10 +20,10 @@
       key="difi:description_en"/>
   <properties
       key="difi:language"
-      value="no"/>
+      value="en"/>
   <properties
       value="${name}[ns:${property:difi:language}]"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
 </archimate:BusinessRole>

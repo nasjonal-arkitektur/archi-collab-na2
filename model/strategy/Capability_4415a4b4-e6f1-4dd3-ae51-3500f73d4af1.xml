@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Storage and Operations"
+    name="Datalagring og livssyklus-administrasjon"
     id="4415a4b4-e6f1-4dd3-ae51-3500f73d4af1"
     documentation="Data Storage and Operations includes the design, implementation, and support of stored data to maximize its value. Operations provide support throughout the data lifecycle from planning for to disposal of data.">
   <properties
@@ -8,7 +8,7 @@
       value="archi:capability"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="dmbok"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
@@ -17,9 +17,10 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Data Storage and Operations"/>
+      value="Datalagring og livssyklus-administrasjon"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Data Storage and Operations"/>
   <properties
       key="difi:description_no"
       value="Data Storage and Operations includes the design, implementation, and support of stored data to maximize its value. Operations provide support throughout the data lifecycle from planning for to disposal of data."/>

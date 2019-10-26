@@ -1,13 +1,13 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Integrating structured and unstructured data"
+    name="Integrere strukturerte og ustrukturerte data"
     id="62ea9dc9-421a-41d8-8f92-db8282deef3d">
   <properties
       key="dct:type"
       value="archi:capability"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="dmbok"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
@@ -16,9 +16,10 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Integrating structured and unstructured data"/>
+      value="Integrere strukturerte og ustrukturerte data"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Integrating structured and unstructured data"/>
   <properties
       key="difi:description_no"/>
   <properties

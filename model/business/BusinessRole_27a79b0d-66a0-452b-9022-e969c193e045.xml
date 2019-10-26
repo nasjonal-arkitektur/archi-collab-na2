@@ -4,7 +4,7 @@
     id="27a79b0d-66a0-452b-9022-e969c193e045">
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -13,7 +13,7 @@
       value="archi:business-role"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="difiordeniegethus"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>

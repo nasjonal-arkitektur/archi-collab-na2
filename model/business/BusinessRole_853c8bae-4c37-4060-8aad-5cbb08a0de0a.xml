@@ -4,7 +4,7 @@
     id="853c8bae-4c37-4060-8aad-5cbb08a0de0a">
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:business-role"/>
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Behandlingsansvarlig"/>
+      value="Dataforvalter"/>
   <properties
       key="difi:name_en"/>
   <properties

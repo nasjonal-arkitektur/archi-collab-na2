@@ -12,7 +12,8 @@
       key="difi:language"
       value="en"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Få brukers godkjenning "/>
   <properties
       key="difi:name_en"
       value="User Approval "/>
@@ -22,5 +23,5 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
 </archimate:Capability>

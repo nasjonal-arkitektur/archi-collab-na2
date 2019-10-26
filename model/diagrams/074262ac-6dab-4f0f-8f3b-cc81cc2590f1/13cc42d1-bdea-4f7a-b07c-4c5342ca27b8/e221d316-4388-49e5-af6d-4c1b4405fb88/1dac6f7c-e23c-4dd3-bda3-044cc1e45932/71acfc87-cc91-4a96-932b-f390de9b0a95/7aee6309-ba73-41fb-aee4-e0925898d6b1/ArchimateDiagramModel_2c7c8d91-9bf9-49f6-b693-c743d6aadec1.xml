@@ -44,15 +44,28 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="0924d4dc-2636-4e95-b2d2-86dbd8d99339"
+      id="9f421cc1-c33d-437c-88e8-4c067f553f08"
       textPosition="1">
     <bounds
-        x="240"
-        y="48"
+        x="217"
+        y="323"
         width="138"
         height="71"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
-        href="BusinessRole_5d47bf88-4a51-4cac-baca-0261cc69ae82.xml#5d47bf88-4a51-4cac-baca-0261cc69ae82"/>
+        href="BusinessRole_27a79b0d-66a0-452b-9022-e969c193e045.xml#27a79b0d-66a0-452b-9022-e969c193e045"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3542a6db-218d-44d1-b3ea-794492b0e47e"
+      textPosition="1">
+    <bounds
+        x="49"
+        y="323"
+        width="138"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_d53afbf3-f2da-4255-8ed1-b0b9b796f1b4.xml#d53afbf3-f2da-4255-8ed1-b0b9b796f1b4"/>
   </children>
 </archimate:ArchimateDiagramModel>

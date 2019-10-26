@@ -1,11 +1,11 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Warehousing and Business Intelligence "
+    name="Forvaltning av analysedata"
     id="ec89f22f-8357-4a90-bb3b-773933a8101f"
     documentation="Data Warehousing and Business Intelligence includes the planning, implementation, and control processes to manage decision support data and to enable knowledge workers to get value from data via analysis and reporting">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="dmbok"/>
   <properties
       key="label"
       value="${name}"/>
@@ -14,9 +14,10 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Data Warehousing and Business Intelligence "/>
+      value="Forvaltning av analysedata"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Data Warehousing and Business Intelligence "/>
   <properties
       key="difi:description_no"
       value="Data Warehousing and Business Intelligence includes the planning, implementation, and control processes to manage decision support data and to enable knowledge workers to get value from data via analysis and reporting"/>

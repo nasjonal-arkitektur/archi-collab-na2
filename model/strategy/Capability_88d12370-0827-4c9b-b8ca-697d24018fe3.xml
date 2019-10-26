@@ -1,13 +1,13 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Providing operational intelligence and management decision support"
+    name="Gi operativ støtte for dataanalyse"
     id="88d12370-0827-4c9b-b8ca-697d24018fe3">
   <properties
       key="dct:type"
       value="archi:capability"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="dmbok"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
@@ -16,9 +16,10 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Providing operational intelligence and management decision support"/>
+      value="Gi operativ støtte for dataanalyse"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Providing operational intelligence and management decision support"/>
   <properties
       key="difi:description_no"/>
   <properties

@@ -1,14 +1,14 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="“Den registrerte/subjektet”"
+    name="Den registrerte"
     id="5d47bf88-4a51-4cac-baca-0261cc69ae82"
-    documentation="At den opplysningene gjelder skal kunne se hvem som tilbyr data om dem/dataflyt,  hvem som bruker dem etc. Gjelder både innbyggere og næringsliv ">
+    documentation="Enkeltpersonen som de lagrede opplysningene kan knyttes til.">
   <properties
       key="difi:namespace"
-      value="brreg"/>
+      value="datatilsynet"/>
   <properties
       key="difi:name_no"
-      value="“Den registrerte/subjektet” [ns:API-katalogen]"/>
+      value="Den registrerte"/>
   <properties
       key="difi:description_no"
       value="At den opplysningene gjelder skal kunne se hvem som tilbyr data om dem/dataflyt,  hvem som bruker dem etc. Gjelder både innbyggere og næringsliv "/>
@@ -24,7 +24,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -33,4 +33,7 @@
       value="undefined"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="dct:BibliographicResource"
+      value="https://www.datatilsynet.no/regelverk-og-verktoy/ordbok-a-til-a/"/>
 </archimate:BusinessRole>

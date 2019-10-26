@@ -1,13 +1,13 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Archiving data"
+    name="Arkivere data"
     id="e36df569-ee59-4be1-aa0e-39c0683388e1">
   <properties
       key="dct:type"
       value="archi:capability"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="dmbok"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>

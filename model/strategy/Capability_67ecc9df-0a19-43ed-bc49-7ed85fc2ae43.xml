@@ -12,16 +12,16 @@
       key="difi:language"
       value="en"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Forvalte oversikt over dataleverandører og tjenester"/>
   <properties
       key="difi:name_en"
       value="Service Offering Management"/>
   <properties
-      key="difi:description_no"
-      value="Forvalte tjenestetilbud"/>
+      key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
 </archimate:Capability>

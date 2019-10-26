@@ -1,13 +1,13 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data sharing between applications and across organizations"
+    name="Dele data på tvers av applikasjoner og organisasjoner"
     id="f5c70b4a-96ea-4690-9703-306e34991104">
   <properties
       key="dct:type"
       value="archi:capability"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="dmbok"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
@@ -16,9 +16,10 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Data sharing between applications and across organizations"/>
+      value="Dele data på tvers av applikasjoner og organisasjoner"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Data sharing between applications and across organizations"/>
   <properties
       key="difi:description_no"/>
   <properties

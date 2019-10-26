@@ -25,5 +25,5 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
 </archimate:BusinessRole>

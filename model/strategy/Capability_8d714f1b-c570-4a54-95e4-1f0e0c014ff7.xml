@@ -13,7 +13,7 @@
       value="en"/>
   <properties
       key="difi:name_no"
-      value="Slå opp  kompetent myndighet"/>
+      value="Formidle informasjon om  dataleverandører og tjenester"/>
   <properties
       key="difi:name_en"
       value="Competent Authority Lookup"/>
@@ -23,5 +23,5 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
 </archimate:Capability>

@@ -1,13 +1,13 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data consolidation into hubs or marts"
+    name="Konsolidere data i datalagre"
     id="d4ec7576-3f6b-4171-b150-8b943cd97248">
   <properties
       key="dct:type"
       value="archi:capability"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="dmbok"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
@@ -16,9 +16,10 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Data consolidation into hubs or marts"/>
+      value="Konsolidere data i datalagre"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Data consolidation into hubs or marts"/>
   <properties
       key="difi:description_no"/>
   <properties

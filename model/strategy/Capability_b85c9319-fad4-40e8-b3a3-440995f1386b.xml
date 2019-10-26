@@ -4,10 +4,10 @@
     id="b85c9319-fad4-40e8-b3a3-440995f1386b">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="dmbok"/>
   <properties
       key="difi:name_no"
-      value="Informasjons-forvaltning"/>
+      value="Dataforvaltning"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:capability"/>
