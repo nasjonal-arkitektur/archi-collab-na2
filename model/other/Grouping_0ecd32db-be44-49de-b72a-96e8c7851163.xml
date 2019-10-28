@@ -1,26 +1,26 @@
-<archimate:Capability
+<archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kapabiliteter"
-    id="de18d41c-54ce-4159-a820-be625189044f">
+    name="Sammenhengende tjenester i front"
+    id="0ecd32db-be44-49de-b72a-96e8c7851163">
   <properties
       key="difi:namespace"
       value="-"/>
   <properties
       key="difi:name_no"
-      value="Strategiske evner (forretning&amp;IT)"/>
-  <properties
-      key="difi:description_no"/>
+      value="Datadeling"/>
   <properties
       key="difi:name_en"/>
   <properties
-      key="difi:description_en"/>
+      key="difi:description_no"/>
   <properties
-      key="dct:type"
-      value="archi:capability"/>
+      key="difi:description_en"/>
   <properties
       key="difi:language"
       value="no"/>
   <properties
       key="label"
       value="${name}"/>
-</archimate:Capability>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+</archimate:Grouping>

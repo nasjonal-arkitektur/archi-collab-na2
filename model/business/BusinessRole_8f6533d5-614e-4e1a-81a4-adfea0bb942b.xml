@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tjeneste-leverandør"
+    name="Tjenesteleverandør"
     id="8f6533d5-614e-4e1a-81a4-adfea0bb942b">
   <properties
       key="difi:namespace"

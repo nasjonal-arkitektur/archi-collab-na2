@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Provider"
+    name="Datatilbyder"
     id="c777850b-1ce0-4af0-b1b2-d180411baaca"
     documentation="Tilbyder av data til eksterne parter, eventuelt på vegne av andre.">
   <properties
@@ -11,7 +11,7 @@
       value="toopra"/>
   <properties
       key="difi:language"
-      value="en"/>
+      value="no"/>
   <properties
       key="difi:name_no"
       value="Datatilbyder"/>
@@ -24,7 +24,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
