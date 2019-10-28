@@ -1,6 +1,6 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Spesifikasjon på API (OAS)"
+    name="Beskrivelse API"
     id="90106e3a-d9f4-4817-ab38-473efc7f1aac"
     documentation="Maskinlesbar beskrivelse av REST API-er iht. Open API Specification. Dette er formatet som benyttes for å registrere et API i felles API-katalog">
   <properties
@@ -21,7 +21,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:${property:difi:language}]"/>
   <properties
       key="dct:type"
       value="archi:data-object"/>
