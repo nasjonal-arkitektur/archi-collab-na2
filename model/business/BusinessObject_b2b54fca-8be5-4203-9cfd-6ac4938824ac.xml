@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sentrale data som inngår i bruken av tjeneste"
+    name="Sentrale data som inngår i prosessen"
     id="b2b54fca-8be5-4203-9cfd-6ac4938824ac">
   <properties
       key="difi:namespace"

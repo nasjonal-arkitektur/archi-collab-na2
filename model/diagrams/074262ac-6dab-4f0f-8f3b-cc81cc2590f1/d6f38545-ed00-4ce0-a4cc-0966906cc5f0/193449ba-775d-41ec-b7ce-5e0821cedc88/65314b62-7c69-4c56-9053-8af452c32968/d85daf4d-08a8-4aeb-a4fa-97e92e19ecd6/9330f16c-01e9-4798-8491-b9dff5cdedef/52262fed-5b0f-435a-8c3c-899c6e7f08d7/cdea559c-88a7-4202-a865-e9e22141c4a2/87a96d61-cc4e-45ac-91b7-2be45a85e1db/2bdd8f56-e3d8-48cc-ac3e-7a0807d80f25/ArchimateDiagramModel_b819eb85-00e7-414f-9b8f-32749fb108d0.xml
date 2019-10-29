@@ -217,7 +217,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ae39e39e-58d2-4416-8086-64aafb383e59"
       targetConnections="0b8213c5-e6f4-4397-b6b4-1ab6ecc0c49c c8114de0-44e3-47b0-b75f-b2b44646e09d"
-      fontColor="#ff0000"
+      fontColor="#000000"
       fillColor="#00ffff"
       textPosition="1">
     <bounds

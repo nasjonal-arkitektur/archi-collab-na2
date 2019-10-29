@@ -25,8 +25,8 @@
       key="dct:type"
       value="archi:serving-relationship"/>
   <source
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_29c6dc08-6347-45c8-b61c-0b38230f807a.xml#29c6dc08-6347-45c8-b61c-0b38230f807a"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_5d954be1-8ee1-47a1-9765-7b7b2fb695a6.xml#5d954be1-8ee1-47a1-9765-7b7b2fb695a6"/>
   <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_e13e1fcc-f913-4614-afe7-97e9f1c0d8da.xml#e13e1fcc-f913-4614-afe7-97e9f1c0d8da"/>
