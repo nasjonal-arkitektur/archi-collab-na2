@@ -37,5 +37,15 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:]"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+  <properties
+      key="difi:notes"/>
 </archimate:BusinessObject>

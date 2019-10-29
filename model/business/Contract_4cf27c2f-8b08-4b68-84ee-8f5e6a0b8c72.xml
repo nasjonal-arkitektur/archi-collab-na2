@@ -32,4 +32,6 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="dct:BibliographicResource"/>
 </archimate:Contract>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DMBOK2 Data Integration and Interoperability"
+    name="Datadeling og integrasjon (DMBOK2)"
     id="71c012c6-bb1f-43c1-9bfe-91e376a48ec8">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -431,7 +431,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="DMBOK2 Data Integration and Interoperability"/>
+      value="Dataintegrasjon og interoperabilitet (DMBOK2)"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -440,5 +440,5 @@
       key="difi:description_en"/>
   <properties
       key="difi:docViewPath"
-      value="nab_arkitekturlandskap_segmentarkitektur_informasjonsforvaltning"/>
+      value="nab_arkitekturlandskap_segmentarkitektur_datadeling"/>
 </archimate:ArchimateDiagramModel>
