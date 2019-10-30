@@ -1,13 +1,12 @@
-<archimate:BusinessRole
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dataprodusent"
-    id="a362d5ac-f5b7-452e-ba37-58fba69ba30c">
+    id="941507a2-2f14-48d2-bc13-a266f7479e77">
   <properties
       key="difi:namespace"
       value="erik"/>
   <properties
-      key="difi:name_no"
-      value="Dataprodusent"/>
+      key="difi:name_no"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -16,7 +15,7 @@
       key="difi:description_en"/>
   <properties
       key="dct:type"
-      value="business-role"/>
+      value="serving-relationship"/>
   <properties
       key="difi:language"
       value="no"/>
@@ -31,4 +30,12 @@
       value="undefined"/>
   <properties
       key="difi:notes"/>
-</archimate:BusinessRole>
+  <properties
+      key="dct:BibliographicResource"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_98dc026d-839e-4ee8-b227-41310189c518.xml#98dc026d-839e-4ee8-b227-41310189c518"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_1b0df3a1-16d2-4b2c-abfa-f1cb801ffce7.xml#1b0df3a1-16d2-4b2c-abfa-f1cb801ffce7"/>
+</archimate:ServingRelationship>

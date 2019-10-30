@@ -1,22 +1,23 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tjenesteleverandør"
-    id="8f6533d5-614e-4e1a-81a4-adfea0bb942b">
+    name="Identitetsleverandør"
+    id="b7486197-e69a-4ae0-a7ba-f03951b1ebee">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="toopra"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
   <properties
       key="difi:name_no"
-      value="Tjenesteleverandør"/>
+      value="Identitetsleverandør"/>
+  <properties
+      key="difi:name_en"
+      value="Identity Provider"/>
   <properties
       key="difi:description_no"/>
   <properties
-      key="difi:name_en"/>
-  <properties
       key="difi:description_en"/>
-  <properties
-      key="dct:type"
-      value="business-role"/>
   <properties
       key="difi:language"
       value="no"/>
@@ -24,11 +25,13 @@
       key="label"
       value="${name}"/>
   <properties
-      key="difi:metaLevel"
-      value="undefined"/>
-  <properties
       key="difi:abstractionLevel"
       value="undefined"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
 </archimate:BusinessRole>

@@ -1,13 +1,13 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tjenesteleverandør"
-    id="8f6533d5-614e-4e1a-81a4-adfea0bb942b">
+    name="Prosesseier"
+    id="7f2ade0c-8136-43c8-9f72-464acd791b64">
   <properties
       key="difi:namespace"
       value="-"/>
   <properties
       key="difi:name_no"
-      value="Tjenesteleverandør"/>
+      value="Prosesseier"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -31,4 +31,6 @@
       value="undefined"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="dct:BibliographicResource"/>
 </archimate:BusinessRole>

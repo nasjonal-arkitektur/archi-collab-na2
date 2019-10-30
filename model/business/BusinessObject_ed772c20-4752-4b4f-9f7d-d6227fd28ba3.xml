@@ -1,13 +1,13 @@
-<archimate:BusinessRole
+<archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tjenesteleverandør"
-    id="8f6533d5-614e-4e1a-81a4-adfea0bb942b">
+    name="Avtaler mellom Bransjerepresentant og tilknyttede konsumenter "
+    id="ed772c20-4752-4b4f-9f7d-d6227fd28ba3">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="erik"/>
   <properties
       key="difi:name_no"
-      value="Tjenesteleverandør"/>
+      value="Avtaler mellom Bransjerepresentant og tilknyttede konsumenter "/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -16,7 +16,7 @@
       key="difi:description_en"/>
   <properties
       key="dct:type"
-      value="business-role"/>
+      value="business-object"/>
   <properties
       key="difi:language"
       value="no"/>
@@ -24,11 +24,13 @@
       key="label"
       value="${name}"/>
   <properties
-      key="difi:metaLevel"
-      value="undefined"/>
-  <properties
       key="difi:abstractionLevel"
       value="undefined"/>
   <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
       key="difi:notes"/>
-</archimate:BusinessRole>
+  <properties
+      key="dct:BibliographicResource"/>
+</archimate:BusinessObject>

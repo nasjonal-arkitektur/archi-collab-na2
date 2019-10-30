@@ -1,25 +1,26 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dataprodusent"
-    id="a362d5ac-f5b7-452e-ba37-58fba69ba30c">
-  <properties
-      key="difi:namespace"
-      value="erik"/>
-  <properties
-      key="difi:name_no"
-      value="Dataprodusent"/>
-  <properties
-      key="difi:description_no"/>
-  <properties
-      key="difi:name_en"/>
-  <properties
-      key="difi:description_en"/>
+    name="Tiltrodd tredjepart"
+    id="26633e6d-96de-4b1b-b454-dddbfc28afda">
   <properties
       key="dct:type"
-      value="business-role"/>
+      value="archi:business-role"/>
+  <properties
+      key="difi:namespace"
+      value="difi"/>
   <properties
       key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tiltrodd tredjepart"/>
+  <properties
+      key="difi:name_en"
+      value="Trusted third party"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
   <properties
       key="label"
       value="${name}"/>
@@ -27,8 +28,10 @@
       key="difi:abstractionLevel"
       value="undefined"/>
   <properties
+      key="difi:notes"/>
+  <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
-      key="difi:notes"/>
+      key="dct:BibliographicResource"/>
 </archimate:BusinessRole>
