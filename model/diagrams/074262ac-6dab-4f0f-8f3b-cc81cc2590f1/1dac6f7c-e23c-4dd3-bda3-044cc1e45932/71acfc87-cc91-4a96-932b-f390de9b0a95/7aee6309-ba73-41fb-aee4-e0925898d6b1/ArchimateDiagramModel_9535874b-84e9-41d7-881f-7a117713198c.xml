@@ -23,8 +23,8 @@
       targetConnections="76173030-21b8-4e22-8385-cf3c07c38e65 f7f92e80-2a85-466e-927c-0751a35ad279 bd4631f1-402d-4888-a9fe-29343573d111"
       textPosition="1">
     <bounds
-        x="48"
-        y="36"
+        x="216"
+        y="48"
         width="138"
         height="71"/>
     <archimateElement
@@ -144,7 +144,7 @@
           href="SpecializationRelationship_f0f8755b-799a-4123-b7ee-a7f5f2849a28.xml#f0f8755b-799a-4123-b7ee-a7f5f2849a28"/>
     </sourceConnections>
     <bounds
-        x="228"
+        x="48"
         y="156"
         width="138"
         height="71"/>
@@ -299,6 +299,18 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_bae874a7-5750-409c-b5c4-73fa7c8ebc7a.xml#bae874a7-5750-409c-b5c4-73fa7c8ebc7a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a0486def-4f75-4989-b668-61483e0dd25c">
+    <bounds
+        x="49"
+        y="40"
+        width="138"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_126f4817-b637-4bf5-b423-c29165b9542e.xml#126f4817-b637-4bf5-b423-c29165b9542e"/>
   </children>
   <properties
       key="difi:language"
