@@ -27,7 +27,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="9c7fb11c-453e-4a99-892f-b2ab19af2f7c">
+      id="9c7fb11c-453e-4a99-892f-b2ab19af2f7c"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="7e858f6e-0ffc-4173-ad03-1a79067eb090"
@@ -49,7 +50,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e40f61a5-10d3-47b2-926f-27fe382e2458"
-      targetConnections="515fb392-8981-4615-a75c-f2e2c0700d78">
+      targetConnections="515fb392-8981-4615-a75c-f2e2c0700d78"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="cec4ae0d-3749-41a3-ba48-8f2a7921512b"
@@ -70,7 +72,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="a0f10cc1-a737-4b7f-a09f-d52666b988b4">
+      id="a0f10cc1-a737-4b7f-a09f-d52666b988b4"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="515fb392-8981-4615-a75c-f2e2c0700d78"
@@ -92,7 +95,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="02c7aefb-1948-47f3-bd67-a9bf748629c3"
-      targetConnections="009d1135-2415-4774-8ff6-6d5a01215484 7e858f6e-0ffc-4173-ad03-1a79067eb090 cec4ae0d-3749-41a3-ba48-8f2a7921512b 32b7fbd5-6f9c-4fdf-9006-3be2d8980ef0">
+      targetConnections="009d1135-2415-4774-8ff6-6d5a01215484 7e858f6e-0ffc-4173-ad03-1a79067eb090 cec4ae0d-3749-41a3-ba48-8f2a7921512b 32b7fbd5-6f9c-4fdf-9006-3be2d8980ef0"
+      textPosition="1">
     <bounds
         x="360"
         y="48"
@@ -104,7 +108,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="0d8b084f-4c31-4c22-ba47-4356bc5a6154">
+      id="0d8b084f-4c31-4c22-ba47-4356bc5a6154"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="32b7fbd5-6f9c-4fdf-9006-3be2d8980ef0"
