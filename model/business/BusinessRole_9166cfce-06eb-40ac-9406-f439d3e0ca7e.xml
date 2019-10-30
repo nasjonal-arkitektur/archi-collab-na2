@@ -5,7 +5,7 @@
     documentation="Den som inngår i en samhandlingsprosess og samhandler med en annen samhandlingsaktør. Kan være en tilbyder, konsument, avsender, mottaker, leverandør etc.">
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
   <properties
       key="dct:type"
       value="archi:business-role"/>
@@ -32,4 +32,6 @@
   <properties
       key="difi:metaLevel"
       value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
 </archimate:BusinessRole>

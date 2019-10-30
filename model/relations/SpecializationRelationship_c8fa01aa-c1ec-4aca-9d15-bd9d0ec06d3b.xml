@@ -30,6 +30,8 @@
       value="undefined"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="dct:BibliographicResource"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_e4598b6b-24c2-4965-8e4a-c76dbbfd5e77.xml#e4598b6b-24c2-4965-8e4a-c76dbbfd5e77"/>

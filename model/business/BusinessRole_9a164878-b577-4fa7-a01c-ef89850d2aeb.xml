@@ -18,7 +18,7 @@
       value="eira"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
@@ -41,4 +41,6 @@
   <properties
       key="difi:metaLevel"
       value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
 </archimate:BusinessRole>

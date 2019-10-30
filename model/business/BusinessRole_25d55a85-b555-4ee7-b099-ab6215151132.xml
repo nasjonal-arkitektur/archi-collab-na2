@@ -5,7 +5,7 @@
     documentation="Det enkelte fagområdet eier sine begreper og har rollen som begrepseier. Det bør kun være én begrepseier per begrep. Med begrepseier menes her en organisatorisk enhet knyttet til organisasjonskartet i virksomheten.">
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:]"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
