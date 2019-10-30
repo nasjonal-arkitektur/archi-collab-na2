@@ -624,5 +624,5 @@
       key="difi:description_en"/>
   <properties
       key="difi:docViewPath"
-      value="nab_arkitekturlandskap_segmentarkitektur_datadeling"/>
+      value="nab_arkitekturlandskap_segmentarkitektur_datadeling_datasikkerhet"/>
 </archimate:ArchimateDiagramModel>

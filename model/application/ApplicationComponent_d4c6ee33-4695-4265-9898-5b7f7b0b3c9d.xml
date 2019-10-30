@@ -28,7 +28,9 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="Meldings-infrastruktur"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="dct:BibliographicResource"/>
 </archimate:ApplicationComponent>

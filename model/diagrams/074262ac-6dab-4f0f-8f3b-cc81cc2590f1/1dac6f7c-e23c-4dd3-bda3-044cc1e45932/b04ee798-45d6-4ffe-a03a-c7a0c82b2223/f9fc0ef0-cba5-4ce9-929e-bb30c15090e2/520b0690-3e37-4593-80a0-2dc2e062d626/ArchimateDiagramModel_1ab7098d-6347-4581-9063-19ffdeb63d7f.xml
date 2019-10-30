@@ -236,7 +236,7 @@
       id="834d6f7b-5ac6-4325-9633-7506b0ffb5fb"
       textAlignment="1"
       fillColor="#fefcd8"
-      content="Avteleforvaltning  er et samarbeid mellomi nvolverte parter. ">
+      content="Avteleforvaltning  er et samarbeid mellom involverte parter. ">
     <sourceConnections
         id="2935e8dd-fc7f-4bb8-87fa-497e69304579"
         source="834d6f7b-5ac6-4325-9633-7506b0ffb5fb"
@@ -330,5 +330,6 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="difi:docViewPath"/>
+      key="difi:docViewPath"
+      value="nab_arkitekturlandskap_segmentarkitektur_datadeling_avtaleforvaltning"/>
 </archimate:ArchimateDiagramModel>

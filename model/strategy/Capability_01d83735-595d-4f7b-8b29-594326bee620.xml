@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dataintegrasjon og interoperabilitet"
+    name="Datadeling og integrasjon"
     id="01d83735-595d-4f7b-8b29-594326bee620"
     documentation="Data Integration and Interoperability includes processes related to the movement and consolidation of data within and between data stores, applications, and organizations.">
   <properties
@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Dataintegrasjon og interoperabilitet"/>
+      value="Datadeling (DMBOK2)"/>
   <properties
       key="difi:name_en"
       value="Data Integration and Interoperability"/>

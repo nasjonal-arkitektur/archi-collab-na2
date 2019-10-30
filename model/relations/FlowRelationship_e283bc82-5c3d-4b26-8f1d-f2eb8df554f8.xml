@@ -3,6 +3,37 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="meldingsflyt"
     id="e283bc82-5c3d-4b26-8f1d-f2eb8df554f8">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:flow-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="meldingsflyt"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_d4c6ee33-4695-4265-9898-5b7f7b0b3c9d.xml#d4c6ee33-4695-4265-9898-5b7f7b0b3c9d"/>

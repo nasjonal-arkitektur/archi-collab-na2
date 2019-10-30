@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tverrgående temaer innen datadeling"
+    name="Prioriterte temaer innen datadeling (2019)"
     id="f76132f1-7845-4248-9c00-9040a63eabb1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -466,7 +466,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Tverrgående temaer innen datadeling"/>
+      value="Prioriterte temaer innen datadeling (2019)"/>
   <properties
       key="difi:name_en"/>
   <properties

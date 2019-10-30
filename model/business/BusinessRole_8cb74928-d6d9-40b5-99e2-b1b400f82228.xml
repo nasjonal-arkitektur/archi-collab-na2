@@ -34,4 +34,6 @@
   <properties
       key="difi:metaLevel"
       value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
 </archimate:BusinessRole>

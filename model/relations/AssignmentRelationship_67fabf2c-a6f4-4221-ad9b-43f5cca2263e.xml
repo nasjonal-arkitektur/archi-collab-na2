@@ -3,6 +3,37 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="inngår i "
     id="67fabf2c-a6f4-4221-ad9b-43f5cca2263e">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:assignment-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="inngår i "/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:BusinessCollaboration"
       href="BusinessCollaboration_5a2a23f1-cc32-4cec-8ac9-b5aee04f1c54.xml#5a2a23f1-cc32-4cec-8ac9-b5aee04f1c54"/>
