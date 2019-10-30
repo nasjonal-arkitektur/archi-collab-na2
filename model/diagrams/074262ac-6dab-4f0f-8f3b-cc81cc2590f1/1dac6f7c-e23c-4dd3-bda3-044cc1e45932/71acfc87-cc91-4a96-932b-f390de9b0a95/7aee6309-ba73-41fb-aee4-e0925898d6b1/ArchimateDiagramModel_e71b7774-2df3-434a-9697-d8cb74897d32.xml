@@ -38,4 +38,18 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_bae874a7-5750-409c-b5c4-73fa7c8ebc7a.xml#bae874a7-5750-409c-b5c4-73fa7c8ebc7a"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Koordinator"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

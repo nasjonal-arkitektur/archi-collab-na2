@@ -1,4 +1,19 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Roller og ansvar"
-    id="007e944c-2611-4e8c-9596-baf45a717ea8"/>
+    id="007e944c-2611-4e8c-9596-baf45a717ea8">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Roller og ansvar"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
+</archimate:ArchimateDiagramModel>

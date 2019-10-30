@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integration tools"
-    id="3b8279b9-ec07-4b6b-a4a2-b8fb4e371919"/>
+    id="3b8279b9-ec07-4b6b-a4a2-b8fb4e371919">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Integration tools"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

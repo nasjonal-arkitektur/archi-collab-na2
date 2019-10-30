@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integration patterns - Individual pattterns"
-    id="032803d6-131b-4d52-8017-1aa013285334"/>
+    id="032803d6-131b-4d52-8017-1aa013285334">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Integration patterns - Individual pattterns"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nasjonal arkitektur"
-    id="cbbb2e13-cd26-4340-a4eb-4e3771eb68f1"/>
+    id="cbbb2e13-cd26-4340-a4eb-4e3771eb68f1">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Nasjonal arkitektur"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

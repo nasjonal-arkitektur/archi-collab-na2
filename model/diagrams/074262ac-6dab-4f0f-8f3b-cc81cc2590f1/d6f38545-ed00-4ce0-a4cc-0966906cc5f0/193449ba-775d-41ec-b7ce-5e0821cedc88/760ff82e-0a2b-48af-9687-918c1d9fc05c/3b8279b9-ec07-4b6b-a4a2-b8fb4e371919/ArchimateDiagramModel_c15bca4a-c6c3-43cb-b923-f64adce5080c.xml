@@ -542,4 +542,19 @@
         xsi:type="archimate:Grouping"
         href="Grouping_08a184e2-1cd3-442f-b570-d1a2ca827132.xml#08a184e2-1cd3-442f-b570-d1a2ca827132"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Integration tools"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="https://www.enterpriseintegrationpatterns.com/patterns/messaging/index.html"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

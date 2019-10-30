@@ -106,4 +106,18 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_f88a7b94-bc50-4ada-81ad-1b58c6834b40.xml#f88a7b94-bc50-4ada-81ad-1b58c6834b40"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tilbyder-roller"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

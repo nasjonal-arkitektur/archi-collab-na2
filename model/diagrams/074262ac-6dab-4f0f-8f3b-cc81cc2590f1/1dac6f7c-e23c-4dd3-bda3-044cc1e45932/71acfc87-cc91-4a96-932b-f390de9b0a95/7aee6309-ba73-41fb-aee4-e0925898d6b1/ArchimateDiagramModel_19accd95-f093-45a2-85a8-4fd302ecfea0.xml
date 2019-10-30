@@ -97,4 +97,18 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_6f717b6d-58dd-447c-be57-5fc3088603d5.xml#6f717b6d-58dd-447c-be57-5fc3088603d5"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Konsument-roller"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

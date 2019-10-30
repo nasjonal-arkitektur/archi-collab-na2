@@ -257,4 +257,18 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_a3ae8256-3c64-435b-bde8-174c23adb07c.xml#a3ae8256-3c64-435b-bde8-174c23adb07c"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Roller og aktører i EIRA"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

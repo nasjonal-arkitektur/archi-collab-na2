@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Prosesser - generisk"
-    id="7d93da3f-e960-4808-a6b4-cc95cc596cff"/>
+    id="7d93da3f-e960-4808-a6b4-cc95cc596cff">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Prosesser - generisk"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

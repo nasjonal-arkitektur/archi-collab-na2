@@ -116,4 +116,18 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_cde6f517-2fbe-4214-84ef-36bdd5df540b.xml#cde6f517-2fbe-4214-84ef-36bdd5df540b"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Avgi notifikasjoner"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

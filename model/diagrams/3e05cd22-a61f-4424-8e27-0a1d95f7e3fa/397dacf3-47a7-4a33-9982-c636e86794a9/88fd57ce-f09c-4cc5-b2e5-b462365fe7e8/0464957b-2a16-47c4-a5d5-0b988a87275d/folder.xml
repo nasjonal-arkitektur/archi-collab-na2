@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kapabilitetskart"
-    id="0464957b-2a16-47c4-a5d5-0b988a87275d"/>
+    id="0464957b-2a16-47c4-a5d5-0b988a87275d">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Kapabilitetskart"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

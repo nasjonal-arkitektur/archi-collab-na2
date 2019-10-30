@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integration patterns - overviews"
-    id="407f69f7-3eba-4021-b24e-1593fbcdbc54"/>
+    id="407f69f7-3eba-4021-b24e-1593fbcdbc54">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Integration patterns - overviews"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

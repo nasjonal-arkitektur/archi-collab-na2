@@ -252,4 +252,18 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_ed3164ca-891c-4544-b985-2a11af9fb38b.xml#ed3164ca-891c-4544-b985-2a11af9fb38b"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Representant-roller"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

@@ -29,4 +29,18 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_d53afbf3-f2da-4255-8ed1-b0b9b796f1b4.xml#d53afbf3-f2da-4255-8ed1-b0b9b796f1b4"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="KLADD: Roller i veileder for orden i eget hus "/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

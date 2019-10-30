@@ -126,4 +126,18 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_e8dd43bf-038c-4eb6-aaf0-0e366371b809.xml#e8dd43bf-038c-4eb6-aaf0-0e366371b809"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="File Transfer integration pattern"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

@@ -167,4 +167,18 @@
         xsi:type="archimate:Grouping"
         href="Grouping_855e9333-a005-4c8a-9e87-ad52824c94a7.xml#855e9333-a005-4c8a-9e87-ad52824c94a7"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Integration styles"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

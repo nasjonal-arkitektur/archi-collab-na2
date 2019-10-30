@@ -16,4 +16,18 @@
         xsi:type="archimate:Constraint"
         href="Constraint_244d0729-54ac-456e-a161-94f50f4e85f4.xml#244d0729-54ac-456e-a161-94f50f4e85f4"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Lover og regler"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

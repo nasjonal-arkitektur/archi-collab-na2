@@ -15,4 +15,18 @@
         xsi:type="archimate:Resource"
         href="Resource_55aafff8-6948-4a91-b3c5-f7c42a4ca91a.xml#55aafff8-6948-4a91-b3c5-f7c42a4ca91a"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Lover og regler - datautveksling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

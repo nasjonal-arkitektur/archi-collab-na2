@@ -211,4 +211,18 @@
         xsi:type="archimate:TechnologyProcess"
         href="TechnologyProcess_3fa04dcf-ee8e-4d6b-9ac9-909ed7c89043.xml#3fa04dcf-ee8e-4d6b-9ac9-909ed7c89043"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Abstraksjon - prosess"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

@@ -68,4 +68,18 @@
         xsi:type="archimate:Assessment"
         href="Assessment_3f0bc0ab-0ef1-49b3-8a47-9fb62f82c8a9.xml#3f0bc0ab-0ef1-49b3-8a47-9fb62f82c8a9"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tilstandsvurdering deling av data 2019"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>
