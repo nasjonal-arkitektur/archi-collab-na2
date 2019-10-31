@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datakonsument"
     id="0442a2d9-0a27-4aee-ac78-82b12deccf85"
-    documentation="Den som innhenter eller mottar data.">
+    documentation="Den som innhenter eller mottar data fra andre aktører.">
   <properties
       key="dct:type"
       value="archi:business-role"/>

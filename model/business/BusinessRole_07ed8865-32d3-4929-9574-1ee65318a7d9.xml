@@ -1,7 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Representant"
-    id="07ed8865-32d3-4929-9574-1ee65318a7d9">
+    id="07ed8865-32d3-4929-9574-1ee65318a7d9"
+    documentation="Den som representerer en samhandlingsaktør enten gjennom hjemmel, fullmakt eller samtykke. Fullmakt omfatter her delegert rettighet gitt til leverandør av ansvarlig samhandlingsaktør.&#xD;&#xA;&#xD;&#xA;Representant kan også være f.eks. verge, fullmektig eller annen bemyndiget person.&#xD;&#xA;&#xD;&#xA;En annen type representant er databehandler i betydningen representant for behandlingsansvarlig (personvern).">
   <properties
       key="dct:type"
       value="archi:business-role"/>

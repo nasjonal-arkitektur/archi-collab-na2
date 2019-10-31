@@ -1,7 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tjenesteformidler"
-    id="4db6c089-8339-4983-a7e6-855b790fe5f3">
+    id="4db6c089-8339-4983-a7e6-855b790fe5f3"
+    documentation="Evidence service broker...&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="difi:namespace"
       value="-"/>

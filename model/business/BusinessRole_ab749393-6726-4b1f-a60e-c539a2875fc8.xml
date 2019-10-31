@@ -1,7 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mellomledd"
-    id="ab749393-6726-4b1f-a60e-c539a2875fc8">
+    name="Dataformidler"
+    id="ab749393-6726-4b1f-a60e-c539a2875fc8"
+    documentation="En aktør som formidler data mellom tilbyder og konsument.&#xD;&#xA;&#xD;&#xA;F.eks. tilbyder av meldingsinfrastruktur, aksesspunkt, mellomliggende lagringsløsninger etc.">
   <properties
       key="dct:type"
       value="archi:business-role"/>
