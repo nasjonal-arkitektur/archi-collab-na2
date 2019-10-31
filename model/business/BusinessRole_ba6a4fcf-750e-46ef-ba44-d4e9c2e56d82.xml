@@ -4,7 +4,7 @@
     id="ba6a4fcf-750e-46ef-ba44-d4e9c2e56d82">
   <properties
       key="difi:namespace"
-      value="jørgen"/>
+      value="-"/>
   <properties
       key="difi:name_no"
       value="Systemleverandør"/>
@@ -31,4 +31,6 @@
       value="undefined"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="dct:BibliographicResource"/>
 </archimate:BusinessRole>

@@ -4,10 +4,10 @@
     id="8f6533d5-614e-4e1a-81a4-adfea0bb942b">
   <properties
       key="difi:namespace"
-      value="jørgen"/>
+      value="-"/>
   <properties
       key="difi:name_no"
-      value="Tjeneste-leverandør"/>
+      value="Tjenesteleverandør"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -31,4 +31,6 @@
       value="undefined"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="dct:BibliographicResource"/>
 </archimate:BusinessRole>
