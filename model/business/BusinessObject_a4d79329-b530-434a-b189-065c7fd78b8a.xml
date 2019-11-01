@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Notifikasjon"
     id="a4d79329-b530-434a-b189-065c7fd78b8a"
-    documentation="Dataobjekt som peker til en hendelse og "/>
+    documentation="Dataobjekt som peker til en hendelse og gjøres tilgjengelig på en hendelseskø så konsumenten får vite om hendelsen.&#xD;&#xA;&#xD;&#xA;En notifikasjoner kan inneholde lite eller mye informasjon om selve hendelsen, men det må være nok informasjon til at konsumenten kan vurdere om hendelsen er relevant seg. "/>

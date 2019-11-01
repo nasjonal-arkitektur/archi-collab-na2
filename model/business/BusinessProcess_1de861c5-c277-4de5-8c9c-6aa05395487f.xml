@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Videre behandling av notifikasjon"
-    id="1de861c5-c277-4de5-8c9c-6aa05395487f"/>
+    id="1de861c5-c277-4de5-8c9c-6aa05395487f"
+    documentation="Prosess med videre behandling av en notifikasjon. Vil normalt være å innhente mer informasjon om hendelsen knyttet til notifikasjonen og eventuelt agere ut i fra denne."/>

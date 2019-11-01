@@ -18,29 +18,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ea063cc2-ccd5-491d-b986-9f07fbdd7968"
-      textPosition="1"
-      type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="a2418d24-1ced-45f5-b0aa-545c6d2e03f5"
-        source="ea063cc2-ccd5-491d-b986-9f07fbdd7968"
-        target="e07505b4-d440-4445-b646-67cd7f8a0d42">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_085c532f-f261-4a3a-bab5-8b028e19857e.xml#085c532f-f261-4a3a-bab5-8b028e19857e"/>
-    </sourceConnections>
-    <bounds
-        x="348"
-        y="72"
-        width="133"
-        height="71"/>
-    <archimateElement
-        xsi:type="archimate:BusinessEvent"
-        href="BusinessEvent_32aa5d91-ce08-45f3-844d-24642c7ed834.xml#32aa5d91-ce08-45f3-844d-24642c7ed834"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="1d82e0f8-7f0b-4d28-ae80-72366820f8e0"
       textPosition="1">
     <sourceConnections
@@ -99,7 +76,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e07505b4-d440-4445-b646-67cd7f8a0d42"
-        targetConnections="a2418d24-1ced-45f5-b0aa-545c6d2e03f5 0fba9ed0-2131-4aab-8b73-5f833b9bd1b3"
+        targetConnections="0fba9ed0-2131-4aab-8b73-5f833b9bd1b3 c1480cf2-7890-43af-bfd0-39d457994c51"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -122,7 +99,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="01be6f6d-d5c2-42a9-b235-23c0b6c457ed"
-        targetConnections="86978d71-e7b9-41d3-8de6-c437b1ae848c 7cb66be8-9492-4b99-bb3f-ccaa1c12908a"
+        targetConnections="86978d71-e7b9-41d3-8de6-c437b1ae848c 7cb66be8-9492-4b99-bb3f-ccaa1c12908a 65d7016d-ba4c-41ad-8813-80a39a3140de"
         textPosition="1">
       <bounds
           x="192"
@@ -136,6 +113,51 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_42e9b815-550a-48b7-8948-ab38f2f4eeda.xml#42e9b815-550a-48b7-8948-ab38f2f4eeda"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="83cc327f-11e0-4010-a91b-74108c5644f7"
+      textPosition="1"
+      type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="c1480cf2-7890-43af-bfd0-39d457994c51"
+        source="83cc327f-11e0-4010-a91b-74108c5644f7"
+        target="e07505b4-d440-4445-b646-67cd7f8a0d42">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_54bf8353-01fd-4a94-996f-5094de240737.xml#54bf8353-01fd-4a94-996f-5094de240737"/>
+    </sourceConnections>
+    <bounds
+        x="348"
+        y="336"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_df102370-63de-40c9-b3ad-f573cb1ff1b8.xml#df102370-63de-40c9-b3ad-f573cb1ff1b8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0fdb8665-362c-4d9d-8e56-2a8796cf8434"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="65d7016d-ba4c-41ad-8813-80a39a3140de"
+        source="0fdb8665-362c-4d9d-8e56-2a8796cf8434"
+        target="01be6f6d-d5c2-42a9-b235-23c0b6c457ed">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_d1770cf8-9508-4830-9759-ae16344a6cfd.xml#d1770cf8-9508-4830-9759-ae16344a6cfd"/>
+    </sourceConnections>
+    <bounds
+        x="516"
+        y="338"
+        width="133"
+        height="67"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_291e0ae4-c146-48aa-bf1a-94fb71b1fa4d.xml#291e0ae4-c146-48aa-bf1a-94fb71b1fa4d"/>
   </children>
   <properties
       key="difi:language"
