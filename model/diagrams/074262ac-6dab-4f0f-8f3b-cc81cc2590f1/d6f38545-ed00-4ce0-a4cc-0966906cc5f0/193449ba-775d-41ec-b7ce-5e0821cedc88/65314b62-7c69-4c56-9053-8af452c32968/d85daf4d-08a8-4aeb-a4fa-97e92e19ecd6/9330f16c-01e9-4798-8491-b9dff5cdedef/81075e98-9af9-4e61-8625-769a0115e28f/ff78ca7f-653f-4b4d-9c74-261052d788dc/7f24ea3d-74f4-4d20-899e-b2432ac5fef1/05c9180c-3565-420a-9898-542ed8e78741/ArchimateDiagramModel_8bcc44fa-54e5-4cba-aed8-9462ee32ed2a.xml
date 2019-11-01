@@ -1,12 +1,13 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Genere notifikasjoner"
+    name="Generere notifikasjoner"
     id="8bcc44fa-54e5-4cba-aed8-9462ee32ed2a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="68c5c066-6b83-453c-8cda-d84510aba3c3"
-      targetConnections="25906bae-5f65-4dac-b542-23e246048e2a 81f1ab60-358f-4140-aa68-3fe84d4d1d0a">
+      targetConnections="25906bae-5f65-4dac-b542-23e246048e2a 81f1ab60-358f-4140-aa68-3fe84d4d1d0a"
+      textPosition="1">
     <bounds
         x="96"
         y="204"
