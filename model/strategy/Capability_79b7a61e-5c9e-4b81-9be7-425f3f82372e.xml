@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inngå avtaler om abonnement og tilgang til data fra andre"
+    name="Klargjøre for innhenting og mottak av data"
     id="79b7a61e-5c9e-4b81-9be7-425f3f82372e"
-    documentation="Inkl. abonnementer!">
+    documentation="Inkl. abonnementer!&#xD;&#xA;&#xD;&#xA;Inngå avtaler om abonnement og tilgang til data fra andre">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

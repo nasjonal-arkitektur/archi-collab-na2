@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sende data til kjente mottakere"
+    name="Sende data"
     id="91f1a314-e8cb-4a0b-bdfe-7b89413aa0d2">
   <properties
       key="difi:metaLevel"

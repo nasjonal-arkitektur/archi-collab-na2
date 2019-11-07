@@ -1,14 +1,14 @@
-<archimate:Capability
+<archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Etablere egne løsninger for innhenting og mottak av data"
-    id="5cd35859-e365-4396-946d-8dfcb19784d9"
-    documentation="Etablere egne løsninger for å forespørre, abonnere  og motta data">
+    name="Sporing"
+    id="8685f4e1-c165-4a54-b048-49ff197672e6"
+    documentation="- Sporing av dataaksess&#xD;&#xA;- Sporing av kilder &#xD;&#xA;- Sporing for etterlevelse&#xD;&#xA;- Sporing for dokumentasjon tilknyttet vedtak etc.">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:capability"/>
+      value="archi:grouping"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Etablere egne løsninger for å forespørre, abonnere  og motta data"/>
+      value="Oppdagelse, søk og gjenfinning"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -32,4 +32,4 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-</archimate:Capability>
+</archimate:Grouping>

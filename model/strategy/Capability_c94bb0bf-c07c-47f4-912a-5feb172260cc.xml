@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inngå avtaler og sette opp abonnementer og tilganger til data og tjenester"
-    id="c94bb0bf-c07c-47f4-912a-5feb172260cc">
+    name="Klargjøre for deling av data"
+    id="c94bb0bf-c07c-47f4-912a-5feb172260cc"
+    documentation="Inngå avtaler og sette opp abonnementer og tilganger til data og tjenester">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
