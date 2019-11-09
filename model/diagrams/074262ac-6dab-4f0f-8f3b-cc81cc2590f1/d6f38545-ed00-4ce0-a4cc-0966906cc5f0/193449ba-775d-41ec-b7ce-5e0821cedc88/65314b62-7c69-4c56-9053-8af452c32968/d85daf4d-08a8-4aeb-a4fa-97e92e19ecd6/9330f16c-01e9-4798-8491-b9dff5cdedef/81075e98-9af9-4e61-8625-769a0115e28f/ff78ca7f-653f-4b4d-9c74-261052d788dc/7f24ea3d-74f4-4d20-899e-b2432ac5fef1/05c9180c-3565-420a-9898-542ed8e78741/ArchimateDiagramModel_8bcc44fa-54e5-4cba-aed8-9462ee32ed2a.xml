@@ -1,12 +1,13 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Genere notifikasjoner"
+    name="Generere notifikasjoner"
     id="8bcc44fa-54e5-4cba-aed8-9462ee32ed2a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="68c5c066-6b83-453c-8cda-d84510aba3c3"
-      targetConnections="25906bae-5f65-4dac-b542-23e246048e2a 81f1ab60-358f-4140-aa68-3fe84d4d1d0a">
+      targetConnections="25906bae-5f65-4dac-b542-23e246048e2a 81f1ab60-358f-4140-aa68-3fe84d4d1d0a"
+      textPosition="1">
     <bounds
         x="96"
         y="204"
@@ -119,6 +120,15 @@
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_b6f50ed5-704b-49a8-9aa4-42ddab85033d.xml#b6f50ed5-704b-49a8-9aa4-42ddab85033d"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="6a1b21b5-d9c5-4c55-ac27-d4b6efd143ef"
+          source="a68ba243-e17d-4d6f-bb31-9ad2b06a6147"
+          target="541e9207-b91e-42fa-b035-bc8d40b8572e">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_192ddf85-7ae8-4a66-a505-f9a5204de747.xml#192ddf85-7ae8-4a66-a505-f9a5204de747"/>
+      </sourceConnections>
       <bounds
           x="192"
           y="36"
@@ -145,6 +155,20 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_a4d79329-b530-434a-b189-065c7fd78b8a.xml#a4d79329-b530-434a-b189-065c7fd78b8a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="541e9207-b91e-42fa-b035-bc8d40b8572e"
+      targetConnections="6a1b21b5-d9c5-4c55-ac27-d4b6efd143ef"
+      textPosition="1">
+    <bounds
+        x="516"
+        y="72"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_22646fc6-2599-4d50-a1b2-beedfc80a166.xml#22646fc6-2599-4d50-a1b2-beedfc80a166"/>
   </children>
   <properties
       key="difi:language"

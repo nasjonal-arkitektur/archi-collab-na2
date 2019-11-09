@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sending av data"
+    name="Sende data"
     id="627f362e-2204-42ce-a032-e904c0151e14"
     documentation="Evnen til å sende data til en mottaker.">
   <properties

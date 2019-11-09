@@ -1,7 +1,8 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="eOppslag referansearkitektur"
-    id="291e0ae4-c146-48aa-bf1a-94fb71b1fa4d">
+    id="291e0ae4-c146-48aa-bf1a-94fb71b1fa4d"
+    documentation="Samhandlingsmønster for synkront oppslag av data.">
   <properties
       key="difi:namespace"
       value="-"/>

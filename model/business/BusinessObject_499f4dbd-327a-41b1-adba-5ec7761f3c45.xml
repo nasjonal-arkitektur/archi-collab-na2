@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kriterier og regler for vurdering"
+    id="499f4dbd-327a-41b1-adba-5ec7761f3c45"
+    documentation="Informasjon om hva som legges til grunn for å vurdere relevansen av en hendelse basert på tilgjengelig notifikasjon."/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generere og tilby notifikasjoner"
-    id="46c24fa7-6787-4f2b-9d53-7184b04a351c"/>
+    id="46c24fa7-6787-4f2b-9d53-7184b04a351c"
+    documentation="Evnen til å dele informasjon om hendelser gjennom notifikasjoner som tilgjengeliggjøres for konsumenter gjennom hendelseslister. &#xD;&#xA;En hendelse som fører til en notfikasjon vil typisk være en endring i et datasett av relevans for konsumentene av hendelseslisten."/>
