@@ -1,7 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sertifikatutsteder"
-    id="454b7c22-2338-4184-8237-ee4006b70e95">
+    id="454b7c22-2338-4184-8237-ee4006b70e95"
+    documentation="Utsteder av SSL-sertifkat eller tilsvarende. Eksempel: Buypass.">
   <properties
       key="dct:type"
       value="archi:business-role"/>

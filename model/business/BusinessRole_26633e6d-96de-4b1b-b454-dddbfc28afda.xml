@@ -1,7 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tiltrodd tredjepart"
-    id="26633e6d-96de-4b1b-b454-dddbfc28afda">
+    name="Tiltrodd tredjepart (TTP)"
+    id="26633e6d-96de-4b1b-b454-dddbfc28afda"
+    documentation="Samlebetegnelse på aktører som yter en eller flere sikkerhetstjenester, og som to, for hverandre ukjente, kommuniserende parter har tiltro til. TTP-ens rolle er å øke tiltroen til at meldinger og transaksjoner overføres til den tilsiktede mottaker til rett sted og på en korrekt måte. I tilfelle tvister skal det finnes metoder for å generere bevis.">
   <properties
       key="dct:type"
       value="archi:business-role"/>

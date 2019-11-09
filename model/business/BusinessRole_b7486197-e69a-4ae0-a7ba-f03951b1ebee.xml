@@ -1,7 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Identitetsleverandør"
-    id="b7486197-e69a-4ae0-a7ba-f03951b1ebee">
+    id="b7486197-e69a-4ae0-a7ba-f03951b1ebee"
+    documentation="F.eks. ID-porten.">
   <properties
       key="difi:namespace"
       value="toopra"/>

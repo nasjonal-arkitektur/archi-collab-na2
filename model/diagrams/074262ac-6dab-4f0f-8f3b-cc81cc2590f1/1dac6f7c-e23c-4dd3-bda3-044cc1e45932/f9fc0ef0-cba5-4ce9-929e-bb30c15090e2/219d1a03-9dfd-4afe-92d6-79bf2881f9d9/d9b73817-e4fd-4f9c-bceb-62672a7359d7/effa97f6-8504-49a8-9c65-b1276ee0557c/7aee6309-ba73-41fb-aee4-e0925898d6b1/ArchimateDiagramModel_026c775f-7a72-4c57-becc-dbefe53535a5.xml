@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mellomledd"
+    name="Formidler-roller"
     id="026c775f-7a72-4c57-becc-dbefe53535a5">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -9,16 +9,25 @@
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="dbe94264-00ff-4dcf-97a1-2f7b2b7ee314"
+        id="d15fd197-dfe9-4a94-8a8f-190e5ba22cc5"
+        source="8dfbe66e-dfb3-4903-b476-28d06b26620d"
+        target="036aa7f0-3d07-4333-b176-6a25742e51e9">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_5721306f-809a-48d4-a9e6-440bc42cc7e4.xml#5721306f-809a-48d4-a9e6-440bc42cc7e4"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ee4f66ff-e658-4509-8760-5c615f9368b1"
         source="8dfbe66e-dfb3-4903-b476-28d06b26620d"
         target="5cef3e51-7568-45b6-aa3a-81d468d2275f">
       <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_82cb2f7e-4c50-40a1-ae42-de0767929f6c.xml#82cb2f7e-4c50-40a1-ae42-de0767929f6c"/>
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_ac7a8415-9d6a-4309-b31e-f0b8d414c4de.xml#ac7a8415-9d6a-4309-b31e-f0b8d414c4de"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="208"
+        x="240"
+        y="156"
         width="133"
         height="71"/>
     <archimateElement
@@ -28,16 +37,39 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5cef3e51-7568-45b6-aa3a-81d468d2275f"
-      targetConnections="dbe94264-00ff-4dcf-97a1-2f7b2b7ee314"
+      targetConnections="ee4f66ff-e658-4509-8760-5c615f9368b1"
       textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="0a5322f9-2546-498f-991e-257efe05e82d"
+        source="5cef3e51-7568-45b6-aa3a-81d468d2275f"
+        target="036aa7f0-3d07-4333-b176-6a25742e51e9">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_6d82460a-66b4-4015-8a65-c928adae70d8.xml#6d82460a-66b4-4015-8a65-c928adae70d8"/>
+    </sourceConnections>
     <bounds
-        x="96"
-        y="88"
+        x="60"
+        y="156"
         width="133"
         height="71"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_ab749393-6726-4b1f-a60e-c539a2875fc8.xml#ab749393-6726-4b1f-a60e-c539a2875fc8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="036aa7f0-3d07-4333-b176-6a25742e51e9"
+      targetConnections="0a5322f9-2546-498f-991e-257efe05e82d d15fd197-dfe9-4a94-8a8f-190e5ba22cc5"
+      textPosition="1">
+    <bounds
+        x="60"
+        y="48"
+        width="313"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_6605a343-1696-4331-8360-a68de3405499.xml#6605a343-1696-4331-8360-a68de3405499"/>
   </children>
   <properties
       key="difi:language"
