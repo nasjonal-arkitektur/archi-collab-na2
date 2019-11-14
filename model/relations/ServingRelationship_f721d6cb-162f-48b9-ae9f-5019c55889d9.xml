@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tjener"
+    id="f721d6cb-162f-48b9-ae9f-5019c55889d9">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_b3264126-2dc3-4289-8992-7f9556c20af7.xml#b3264126-2dc3-4289-8992-7f9556c20af7"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_88135287-d5b4-4d3a-a518-f358024f99cd.xml#88135287-d5b4-4d3a-a518-f358024f99cd"/>
+</archimate:ServingRelationship>

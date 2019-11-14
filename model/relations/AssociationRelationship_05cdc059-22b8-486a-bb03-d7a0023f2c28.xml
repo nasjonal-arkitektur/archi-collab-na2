@@ -27,7 +27,7 @@
       key="difi:description_en"/>
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_a9f79d0b-e1f1-4ea4-8789-ec3955027984.xml#a9f79d0b-e1f1-4ea4-8789-ec3955027984"/>
+      href="BusinessObject_15678b0c-a0f6-441f-a37e-1ce669cf1eb5.xml#15678b0c-a0f6-441f-a37e-1ce669cf1eb5"/>
   <target
       xsi:type="archimate:BusinessEvent"
       href="BusinessEvent_d4e0742a-8443-4ec6-a2d7-9aa8d394291a.xml#d4e0742a-8443-4ec6-a2d7-9aa8d394291a"/>

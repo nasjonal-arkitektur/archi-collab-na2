@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Prosess for avtaleforvaltning"
+    name="Generisk prosess for klarjøring"
     id="5aa17d87-b0e9-4b3b-b915-0628432940a2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -15,6 +15,19 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_8cb74928-d6d9-40b5-99e2-b1b400f82228.xml#8cb74928-d6d9-40b5-99e2-b1b400f82228"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6115a732-b147-4911-b8de-537a85f4f0e2"
+      type="1">
+    <bounds
+        x="114"
+        y="180"
+        width="138"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_3b38cd33-4e94-4ede-ac63-54f5d6a91521.xml#3b38cd33-4e94-4ede-ac63-54f5d6a91521"/>
   </children>
   <properties
       key="difi:language"

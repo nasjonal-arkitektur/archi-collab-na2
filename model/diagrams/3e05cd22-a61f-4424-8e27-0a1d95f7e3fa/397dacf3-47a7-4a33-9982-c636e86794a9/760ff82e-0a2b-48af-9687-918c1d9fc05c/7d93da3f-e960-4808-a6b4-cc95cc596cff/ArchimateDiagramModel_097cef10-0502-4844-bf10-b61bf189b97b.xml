@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sporing, generisk"
+    id="097cef10-0502-4844-bf10-b61bf189b97b">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="56cbb107-eeaa-407b-b45d-711bd3763645"
+      textPosition="1">
+    <bounds
+        x="312"
+        y="156"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_a58c1939-2dc4-4d8d-ae5c-3d48c0d9fd98.xml#a58c1939-2dc4-4d8d-ae5c-3d48c0d9fd98"/>
+  </children>
+</archimate:ArchimateDiagramModel>

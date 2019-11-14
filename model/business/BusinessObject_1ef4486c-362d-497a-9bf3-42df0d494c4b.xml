@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mottatte data"
+    name="Innkommende hendelsesdata"
     id="1ef4486c-362d-497a-9bf3-42df0d494c4b">
   <properties
       key="label"

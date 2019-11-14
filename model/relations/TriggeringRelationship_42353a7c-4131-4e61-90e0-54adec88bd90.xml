@@ -26,8 +26,8 @@
   <properties
       key="difi:description_en"/>
   <source
-      xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_075e0dbd-6da9-4d75-9049-be7f448b5a69.xml#075e0dbd-6da9-4d75-9049-be7f448b5a69"/>
+      xsi:type="archimate:Junction"
+      href="Junction_37d94455-787f-4b58-ac20-945f5ee35fb7.xml#37d94455-787f-4b58-ac20-945f5ee35fb7"/>
   <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_8a5de78e-0b6f-449f-af00-6ce15fbbca00.xml#8a5de78e-0b6f-449f-af00-6ce15fbbca00"/>
