@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tjener"
     id="908d9694-e5ca-412e-beac-d13ff0335c4c">
   <source
       xsi:type="archimate:Capability"

@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="svar"
+    id="ef3bf667-d3b0-489f-9945-dac654ded82f">
+  <properties
+      key="label"
+      value="\n\nsvar"/>
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_5f31c11c-9c81-4623-9990-85a5217ecdbc.xml#5f31c11c-9c81-4623-9990-85a5217ecdbc"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_4952d308-4f60-47b2-842a-c3084d489904.xml#4952d308-4f60-47b2-842a-c3084d489904"/>
+</archimate:FlowRelationship>

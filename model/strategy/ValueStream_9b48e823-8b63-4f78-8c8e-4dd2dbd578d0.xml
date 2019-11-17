@@ -1,4 +1,8 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tilgjengeliggjør egne datasett"
-    id="9b48e823-8b63-4f78-8c8e-4dd2dbd578d0"/>
+    name="Tilgjengeliggjør egne data"
+    id="9b48e823-8b63-4f78-8c8e-4dd2dbd578d0">
+  <properties
+      key="drill down"
+      value="fc8c4a98-f2a0-4795-8c54-c0a4fbddf814"/>
+</archimate:ValueStream>

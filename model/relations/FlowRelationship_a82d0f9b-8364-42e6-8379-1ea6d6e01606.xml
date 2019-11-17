@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="henvendelse"
+    id="a82d0f9b-8364-42e6-8379-1ea6d6e01606">
+  <properties
+      key="label"
+      value="henvendelse"/>
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_8e0eaa98-6e80-48db-8fd4-082d3d76657b.xml#8e0eaa98-6e80-48db-8fd4-082d3d76657b"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_fdf2d880-a2ef-426b-80ae-65c25e451224.xml#fdf2d880-a2ef-426b-80ae-65c25e451224"/>
+</archimate:FlowRelationship>
