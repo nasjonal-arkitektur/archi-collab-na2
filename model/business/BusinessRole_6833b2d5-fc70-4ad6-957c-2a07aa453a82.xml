@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tjenestekonsument"
     id="6833b2d5-fc70-4ad6-957c-2a07aa453a82"
-    documentation="Den som innhenter eller mottar data.">
+    documentation="TBD">
   <properties
       key="dct:type"
       value="archi:business-role"/>

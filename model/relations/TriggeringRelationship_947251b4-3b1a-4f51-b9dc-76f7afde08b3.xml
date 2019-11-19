@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leder til"
+    id="947251b4-3b1a-4f51-b9dc-76f7afde08b3">
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_8e0eaa98-6e80-48db-8fd4-082d3d76657b.xml#8e0eaa98-6e80-48db-8fd4-082d3d76657b"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_fdf2d880-a2ef-426b-80ae-65c25e451224.xml#fdf2d880-a2ef-426b-80ae-65c25e451224"/>
+</archimate:TriggeringRelationship>

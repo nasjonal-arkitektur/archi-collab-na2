@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="samarbeid"
     id="f5d9099a-873c-49b0-8788-4ab3c3faa75d">
   <source
       xsi:type="archimate:ValueStream"

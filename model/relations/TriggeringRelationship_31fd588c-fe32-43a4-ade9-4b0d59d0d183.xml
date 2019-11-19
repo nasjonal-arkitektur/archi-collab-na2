@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leder til"
     id="31fd588c-fe32-43a4-ade9-4b0d59d0d183">
   <source
       xsi:type="archimate:ValueStream"

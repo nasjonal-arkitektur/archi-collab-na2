@@ -235,6 +235,20 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_ac1c6456-2123-4f59-bbcb-5c78eecf55ce.xml#ac1c6456-2123-4f59-bbcb-5c78eecf55ce"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="45981b1a-7782-4694-9b08-4b242ac622e3"
+      fontColor="#ff0000"
+      textPosition="1">
+    <bounds
+        x="180"
+        y="288"
+        width="138"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_8f86b0e0-3fcf-41e9-bc77-895e1fa8ca3a.xml#8f86b0e0-3fcf-41e9-bc77-895e1fa8ca3a"/>
+  </children>
   <properties
       key="difi:language"
       value="no"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="endring"
+    id="5fbdc670-b989-4186-895a-796a5c1ef14d">
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_8e0219c9-07db-4efc-826a-8543d397b89d.xml#8e0219c9-07db-4efc-826a-8543d397b89d"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_94469877-e989-416a-8ed7-7e80fa201a04.xml#94469877-e989-416a-8ed7-7e80fa201a04"/>
+</archimate:TriggeringRelationship>
