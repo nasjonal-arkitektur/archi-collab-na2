@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="eSignering"
-    id="4174245b-78c2-4f40-afa7-ab65c83f0936">
+    id="4174245b-78c2-4f40-afa7-ab65c83f0936"
+    documentation="eSignering gir virksomheter sikker, praktisk og effektiv håndtering av dokumenter som krever digital signatur fra innbyggere. ">
   <properties
       key="dct:type"
       value="archi:application-component"/>

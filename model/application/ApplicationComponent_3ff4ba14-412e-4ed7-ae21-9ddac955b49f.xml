@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Altinn samtykke"
-    id="3ff4ba14-412e-4ed7-ae21-9ddac955b49f">
+    id="3ff4ba14-412e-4ed7-ae21-9ddac955b49f"
+    documentation="Altinn Samtykke hjelper deg med å innhente samtykke fra personer og organisasjoner. Du kan dermed få midlertidig innsyn i data det offentlige har innhentet tidligere.">
   <properties
       key="dct:type"
       value="archi:application-component"/>

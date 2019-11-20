@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digital postkasse til innbyggere (DPI)"
-    id="0160781c-0197-4ade-ae5f-c5973ffaec06">
+    id="0160781c-0197-4ade-ae5f-c5973ffaec06"
+    documentation="Digital postkasse hjelper deg med å sende digital post sikkert til innbyggerne, uavhengig av hvilken postkasse innbyggerne har valgt (e-Boks eller Digipost).">
   <properties
       key="dct:type"
       value="archi:application-component"/>

@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Altinn API-er"
-    id="e8e0fbd4-a5c4-4028-8ebc-2f8bc74c869b">
+    name="Altinn API"
+    id="e8e0fbd4-a5c4-4028-8ebc-2f8bc74c869b"
+    documentation="Med Altinn API kan du lage løsninger som fungerer utenfor Altinn, men samtidig benytte Altinn sine tekniske komponenter. Altinn API snakker med systemene dine og du har kontroll på brukeropplevelsen. ">
   <properties
       key="dct:type"
       value="archi:application-component"/>

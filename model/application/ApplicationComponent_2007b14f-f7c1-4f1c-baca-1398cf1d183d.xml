@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Folkeregisteret​"
-    id="2007b14f-f7c1-4f1c-baca-1398cf1d183d">
+    id="2007b14f-f7c1-4f1c-baca-1398cf1d183d"
+    documentation="I Folkeregisteret henter du oppdatert nøkkelinformasjon om alle personer som er eller har vært bosatt i Norge: navn, adresse, kjønn, sivilstand, med mer. ">
   <properties
       key="dct:type"
       value="archi:application-component"/>

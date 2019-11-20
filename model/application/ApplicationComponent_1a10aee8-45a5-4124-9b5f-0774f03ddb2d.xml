@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Altinn varsling"
-    id="1a10aee8-45a5-4124-9b5f-0774f03ddb2d">
+    id="1a10aee8-45a5-4124-9b5f-0774f03ddb2d"
+    documentation="Vil du varsle innbyggere, virksomheter og organisasjoner på SMS eller e-post, kan du bruke løsningen Varsling. Brukeren logger seg deretter inn for å lese informasjonen du har sendt. ">
   <properties
       key="dct:type"
       value="archi:application-component"/>

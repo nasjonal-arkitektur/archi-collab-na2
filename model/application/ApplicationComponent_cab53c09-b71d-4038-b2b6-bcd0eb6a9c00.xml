@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ID-porten"
-    id="cab53c09-b71d-4038-b2b6-bcd0eb6a9c00">
+    id="cab53c09-b71d-4038-b2b6-bcd0eb6a9c00"
+    documentation="ID-porten gjør det mulig for brukerne dine å logge seg inn på offentlige tjenester. Med kjente elektroniske ID-er som MinID, BankID, Buypass og Commfides kan innbyggerne bruke påloggingsløsninger de kjenner fra før til å autentisere seg.">
   <properties
       key="dct:type"
       value="archi:application-component"/>

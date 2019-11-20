@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Altinn post til virksomheter"
-    id="66c8cfc8-d661-4c33-91a9-b6c8d2bfb272">
+    name="Altinn digital post til virksomheter"
+    id="66c8cfc8-d661-4c33-91a9-b6c8d2bfb272"
+    documentation="Skal du sende sikker digital post til næringsdrivende og andre virksomheter med organisasjonsnummer, bruker du denne løsningen.">
   <properties
       key="dct:type"
       value="archi:application-component"/>

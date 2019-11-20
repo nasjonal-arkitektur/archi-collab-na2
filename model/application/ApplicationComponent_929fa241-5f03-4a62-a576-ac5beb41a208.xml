@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Matrikkelen"
-    id="929fa241-5f03-4a62-a576-ac5beb41a208">
+    id="929fa241-5f03-4a62-a576-ac5beb41a208"
+    documentation="Matrikkelen er Norges offisielle register over fast eiendom, og under dette bygninger, boliger og adresser. Informasjon du behøver i planlegging, utbygging, bruk av og vern av fast eiendom samt i kjøp og salg av bolig. ">
   <properties
       key="dct:type"
       value="archi:application-component"/>

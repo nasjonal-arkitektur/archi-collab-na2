@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Altinn eBevis"
-    id="eb7fba6b-1ca2-4159-a440-d75747c3021a">
+    id="eb7fba6b-1ca2-4159-a440-d75747c3021a"
+    documentation="eBevis forenkler utveksling av informasjon mellom leverandører og det offentlige i anskaffelsesprosessene. Den lar innkjøpere hente inn og gi tilgang til offentlig informasjon om leverandørerer før og etter kontraktsinngåelse.">
   <properties
       key="dct:type"
       value="archi:application-component"/>

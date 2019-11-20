@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="eFormidling"
-    id="1a85790a-860e-40c4-b1c6-69e80fba3681">
+    id="1a85790a-860e-40c4-b1c6-69e80fba3681"
+    documentation="Med denne løsningen får din virksomhet en sikker, samordnet og effektiv meldingsutveksling mot virksomheter og innbyggere.">
   <properties
       key="dct:type"
       value="archi:application-component"/>

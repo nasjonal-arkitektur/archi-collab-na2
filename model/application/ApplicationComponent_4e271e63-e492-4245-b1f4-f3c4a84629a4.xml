@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Felles Datakatalog"
-    id="4e271e63-e492-4245-b1f4-f3c4a84629a4">
+    id="4e271e63-e492-4245-b1f4-f3c4a84629a4"
+    documentation="Felles Datakatalog er en oversikt over hvilke data de ulike offentlige virksomhetene har, hvordan de henger sammen og hva de betyr. Datakatalogen gjør det mulig for deg å søke i opplysningene hos offentlige virksomheter og bruke de til for eksempel analyseformål.">
   <properties
       key="difi:namespace"
       value="-"/>

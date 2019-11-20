@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ELMA"
+    name="Elektronisk mottakerregister (ELMA)"
     id="949ec5f8-d06f-4d48-978a-c90dcf651980"
-    documentation="Elektronisk mottakeradresseregister">
+    documentation="Med ELMA får brukerne dine oversikt over alle virksomheter i Norge som kan motta elektroniske fakturaer i henhold til EHF-standarden. ">
   <properties
       key="dct:type"
       value="archi:application-component"/>

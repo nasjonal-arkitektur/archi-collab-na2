@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Altinn dialog"
-    id="4d7c120f-6edb-48df-beef-01469a3c2a49">
+    name="Altinn digital dialog"
+    id="4d7c120f-6edb-48df-beef-01469a3c2a49"
+    documentation="Gjennom bruk av skjema legger løsningen til rette for brukerdialog med innbyggere og næringsliv på en sikker måte.">
   <properties
       key="dct:type"
       value="archi:application-component"/>
