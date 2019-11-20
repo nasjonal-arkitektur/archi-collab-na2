@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Utfør delprosess"
     id="8e0219c9-07db-4efc-826a-8543d397b89d"
-    documentation="Overvåking, analyse&#xD;&#xA;SLA, brukertilfredshet"/>
+    documentation="Overvåking, analyse&#xD;&#xA;SLA, brukertilfredshet">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:value-stream"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Utfør delprosess"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Overvåking, analyse&#xD;&#xA;SLA, brukertilfredshet"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ValueStream>

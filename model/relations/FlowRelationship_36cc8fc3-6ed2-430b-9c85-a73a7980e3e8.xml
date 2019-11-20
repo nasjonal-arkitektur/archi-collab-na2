@@ -5,7 +5,33 @@
     id="36cc8fc3-6ed2-430b-9c85-a73a7980e3e8">
   <properties
       key="label"
-      value="\nhendelse"/>
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:flow-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="hendelse"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:ValueStream"
       href="ValueStream_58da024d-5349-4b58-9c1a-2128b4def0b8.xml#58da024d-5349-4b58-9c1a-2128b4def0b8"/>

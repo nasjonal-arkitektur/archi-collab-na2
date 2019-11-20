@@ -354,7 +354,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="8f49cb17-118a-4a08-92ed-ad871a633e41"
-      targetConnections="c3e90a2b-9350-40fa-9ee8-a006008e8278"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -373,28 +372,5 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_7f9641a5-a677-4aa7-a032-cf0c4f0858d9.xml#7f9641a5-a677-4aa7-a032-cf0c4f0858d9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="1803efaf-92f4-4a3b-b9eb-e796c336aab9"
-      fontColor="#ff0000"
-      textPosition="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c3e90a2b-9350-40fa-9ee8-a006008e8278"
-        source="1803efaf-92f4-4a3b-b9eb-e796c336aab9"
-        target="8f49cb17-118a-4a08-92ed-ad871a633e41">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_5180063e-ca31-4f16-aacf-8f84bbe618a3.xml#5180063e-ca31-4f16-aacf-8f84bbe618a3"/>
-    </sourceConnections>
-    <bounds
-        x="812"
-        y="372"
-        width="138"
-        height="71"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_1cdeb787-cfdb-4715-8926-5daddb407412.xml#1cdeb787-cfdb-4715-8926-5daddb407412"/>
   </children>
 </archimate:ArchimateDiagramModel>
