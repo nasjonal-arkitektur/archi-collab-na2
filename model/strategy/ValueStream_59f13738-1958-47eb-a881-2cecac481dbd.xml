@@ -1,13 +1,14 @@
-<archimate:Grouping
+<archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Forberedelse"
-    id="b078b1b4-57af-4f32-afb0-ea730a64f8b4">
+    name="Utfør del av tverrgående prosess (copy)"
+    id="59f13738-1958-47eb-a881-2cecac481dbd"
+    documentation="Overvåking, analyse&#xD;&#xA;SLA, brukertilfredshet">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:grouping"/>
+      value="archi:value-stream"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -19,11 +20,12 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Forberedelse"/>
+      value="Utfør delprosess"/>
   <properties
       key="difi:name_en"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Overvåking, analyse&#xD;&#xA;SLA, brukertilfredshet"/>
   <properties
       key="difi:description_en"/>
   <properties
@@ -31,4 +33,4 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-</archimate:Grouping>
+</archimate:ValueStream>

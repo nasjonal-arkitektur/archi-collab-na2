@@ -1,6 +1,6 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Innhent og motta data  -  fra strategi til forvaltning"
+    name="Få tilgang til og innhent delte data og hendelser"
     id="3bf49272-5d3a-4ae6-b529-4613537e3353">
   <properties
       key="difi:metaLevel"
@@ -31,4 +31,7 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="de622344-015f-4f32-8b26-c9086d8d90c8"/>
 </archimate:ValueStream>
