@@ -1,7 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="standardløsniger og åpne data"
+    name="standardløsniger og/eller åpne data"
     id="8f5bada3-0e9e-4670-83d7-b1688d4aad51">
   <properties
       key="difi:metaLevel"

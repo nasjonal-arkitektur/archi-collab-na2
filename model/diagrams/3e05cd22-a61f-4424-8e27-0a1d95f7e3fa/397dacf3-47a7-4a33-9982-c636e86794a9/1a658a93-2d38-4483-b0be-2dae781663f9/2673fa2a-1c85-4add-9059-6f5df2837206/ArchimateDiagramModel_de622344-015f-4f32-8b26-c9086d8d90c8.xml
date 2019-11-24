@@ -287,29 +287,14 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="9744803c-738a-4802-ae68-9a6c45dcc8cb"
+      id="fa3476dd-30d9-4ead-afed-d8f1e3310193"
       fillColor="#defefc"
       textPosition="1"
       type="1">
     <bounds
         x="180"
         y="39"
-        width="133"
-        height="34"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_b078b1b4-57af-4f32-afb0-ea730a64f8b4.xml#b078b1b4-57af-4f32-afb0-ea730a64f8b4"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="fa3476dd-30d9-4ead-afed-d8f1e3310193"
-      fillColor="#defefc"
-      textPosition="1"
-      type="1">
-    <bounds
-        x="348"
-        y="39"
-        width="462"
+        width="630"
         height="34"/>
     <archimateElement
         xsi:type="archimate:Grouping"

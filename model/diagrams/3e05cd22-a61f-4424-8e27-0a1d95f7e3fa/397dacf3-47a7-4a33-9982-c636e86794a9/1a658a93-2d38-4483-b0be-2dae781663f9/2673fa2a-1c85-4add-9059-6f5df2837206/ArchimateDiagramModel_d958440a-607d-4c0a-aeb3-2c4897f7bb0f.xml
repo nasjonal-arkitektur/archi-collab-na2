@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Del og innhent data, overordnet bilde"
+    name="Del og innhent data og hendelser, overordnet"
     id="d958440a-607d-4c0a-aeb3-2c4897f7bb0f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -71,6 +71,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="7c13da63-5fad-485a-8328-6757ec671691"
+        textPosition="0"
         source="7b7e1449-0e0b-4ccf-83dd-11a552a2f6e8"
         target="996ec2f9-2fa4-4a67-aa3a-f2859d97f446">
       <archimateRelationship
@@ -85,5 +86,45 @@
     <archimateElement
         xsi:type="archimate:Resource"
         href="Resource_1505da39-930f-44b0-a4f9-b81bba71e02c.xml#1505da39-930f-44b0-a4f9-b81bba71e02c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="7213c7cd-fb3d-454b-b7a0-8da99c0f6f3f"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|1|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ff0000"
+      textAlignment="1"
+      content="Merk: Denne figuren gir lite; se heller:"
+      borderType="2">
+    <bounds
+        x="96"
+        y="301"
+        width="229"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="72970086-1c83-4780-8aea-ca85ee7a4a9d"
+      textPosition="1">
+    <bounds
+        x="108"
+        y="337"
+        width="133"
+        height="71"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_bfafce33-27f9-443c-8be7-83ebadbe4665.xml#bfafce33-27f9-443c-8be7-83ebadbe4665"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="3871548b-fc80-41a0-8e57-5898884237b2"
+      textPosition="1">
+    <bounds
+        x="252"
+        y="337"
+        width="133"
+        height="71"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_0ddd6c25-e3ec-4ac7-870e-22a967afdb25.xml#0ddd6c25-e3ec-4ac7-870e-22a967afdb25"/>
   </children>
 </archimate:ArchimateDiagramModel>

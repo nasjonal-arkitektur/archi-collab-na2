@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="trigger"
-    id="54254269-a315-4174-9002-defcc999883d">
+    id="e6d74f5f-7fff-4150-aa9e-f7f53d229093">
   <source
       xsi:type="archimate:Resource"
-      href="Resource_0108e752-0fd6-4cb4-9380-d6bc644112dd.xml#0108e752-0fd6-4cb4-9380-d6bc644112dd"/>
+      href="Resource_b3766205-ba71-43a7-918b-131ecd24803c.xml#b3766205-ba71-43a7-918b-131ecd24803c"/>
   <target
       xsi:type="archimate:ValueStream"
-      href="ValueStream_d418f50e-a146-4a27-bb12-a9ae8cfc4b4d.xml#d418f50e-a146-4a27-bb12-a9ae8cfc4b4d"/>
+      href="ValueStream_498807eb-78ef-450b-9398-7630f30f221e.xml#498807eb-78ef-450b-9398-7630f30f221e"/>
 </archimate:TriggeringRelationship>

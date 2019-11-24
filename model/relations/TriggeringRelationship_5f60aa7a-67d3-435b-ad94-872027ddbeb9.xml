@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="trigger"
     id="5f60aa7a-67d3-435b-ad94-872027ddbeb9">
   <properties
       key="difi:metaLevel"

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Del og innhent data, detaljert bilde"
+    name="Del og innhent data og hendelser, detaljert verdistrøm"
     id="6e794bab-1330-418d-af53-3b216a2317a4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -650,29 +650,14 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="14fe2518-6f77-44ca-a146-968f2b2457a7"
+      id="e2591c0f-8899-4920-906e-b5cd1ca0aa63"
       fillColor="#defefc"
       textPosition="1"
       type="1">
     <bounds
         x="192"
         y="63"
-        width="133"
-        height="34"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_b078b1b4-57af-4f32-afb0-ea730a64f8b4.xml#b078b1b4-57af-4f32-afb0-ea730a64f8b4"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="e2591c0f-8899-4920-906e-b5cd1ca0aa63"
-      fillColor="#defefc"
-      textPosition="1"
-      type="1">
-    <bounds
-        x="360"
-        y="63"
-        width="462"
+        width="630"
         height="34"/>
     <archimateElement
         xsi:type="archimate:Grouping"
