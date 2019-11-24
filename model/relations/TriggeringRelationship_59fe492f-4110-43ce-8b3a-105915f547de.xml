@@ -1,13 +1,13 @@
-<archimate:ValueStream
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mål og forbedre prosess"
-    id="3457c49b-34ea-40b4-a7bd-cb136e992359">
+    id="59fe492f-4110-43ce-8b3a-105915f547de">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:value-stream"/>
+      value="archi:triggering-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -18,8 +18,7 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"
-      value="Kontinuerlig forbedriing"/>
+      key="difi:name_no"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -31,4 +30,10 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-</archimate:ValueStream>
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_0f6713ae-ccd4-4719-b3d9-bce335e9d806.xml#0f6713ae-ccd4-4719-b3d9-bce335e9d806"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_bfad57d0-27f2-4b84-917f-a6b6566a6141.xml#bfad57d0-27f2-4b84-917f-a6b6566a6141"/>
+</archimate:TriggeringRelationship>

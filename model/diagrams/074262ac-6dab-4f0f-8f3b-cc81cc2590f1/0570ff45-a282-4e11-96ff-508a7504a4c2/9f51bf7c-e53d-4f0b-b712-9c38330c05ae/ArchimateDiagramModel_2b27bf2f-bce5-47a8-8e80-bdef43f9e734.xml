@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Realisering av kapabiliteter i arkitekturlagene (forenklet)"
+    name="Realisering av kapabiliteter i arkitekturlagene - overordnet bilde"
     id="2b27bf2f-bce5-47a8-8e80-bdef43f9e734">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -194,5 +194,6 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="difi:docViewPath"/>
+      key="difi:docViewPath"
+      value="nab_referanse_modelleringskonvensjoner"/>
 </archimate:ArchimateDiagramModel>

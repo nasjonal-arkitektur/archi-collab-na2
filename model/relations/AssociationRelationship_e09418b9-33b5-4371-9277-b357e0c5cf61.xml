@@ -1,13 +1,14 @@
-<archimate:ValueStream
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mål og forbedre prosess"
-    id="3457c49b-34ea-40b4-a7bd-cb136e992359">
+    id="e09418b9-33b5-4371-9277-b357e0c5cf61"
+    directed="true">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:value-stream"/>
+      value="archi:association-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -18,8 +19,7 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"
-      value="Kontinuerlig forbedriing"/>
+      key="difi:name_no"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -31,4 +31,10 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-</archimate:ValueStream>
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_0f6713ae-ccd4-4719-b3d9-bce335e9d806.xml#0f6713ae-ccd4-4719-b3d9-bce335e9d806"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_b3766205-ba71-43a7-918b-131ecd24803c.xml#b3766205-ba71-43a7-918b-131ecd24803c"/>
+</archimate:AssociationRelationship>

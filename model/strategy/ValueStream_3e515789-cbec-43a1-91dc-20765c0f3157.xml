@@ -1,8 +1,7 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Utfør del av tverrgående prosess (copy)"
-    id="59f13738-1958-47eb-a881-2cecac481dbd"
-    documentation="Overvåking, analyse&#xD;&#xA;SLA, brukertilfredshet">
+    name="Operer tverrgående prosess"
+    id="3e515789-cbec-43a1-91dc-20765c0f3157">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -20,12 +19,11 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Utfør delprosess"/>
+      value="Operer tverrgående prosess"/>
   <properties
       key="difi:name_en"/>
   <properties
-      key="difi:description_no"
-      value="Overvåking, analyse&#xD;&#xA;SLA, brukertilfredshet"/>
+      key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
   <properties

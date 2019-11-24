@@ -9,7 +9,7 @@
       targetConnections="a92cd664-1353-43c3-a2a9-501983a50642"
       textPosition="1">
     <bounds
-        x="120"
+        x="48"
         y="264"
         width="133"
         height="71"/>
@@ -24,7 +24,7 @@
       textPosition="1">
     <bounds
         x="300"
-        y="264"
+        y="372"
         width="133"
         height="71"/>
     <referencedModel
@@ -50,7 +50,7 @@
         target="2e6f7b8b-85a0-4bce-8389-90a61cc67c3b"/>
     <bounds
         x="216"
-        y="156"
+        y="264"
         width="133"
         height="71"/>
     <referencedModel
@@ -64,7 +64,7 @@
       textPosition="1">
     <bounds
         x="444"
-        y="156"
+        y="264"
         width="133"
         height="71"/>
     <referencedModel
@@ -81,11 +81,24 @@
         target="53a85b5e-5457-4bf8-9edb-b7dd82035cbd"/>
     <bounds
         x="216"
-        y="48"
-        width="133"
+        y="156"
+        width="120"
         height="71"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_b765a636-6247-4a57-9e4b-77094737779d.xml#b765a636-6247-4a57-9e4b-77094737779d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="111fda7f-4b2e-4501-87d8-8dbdd307289a"
+      textPosition="1">
+    <bounds
+        x="216"
+        y="48"
+        width="120"
+        height="71"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_0d0713f0-321f-44fa-b51f-9f003c1c5dc9.xml#0d0713f0-321f-44fa-b51f-9f003c1c5dc9"/>
   </children>
 </archimate:ArchimateDiagramModel>

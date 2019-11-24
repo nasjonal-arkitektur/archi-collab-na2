@@ -530,5 +530,6 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="difi:docViewPath"/>
+      key="difi:docViewPath"
+      value="nab_referanse_modelleringskonvensjoner"/>
 </archimate:ArchimateDiagramModel>

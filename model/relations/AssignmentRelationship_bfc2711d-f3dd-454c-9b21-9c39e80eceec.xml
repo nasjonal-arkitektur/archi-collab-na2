@@ -1,13 +1,16 @@
-<archimate:TriggeringRelationship
+<archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="c14da687-38b4-4ba1-9315-e80c82efc943">
+    id="bfc2711d-f3dd-454c-9b21-9c39e80eceec">
+  <properties
+      key="label"
+      value="${name}"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:triggering-relationship"/>
+      value="archi:assignment-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -26,14 +29,11 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="label"
-      value="${name}"/>
-  <properties
       key="difi:notes"/>
   <source
       xsi:type="archimate:Resource"
-      href="Resource_1505da39-930f-44b0-a4f9-b81bba71e02c.xml#1505da39-930f-44b0-a4f9-b81bba71e02c"/>
+      href="Resource_b3766205-ba71-43a7-918b-131ecd24803c.xml#b3766205-ba71-43a7-918b-131ecd24803c"/>
   <target
       xsi:type="archimate:ValueStream"
-      href="ValueStream_498807eb-78ef-450b-9398-7630f30f221e.xml#498807eb-78ef-450b-9398-7630f30f221e"/>
-</archimate:TriggeringRelationship>
+      href="ValueStream_bfad57d0-27f2-4b84-917f-a6b6566a6141.xml#bfad57d0-27f2-4b84-917f-a6b6566a6141"/>
+</archimate:AssignmentRelationship>

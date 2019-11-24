@@ -8,22 +8,22 @@
       id="642def67-43e1-47a4-af61-09d9a9b04e45"
       textAlignment="1"
       fillColor="#ffffe1"
-      content="Virksomhetsarkitekturen kan inndeles og brytes ned i områder og kapabiliteter. Dette kan gjøres i flere nivåer, &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+      content="Virksomhetsarkitekturen kan inndeles og brytes ned i områder og kapabiliteter. Dette kan gjøres i flere nivåer. Nedbryting av kapabiliteter forutsettes å følge et strengt hierarki innen angitt temaområde, mens inndeling og nedbryting i temaområder kan gjøres mer fritt.&#xD;&#xA;&#xD;&#xA;">
     <sourceConnections
         id="49edbca9-0b46-46f3-8ba3-441951ae6042"
         source="642def67-43e1-47a4-af61-09d9a9b04e45"
         target="a1fb6c4c-f185-4b22-93da-793dbf762121"
         type="4"/>
     <bounds
-        x="336"
-        y="120"
-        width="181"
-        height="73"/>
+        x="348"
+        y="108"
+        width="229"
+        height="133"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a1fb6c4c-f185-4b22-93da-793dbf762121"
-      targetConnections="9f59ee08-5935-40d8-a6ed-b0e8e798ce3b 49edbca9-0b46-46f3-8ba3-441951ae6042"
+      targetConnections="49edbca9-0b46-46f3-8ba3-441951ae6042 9f59ee08-5935-40d8-a6ed-b0e8e798ce3b"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#fff1e3">
@@ -58,8 +58,8 @@
           endX="121"
           endY="46"/>
       <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_eb81bf8e-3a2e-4574-9690-81c2008d163d.xml#eb81bf8e-3a2e-4574-9690-81c2008d163d"/>
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_c5cd0fc4-9469-44be-bf24-a83ecc7030fe.xml#c5cd0fc4-9469-44be-bf24-a83ecc7030fe"/>
     </sourceConnections>
     <bounds
         x="84"

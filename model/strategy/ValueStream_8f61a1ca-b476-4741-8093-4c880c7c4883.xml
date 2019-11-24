@@ -1,7 +1,7 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mål og forbedre prosess"
-    id="3457c49b-34ea-40b4-a7bd-cb136e992359">
+    name="Forvalt tverrgående prosess"
+    id="8f61a1ca-b476-4741-8093-4c880c7c4883">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Kontinuerlig forbedriing"/>
+      value="Forvalt tverrgående prosess"/>
   <properties
       key="difi:name_en"/>
   <properties

@@ -1,7 +1,10 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="eb81bf8e-3a2e-4574-9690-81c2008d163d">
+    id="fb5eeedb-8361-4ee0-96d9-0f9cf7153339">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
   <properties
       key="dct:type"
       value="archi:composition-relationship"/>
@@ -9,11 +12,13 @@
       key="difi:namespace"
       value="-"/>
   <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"
-      value="composition"/>
+      key="difi:name_no"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -23,10 +28,12 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:notes"/>
   <source
-      xsi:type="archimate:Grouping"
-      href="Grouping_5c768d6f-d8d2-453d-9d91-189059440d5c.xml#5c768d6f-d8d2-453d-9d91-189059440d5c"/>
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_bfad57d0-27f2-4b84-917f-a6b6566a6141.xml#bfad57d0-27f2-4b84-917f-a6b6566a6141"/>
   <target
-      xsi:type="archimate:Grouping"
-      href="Grouping_5c768d6f-d8d2-453d-9d91-189059440d5c.xml#5c768d6f-d8d2-453d-9d91-189059440d5c"/>
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_313e14c2-68a2-48ad-a454-240fb6bb323f.xml#313e14c2-68a2-48ad-a454-240fb6bb323f"/>
 </archimate:CompositionRelationship>

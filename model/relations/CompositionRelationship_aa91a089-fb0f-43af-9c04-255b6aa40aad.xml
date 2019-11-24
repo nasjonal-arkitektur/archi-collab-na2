@@ -1,13 +1,13 @@
-<archimate:ValueStream
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mål og forbedre prosess"
-    id="3457c49b-34ea-40b4-a7bd-cb136e992359">
+    id="aa91a089-fb0f-43af-9c04-255b6aa40aad">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:value-stream"/>
+      value="archi:composition-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -18,8 +18,7 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"
-      value="Kontinuerlig forbedriing"/>
+      key="difi:name_no"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -31,4 +30,10 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-</archimate:ValueStream>
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_bfad57d0-27f2-4b84-917f-a6b6566a6141.xml#bfad57d0-27f2-4b84-917f-a6b6566a6141"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_8f61a1ca-b476-4741-8093-4c880c7c4883.xml#8f61a1ca-b476-4741-8093-4c880c7c4883"/>
+</archimate:CompositionRelationship>

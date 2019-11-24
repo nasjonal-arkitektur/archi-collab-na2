@@ -16,8 +16,8 @@
         source="7968e712-85ea-4231-8e41-e4f4d594b7b6"
         target="dd786936-2d93-43a2-9e27-5841930bbb53">
       <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_eb81bf8e-3a2e-4574-9690-81c2008d163d.xml#eb81bf8e-3a2e-4574-9690-81c2008d163d"/>
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_c5cd0fc4-9469-44be-bf24-a83ecc7030fe.xml#c5cd0fc4-9469-44be-bf24-a83ecc7030fe"/>
     </sourceConnections>
     <bounds
         x="72"
@@ -46,8 +46,8 @@
           source="dd786936-2d93-43a2-9e27-5841930bbb53"
           target="7968e712-85ea-4231-8e41-e4f4d594b7b6">
         <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_eb81bf8e-3a2e-4574-9690-81c2008d163d.xml#eb81bf8e-3a2e-4574-9690-81c2008d163d"/>
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_c5cd0fc4-9469-44be-bf24-a83ecc7030fe.xml#c5cd0fc4-9469-44be-bf24-a83ecc7030fe"/>
       </sourceConnections>
       <bounds
           x="24"

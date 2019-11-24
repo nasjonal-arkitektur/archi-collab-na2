@@ -84,7 +84,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="cc30f749-f53d-434c-a352-3da358a3fb42"
-        targetConnections="8b4c26fc-3334-46e3-861c-5f2f66bb493d af5906a6-7d5f-4c9e-9cd6-4e572fa743c7"
+        targetConnections="8b4c26fc-3334-46e3-861c-5f2f66bb493d"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -105,7 +105,7 @@
             href="TriggeringRelationship_27cc2e5f-2cf3-4d02-b193-23ccf9b54f73.xml#27cc2e5f-2cf3-4d02-b193-23ccf9b54f73"/>
       </sourceConnections>
       <bounds
-          x="204"
+          x="24"
           y="156"
           width="133"
           height="71"/>
@@ -121,12 +121,12 @@
         type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="af5906a6-7d5f-4c9e-9cd6-4e572fa743c7"
+          id="a41ca7a2-7038-4a2e-8314-d0ac993f51ad"
           source="182788ba-8126-475f-a5fa-560313256307"
-          target="cc30f749-f53d-434c-a352-3da358a3fb42">
+          target="5e5a0259-568e-40f0-8785-36b823c68a78">
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_9f8c332d-85a0-44ff-9549-51d03fffa6ce.xml#9f8c332d-85a0-44ff-9549-51d03fffa6ce"/>
+            href="TriggeringRelationship_6b7a9f19-77aa-4d47-8e13-d0c77af48c14.xml#6b7a9f19-77aa-4d47-8e13-d0c77af48c14"/>
       </sourceConnections>
       <bounds
           x="204"
@@ -140,11 +140,11 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5e5a0259-568e-40f0-8785-36b823c68a78"
-        targetConnections="60224e67-cad5-4165-9b47-62a9ccd041ee 3e8fc80e-e789-4f27-b432-4b51b675037e"
+        targetConnections="60224e67-cad5-4165-9b47-62a9ccd041ee 3e8fc80e-e789-4f27-b432-4b51b675037e a41ca7a2-7038-4a2e-8314-d0ac993f51ad"
         textPosition="1"
         type="1">
       <bounds
-          x="384"
+          x="204"
           y="156"
           width="133"
           height="71"/>
