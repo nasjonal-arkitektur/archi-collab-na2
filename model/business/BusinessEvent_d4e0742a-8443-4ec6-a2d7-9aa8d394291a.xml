@@ -4,7 +4,7 @@
     id="d4e0742a-8443-4ec6-a2d7-9aa8d394291a">
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:]"/>
   <properties
       key="dct:type"
       value="archi:business-event"/>
@@ -26,4 +26,9 @@
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:BusinessEvent>

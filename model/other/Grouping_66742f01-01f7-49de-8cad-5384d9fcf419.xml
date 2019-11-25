@@ -19,8 +19,16 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:]"/>
   <properties
       key="dct:type"
       value="archi:grouping"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:Grouping>

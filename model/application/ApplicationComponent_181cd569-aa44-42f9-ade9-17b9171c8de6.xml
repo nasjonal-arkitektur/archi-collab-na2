@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ActiveMQ"
     id="181cd569-aa44-42f9-ade9-17b9171c8de6"
-    documentation="http://activemq.apache.org/"/>
+    documentation="http://activemq.apache.org/">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="ActiveMQ"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="http://activemq.apache.org/"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationComponent>

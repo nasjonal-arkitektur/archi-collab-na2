@@ -1,4 +1,34 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tverrgående prosesser"
-    id="cf14d98d-4024-4fd5-9cd0-66686a3d6204"/>
+    id="cf14d98d-4024-4fd5-9cd0-66686a3d6204">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tverrgående prosesser"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

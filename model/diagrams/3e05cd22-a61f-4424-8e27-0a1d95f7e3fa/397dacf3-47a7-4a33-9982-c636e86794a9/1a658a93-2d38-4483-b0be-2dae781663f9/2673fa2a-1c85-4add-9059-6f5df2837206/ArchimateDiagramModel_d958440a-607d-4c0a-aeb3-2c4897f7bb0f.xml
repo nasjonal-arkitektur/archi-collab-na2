@@ -127,4 +127,18 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_0ddd6c25-e3ec-4ac7-870e-22a967afdb25.xml#0ddd6c25-e3ec-4ac7-870e-22a967afdb25"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Del og innhent data og hendelser, overordnet"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

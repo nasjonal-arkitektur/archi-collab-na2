@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vitria"
     id="10cb32d9-54ae-4572-aa7e-bfaab9ce84ef"
-    documentation="http://www.vitria.com/"/>
+    documentation="http://www.vitria.com/">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Vitria"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="http://www.vitria.com/"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationComponent>

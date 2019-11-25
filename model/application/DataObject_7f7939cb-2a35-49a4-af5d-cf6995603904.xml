@@ -29,4 +29,6 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:notes"/>
 </archimate:DataObject>

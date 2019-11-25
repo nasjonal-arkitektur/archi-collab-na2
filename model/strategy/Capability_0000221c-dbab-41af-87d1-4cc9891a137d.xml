@@ -1,4 +1,34 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ha oversikt over aktørere og roller (copy)"
-    id="0000221c-dbab-41af-87d1-4cc9891a137d"/>
+    id="0000221c-dbab-41af-87d1-4cc9891a137d">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Ha oversikt over aktørere og roller (copy)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

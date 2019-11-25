@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="eIDAS-forordningen"
     id="244d0729-54ac-456e-a161-94f50f4e85f4"
-    documentation="https://www.nkom.no/teknisk/tillitstjenester/eidas/eidas-forordning&#xD;&#xA;&#xD;&#xA;Norge har gjennom EØS komiteen vedtatt å implementere eIDAS-forordningen i norsk rett. Lov om elektroniske tillitstjenester trådte i kraft 15. juni 2018.&#xD;&#xA;&#xD;&#xA;Forordningen består av to deler. Første del regulerer elektronisk identifisering som Direktoratet for forvaltning og ikt (Difi) er ansvarlig for. Den andre delen regulerer tillitstjenester som Nkom er utpekt som tilsynsmyndighet for.&#xD;&#xA;&#xD;&#xA;https://ec.europa.eu/digital-single-market/trust-services-and-eid&#xD;&#xA;&#xD;&#xA;Electronic identification (eID) and electronic Trust Services (eTS) are key enablers for secure cross-border electronic transactions and central building blocks of the Digital Single Market. &#xD;&#xA;&#xD;&#xA;"/>
+    documentation="https://www.nkom.no/teknisk/tillitstjenester/eidas/eidas-forordning&#xD;&#xA;&#xD;&#xA;Norge har gjennom EØS komiteen vedtatt å implementere eIDAS-forordningen i norsk rett. Lov om elektroniske tillitstjenester trådte i kraft 15. juni 2018.&#xD;&#xA;&#xD;&#xA;Forordningen består av to deler. Første del regulerer elektronisk identifisering som Direktoratet for forvaltning og ikt (Difi) er ansvarlig for. Den andre delen regulerer tillitstjenester som Nkom er utpekt som tilsynsmyndighet for.&#xD;&#xA;&#xD;&#xA;https://ec.europa.eu/digital-single-market/trust-services-and-eid&#xD;&#xA;&#xD;&#xA;Electronic identification (eID) and electronic Trust Services (eTS) are key enablers for secure cross-border electronic transactions and central building blocks of the Digital Single Market. &#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:constraint"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="eIDAS-forordningen"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="https://www.nkom.no/teknisk/tillitstjenester/eidas/eidas-forordning&#xD;&#xA;&#xD;&#xA;Norge har gjennom EØS komiteen vedtatt å implementere eIDAS-forordningen i norsk rett. Lov om elektroniske tillitstjenester trådte i kraft 15. juni 2018.&#xD;&#xA;&#xD;&#xA;Forordningen består av to deler. Første del regulerer elektronisk identifisering som Direktoratet for forvaltning og ikt (Difi) er ansvarlig for. Den andre delen regulerer tillitstjenester som Nkom er utpekt som tilsynsmyndighet for.&#xD;&#xA;&#xD;&#xA;https://ec.europa.eu/digital-single-market/trust-services-and-eid&#xD;&#xA;&#xD;&#xA;Electronic identification (eID) and electronic Trust Services (eTS) are key enablers for secure cross-border electronic transactions and central building blocks of the Digital Single Market. &#xD;&#xA;&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Constraint>

@@ -5,7 +5,7 @@
     id="bfc2711d-f3dd-454c-9b21-9c39e80eceec">
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:]"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>

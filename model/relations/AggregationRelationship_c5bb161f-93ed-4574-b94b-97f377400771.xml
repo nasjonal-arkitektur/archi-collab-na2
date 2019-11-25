@@ -28,7 +28,9 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:]"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_e7a43b99-dd6d-4881-9c92-fcea2c2e9f49.xml#e7a43b99-dd6d-4881-9c92-fcea2c2e9f49"/>

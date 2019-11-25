@@ -1,11 +1,40 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initierer"
     id="770b1b7c-0907-4264-b79b-9f59574e5d0f">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:triggering-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:Resource"
       href="Resource_0f6713ae-ccd4-4719-b3d9-bce335e9d806.xml#0f6713ae-ccd4-4719-b3d9-bce335e9d806"/>
   <target
       xsi:type="archimate:ValueStream"
-      href="ValueStream_94469877-e989-416a-8ed7-7e80fa201a04.xml#94469877-e989-416a-8ed7-7e80fa201a04"/>
+      href="ValueStream_bfad57d0-27f2-4b84-917f-a6b6566a6141.xml#bfad57d0-27f2-4b84-917f-a6b6566a6141"/>
 </archimate:TriggeringRelationship>

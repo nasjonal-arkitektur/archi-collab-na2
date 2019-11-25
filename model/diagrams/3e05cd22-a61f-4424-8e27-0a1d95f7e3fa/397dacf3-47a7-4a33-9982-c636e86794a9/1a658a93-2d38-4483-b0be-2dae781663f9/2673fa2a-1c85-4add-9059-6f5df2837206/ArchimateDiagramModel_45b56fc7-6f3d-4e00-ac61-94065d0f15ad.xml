@@ -269,4 +269,18 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_b072e18c-e56f-4ef3-aff9-4554726d5971.xml#b072e18c-e56f-4ef3-aff9-4554726d5971"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="--Ende-til-ende verdistrøm, tverrgående prosess"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

@@ -3,6 +3,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="utførende"
     id="2564937e-771e-4c6b-a701-13967fcf295a">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:assignment-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="utførende"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:Resource"
       href="Resource_1505da39-930f-44b0-a4f9-b81bba71e02c.xml#1505da39-930f-44b0-a4f9-b81bba71e02c"/>

@@ -8,25 +8,6 @@
       id="28446948-15ef-4d75-b5ed-8ae866ec44b9"
       targetConnections="2982ba50-4daf-4885-bcfa-697746b7b9f0"
       textPosition="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="64cc974b-3b9a-4a02-a4be-d55bed9c2789"
-        source="28446948-15ef-4d75-b5ed-8ae866ec44b9"
-        target="e85e7d5b-f4a8-44f8-baae-763eda3a982b">
-      <bendpoints
-          startX="-105"
-          startY="1"
-          endX="-286"
-          endY="-203"/>
-      <bendpoints
-          startX="-105"
-          startY="205"
-          endX="-286"
-          endY="1"/>
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_154eb7fe-b274-4c01-acfa-38e146ebd2f8.xml#154eb7fe-b274-4c01-acfa-38e146ebd2f8"/>
-    </sourceConnections>
     <bounds
         x="84"
         y="72"
@@ -196,25 +177,6 @@
       id="c8138823-d575-4ee9-b1f2-1ac9f89ff97a"
       targetConnections="31ac1cdf-1d7e-484d-b166-0cf9a5f8a175"
       textPosition="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="b149d0da-f3f6-4c9b-a6a2-11b7ade6a7b8"
-        source="c8138823-d575-4ee9-b1f2-1ac9f89ff97a"
-        target="e85e7d5b-f4a8-44f8-baae-763eda3a982b">
-      <bendpoints
-          startX="99"
-          startY="1"
-          endX="278"
-          endY="-203"/>
-      <bendpoints
-          startX="99"
-          startY="205"
-          endX="278"
-          endY="1"/>
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_70727494-a2a3-413d-8293-9b59ce957e25.xml#70727494-a2a3-413d-8293-9b59ce957e25"/>
-    </sourceConnections>
     <bounds
         x="444"
         y="72"
@@ -252,7 +214,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e85e7d5b-f4a8-44f8-baae-763eda3a982b"
-      targetConnections="4c757468-af95-4d28-a6d9-c7af74a33a07 1614189e-04ec-4927-bc5b-939eca04634e 5613e5cb-8a0b-4031-9efc-aa696fd0d296 12793376-4d2d-4da5-9783-a0a577e3a89e b149d0da-f3f6-4c9b-a6a2-11b7ade6a7b8 64cc974b-3b9a-4a02-a4be-d55bed9c2789"
+      targetConnections="4c757468-af95-4d28-a6d9-c7af74a33a07 1614189e-04ec-4927-bc5b-939eca04634e 5613e5cb-8a0b-4031-9efc-aa696fd0d296 12793376-4d2d-4da5-9783-a0a577e3a89e"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"

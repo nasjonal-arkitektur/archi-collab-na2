@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Google Cloud Pub/Sub"
     id="c891ce15-a9d2-4e08-9e09-37a1ee48749f"
-    documentation="https://cloud.google.com/pubsub/"/>
+    documentation="https://cloud.google.com/pubsub/">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Google Cloud Pub/Sub"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="https://cloud.google.com/pubsub/"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationComponent>

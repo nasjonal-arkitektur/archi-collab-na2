@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Remote Procedure Invocation integration style"
     id="02d1b12f-c347-476b-89eb-0edae8177f58"
-    documentation="Have each application expose some of its procedures so that they can be invoked remotely, and have applications invoke those to run behavior and exchange data."/>
+    documentation="Have each application expose some of its procedures so that they can be invoked remotely, and have applications invoke those to run behavior and exchange data.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Remote Procedure Invocation integration style"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Have each application expose some of its procedures so that they can be invoked remotely, and have applications invoke those to run behavior and exchange data."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Resource>

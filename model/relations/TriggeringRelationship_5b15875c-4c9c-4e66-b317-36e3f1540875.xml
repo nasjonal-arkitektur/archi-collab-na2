@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="behov for data"
+    id="5b15875c-4c9c-4e66-b317-36e3f1540875">
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_bfad57d0-27f2-4b84-917f-a6b6566a6141.xml#bfad57d0-27f2-4b84-917f-a6b6566a6141"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_498807eb-78ef-450b-9398-7630f30f221e.xml#498807eb-78ef-450b-9398-7630f30f221e"/>
+</archimate:TriggeringRelationship>

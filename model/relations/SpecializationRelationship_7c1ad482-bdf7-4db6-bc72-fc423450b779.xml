@@ -3,6 +3,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="spesialiserer"
     id="7c1ad482-bdf7-4db6-bc72-fc423450b779">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:specialization-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="spesialiserer"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:Artifact"
       href="Artifact_4a8dd68a-bb33-4fb1-b020-90d5568d977b.xml#4a8dd68a-bb33-4fb1-b020-90d5568d977b"/>

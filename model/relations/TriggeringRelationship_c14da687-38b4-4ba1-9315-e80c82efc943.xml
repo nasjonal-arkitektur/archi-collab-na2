@@ -1,7 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="trigger"
+    name="initierer"
     id="c14da687-38b4-4ba1-9315-e80c82efc943">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,8 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="trigger"/>
   <properties
       key="difi:name_en"/>
   <properties

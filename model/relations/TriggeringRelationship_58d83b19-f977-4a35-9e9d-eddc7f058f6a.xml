@@ -4,7 +4,7 @@
     id="58d83b19-f977-4a35-9e9d-eddc7f058f6a">
   <properties
       key="label"
-      value="\n\n\n\n\nforespørsel, svar"/>
+      value="${name}"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>

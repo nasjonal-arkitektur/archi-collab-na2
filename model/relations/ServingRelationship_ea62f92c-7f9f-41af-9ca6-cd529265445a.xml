@@ -25,6 +25,11 @@
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:Capability"
       href="Capability_880b042f-fb1e-4ede-b671-b55c7af3b05d.xml#880b042f-fb1e-4ede-b671-b55c7af3b05d"/>

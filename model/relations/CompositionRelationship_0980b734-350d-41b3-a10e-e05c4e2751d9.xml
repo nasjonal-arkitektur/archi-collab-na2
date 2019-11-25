@@ -1,7 +1,6 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="composition"
     id="0980b734-350d-41b3-a10e-e05c4e2751d9">
   <properties
       key="dct:type"
@@ -24,6 +23,14 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_5a51c463-ce6b-4a9b-9d51-2c7737b40a59.xml#5a51c463-ce6b-4a9b-9d51-2c7737b40a59"/>

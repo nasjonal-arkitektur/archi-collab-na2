@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service metadata provider (SMP)"
     id="3669fae8-2fc3-485f-9eaf-f259540f23eb"
-    documentation="SMP gir ved oppslag ut informasjon om hvorvidt en organisasjon er registrert i SMP-en, hvilke dokumenter en organisasjon kan motta og hvilket aksespsunkt som skal benyttet for hvilket dokument."/>
+    documentation="SMP gir ved oppslag ut informasjon om hvorvidt en organisasjon er registrert i SMP-en, hvilke dokumenter en organisasjon kan motta og hvilket aksespsunkt som skal benyttet for hvilket dokument.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Service metadata provider (SMP)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="SMP gir ved oppslag ut informasjon om hvorvidt en organisasjon er registrert i SMP-en, hvilke dokumenter en organisasjon kan motta og hvilket aksespsunkt som skal benyttet for hvilket dokument."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationComponent>

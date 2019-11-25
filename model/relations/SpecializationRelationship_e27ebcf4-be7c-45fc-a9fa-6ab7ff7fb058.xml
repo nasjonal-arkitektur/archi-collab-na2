@@ -26,6 +26,11 @@
   <properties
       key="difi:metaLevel"
       value="meta"/>
+  <properties
+      key="label"
+      value="${name} [lang:]"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_0dd45f16-64d3-4f4e-9e11-beab5d9ba39e.xml#0dd45f16-64d3-4f4e-9e11-beab5d9ba39e"/>

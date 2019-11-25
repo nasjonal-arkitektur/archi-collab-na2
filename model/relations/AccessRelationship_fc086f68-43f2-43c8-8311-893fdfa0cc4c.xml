@@ -3,6 +3,34 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="fc086f68-43f2-43c8-8311-893fdfa0cc4c"
     accessType="3">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:access-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:BusinessInteraction"
       href="BusinessInteraction_f6b1cdd6-f095-40cf-92b2-a91751026c95.xml#f6b1cdd6-f095-40cf-92b2-a91751026c95"/>

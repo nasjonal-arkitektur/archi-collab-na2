@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gir"
+    id="f28d92f8-6b8b-48f9-b42b-0ed2973ad600">
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_bfad57d0-27f2-4b84-917f-a6b6566a6141.xml#bfad57d0-27f2-4b84-917f-a6b6566a6141"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_a510485a-0213-47ad-a5c4-5886e658dff9.xml#a510485a-0213-47ad-a5c4-5886e658dff9"/>
+</archimate:RealizationRelationship>

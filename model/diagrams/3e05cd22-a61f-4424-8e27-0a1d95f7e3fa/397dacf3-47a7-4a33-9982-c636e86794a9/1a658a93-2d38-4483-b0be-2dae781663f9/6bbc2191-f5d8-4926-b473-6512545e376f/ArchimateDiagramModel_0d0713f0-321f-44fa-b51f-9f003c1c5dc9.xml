@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Utvikling, drift og forvaltning av tverrgående prosess"
+    name="Utvikle, drift og forvalt tverrgående prosess"
     id="0d0713f0-321f-44fa-b51f-9f003c1c5dc9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -283,7 +283,7 @@
           href="AssignmentRelationship_2564937e-771e-4c6b-a701-13967fcf295a.xml#2564937e-771e-4c6b-a701-13967fcf295a"/>
     </sourceConnections>
     <bounds
-        x="624"
+        x="444"
         y="48"
         width="133"
         height="71"/>

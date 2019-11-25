@@ -1,14 +1,14 @@
-<archimate:TriggeringRelationship
+<archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="trigger"
-    id="4eff075c-150c-4b87-9b3e-263e42e79844">
+    name="konsulteres"
+    id="ccdd957d-80c6-456f-b28c-1ff226ebe875">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:triggering-relationship"/>
+      value="archi:assignment-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -19,7 +19,8 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="konsulteres"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -33,8 +34,8 @@
       key="difi:notes"/>
   <source
       xsi:type="archimate:Resource"
-      href="Resource_d347d6f1-039b-4017-bf19-7269c27981b8.xml#d347d6f1-039b-4017-bf19-7269c27981b8"/>
+      href="Resource_e227237c-e6b1-44f1-98bf-f9dcff87851d.xml#e227237c-e6b1-44f1-98bf-f9dcff87851d"/>
   <target
-      xsi:type="archimate:Resource"
-      href="Resource_0f6713ae-ccd4-4719-b3d9-bce335e9d806.xml#0f6713ae-ccd4-4719-b3d9-bce335e9d806"/>
-</archimate:TriggeringRelationship>
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_498807eb-78ef-450b-9398-7630f30f221e.xml#498807eb-78ef-450b-9398-7630f30f221e"/>
+</archimate:AssignmentRelationship>

@@ -32,4 +32,6 @@
   <properties
       key="difi:metaLevel"
       value="meta"/>
+  <properties
+      key="difi:notes"/>
 </archimate:DataObject>

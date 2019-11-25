@@ -5,7 +5,7 @@
     documentation="Electronic delivery: A service that, to a certain extent, is the equivalent in the digital world of registered mail in the physical world">
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:]"/>
   <properties
       key="dct:type"
       value="archi:capability"/>
@@ -28,4 +28,9 @@
       value="Electronic delivery: A service that, to a certain extent, is the equivalent in the digital world of registered mail in the physical world"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:Capability>

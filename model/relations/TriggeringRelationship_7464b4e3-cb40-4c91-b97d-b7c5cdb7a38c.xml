@@ -5,7 +5,7 @@
     id="7464b4e3-cb40-4c91-b97d-b7c5cdb7a38c">
   <properties
       key="label"
-      value="\n\n\n\nmelding, publisering"/>
+      value="${name} [lang:]"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>

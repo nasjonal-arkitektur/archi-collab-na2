@@ -26,6 +26,11 @@
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_a58c1939-2dc4-4d8d-ae5c-3d48c0d9fd98.xml#a58c1939-2dc4-4d8d-ae5c-3d48c0d9fd98"/>

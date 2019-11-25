@@ -26,7 +26,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:]"/>
   <properties
       key="difi:metaLevel"
       value="meta"/>

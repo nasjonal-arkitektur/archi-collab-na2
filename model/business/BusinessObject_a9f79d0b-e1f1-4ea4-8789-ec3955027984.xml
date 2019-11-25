@@ -4,7 +4,7 @@
     id="a9f79d0b-e1f1-4ea4-8789-ec3955027984">
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:]"/>
   <properties
       key="dct:type"
       value="archi:business-object"/>
@@ -26,4 +26,9 @@
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:BusinessObject>

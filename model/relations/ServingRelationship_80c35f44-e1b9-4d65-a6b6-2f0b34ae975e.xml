@@ -25,6 +25,11 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:Capability"
       href="Capability_b7392a4b-b569-45ea-ad87-3bfb869f7483.xml#b7392a4b-b569-45ea-ad87-3bfb869f7483"/>

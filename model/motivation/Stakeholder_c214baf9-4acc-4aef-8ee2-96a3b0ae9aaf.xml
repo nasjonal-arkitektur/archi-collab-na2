@@ -1,4 +1,34 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Felleskapet"
-    id="c214baf9-4acc-4aef-8ee2-96a3b0ae9aaf"/>
+    id="c214baf9-4acc-4aef-8ee2-96a3b0ae9aaf">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:stakeholder"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Felleskapet"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Stakeholder>

@@ -25,6 +25,11 @@
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:BusinessEvent"
       href="BusinessEvent_3d0d99f1-6099-4f24-a780-d5339200d4c5.xml#3d0d99f1-6099-4f24-a780-d5339200d4c5"/>

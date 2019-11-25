@@ -1,4 +1,34 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sluttbrukere"
-    id="eddf2480-3452-4938-bf11-acdfdfd84498"/>
+    id="eddf2480-3452-4938-bf11-acdfdfd84498">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:stakeholder"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Sluttbrukere"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Stakeholder>

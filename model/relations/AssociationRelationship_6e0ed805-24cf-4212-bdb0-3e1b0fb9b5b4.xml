@@ -3,6 +3,34 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="6e0ed805-24cf-4212-bdb0-3e1b0fb9b5b4"
     directed="true">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_846d2534-6895-450f-bb6c-625d2e61884d.xml#846d2534-6895-450f-bb6c-625d2e61884d"/>

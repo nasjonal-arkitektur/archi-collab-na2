@@ -9,7 +9,7 @@
       targetConnections="a92cd664-1353-43c3-a2a9-501983a50642"
       textPosition="1">
     <bounds
-        x="48"
+        x="24"
         y="264"
         width="133"
         height="71"/>
@@ -63,7 +63,7 @@
       targetConnections="112412fa-402b-4ab2-8947-a66d7d008e5e"
       textPosition="1">
     <bounds
-        x="444"
+        x="420"
         y="264"
         width="133"
         height="71"/>
@@ -74,6 +74,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="f8c0c3f3-51d9-476f-af6c-a944c8209717"
+      targetConnections="9e3b0f39-2087-4d0b-9b18-138f18cda874"
       textPosition="1">
     <sourceConnections
         id="377dc57c-c55f-47e3-a180-6a53e5100c19"
@@ -92,6 +93,10 @@
       xsi:type="archimate:DiagramModelReference"
       id="111fda7f-4b2e-4501-87d8-8dbdd307289a"
       textPosition="1">
+    <sourceConnections
+        id="9e3b0f39-2087-4d0b-9b18-138f18cda874"
+        source="111fda7f-4b2e-4501-87d8-8dbdd307289a"
+        target="f8c0c3f3-51d9-476f-af6c-a944c8209717"/>
     <bounds
         x="216"
         y="48"

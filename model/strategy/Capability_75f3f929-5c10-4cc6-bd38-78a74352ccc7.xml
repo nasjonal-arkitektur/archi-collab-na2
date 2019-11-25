@@ -4,7 +4,7 @@
     id="75f3f929-5c10-4cc6-bd38-78a74352ccc7">
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:]"/>
   <properties
       key="dct:type"
       value="archi:capability"/>
@@ -26,4 +26,9 @@
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:Capability>

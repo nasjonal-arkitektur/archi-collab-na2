@@ -4,7 +4,7 @@
     id="8a5de78e-0b6f-449f-af00-6ce15fbbca00">
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:]"/>
   <properties
       key="dct:type"
       value="archi:business-process"/>
@@ -26,4 +26,9 @@
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:BusinessProcess>

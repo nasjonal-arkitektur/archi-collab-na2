@@ -5,7 +5,7 @@
     documentation="Med triggerhendelse menes &#xD;&#xA;&#xD;&#xA;Eksempler på triggerhendelser:&#xD;&#xA;&#xD;&#xA;* Mottak av melding fra annen samhandlingsaktør, som ledd i en tverrgående prosess.&#xD;&#xA;&#xD;&#xA;* Mottakk av forespørsel om data.&#xD;&#xA;&#xD;&#xA;* Hendelse somledd i en hendelsesstrøm.">
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:]"/>
   <properties
       key="dct:type"
       value="archi:business-event"/>
@@ -28,4 +28,9 @@
       value="Med triggerhendelse menes &#xD;&#xA;&#xD;&#xA;Eksempler på triggerhendelser:&#xD;&#xA;&#xD;&#xA;* mottak av melding fra annen samhandlingsaktør, som ledd i en tverrgående &#xD;&#xA;* "/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:BusinessEvent>

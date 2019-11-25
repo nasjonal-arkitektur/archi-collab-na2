@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="eDelivery Access Point"
     id="66bf90c7-f4ff-4ce4-93f2-b2977c4f95e9"
-    documentation="https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Access+Point+specifications&#xD;&#xA;&#xD;&#xA;https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eDelivery+AS4+conformant+solutions&#xD;&#xA;"/>
+    documentation="https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Access+Point+specifications&#xD;&#xA;&#xD;&#xA;https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eDelivery+AS4+conformant+solutions&#xD;&#xA;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="eDelivery Access Point"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Access+Point+specifications&#xD;&#xA;&#xD;&#xA;https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eDelivery+AS4+conformant+solutions&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationComponent>
