@@ -156,7 +156,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="86ded8ce-5106-453a-9f1d-c5c84197f195"
-      targetConnections="15bd6141-9bce-4887-bf0d-958ab43e9cc1">
+      targetConnections="15bd6141-9bce-4887-bf0d-958ab43e9cc1"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="f7e828ec-6a5f-47cd-a43a-06904cd6b6ce"
@@ -190,5 +191,5 @@
       key="difi:description_en"/>
   <properties
       key="difi:docViewPath"
-      value="nab_arkitekturlandskap_segmentarkitektur_datadeling_verdistrømmer"/>
+      value="nab_arkitekturlandskap_segmentarkitektur_datadeling"/>
 </archimate:ArchimateDiagramModel>
