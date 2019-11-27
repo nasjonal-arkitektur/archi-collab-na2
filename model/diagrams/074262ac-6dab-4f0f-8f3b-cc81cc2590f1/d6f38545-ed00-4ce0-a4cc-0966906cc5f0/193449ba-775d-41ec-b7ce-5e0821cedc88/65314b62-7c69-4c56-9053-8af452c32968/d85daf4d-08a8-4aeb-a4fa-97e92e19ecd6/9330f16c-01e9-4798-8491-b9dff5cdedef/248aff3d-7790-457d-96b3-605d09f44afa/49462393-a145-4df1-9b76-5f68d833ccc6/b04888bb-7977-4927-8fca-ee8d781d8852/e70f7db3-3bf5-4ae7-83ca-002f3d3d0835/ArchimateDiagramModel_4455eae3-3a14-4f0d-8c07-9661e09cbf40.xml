@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Motta melding ABB"
+    name="Motta eMelding (arkitekturmønster)"
     id="4455eae3-3a14-4f0d-8c07-9661e09cbf40">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -342,7 +342,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Motta melding"/>
+      value="Motta eMelding (arkitekturmønster)"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -350,5 +350,6 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="difi:docViewPath"/>
+      key="difi:docViewPath"
+      value="nab_referanse_arkitekturer_emelding"/>
 </archimate:ArchimateDiagramModel>

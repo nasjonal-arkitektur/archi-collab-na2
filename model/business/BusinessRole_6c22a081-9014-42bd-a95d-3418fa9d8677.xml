@@ -29,4 +29,7 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
 </archimate:BusinessRole>

@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BCP"
+    name="BCP (CommFides eller Buypass)"
     id="7394bfe5-220c-4384-bfa4-78e05a2c822f"
     documentation="Business Certificate Publisher">
   <properties
@@ -14,7 +14,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="BCP"/>
+      value="BCP (CommFides eller Buypass)"/>
   <properties
       key="difi:name_en"/>
   <properties

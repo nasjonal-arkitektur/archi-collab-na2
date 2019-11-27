@@ -8,7 +8,7 @@
       value="na1"/>
   <properties
       key="difi:name_no"
-      value="Sending av data"/>
+      value="Sende data"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
   <properties
       key="dct:type"
       value="archi:capability"/>

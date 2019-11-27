@@ -14,7 +14,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Registrere sertifikater"/>
+      value="Registrer sertifikater"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -24,7 +24,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:]"/>
+      value="${name}"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>

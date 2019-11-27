@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Klargjør for forsendelse ABB"
+    name="Klargjør for eMelding (arkitekturmønster)"
     id="ce3f707b-ed03-4707-aaa1-aa05a2a4ac60">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -398,5 +398,6 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="difi:docViewPath"/>
+      key="difi:docViewPath"
+      value="nab_referanse_arkitekturer_emelding"/>
 </archimate:ArchimateDiagramModel>

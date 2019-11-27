@@ -1,13 +1,13 @@
-<archimate:AggregationRelationship
+<archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="fb43d910-4ca7-4751-af3a-f724763902e7">
+    id="04973b4c-6123-4d38-9b93-15f8b67303f1">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:aggregation-relationship"/>
+      value="archi:realization-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -32,8 +32,8 @@
       key="difi:notes"/>
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_f185e4d0-20cf-49e0-9cc6-790614eb33e3.xml#f185e4d0-20cf-49e0-9cc6-790614eb33e3"/>
+      href="ApplicationComponent_949ec5f8-d06f-4d48-978a-c90dcf651980.xml#949ec5f8-d06f-4d48-978a-c90dcf651980"/>
   <target
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_0d10ebef-fde4-452e-933e-2b26b2b8d844.xml#0d10ebef-fde4-452e-933e-2b26b2b8d844"/>
-</archimate:AggregationRelationship>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_a3a8c51d-2f44-4733-8dab-e85aa79f1f00.xml#a3a8c51d-2f44-4733-8dab-e85aa79f1f00"/>
+</archimate:RealizationRelationship>

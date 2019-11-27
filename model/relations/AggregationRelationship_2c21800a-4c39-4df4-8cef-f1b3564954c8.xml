@@ -2,6 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="2c21800a-4c39-4df4-8cef-f1b3564954c8">
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="label"
+      value="${name}"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_499badbe-dc23-4d46-8a6b-c6775b4f03be.xml#499badbe-dc23-4d46-8a6b-c6775b4f03be"/>

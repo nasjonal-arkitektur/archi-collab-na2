@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Send melding ABB"
+    name="Send eMelding (arkitekturmønster)"
     id="1a02838f-6726-413e-8bd1-7baa142b93ae">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -521,7 +521,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Sende melding"/>
+      value="Send eMelding (arkitekturmønster)"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -529,5 +529,6 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="difi:docViewPath"/>
+      key="difi:docViewPath"
+      value="nab_referanse_arkitekturer_emelding"/>
 </archimate:ArchimateDiagramModel>
