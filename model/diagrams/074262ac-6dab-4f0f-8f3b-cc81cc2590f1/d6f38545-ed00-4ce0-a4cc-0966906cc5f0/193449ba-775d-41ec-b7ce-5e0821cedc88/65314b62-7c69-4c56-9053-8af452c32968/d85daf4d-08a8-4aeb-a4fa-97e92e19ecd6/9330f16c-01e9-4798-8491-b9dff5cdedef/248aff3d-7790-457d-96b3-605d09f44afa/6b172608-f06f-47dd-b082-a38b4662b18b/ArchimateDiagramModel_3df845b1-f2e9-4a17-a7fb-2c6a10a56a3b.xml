@@ -33,7 +33,7 @@
       targetConnections="7d88d146-ebb0-4c17-b0a3-4c0c53769cb3 7cea54e4-9a43-4054-908e-d227bc9a58cc"
       textPosition="1">
     <bounds
-        x="408"
+        x="324"
         y="96"
         width="133"
         height="71"/>
@@ -88,7 +88,7 @@
           href="ServingRelationship_bceed1b9-a3ae-4d80-a2c3-9ee071b342cd.xml#bceed1b9-a3ae-4d80-a2c3-9ee071b342cd"/>
     </sourceConnections>
     <bounds
-        x="406"
+        x="322"
         y="242"
         width="138"
         height="71"/>

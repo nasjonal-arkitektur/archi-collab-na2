@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Utvikling, drift og forvaltning av tverrgående prosess"/>
+      value="Utvikle, drift og forvalt tverrgående prosess"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -28,7 +28,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
   <properties

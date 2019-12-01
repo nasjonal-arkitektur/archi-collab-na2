@@ -17,7 +17,7 @@
           href="SpecializationRelationship_1974861c-6f80-4e53-af09-e1b7e449e64d.xml#1974861c-6f80-4e53-af09-e1b7e449e64d"/>
     </sourceConnections>
     <bounds
-        x="226"
+        x="418"
         y="180"
         width="138"
         height="71"/>
@@ -40,7 +40,7 @@
           href="SpecializationRelationship_49a34fc8-7d1b-4604-9f00-28f2511ed978.xml#49a34fc8-7d1b-4604-9f00-28f2511ed978"/>
     </sourceConnections>
     <bounds
-        x="72"
+        x="264"
         y="180"
         width="133"
         height="71"/>
@@ -62,7 +62,7 @@
           href="SpecializationRelationship_d81c2df4-994c-442b-af33-a16ad9fe17c6.xml#d81c2df4-994c-442b-af33-a16ad9fe17c6"/>
     </sourceConnections>
     <bounds
-        x="72"
+        x="264"
         y="288"
         width="133"
         height="71"/>
@@ -76,7 +76,7 @@
       targetConnections="757df164-ac97-4e84-96d5-f6815bdc9877 e28f3f1a-0b8b-4742-b721-72bcb8296095 ff355a72-4a8f-4117-8b8f-5280e62cf591"
       textPosition="1">
     <bounds
-        x="228"
+        x="420"
         y="48"
         width="133"
         height="71"/>
@@ -98,7 +98,7 @@
           href="SpecializationRelationship_9fd00407-c0a7-43e7-a5d6-5811d1fe0bcb.xml#9fd00407-c0a7-43e7-a5d6-5811d1fe0bcb"/>
     </sourceConnections>
     <bounds
-        x="384"
+        x="576"
         y="180"
         width="133"
         height="71"/>

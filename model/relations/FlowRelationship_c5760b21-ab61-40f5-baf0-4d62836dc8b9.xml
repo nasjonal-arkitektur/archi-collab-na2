@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="informasjonsflyt"
+    name="logisk informasjonsflyt"
     id="c5760b21-ab61-40f5-baf0-4d62836dc8b9">
   <properties
       key="difi:metaLevel"

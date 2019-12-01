@@ -5,7 +5,7 @@
     id="bfc2711d-f3dd-454c-9b21-9c39e80eceec">
   <properties
       key="label"
-      value="${name} [lang:]"/>
+      value="${name}"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -22,7 +22,8 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="hovedansvarlig"/>
   <properties
       key="difi:name_en"/>
   <properties
