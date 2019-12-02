@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="fefb463f-36a0-47c4-b17f-fc006c98a499"
-      targetConnections="6bff4077-25c8-4643-9c54-5d7ed3237c98 53be3829-e601-41e4-b72d-6bab4e86b638"
+      targetConnections="6bff4077-25c8-4643-9c54-5d7ed3237c98 53be3829-e601-41e4-b72d-6bab4e86b638 ad168e36-d06c-4750-948f-747459999fc9"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -133,6 +133,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a9632725-32d3-4e6a-90b7-17c9f71bba5f"
+      targetConnections="13b9089a-7db0-447b-bfd4-01894037ab54"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -198,7 +199,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a89b4d76-c08f-4e31-868b-ab17997592ac"
-      targetConnections="36ab0276-f3d2-4e21-9cad-820aebf7854f 69d4b059-8d28-4855-bb14-2be56781a547"
+      targetConnections="36ab0276-f3d2-4e21-9cad-820aebf7854f 69d4b059-8d28-4855-bb14-2be56781a547 2f94ff10-b15b-4e13-8648-9e0466625bad"
       textPosition="1">
     <bounds
         x="336"
@@ -208,6 +209,32 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_9166cfce-06eb-40ac-9406-f439d3e0ca7e.xml#9166cfce-06eb-40ac-9406-f439d3e0ca7e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="6f354b98-dce9-4708-9f05-3d1cb4d7b9f6"
+      textAlignment="1"
+      content="For biilaterale avtaler kan også avtaleforvaltningen gjøres direkte av samhandlingsaktørene hver for seg, uten noen separat aktør med rollen som Avtaleforvalter.">
+    <sourceConnections
+        id="2f94ff10-b15b-4e13-8648-9e0466625bad"
+        source="6f354b98-dce9-4708-9f05-3d1cb4d7b9f6"
+        target="a89b4d76-c08f-4e31-868b-ab17997592ac"
+        type="4"/>
+    <sourceConnections
+        id="ad168e36-d06c-4750-948f-747459999fc9"
+        source="6f354b98-dce9-4708-9f05-3d1cb4d7b9f6"
+        target="fefb463f-36a0-47c4-b17f-fc006c98a499"
+        type="4"/>
+    <sourceConnections
+        id="13b9089a-7db0-447b-bfd4-01894037ab54"
+        source="6f354b98-dce9-4708-9f05-3d1cb4d7b9f6"
+        target="a9632725-32d3-4e6a-90b7-17c9f71bba5f"
+        type="4"/>
+    <bounds
+        x="108"
+        y="70"
+        width="185"
+        height="97"/>
   </children>
   <properties
       key="difi:language"
