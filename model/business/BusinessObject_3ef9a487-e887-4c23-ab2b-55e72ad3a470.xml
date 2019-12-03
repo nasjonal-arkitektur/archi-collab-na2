@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Forespørsel om notifikasjoner"
     id="3ef9a487-e887-4c23-ab2b-55e72ad3a470"
-    documentation="Parametere for notifikasjoner som skal hentes fra tilgjengelig hendelsesliste."/>
+    documentation="Dataobjekt med eventuelle parametere for spørring på notifikasjoner fra tilgjengelig hendelsesliste. Kan inneholde referanse til hvor i hendelselisten (tid eller nummer) man ønsker å lese, avgrensning til temaer og liknende. "/>

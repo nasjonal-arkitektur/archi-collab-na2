@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Klargjør for eMelding (arkitekturmønster)"
+    name="Klargjør for melding (arkitekturmønster)"
     id="ce3f707b-ed03-4707-aaa1-aa05a2a4ac60">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -94,7 +94,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="9a829ddd-72ba-4e6f-82bf-f0601415463a"
-        targetConnections="9b864112-8604-4894-9c60-bac1c8521996"
+        targetConnections="9b864112-8604-4894-9c60-bac1c8521996 9d0751c1-b79a-4316-841b-06e7e9e33fdd"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -188,7 +188,7 @@
             href="AccessRelationship_029b954b-b2f0-4b03-adb1-d119bdf27105.xml#029b954b-b2f0-4b03-adb1-d119bdf27105"/>
       </sourceConnections>
       <bounds
-          x="408"
+          x="420"
           y="36"
           width="133"
           height="71"/>
@@ -384,6 +384,21 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_be051049-8672-409e-ba1a-53998e33c632.xml#be051049-8672-409e-ba1a-53998e33c632"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="48be3e92-9a3b-420b-b647-a64e64d436a0"
+      textAlignment="1"
+      content="Gammel tekst:&#xD;&#xA;&#xD;&#xA;Foreta innmelding i fellesskap:&#xD;&#xA;Akseptere vilkår for og innrette seg etter reglene og forpliktelsene som gjelder i et fellesskap (community) gjennom å f.eks. signere en avtale eller kontrakt. Dette kan omfatte merkantile forhold.&#xD;&#xA;&#xD;&#xA;aa">
+    <sourceConnections
+        id="9d0751c1-b79a-4316-841b-06e7e9e33fdd"
+        source="48be3e92-9a3b-420b-b647-a64e64d436a0"
+        target="9a829ddd-72ba-4e6f-82bf-f0601415463a"/>
+    <bounds
+        x="168"
+        y="444"
+        width="185"
+        height="193"/>
   </children>
   <properties
       key="difi:language"
