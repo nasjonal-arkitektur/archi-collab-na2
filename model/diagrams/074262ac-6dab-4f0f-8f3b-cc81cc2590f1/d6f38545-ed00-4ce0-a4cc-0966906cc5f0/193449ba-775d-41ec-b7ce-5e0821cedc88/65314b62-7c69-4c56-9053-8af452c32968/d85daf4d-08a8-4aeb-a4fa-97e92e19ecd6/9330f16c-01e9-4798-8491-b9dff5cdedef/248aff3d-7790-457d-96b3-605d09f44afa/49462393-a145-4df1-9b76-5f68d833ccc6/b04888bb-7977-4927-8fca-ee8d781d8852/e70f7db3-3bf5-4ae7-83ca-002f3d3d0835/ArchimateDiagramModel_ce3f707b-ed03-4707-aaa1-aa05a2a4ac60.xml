@@ -389,14 +389,14 @@
       xsi:type="archimate:DiagramModelNote"
       id="48be3e92-9a3b-420b-b647-a64e64d436a0"
       textAlignment="1"
-      content="Gammel tekst:&#xD;&#xA;&#xD;&#xA;Foreta innmelding i fellesskap:&#xD;&#xA;Akseptere vilkår for og innrette seg etter reglene og forpliktelsene som gjelder i et fellesskap (community) gjennom å f.eks. signere en avtale eller kontrakt. Dette kan omfatte merkantile forhold.">
+      content="Gammel tekst:&#xD;&#xA;&#xD;&#xA;Foreta innmelding i fellesskap:&#xD;&#xA;Akseptere vilkår for og innrette seg etter reglene og forpliktelsene som gjelder i et fellesskap (community) gjennom å f.eks. signere en avtale eller kontrakt. Dette kan omfatte merkantile forhold.&#xD;&#xA;&#xD;&#xA;aa">
     <sourceConnections
         id="9d0751c1-b79a-4316-841b-06e7e9e33fdd"
         source="48be3e92-9a3b-420b-b647-a64e64d436a0"
         target="9a829ddd-72ba-4e6f-82bf-f0601415463a"/>
     <bounds
-        x="276"
-        y="432"
+        x="168"
+        y="444"
         width="185"
         height="193"/>
   </children>
