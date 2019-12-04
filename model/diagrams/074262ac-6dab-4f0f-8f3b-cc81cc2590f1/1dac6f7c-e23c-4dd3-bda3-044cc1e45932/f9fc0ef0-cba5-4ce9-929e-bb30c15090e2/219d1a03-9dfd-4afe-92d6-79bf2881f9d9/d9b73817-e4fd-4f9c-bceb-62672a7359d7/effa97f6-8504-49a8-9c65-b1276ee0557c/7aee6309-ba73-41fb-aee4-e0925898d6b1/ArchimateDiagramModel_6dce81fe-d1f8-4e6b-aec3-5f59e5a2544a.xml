@@ -88,6 +88,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="60c50b6c-bef8-4336-bd58-82cb913b3225"
+        textPosition="0"
         source="916b6015-e007-426a-9613-bde43d47e724"
         target="e9b939c8-35ef-448f-a984-ee6b1afd6008">
       <archimateRelationship
