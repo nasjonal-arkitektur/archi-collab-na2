@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Segmentansvarlig"
     id="8f86b0e0-3fcf-41e9-bc77-895e1fa8ca3a"
-    documentation="Koordinerende rolle innen en bransje; ref. Anne Lise/Skatt, f.eks. Finans Norge (men dte er banken og ikke Finans Norge so undertegner avtalen)&#xD;&#xA;&#xD;&#xA;">
+    documentation="Den som har en koordinerende rolle innen en bransje. F.eks. Finans Norge på vegne av bankene.&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="difi:namespace"
       value="erik"/>

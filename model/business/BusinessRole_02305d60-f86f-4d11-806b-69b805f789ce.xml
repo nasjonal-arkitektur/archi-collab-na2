@@ -1,7 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Koordinator"
-    id="02305d60-f86f-4d11-806b-69b805f789ce">
+    id="02305d60-f86f-4d11-806b-69b805f789ce"
+    documentation="En aktør som har en koordinerende rolle i tilrettelegging og gjennomføring av datautveksling.">
   <properties
       key="label"
       value="${name}"/>

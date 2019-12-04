@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leverandør"
     id="7f9641a5-a677-4aa7-a032-cf0c4f0858d9"
-    documentation="Den som etter en&#xD;&#xA;&#xD;&#xA;delegert rettighet gitt til leverandør av ansvarlig samhandlingsaktør.">
+    documentation="Den som selger eller leverer tjenester, systemer eller lignende. Tjenesteleverandører vil normalt representere en behandlingsansvarlig og også ha rollen som databehandler.">
   <properties
       key="difi:namespace"
       value="-"/>
