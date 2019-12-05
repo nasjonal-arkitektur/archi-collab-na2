@@ -1,11 +1,8 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="melding, publisering"
+    name="forsendelse, forespørsel, publisering"
     id="7464b4e3-cb40-4c91-b97d-b7c5cdb7a38c">
-  <properties
-      key="label"
-      value="${name} [lang:]"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -32,6 +29,9 @@
       key="difi:description_en"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="label"
+      value="\n\n\n\n\forsendelse,\nforespørsel,\npublisering"/>
   <source
       xsi:type="archimate:ValueStream"
       href="ValueStream_16157c6d-8024-4106-b7db-59cfc6717745.xml#16157c6d-8024-4106-b7db-59cfc6717745"/>
