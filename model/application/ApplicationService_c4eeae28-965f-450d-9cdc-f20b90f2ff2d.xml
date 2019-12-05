@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skriving til hendelseslister"
+    id="c4eeae28-965f-450d-9cdc-f20b90f2ff2d"
+    documentation="Tjeneste for å skrive en hendelse til en eller flere hendelseslister."/>

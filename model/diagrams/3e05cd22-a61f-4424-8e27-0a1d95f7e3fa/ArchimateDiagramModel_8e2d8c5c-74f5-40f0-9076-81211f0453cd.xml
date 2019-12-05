@@ -4,27 +4,10 @@
     name="Backlog"
     id="8e2d8c5c-74f5-40f0-9076-81211f0453cd">
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="51adefe2-5193-42b3-9acb-9524d509e431"
-      targetConnections="d8888593-3bbe-4612-bbe2-9f4d7981090e">
-    <bounds
-        x="120"
-        y="84"
-        width="138"
-        height="71"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_33265d3f-c04d-4089-b06f-051fe1eb21ed.xml#33265d3f-c04d-4089-b06f-051fe1eb21ed"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelNote"
       id="499a5dcd-6710-4ae0-b9ba-6807a089dcde"
       textAlignment="1"
       content="Denne må vi se på sammen!">
-    <sourceConnections
-        id="d8888593-3bbe-4612-bbe2-9f4d7981090e"
-        source="499a5dcd-6710-4ae0-b9ba-6807a089dcde"
-        target="51adefe2-5193-42b3-9acb-9524d509e431"/>
     <bounds
         x="348"
         y="80"

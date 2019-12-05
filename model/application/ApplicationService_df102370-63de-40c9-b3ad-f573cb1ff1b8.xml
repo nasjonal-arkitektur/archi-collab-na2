@@ -2,4 +2,35 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hendelsegenerings-tjeneste"
     id="df102370-63de-40c9-b3ad-f573cb1ff1b8"
-    documentation="Tjeneste som genererer notifikasjoner basert på hendelser (endringer i datasett)."/>
+    documentation="Tjeneste som genererer notifikasjoner basert på hendelser (endringer i datasett).">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Hendelsegenerings-tjeneste"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Tjeneste som genererer notifikasjoner basert på hendelser (endringer i datasett)."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationService>

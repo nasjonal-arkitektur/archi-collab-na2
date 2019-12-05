@@ -1,12 +1,12 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Datautveksling"
+    name="Områder innen datautveksling"
     id="ba8b377d-d811-4a73-a8fb-93094db76ca0">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cce2c14c-1e28-4a1c-a3d7-1dbfa6e8970d"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#fff1dd">
     <sourceConnections
@@ -37,8 +37,8 @@
           href="AggregationRelationship_53bc9943-1ce8-4cf3-9129-ab5d6a547664.xml#53bc9943-1ce8-4cf3-9129-ab5d6a547664"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="48"
+        x="24"
+        y="24"
         width="493"
         height="121"/>
     <children
@@ -103,5 +103,6 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="difi:docViewPath"/>
+      key="difi:docViewPath"
+      value="nab_arkitekturlandskap_segmentarkitektur_datadeling"/>
 </archimate:ArchimateDiagramModel>
