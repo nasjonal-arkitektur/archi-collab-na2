@@ -29,7 +29,7 @@
           href="FlowRelationship_abfd0825-9a02-4594-a0c5-8c3261b0fefd.xml#abfd0825-9a02-4594-a0c5-8c3261b0fefd"/>
     </sourceConnections>
     <bounds
-        x="768"
+        x="264"
         y="996"
         width="133"
         height="71"/>
@@ -66,7 +66,7 @@
       id="144c9950-ef2f-408e-abc9-0e0686cec2dc"
       targetConnections="acc820c4-cfc5-4717-89d3-70f82a22c590 3db7bc8e-94c3-40d9-ae8d-60c20a06ff95">
     <bounds
-        x="960"
+        x="456"
         y="996"
         width="133"
         height="71"/>
@@ -109,8 +109,8 @@
           href="TriggeringRelationship_43633fc1-88f1-4b4a-8043-8c3297c87d2f.xml#43633fc1-88f1-4b4a-8043-8c3297c87d2f"/>
     </sourceConnections>
     <bounds
-        x="1008"
-        y="396"
+        x="756"
+        y="348"
         width="133"
         height="71"/>
     <archimateElement
@@ -122,8 +122,8 @@
       id="13317527-a260-48e4-a83d-79a4f5c26403"
       targetConnections="3fb0237d-29dc-4996-813e-df09384cddd2">
     <bounds
-        x="1224"
-        y="444"
+        x="972"
+        y="396"
         width="133"
         height="71"/>
     <archimateElement
@@ -144,8 +144,8 @@
           href="TriggeringRelationship_8a25f60e-bdde-41d1-9758-aedf5b14306a.xml#8a25f60e-bdde-41d1-9758-aedf5b14306a"/>
     </sourceConnections>
     <bounds
-        x="1224"
-        y="348"
+        x="972"
+        y="300"
         width="133"
         height="71"/>
     <archimateElement
@@ -157,8 +157,8 @@
       id="58d0c8be-18ed-49a4-8f5e-06574789d50a"
       targetConnections="cba20b19-774e-4d4b-a4ca-6bdbcb094411">
     <bounds
-        x="1440"
-        y="348"
+        x="1188"
+        y="300"
         width="133"
         height="71"/>
     <archimateElement
@@ -178,8 +178,8 @@
           href="TriggeringRelationship_01cf201b-f907-4977-884f-86233f2322e9.xml#01cf201b-f907-4977-884f-86233f2322e9"/>
     </sourceConnections>
     <bounds
-        x="804"
-        y="396"
+        x="192"
+        y="216"
         width="133"
         height="71"/>
     <archimateElement
@@ -272,8 +272,8 @@
       textAlignment="1"
       content="Hvordan få tilgang?&#xD;&#xA;Innhenting ved bruk av eOppslag? Er det eget oppsett for dette, eller er det en del av eNotifikasjon?&#xD;&#xA;">
     <bounds
-        x="1632"
-        y="130"
+        x="792"
+        y="636"
         width="289"
         height="145"/>
   </children>
@@ -307,7 +307,7 @@
       targetConnections="c4a4540a-107f-4161-8a72-446d578d96e4 51acb6a1-bc8c-4297-a09d-d996e8ec159d"
       textPosition="1">
     <bounds
-        x="960"
+        x="456"
         y="1092"
         width="133"
         height="71"/>
@@ -330,7 +330,7 @@
           href="FlowRelationship_7185e7ca-9aeb-49fd-9ea4-f08e05bec786.xml#7185e7ca-9aeb-49fd-9ea4-f08e05bec786"/>
     </sourceConnections>
     <bounds
-        x="768"
+        x="264"
         y="1092"
         width="133"
         height="71"/>
@@ -344,7 +344,7 @@
       targetConnections="d5122395-827c-4709-817a-a9ed04a8287a"
       textPosition="1">
     <bounds
-        x="768"
+        x="264"
         y="900"
         width="133"
         height="71"/>
@@ -358,7 +358,7 @@
       targetConnections="02eec4b5-9435-42db-9287-ea5b83646d0e"
       textPosition="1">
     <bounds
-        x="960"
+        x="456"
         y="900"
         width="133"
         height="71"/>
@@ -372,7 +372,7 @@
       targetConnections="b0c5ada6-22b0-4370-b55d-3d171117d5cf 7ddb1a1d-0a4f-46cc-8e63-8b72d8366de2"
       textPosition="1">
     <bounds
-        x="864"
+        x="360"
         y="792"
         width="133"
         height="71"/>
@@ -421,7 +421,7 @@
           href="AssociationRelationship_c66e9985-03f1-4068-b94f-0fb7607db9db.xml#c66e9985-03f1-4068-b94f-0fb7607db9db"/>
     </sourceConnections>
     <bounds
-        x="552"
+        x="48"
         y="900"
         width="133"
         height="71"/>
@@ -470,7 +470,7 @@
           href="AssociationRelationship_2268f6ed-caf5-4d47-a16a-222948efdd4d.xml#2268f6ed-caf5-4d47-a16a-222948efdd4d"/>
     </sourceConnections>
     <bounds
-        x="1164"
+        x="660"
         y="900"
         width="133"
         height="71"/>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Generere notifikasjoner løsningsmønster"
+    name="Generer notifikasjoner (løsningsmønster)"
     id="2c7cbb6a-c2b1-4688-aeb4-f529c2383a36">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -100,7 +100,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="01be6f6d-d5c2-42a9-b235-23c0b6c457ed"
-        targetConnections="86978d71-e7b9-41d3-8de6-c437b1ae848c 7cb66be8-9492-4b99-bb3f-ccaa1c12908a 65d7016d-ba4c-41ad-8813-80a39a3140de"
+        targetConnections="86978d71-e7b9-41d3-8de6-c437b1ae848c 7cb66be8-9492-4b99-bb3f-ccaa1c12908a"
         textPosition="1">
       <bounds
           x="192"
@@ -142,15 +142,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0fdb8665-362c-4d9d-8e56-2a8796cf8434"
       textPosition="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="65d7016d-ba4c-41ad-8813-80a39a3140de"
-        source="0fdb8665-362c-4d9d-8e56-2a8796cf8434"
-        target="01be6f6d-d5c2-42a9-b235-23c0b6c457ed">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_d1770cf8-9508-4830-9759-ae16344a6cfd.xml#d1770cf8-9508-4830-9759-ae16344a6cfd"/>
-    </sourceConnections>
     <bounds
         x="516"
         y="338"
@@ -173,5 +164,6 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="difi:docViewPath"/>
+      key="difi:docViewPath"
+      value="nab_referanse_arkitekturer_epublisering"/>
 </archimate:ArchimateDiagramModel>

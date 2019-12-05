@@ -7,7 +7,7 @@
       value="na1"/>
   <properties
       key="difi:name_no"
-      value="Varsling av hendelse"/>
+      value="Publisere hendelse"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:capability"/>
