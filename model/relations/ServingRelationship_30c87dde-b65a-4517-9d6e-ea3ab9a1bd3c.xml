@@ -1,14 +1,13 @@
-<archimate:Capability
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Etablere egne løsninger for innhenting og mottak av data"
-    id="5cd35859-e365-4396-946d-8dfcb19784d9"
-    documentation="Etablere egne løsninger for å forespørre, abonnere  og motta data">
+    id="30c87dde-b65a-4517-9d6e-ea3ab9a1bd3c">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:capability"/>
+      value="archi:serving-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -19,8 +18,7 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"
-      value="Etablere egne løsninger for å forespørre, abonnere  og motta data"/>
+      key="difi:name_no"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -29,7 +27,13 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
-</archimate:Capability>
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_03938387-09db-4fda-9dc3-b8e6756ec6b0.xml#03938387-09db-4fda-9dc3-b8e6756ec6b0"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_42962d81-f124-4ac5-ba9e-a1f514c2283a.xml#42962d81-f124-4ac5-ba9e-a1f514c2283a"/>
+</archimate:ServingRelationship>

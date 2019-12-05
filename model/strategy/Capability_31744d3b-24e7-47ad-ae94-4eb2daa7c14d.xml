@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Innhente og håndtere notifikasjoner"
+    name="Konsumere publiserte notifikasjoner"
     id="31744d3b-24e7-47ad-ae94-4eb2daa7c14d"
     documentation="Evnen til å konsumere hendelseslister.">
   <properties
@@ -30,7 +30,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:]"/>
   <properties
       key="difi:notes"/>
 </archimate:Capability>

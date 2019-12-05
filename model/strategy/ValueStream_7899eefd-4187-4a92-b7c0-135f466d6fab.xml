@@ -1,14 +1,13 @@
-<archimate:Capability
+<archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Etablere egne løsninger for innhenting og mottak av data"
-    id="5cd35859-e365-4396-946d-8dfcb19784d9"
-    documentation="Etablere egne løsninger for å forespørre, abonnere  og motta data">
+    name="Innhent  notifikasjoner"
+    id="7899eefd-4187-4a92-b7c0-135f466d6fab">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:capability"/>
+      value="archi:value-stream"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -20,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Etablere egne løsninger for å forespørre, abonnere  og motta data"/>
+      value="Innhent  notifikasjoner"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -29,7 +28,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
-</archimate:Capability>
+</archimate:ValueStream>

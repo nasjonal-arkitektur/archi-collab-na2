@@ -1,14 +1,13 @@
-<archimate:TriggeringRelationship
+<archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="forsendelse, forespørsel, publisering"
-    id="7464b4e3-cb40-4c91-b97d-b7c5cdb7a38c">
+    id="1887a326-8733-4d87-8920-076f77797585">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:triggering-relationship"/>
+      value="archi:composition-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -19,8 +18,7 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"
-      value="publiser"/>
+      key="difi:name_no"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -28,14 +26,14 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="difi:notes"/>
-  <properties
       key="label"
-      value="\n\n\n\n\forsendelse,\nforespørsel,\npublisering"/>
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:ValueStream"
-      href="ValueStream_16157c6d-8024-4106-b7db-59cfc6717745.xml#16157c6d-8024-4106-b7db-59cfc6717745"/>
+      href="ValueStream_a0531383-480a-4c42-ae0f-90c62617d3a7.xml#a0531383-480a-4c42-ae0f-90c62617d3a7"/>
   <target
       xsi:type="archimate:ValueStream"
-      href="ValueStream_b4a85e18-c56e-4b50-8668-143456431d30.xml#b4a85e18-c56e-4b50-8668-143456431d30"/>
-</archimate:TriggeringRelationship>
+      href="ValueStream_73fa4c17-6925-48a5-bcdb-b16822de9e8a.xml#73fa4c17-6925-48a5-bcdb-b16822de9e8a"/>
+</archimate:CompositionRelationship>
