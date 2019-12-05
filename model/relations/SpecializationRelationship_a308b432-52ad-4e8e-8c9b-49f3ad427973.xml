@@ -1,13 +1,13 @@
-<archimate:CompositionRelationship
+<archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="532a1c80-5dd5-4411-9e06-6869ee1a1c34">
+    id="a308b432-52ad-4e8e-8c9b-49f3ad427973">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:composition-relationship"/>
+      value="archi:specialization-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -31,9 +31,9 @@
   <properties
       key="difi:notes"/>
   <source
-      xsi:type="archimate:ValueStream"
-      href="ValueStream_a0531383-480a-4c42-ae0f-90c62617d3a7.xml#a0531383-480a-4c42-ae0f-90c62617d3a7"/>
+      xsi:type="archimate:Capability"
+      href="Capability_46c24fa7-6787-4f2b-9d53-7184b04a351c.xml#46c24fa7-6787-4f2b-9d53-7184b04a351c"/>
   <target
-      xsi:type="archimate:ValueStream"
-      href="ValueStream_0844a50f-8b00-4631-843e-3357c31f009b.xml#0844a50f-8b00-4631-843e-3357c31f009b"/>
-</archimate:CompositionRelationship>
+      xsi:type="archimate:Capability"
+      href="Capability_7ceeeb2b-770c-497e-a543-6ccbb479c9d8.xml#7ceeeb2b-770c-497e-a543-6ccbb479c9d8"/>
+</archimate:SpecializationRelationship>

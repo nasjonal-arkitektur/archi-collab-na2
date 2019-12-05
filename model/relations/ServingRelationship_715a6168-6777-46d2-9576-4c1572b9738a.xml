@@ -1,13 +1,13 @@
-<archimate:CompositionRelationship
+<archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="532a1c80-5dd5-4411-9e06-6869ee1a1c34">
+    id="715a6168-6777-46d2-9576-4c1572b9738a">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:composition-relationship"/>
+      value="archi:serving-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -31,9 +31,9 @@
   <properties
       key="difi:notes"/>
   <source
-      xsi:type="archimate:ValueStream"
-      href="ValueStream_a0531383-480a-4c42-ae0f-90c62617d3a7.xml#a0531383-480a-4c42-ae0f-90c62617d3a7"/>
+      xsi:type="archimate:Capability"
+      href="Capability_5cd35859-e365-4396-946d-8dfcb19784d9.xml#5cd35859-e365-4396-946d-8dfcb19784d9"/>
   <target
       xsi:type="archimate:ValueStream"
-      href="ValueStream_0844a50f-8b00-4631-843e-3357c31f009b.xml#0844a50f-8b00-4631-843e-3357c31f009b"/>
-</archimate:CompositionRelationship>
+      href="ValueStream_a2a3a005-617b-4b4f-9830-23287719081f.xml#a2a3a005-617b-4b4f-9830-23287719081f"/>
+</archimate:ServingRelationship>
