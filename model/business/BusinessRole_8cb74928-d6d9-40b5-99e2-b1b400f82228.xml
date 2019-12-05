@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Avtaleforvalter"
     id="8cb74928-d6d9-40b5-99e2-b1b400f82228"
-    documentation="En separat avtaleforvalter vedlikeholder samhandlingsspesifikasjoner på vegne av samhandlingsaktørene, som en tiltrodd tredjepart.">
+    documentation="En separat avtaleforvalter vedlikeholder samhandlingsspesifikasjoner på vegne av samhandlingsaktørene og oppretter samhandlingsavtaler som et mellomledd mellom aktørene. Dette reduserer det totale antallet samhandlingsavtaler vesentlig, og kan gi større fleksibilitet når det gjelder mulige samhandlingsparter.">
   <properties
       key="dct:type"
       value="archi:business-role"/>
