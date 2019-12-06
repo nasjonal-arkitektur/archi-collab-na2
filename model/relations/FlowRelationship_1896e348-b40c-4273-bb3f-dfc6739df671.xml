@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="notifikasjoner"
-    id="02d87b96-0e24-4cc7-bb22-2c354d744761">
+    id="1896e348-b40c-4273-bb3f-dfc6739df671">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -37,5 +37,5 @@
       href="ApplicationComponent_ff2034ec-d779-4b3f-8583-b4a9e5ee4e75.xml#ff2034ec-d779-4b3f-8583-b4a9e5ee4e75"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_7347fd2e-6d56-42a8-a9cf-4fef6c39443b.xml#7347fd2e-6d56-42a8-a9cf-4fef6c39443b"/>
+      href="ApplicationComponent_50b20fee-bf75-4226-a610-2c74abf7cd29.xml#50b20fee-bf75-4226-a610-2c74abf7cd29"/>
 </archimate:FlowRelationship>

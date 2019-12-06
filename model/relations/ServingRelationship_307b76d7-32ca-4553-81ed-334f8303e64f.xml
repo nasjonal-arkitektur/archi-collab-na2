@@ -1,14 +1,14 @@
-<archimate:FlowRelationship
+<archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="notifikasjoner"
-    id="02d87b96-0e24-4cc7-bb22-2c354d744761">
+    name="tjener"
+    id="307b76d7-32ca-4553-81ed-334f8303e64f">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:flow-relationship"/>
+      value="archi:serving-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="notifikasjoner"/>
+      value="tjener"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -33,9 +33,9 @@
   <properties
       key="difi:notes"/>
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_ff2034ec-d779-4b3f-8583-b4a9e5ee4e75.xml#ff2034ec-d779-4b3f-8583-b4a9e5ee4e75"/>
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_ab749393-6726-4b1f-a60e-c539a2875fc8.xml#ab749393-6726-4b1f-a60e-c539a2875fc8"/>
   <target
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_7347fd2e-6d56-42a8-a9cf-4fef6c39443b.xml#7347fd2e-6d56-42a8-a9cf-4fef6c39443b"/>
-</archimate:FlowRelationship>
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_c777850b-1ce0-4af0-b1b2-d180411baaca.xml#c777850b-1ce0-4af0-b1b2-d180411baaca"/>
+</archimate:ServingRelationship>

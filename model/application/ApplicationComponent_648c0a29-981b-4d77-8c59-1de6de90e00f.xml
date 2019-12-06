@@ -1,14 +1,13 @@
-<archimate:FlowRelationship
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="notifikasjoner"
-    id="02d87b96-0e24-4cc7-bb22-2c354d744761">
+    name="Fagsystem hos datatilbyder"
+    id="648c0a29-981b-4d77-8c59-1de6de90e00f">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:flow-relationship"/>
+      value="archi:application-component"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -20,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="notifikasjoner"/>
+      value="Fagsystem hos datatilbyder"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -32,10 +31,4 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_ff2034ec-d779-4b3f-8583-b4a9e5ee4e75.xml#ff2034ec-d779-4b3f-8583-b4a9e5ee4e75"/>
-  <target
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_7347fd2e-6d56-42a8-a9cf-4fef6c39443b.xml#7347fd2e-6d56-42a8-a9cf-4fef6c39443b"/>
-</archimate:FlowRelationship>
+</archimate:ApplicationComponent>
