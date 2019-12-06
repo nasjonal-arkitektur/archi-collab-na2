@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Endepunkt (adresse)"
     id="b272405b-703f-4a04-aa91-44f3fefb4247"
-    documentation="Teknisk adresse til et API eller ressurs">
+    documentation="Dataobjekt som representerer teknisk adresse til et API eller ressurs.">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

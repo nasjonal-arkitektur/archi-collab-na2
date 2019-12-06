@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beskrivelse av aktør som kan innhente samtykke"
     id="05ac791f-056e-41c8-9019-d03e91c76c31"
-    documentation="Bl.a. URL">
+    documentation="Dataobjekt som beskriver en datakonsument som har rett til å innhente samtykke om å slå opp data.&#xD;&#xA;Viktig innholde er bl.a. URL">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

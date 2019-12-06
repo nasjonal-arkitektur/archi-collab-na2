@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beskrivelse API"
     id="90106e3a-d9f4-4817-ab38-473efc7f1aac"
-    documentation="Maskinlesbar beskrivelse av REST API-er iht. Open API Specification. Dette er formatet som benyttes for å registrere et API i felles API-katalog">
+    documentation="Dataobjekt som er en maskinlesbar beskrivelse av REST API-er iht. Open API Specification. Dette er formatet som benyttes for å registrere et API i felles API-katalog">
   <properties
       key="difi:namespace"
       value="-"/>

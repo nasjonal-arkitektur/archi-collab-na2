@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Maskinporten"
     id="d242a840-0fa2-4f8d-997c-2298194f1c4a"
-    documentation="Maskinporten er ei løysing for tilgangsstyring for verksemder som utveksler data. Løysinga garanterer identiteten mellom verksemder, og sørger for maskin-til-maskin autentisering.">
+    documentation="Maskinporten er en løsning for tilgangsstyring for virksomheter som utveksler data. Løsningen garanterer identiteten mellom virksomheter, og sørger for maskin-til-maskin autentisering">
   <properties
       key="difi:namespace"
       value="-"/>

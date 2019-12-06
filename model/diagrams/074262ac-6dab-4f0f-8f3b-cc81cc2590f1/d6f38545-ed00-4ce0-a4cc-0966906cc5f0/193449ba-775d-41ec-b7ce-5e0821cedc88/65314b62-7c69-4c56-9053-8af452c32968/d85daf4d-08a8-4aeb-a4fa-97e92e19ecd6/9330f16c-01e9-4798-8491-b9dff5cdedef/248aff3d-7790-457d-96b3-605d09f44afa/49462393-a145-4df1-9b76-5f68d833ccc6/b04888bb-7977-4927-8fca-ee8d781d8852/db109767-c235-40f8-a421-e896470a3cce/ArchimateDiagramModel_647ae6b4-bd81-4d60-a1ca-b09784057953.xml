@@ -295,7 +295,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c2a693fb-893f-4234-8533-d8d6bac55e0d"
-      targetConnections="2c6cc524-c799-4ed5-ab62-f1ea6214a384"
+      targetConnections="2c6cc524-c799-4ed5-ab62-f1ea6214a384 cbbbd39b-1053-45ed-a69e-cd50deab0980"
       textPosition="1"
       type="1">
     <sourceConnections
@@ -410,8 +410,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="85ccc7cc-51cb-44f0-8c4d-30fe37577447"
-      targetConnections="232bb4c7-f29e-4f83-9bcd-6b438f8be0ca"
-      fillColor="#00ffff">
+      fillColor="#00ffff"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="2c6cc524-c799-4ed5-ab62-f1ea6214a384"
@@ -422,7 +422,7 @@
           href="RealizationRelationship_ed487732-b131-44d5-99bf-5cfcd81a8404.xml#ed487732-b131-44d5-99bf-5cfcd81a8404"/>
     </sourceConnections>
     <bounds
-        x="600"
+        x="672"
         y="528"
         width="133"
         height="71"/>
@@ -445,7 +445,7 @@
           href="RealizationRelationship_5c228940-3585-44cb-8797-5f88031fa63b.xml#5c228940-3585-44cb-8797-5f88031fa63b"/>
     </sourceConnections>
     <bounds
-        x="372"
+        x="360"
         y="528"
         width="133"
         height="71"/>
@@ -460,16 +460,16 @@
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="232bb4c7-f29e-4f83-9bcd-6b438f8be0ca"
+        id="cbbbd39b-1053-45ed-a69e-cd50deab0980"
         source="470809da-d501-4e64-be9f-3fe5c9f06830"
-        target="85ccc7cc-51cb-44f0-8c4d-30fe37577447">
+        target="c2a693fb-893f-4234-8533-d8d6bac55e0d">
       <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_afa5c253-2917-44d7-a9c8-705efef28dd4.xml#afa5c253-2917-44d7-a9c8-705efef28dd4"/>
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_2903da9f-6ad4-4feb-8acb-165e6c738de3.xml#2903da9f-6ad4-4feb-8acb-165e6c738de3"/>
     </sourceConnections>
     <bounds
-        x="600"
-        y="636"
+        x="528"
+        y="528"
         width="133"
         height="71"/>
     <archimateElement
@@ -539,7 +539,7 @@
           href="RealizationRelationship_0866d055-7b77-4ff9-b139-9c7a6aae2fbf.xml#0866d055-7b77-4ff9-b139-9c7a6aae2fbf"/>
     </sourceConnections>
     <bounds
-        x="756"
+        x="816"
         y="528"
         width="133"
         height="71"/>

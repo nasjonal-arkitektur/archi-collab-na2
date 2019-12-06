@@ -1,7 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilganger konsument/representasjonsforhold"
-    id="883ce9eb-79dc-491e-a417-8f131d31ec77">
+    id="883ce9eb-79dc-491e-a417-8f131d31ec77"
+    documentation="Dataobjekt som beskriver hvilke tilganger til ressurser en representant (leverandør) skal ha på vegne av konsument.">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
