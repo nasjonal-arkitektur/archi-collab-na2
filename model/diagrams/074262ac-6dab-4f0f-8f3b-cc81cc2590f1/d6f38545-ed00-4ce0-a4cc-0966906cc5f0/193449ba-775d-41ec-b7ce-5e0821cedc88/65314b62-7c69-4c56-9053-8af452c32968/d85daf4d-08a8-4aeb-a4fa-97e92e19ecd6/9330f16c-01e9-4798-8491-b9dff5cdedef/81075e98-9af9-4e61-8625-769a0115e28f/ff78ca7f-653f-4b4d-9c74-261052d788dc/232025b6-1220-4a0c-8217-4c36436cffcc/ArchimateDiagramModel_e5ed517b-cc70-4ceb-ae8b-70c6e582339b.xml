@@ -1,11 +1,12 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="eNotifikasjon - konsumenters verdiistrøm"
+    name="eNotifikasjon - konsumenters verdistrøm"
     id="e5ed517b-cc70-4ceb-ae8b-70c6e582339b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="53816e06-6ede-47a8-9d0b-7dfe960a8d5c"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#000080"
       textPosition="1">
     <sourceConnections
