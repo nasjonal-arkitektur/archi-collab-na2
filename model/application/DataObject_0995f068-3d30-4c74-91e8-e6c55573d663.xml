@@ -1,6 +1,6 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hendelsesdata"
+    name="Data assosiert med hendelse"
     id="0995f068-3d30-4c74-91e8-e6c55573d663">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Hendelsesdata"/>
+      value="Data assosiert med hendelse"/>
   <properties
       key="difi:name_en"/>
   <properties

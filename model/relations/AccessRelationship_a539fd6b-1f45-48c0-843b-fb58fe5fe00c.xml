@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="supplerende data"
+    name="leser"
     id="a539fd6b-1f45-48c0-843b-fb58fe5fe00c"
     accessType="1">
   <properties
@@ -21,7 +21,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="supplerende notifikasjonsdata"/>
+      value="dataflyt"/>
   <properties
       key="difi:name_en"/>
   <properties

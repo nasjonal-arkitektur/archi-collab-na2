@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dataflyt"
+    id="95ff8ae7-adfc-49a5-832d-51684f32d3c3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_648c0a29-981b-4d77-8c59-1de6de90e00f.xml#648c0a29-981b-4d77-8c59-1de6de90e00f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ff2034ec-d779-4b3f-8583-b4a9e5ee4e75.xml#ff2034ec-d779-4b3f-8583-b4a9e5ee4e75"/>
+</archimate:FlowRelationship>

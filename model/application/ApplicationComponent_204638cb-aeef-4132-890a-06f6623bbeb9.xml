@@ -1,14 +1,13 @@
-<archimate:FlowRelationship
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="dataflyt"
-    id="985cc05e-cf51-4655-a57a-af9ae3f68610">
+    name="Formidlingsløsninger"
+    id="204638cb-aeef-4132-890a-06f6623bbeb9">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:flow-relationship"/>
+      value="archi:application-component"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -20,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="dataflyt"/>
+      value="Formidlingsløsninger"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -29,13 +28,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="Formidlings-løsninger"/>
   <properties
       key="difi:notes"/>
-  <source
-      xsi:type="archimate:BusinessRole"
-      href="BusinessRole_c777850b-1ce0-4af0-b1b2-d180411baaca.xml#c777850b-1ce0-4af0-b1b2-d180411baaca"/>
-  <target
-      xsi:type="archimate:BusinessRole"
-      href="BusinessRole_0442a2d9-0a27-4aee-ac78-82b12deccf85.xml#0442a2d9-0a27-4aee-ac78-82b12deccf85"/>
-</archimate:FlowRelationship>
+</archimate:ApplicationComponent>

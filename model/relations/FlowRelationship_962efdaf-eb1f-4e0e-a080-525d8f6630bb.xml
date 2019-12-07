@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="notifikasjoner"
+    name="notifikasjonsflyt"
     id="962efdaf-eb1f-4e0e-a080-525d8f6630bb">
   <properties
       key="difi:metaLevel"
@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="notifikasjoner"/>
+      value="notifikasjonsflyt"/>
   <properties
       key="difi:name_en"/>
   <properties
