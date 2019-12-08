@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Motta data"
-    id="f8c3dc36-0776-435a-bb83-177ad1a5d1a7">
+    id="f8c3dc36-0776-435a-bb83-177ad1a5d1a7"
+    documentation="Evnen til å motta en en forsendelse fra en avsender.">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

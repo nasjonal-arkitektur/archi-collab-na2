@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kapabiliteter eOppslag"
+    name="Kapabiliteter, deling av data på forespørsel"
     id="cf4eda21-c489-462c-8935-e6a8ccb9b0cd">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -183,9 +183,9 @@
     </sourceConnections>
     <bounds
         x="672"
-        y="192"
+        y="120"
         width="133"
-        height="71"/>
+        height="241"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_0442a2d9-0a27-4aee-ac78-82b12deccf85.xml#0442a2d9-0a27-4aee-ac78-82b12deccf85"/>
@@ -223,9 +223,9 @@
     </sourceConnections>
     <bounds
         x="96"
-        y="192"
+        y="120"
         width="133"
-        height="71"/>
+        height="241"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_c777850b-1ce0-4af0-b1b2-d180411baaca.xml#c777850b-1ce0-4af0-b1b2-d180411baaca"/>
@@ -243,5 +243,6 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="difi:docViewPath"/>
+      key="difi:docViewPath"
+      value="nab_referanse_arkitekturer_datautveksling_forespørsel-svar"/>
 </archimate:ArchimateDiagramModel>
