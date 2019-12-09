@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="tjener"
-    id="6281dc5a-22fd-428e-8159-b6b9562d491f">
+    id="e9d796ad-dc89-4cbb-a797-2dba9f0cc5d7">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -34,8 +34,8 @@
       key="difi:notes"/>
   <source
       xsi:type="archimate:ApplicationService"
-      href="ApplicationService_c4eeae28-965f-450d-9cdc-f20b90f2ff2d.xml#c4eeae28-965f-450d-9cdc-f20b90f2ff2d"/>
+      href="ApplicationService_88df689e-6422-4b30-8ebc-7d1291fcc1aa.xml#88df689e-6422-4b30-8ebc-7d1291fcc1aa"/>
   <target
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_9c0ca0a4-f632-4131-9c07-80a58410700b.xml#9c0ca0a4-f632-4131-9c07-80a58410700b"/>
+      href="BusinessProcess_7ed2c419-a67b-4dd0-812a-986bb25aa709.xml#7ed2c419-a67b-4dd0-812a-986bb25aa709"/>
 </archimate:ServingRelationship>

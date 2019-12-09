@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Generere notifikasjon"
+    name="Generer notifikasjon ut fra hendelse"
     id="59d9d4b5-25bb-4357-a50c-41660041eae3"
     documentation="Prosessen med å generere en notifikasjon på bakgrunn av en hendelse.">
   <properties
@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Generere notifikasjon"/>
+      value="Generer notifikasjon ut fra hendelse"/>
   <properties
       key="difi:name_en"/>
   <properties

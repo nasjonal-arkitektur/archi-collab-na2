@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tjener"
     id="54bf8353-01fd-4a94-996f-5094de240737">
   <properties
       key="difi:metaLevel"
@@ -18,7 +19,8 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="tjener"/>
   <properties
       key="difi:name_en"/>
   <properties

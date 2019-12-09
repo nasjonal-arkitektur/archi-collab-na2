@@ -1,8 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hendelsegenerings-tjeneste"
+    name="Generering av full notifikasjon"
     id="df102370-63de-40c9-b3ad-f573cb1ff1b8"
-    documentation="Tjeneste som genererer notifikasjoner basert på hendelser (endringer i datasett).">
+    documentation="Tjeneste som genererer &quot;fulle&quot; notifikasjoner basert på hendelser, der alle aktuelle grunnlagsdata er med eller lenket til.">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Hendelsegenerings-tjeneste"/>
+      value="Generering av full notifikasjon"/>
   <properties
       key="difi:name_en"/>
   <properties

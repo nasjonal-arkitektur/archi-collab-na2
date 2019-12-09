@@ -1,14 +1,15 @@
-<archimate:ServingRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="tjener"
-    id="6281dc5a-22fd-428e-8159-b6b9562d491f">
+    name="ansvarlig"
+    id="d943b0ec-3c53-4eb2-9e32-1834d65832d9"
+    directed="true">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:serving-relationship"/>
+      value="archi:association-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -20,7 +21,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="tjener"/>
+      value="ansvarlig"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -33,9 +34,9 @@
   <properties
       key="difi:notes"/>
   <source
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_c4eeae28-965f-450d-9cdc-f20b90f2ff2d.xml#c4eeae28-965f-450d-9cdc-f20b90f2ff2d"/>
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_c777850b-1ce0-4af0-b1b2-d180411baaca.xml#c777850b-1ce0-4af0-b1b2-d180411baaca"/>
   <target
-      xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_9c0ca0a4-f632-4131-9c07-80a58410700b.xml#9c0ca0a4-f632-4131-9c07-80a58410700b"/>
-</archimate:ServingRelationship>
+      xsi:type="archimate:Capability"
+      href="Capability_fa413a11-edaa-4c1f-a120-63224851f08c.xml#fa413a11-edaa-4c1f-a120-63224851f08c"/>
+</archimate:AssociationRelationship>

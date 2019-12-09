@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ansvarlig"
     id="c66e9985-03f1-4068-b94f-0fb7607db9db">
   <properties
       key="difi:metaLevel"
@@ -18,7 +19,8 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="ansvarlig"/>
   <properties
       key="difi:name_en"/>
   <properties

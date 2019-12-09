@@ -1,14 +1,13 @@
-<archimate:ServingRelationship
+<archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="tjener"
-    id="6281dc5a-22fd-428e-8159-b6b9562d491f">
+    id="34c7eb35-9c86-421d-a6e3-9b9223309a47">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:serving-relationship"/>
+      value="archi:composition-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -19,8 +18,7 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"
-      value="tjener"/>
+      key="difi:name_no"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -33,9 +31,9 @@
   <properties
       key="difi:notes"/>
   <source
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_c4eeae28-965f-450d-9cdc-f20b90f2ff2d.xml#c4eeae28-965f-450d-9cdc-f20b90f2ff2d"/>
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_42e9b815-550a-48b7-8948-ab38f2f4eeda.xml#42e9b815-550a-48b7-8948-ab38f2f4eeda"/>
   <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_9c0ca0a4-f632-4131-9c07-80a58410700b.xml#9c0ca0a4-f632-4131-9c07-80a58410700b"/>
-</archimate:ServingRelationship>
+</archimate:CompositionRelationship>

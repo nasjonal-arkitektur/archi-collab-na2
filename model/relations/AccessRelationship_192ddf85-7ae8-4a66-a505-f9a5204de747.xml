@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="skriver"
     id="192ddf85-7ae8-4a66-a505-f9a5204de747">
   <properties
       key="difi:metaLevel"
@@ -18,7 +19,8 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="skriver"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -32,7 +34,7 @@
       key="difi:notes"/>
   <source
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_563cb173-e1a2-4616-ae21-ab1158b1605c.xml#563cb173-e1a2-4616-ae21-ab1158b1605c"/>
+      href="BusinessProcess_9c0ca0a4-f632-4131-9c07-80a58410700b.xml#9c0ca0a4-f632-4131-9c07-80a58410700b"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_22646fc6-2599-4d50-a1b2-beedfc80a166.xml#22646fc6-2599-4d50-a1b2-beedfc80a166"/>
