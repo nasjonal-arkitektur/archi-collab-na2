@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inngå avtale med leverandør"
     id="adf6051a-bfa8-4398-b803-5a376dfd2ad9"
-    documentation="Prosessen med å inngå en avtale med leverandør. En slik avtale vil normalt være inngått tidligere og uavhengig av om man skal ta i bruk et nytt API. En tjenesteavtale med leverandør er en forutsetning forutsetning for å kunne delegere en tilgang.">
+    documentation="Prosessen med å inngå en avtale med leverandør. En slik avtale vil normalt være inngått tidligere og uavhengig av om man skal ta i bruk et nytt API. En tjenesteavtale med leverandør er en forutsetning for å kunne delegere en tilgang.">
   <properties
       key="difi:namespace"
       value="-"/>
