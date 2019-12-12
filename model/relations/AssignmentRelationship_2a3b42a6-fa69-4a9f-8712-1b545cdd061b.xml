@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="utfører"
+    id="2a3b42a6-fa69-4a9f-8712-1b545cdd061b">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_333c3eff-d7ca-4c30-833d-ec424bcec51e.xml#333c3eff-d7ca-4c30-833d-ec424bcec51e"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_17c7fb1c-a035-4e8c-9b5e-f1c6cd0b3b34.xml#17c7fb1c-a035-4e8c-9b5e-f1c6cd0b3b34"/>
+</archimate:AssignmentRelationship>

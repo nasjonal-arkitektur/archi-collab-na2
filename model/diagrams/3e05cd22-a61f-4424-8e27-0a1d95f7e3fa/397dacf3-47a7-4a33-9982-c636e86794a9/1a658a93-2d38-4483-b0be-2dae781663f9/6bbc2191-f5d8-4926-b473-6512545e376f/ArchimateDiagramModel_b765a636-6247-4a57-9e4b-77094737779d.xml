@@ -11,6 +11,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="b303ee05-b39a-42de-86a9-e65290d76457"
+        textPosition="0"
         source="17833904-5d67-491a-a654-0f3d2f5215b8"
         target="3ce72af0-25d9-4443-bee3-4760c522f211">
       <archimateRelationship
@@ -32,21 +33,23 @@
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="28a04d4c-f3c8-47cf-8751-b075f9b83b4d"
+        id="a4d1304f-52a7-4897-9809-721231e92097"
+        textPosition="0"
         source="001a46de-0a8b-41e7-b6d9-a9452f11c4ae"
         target="483fec1e-6f03-4c92-87cc-5bd1e6c1f8cc">
       <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_823cb51d-c272-4364-b0fe-6b29a023768d.xml#823cb51d-c272-4364-b0fe-6b29a023768d"/>
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_2a3b42a6-fa69-4a9f-8712-1b545cdd061b.xml#2a3b42a6-fa69-4a9f-8712-1b545cdd061b"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="9d057539-4996-4d7b-93e9-a884d207755f"
+        id="21cf2025-85e1-486a-9680-70fea469ee81"
+        textPosition="0"
         source="001a46de-0a8b-41e7-b6d9-a9452f11c4ae"
         target="4e7eb2a8-9c0b-4bb3-bdcf-1fd428febab9">
       <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_471608e3-5623-4c4f-93b1-a700eafb893d.xml#471608e3-5623-4c4f-93b1-a700eafb893d"/>
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_54a086de-52ae-4733-ba51-d96296c46735.xml#54a086de-52ae-4733-ba51-d96296c46735"/>
     </sourceConnections>
     <bounds
         x="372"
@@ -63,24 +66,26 @@
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="5c577cca-6290-42c4-a50f-c1a959916c07"
+        id="14d9b322-4209-4c0b-ae69-6d46868db1db"
+        textPosition="0"
         source="14ce6039-eff4-436a-82a5-c81f8c5c02a5"
         target="11ad2f8e-d93b-4178-9a62-44b10c120c0d">
       <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_c4c48d4a-0526-49d9-b37b-73c66e7aedb6.xml#c4c48d4a-0526-49d9-b37b-73c66e7aedb6"/>
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_78bd6c2a-72ae-4b98-99c1-ef1aaa2b0946.xml#78bd6c2a-72ae-4b98-99c1-ef1aaa2b0946"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6df9266c-64da-4f37-a2c7-92d0ee102550"
+        id="797f0802-496c-4973-a315-461d04dc3f3e"
+        textPosition="0"
         source="14ce6039-eff4-436a-82a5-c81f8c5c02a5"
         target="d467a498-3cb2-423e-b23e-f5150a1e6c5f">
       <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_06bc62db-9563-4dc1-bc39-d9f5ed0b4bb2.xml#06bc62db-9563-4dc1-bc39-d9f5ed0b4bb2"/>
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_867eaf93-5e4d-4f22-9cf9-2bdaa39b5a18.xml#867eaf93-5e4d-4f22-9cf9-2bdaa39b5a18"/>
     </sourceConnections>
     <bounds
-        x="540"
+        x="564"
         y="252"
         width="133"
         height="71"/>
@@ -115,12 +120,12 @@
     <bounds
         x="357"
         y="366"
-        width="337"
+        width="364"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="4e7eb2a8-9c0b-4bb3-bdcf-1fd428febab9"
-        targetConnections="c9b2c23b-985c-4958-9f3d-b1a2bcac138a 9d057539-4996-4d7b-93e9-a884d207755f"
+        targetConnections="c9b2c23b-985c-4958-9f3d-b1a2bcac138a 21cf2025-85e1-486a-9680-70fea469ee81"
         textPosition="1"
         type="1">
       <sourceConnections
@@ -144,7 +149,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="d467a498-3cb2-423e-b23e-f5150a1e6c5f"
-        targetConnections="f700c014-247f-4fd7-abf2-cefad0b8edb3 6df9266c-64da-4f37-a2c7-92d0ee102550"
+        targetConnections="f700c014-247f-4fd7-abf2-cefad0b8edb3 797f0802-496c-4973-a315-461d04dc3f3e"
         textPosition="1"
         type="1">
       <sourceConnections
@@ -157,7 +162,7 @@
             href="SpecializationRelationship_d7aa062b-48dd-4d9c-bc6b-49fc77c87d33.xml#d7aa062b-48dd-4d9c-bc6b-49fc77c87d33"/>
       </sourceConnections>
       <bounds
-          x="180"
+          x="204"
           y="36"
           width="133"
           height="71"/>
@@ -186,6 +191,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="34d58374-2264-4532-9ba3-c622d38a3759"
+        textPosition="0"
         source="092350aa-7008-49f0-b510-5641ccd5ceee"
         target="17833904-5d67-491a-a654-0f3d2f5215b8">
       <archimateRelationship
@@ -209,12 +215,12 @@
     <bounds
         x="360"
         y="72"
-        width="337"
+        width="361"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="483fec1e-6f03-4c92-87cc-5bd1e6c1f8cc"
-        targetConnections="28a04d4c-f3c8-47cf-8751-b075f9b83b4d"
+        targetConnections="a4d1304f-52a7-4897-9809-721231e92097"
         textPosition="1"
         type="1">
       <sourceConnections
@@ -238,7 +244,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="11ad2f8e-d93b-4178-9a62-44b10c120c0d"
-        targetConnections="5c577cca-6290-42c4-a50f-c1a959916c07"
+        targetConnections="14d9b322-4209-4c0b-ae69-6d46868db1db"
         textPosition="1"
         type="1">
       <sourceConnections
@@ -251,7 +257,7 @@
             href="SpecializationRelationship_74183c70-6ae3-416b-9522-94b1ca5d6e8f.xml#74183c70-6ae3-416b-9522-94b1ca5d6e8f"/>
       </sourceConnections>
       <bounds
-          x="180"
+          x="204"
           y="36"
           width="133"
           height="71"/>
