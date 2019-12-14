@@ -62,7 +62,7 @@
     <bounds
         x="233"
         y="408"
-        width="776"
+        width="512"
         height="145"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
@@ -145,7 +145,7 @@
     <bounds
         x="240"
         y="216"
-        width="781"
+        width="517"
         height="145"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
@@ -180,7 +180,7 @@
       targetConnections="fb24a976-f495-4dd8-b596-130944e79592"
       textPosition="1">
     <bounds
-        x="804"
+        x="600"
         y="108"
         width="138"
         height="71"/>
