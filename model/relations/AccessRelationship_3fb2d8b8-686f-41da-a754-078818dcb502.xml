@@ -1,0 +1,16 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leser fra datastrøm"
+    id="3fb2d8b8-686f-41da-a754-078818dcb502"
+    accessType="1">
+  <properties
+      key="label"
+      value=" "/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_e7363694-08a6-4829-8248-f4e6e1d84ce4.xml#e7363694-08a6-4829-8248-f4e6e1d84ce4"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_bff98c3c-f2bc-485a-bf52-9d73aa35ba84.xml#bff98c3c-f2bc-485a-bf52-9d73aa35ba84"/>
+</archimate:AccessRelationship>

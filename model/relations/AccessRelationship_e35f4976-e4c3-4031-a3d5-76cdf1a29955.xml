@@ -1,0 +1,15 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="skriver til datastrøm"
+    id="e35f4976-e4c3-4031-a3d5-76cdf1a29955">
+  <properties
+      key="label"
+      value="skriver\ntil\ndatastrøm"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_cc2ba389-72f0-4579-b4ed-969cf7b84ca8.xml#cc2ba389-72f0-4579-b4ed-969cf7b84ca8"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_bff98c3c-f2bc-485a-bf52-9d73aa35ba84.xml#bff98c3c-f2bc-485a-bf52-9d73aa35ba84"/>
+</archimate:AccessRelationship>

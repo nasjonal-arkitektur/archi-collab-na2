@@ -1,4 +1,35 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="One-way push pattern"
-    id="f758b801-7c29-4cab-99a1-858978b116b0"/>
+    name="Mønster for forsendelse"
+    id="f758b801-7c29-4cab-99a1-858978b116b0">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Forsendelse (push)"/>
+  <properties
+      key="difi:name_en"
+      value="One-way push pattern"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Resource>

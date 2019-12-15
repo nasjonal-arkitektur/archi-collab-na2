@@ -2,10 +2,38 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="71366864-e36e-4835-97fd-09224b47efc5">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:flow-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_14211298-121b-4f41-af7d-e5cf5503e034.xml#14211298-121b-4f41-af7d-e5cf5503e034"/>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_357f13d4-c551-45c4-9057-59444563a878.xml#357f13d4-c551-45c4-9057-59444563a878"/>
   <target
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_9bea3323-bbb6-4e90-8bbe-04f90c28b741.xml#9bea3323-bbb6-4e90-8bbe-04f90c28b741"/>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_ce2bb914-5cda-4842-acb3-cdb2d97eef77.xml#ce2bb914-5cda-4842-acb3-cdb2d97eef77"/>
 </archimate:FlowRelationship>

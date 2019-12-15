@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="brukes i"
+    id="7becfb7e-a39b-47a1-b890-2f8531c1a235">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_f758b801-7c29-4cab-99a1-858978b116b0.xml#f758b801-7c29-4cab-99a1-858978b116b0"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_079ad491-ade6-4656-a7a0-12ed14094ac3.xml#079ad491-ade6-4656-a7a0-12ed14094ac3"/>
+</archimate:ServingRelationship>

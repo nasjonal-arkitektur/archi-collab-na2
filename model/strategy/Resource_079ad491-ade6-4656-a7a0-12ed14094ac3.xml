@@ -1,5 +1,37 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Two-Way Request-Response Pattern"
+    name="Mønster for forespørsel-respons"
     id="079ad491-ade6-4656-a7a0-12ed14094ac3"
-    documentation="This is the most common messaging pattern, also called request-reply. It has good&#xD;&#xA;support from a large amount of middleware. It is the equivalent of a one way pull and&#xD;&#xA;two way message exchange pattern (MEP) in terms of functionality and capability. It&#xD;&#xA;can be implemented either synchronously or asynchronously. When implemented&#xD;&#xA;asynchronously if the time between the request and response is significant, a separate&#xD;&#xA;signal message can be used to confirm the receipt of the request message."/>
+    documentation="This is the most common messaging pattern, also called request-reply. It has good&#xD;&#xA;support from a large amount of middleware. It is the equivalent of a one way pull and&#xD;&#xA;two way message exchange pattern (MEP) in terms of functionality and capability. It&#xD;&#xA;can be implemented either synchronously or asynchronously. When implemented&#xD;&#xA;asynchronously if the time between the request and response is significant, a separate&#xD;&#xA;signal message can be used to confirm the receipt of the request message.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Mønster for forespørsel-respons"/>
+  <properties
+      key="difi:name_en"
+      value="Two-Way Request-Response Pattern (pull)"/>
+  <properties
+      key="difi:description_no"
+      value="This is the most common messaging pattern, also called request-reply. It has good&#xD;&#xA;support from a large amount of middleware. It is the equivalent of a one way pull and&#xD;&#xA;two way message exchange pattern (MEP) in terms of functionality and capability. It&#xD;&#xA;can be implemented either synchronously or asynchronously. When implemented&#xD;&#xA;asynchronously if the time between the request and response is significant, a separate&#xD;&#xA;signal message can be used to confirm the receipt of the request message."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Resource>
