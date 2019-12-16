@@ -1,0 +1,41 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="skriver forespørsel"
+    id="6e4c5cf5-990a-405c-a555-195975b0b60e">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:access-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="skriver"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="skriver\nforespørsel"/>
+  <properties
+      key="difi:notes"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_66d9e166-c7dc-4ecd-9a9a-79ab951f1c3d.xml#66d9e166-c7dc-4ecd-9a9a-79ab951f1c3d"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_026be08b-5a2f-4ca1-ab58-3a9cd4b1fefa.xml#026be08b-5a2f-4ca1-ab58-3a9cd4b1fefa"/>
+</archimate:AccessRelationship>

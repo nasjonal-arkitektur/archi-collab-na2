@@ -1,0 +1,36 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Multi-hopp meldingsmønster"
+    id="72b1794d-db77-4260-a352-4d13f661d4b3"
+    documentation="This pattern is useful for an organisation that often needs to distribute the same&#xD;&#xA;information to a large number of business partners at once. An example is a request&#xD;&#xA;for proposal in a tender procedure. Through this pattern, the organisation can send&#xD;&#xA;documents within a particular group of organisations with little extra effort and&#xD;&#xA;resources. This pattern gets more complicated if the overall outcome depends on the&#xD;&#xA;results of the individual exchanges.&#xD;&#xA;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Multi-hop Pattern"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="This pattern is useful for an organisation that often needs to distribute the same&#xD;&#xA;information to a large number of business partners at once. An example is a request&#xD;&#xA;for proposal in a tender procedure. Through this pattern, the organisation can send&#xD;&#xA;documents within a particular group of organisations with little extra effort and&#xD;&#xA;resources. This pattern gets more complicated if the overall outcome depends on the&#xD;&#xA;results of the individual exchanges.&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Resource>

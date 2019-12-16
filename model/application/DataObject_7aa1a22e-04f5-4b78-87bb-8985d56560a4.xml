@@ -1,0 +1,22 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Set Catalogue"
+    id="7aa1a22e-04f5-4b78-87bb-8985d56560a4"
+    documentation="DESCRIPTION:&#xD;&#xA;A collection of datasets.  &#xD;&#xA;This ABB is a key interoperability enabler (*) for sharing/PROVISIONING and reusing/CONSUMING Data.&#xD;&#xA;&#xD;&#xA;Based on W3C&#xD;&#xA;http://www.w3.org/TR/vocab-dcat/#class-catalog  &#xD;&#xA;&#xD;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector&#xD;&#xA;&#xD;&#xA;Syn. Data Set Registry, Data Set Inventory&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Data Set Catalogue ABB is a key interoperability enabler / manifestation because it supports to achieve semantic interoperability by ensuring the provision and consumption of data as stated in the EIF recommendation n° 44: &quot;Put in place catalogues of public services, public data, and interoperability solutions and use common models for describing them.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Agricultural and Vegetable Catalogue&#xD;&#xA;The seed of varieties of agricultural and plant species and varieties of vegetable species that are published in the EU level common catalogue is subject to no marketing restrictions with the Community. Publication in the catalogue must be approved as fulfilling minimum requirements laid down in legislation. Data is published on the contents of the catalogues for agricultural and vegetal species and maintainers with details of the reference list.&#xD;&#xA;https://data.europa.eu/euodp/data/dataset/7A98oEqVa83q6L7tHQ &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB24"/>
+  <properties
+      key="dct:type"
+      value="eira:DataSetCatalogue"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+</archimate:DataObject>

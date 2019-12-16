@@ -1,0 +1,28 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standard for sivilstand"
+    id="dfcbb933-23e5-41bb-8ce8-5db1783d16e6"
+    documentation="https://www.ssb.no/klass/klassifikasjoner/19">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Standard for sivilstand"/>
+  <properties
+      key="difi:description_no"
+      value="https://www.ssb.no/klass/klassifikasjoner/19"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
+</archimate:DataObject>

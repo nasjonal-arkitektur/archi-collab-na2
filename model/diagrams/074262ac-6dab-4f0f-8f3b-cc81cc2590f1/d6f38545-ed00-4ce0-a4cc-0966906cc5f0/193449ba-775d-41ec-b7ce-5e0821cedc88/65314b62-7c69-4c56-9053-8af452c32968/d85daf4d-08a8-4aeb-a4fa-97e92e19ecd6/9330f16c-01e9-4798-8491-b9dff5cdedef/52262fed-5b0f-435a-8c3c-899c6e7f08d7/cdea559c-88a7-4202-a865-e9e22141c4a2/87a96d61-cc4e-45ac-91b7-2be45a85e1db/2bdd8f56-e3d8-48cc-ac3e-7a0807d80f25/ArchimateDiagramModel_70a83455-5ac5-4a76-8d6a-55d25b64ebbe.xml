@@ -353,6 +353,19 @@
         xsi:type="archimate:Capability"
         href="Capability_0dca40ec-4234-4292-8cf0-60788303f50b.xml#0dca40ec-4234-4292-8cf0-60788303f50b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1e6e95b1-6814-4f3e-94cc-e85b97b61299"
+      type="1">
+    <bounds
+        x="744"
+        y="576"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_55f43c8e-3fe4-4613-b4dc-5c09667de368.xml#55f43c8e-3fe4-4613-b4dc-5c09667de368"/>
+  </children>
   <properties
       key="difi:language"
       value="no"/>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beskriver"
+    id="77ca9af5-5ee1-4395-86db-49a5b5a8efba"
+    directed="true">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_3b969ebb-13b0-4a8c-b760-0cd97fe5925f.xml#3b969ebb-13b0-4a8c-b760-0cd97fe5925f"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_59c7658f-7699-44fe-85fc-4f54bea68c27.xml#59c7658f-7699-44fe-85fc-4f54bea68c27"/>
+</archimate:AssociationRelationship>

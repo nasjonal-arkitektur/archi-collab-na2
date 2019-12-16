@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spørring mot eksponert hendelsesliste"
+    id="7f93bd84-8ed5-49ac-a514-ba67a7be9a4a"
+    documentation="Tjeneste(r) for å forespørre notifikasjoner og navigere i hendelseslister."/>

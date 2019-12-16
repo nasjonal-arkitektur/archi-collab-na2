@@ -1,0 +1,42 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leser forespørsel"
+    id="adbcbe58-9200-497c-9924-3860af9d5306"
+    accessType="1">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:access-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="leser"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="leser\nforespørsel"/>
+  <properties
+      key="difi:notes"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_0f11b252-fb5c-4e2f-a0ff-89087847a787.xml#0f11b252-fb5c-4e2f-a0ff-89087847a787"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_026be08b-5a2f-4ca1-ab58-3a9cd4b1fefa.xml#026be08b-5a2f-4ca1-ab58-3a9cd4b1fefa"/>
+</archimate:AccessRelationship>

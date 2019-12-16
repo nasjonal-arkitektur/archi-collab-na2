@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Generer og tilby notifikasjoner"
+    name="Generer og publiser notifikasjoner"
     id="42e9b815-550a-48b7-8948-ab38f2f4eeda"
     documentation="Prosessen med å dele informasjon om hendelser.">
   <properties
@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Generer og tilby notifikasjoner"/>
+      value="Generer og publiser notifikasjoner"/>
   <properties
       key="difi:name_en"/>
   <properties

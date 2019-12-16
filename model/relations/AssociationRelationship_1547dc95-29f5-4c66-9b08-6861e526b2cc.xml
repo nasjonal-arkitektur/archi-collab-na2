@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="assosiert med"
+    id="1547dc95-29f5-4c66-9b08-6861e526b2cc"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_ff4df042-6e2e-4a7b-a7a7-08a6dfdc54f5.xml#ff4df042-6e2e-4a7b-a7a7-08a6dfdc54f5"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_cc2ba389-72f0-4579-b4ed-969cf7b84ca8.xml#cc2ba389-72f0-4579-b4ed-969cf7b84ca8"/>
+</archimate:AssociationRelationship>

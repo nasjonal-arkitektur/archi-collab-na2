@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="innehar"
+    id="16bfceb0-cbbd-4521-85d0-f33cb1f60854">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_f1f25f1f-b313-4368-83a8-b57312abfa87.xml#f1f25f1f-b313-4368-83a8-b57312abfa87"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_aa3090d1-45f9-4f06-b66c-abdecae55ffb.xml#aa3090d1-45f9-4f06-b66c-abdecae55ffb"/>
+</archimate:AssociationRelationship>

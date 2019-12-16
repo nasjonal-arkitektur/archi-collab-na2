@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="skriver"
     id="b423eedf-4013-4a69-b20b-3cdaf997b2f7">
   <properties
       key="difi:metaLevel"
@@ -18,7 +19,8 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="skriver"/>
   <properties
       key="difi:name_en"/>
   <properties

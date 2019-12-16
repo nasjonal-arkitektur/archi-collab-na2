@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tilsvarer"
+    id="5985691c-178d-4500-825b-8a19c5630b67"
+    directed="true">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_a8496bc6-6856-44c8-b32d-de3d7b5a2925.xml#a8496bc6-6856-44c8-b32d-de3d7b5a2925"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_368ee9ef-e510-4285-b05e-85fb28e8ecdf.xml#368ee9ef-e510-4285-b05e-85fb28e8ecdf"/>
+</archimate:AssociationRelationship>

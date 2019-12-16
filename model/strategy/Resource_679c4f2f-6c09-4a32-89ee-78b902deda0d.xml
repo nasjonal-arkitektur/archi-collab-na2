@@ -1,0 +1,35 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Multi-forsendelse meldingsmønster (copy)"
+    id="679c4f2f-6c09-4a32-89ee-78b902deda0d">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Multi-cast pattern"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This pattern is useful for an organisation that often needs to distribute the same information to a large number of business partners at once. An example is a request for proposal in a tender procedure. Through this pattern, the organisation can send documents within a particular group of organisations with little extra effort and resources. This pattern gets more complicated if the overall outcome depends on the"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Resource>
