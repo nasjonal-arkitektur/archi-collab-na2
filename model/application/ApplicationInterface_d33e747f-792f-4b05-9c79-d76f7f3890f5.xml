@@ -1,6 +1,6 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="API for dataspørring"
+    name="API for spørring mot datatilbyder"
     id="d33e747f-792f-4b05-9c79-d76f7f3890f5">
   <properties
       key="difi:metaLevel"

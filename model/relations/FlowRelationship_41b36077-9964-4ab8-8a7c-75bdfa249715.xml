@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="meldinger"
+    id="41b36077-9964-4ab8-8a7c-75bdfa249715">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ebe49991-06cd-4621-8493-41fa6f6dcb6f.xml#ebe49991-06cd-4621-8493-41fa6f6dcb6f"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_f3c19521-6949-45c3-8eb0-f81a8d0b2ac0.xml#f3c19521-6949-45c3-8eb0-f81a8d0b2ac0"/>
+</archimate:FlowRelationship>
