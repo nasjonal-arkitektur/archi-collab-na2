@@ -58,6 +58,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="8b2b253f-ea75-4cfb-9d34-62967e175e3b"
+        textPosition="0"
         source="85bcbe3f-2caf-4127-bda0-0d3dafa9668f"
         target="bc6a9d27-8fbb-4fb3-8291-22d02a3b2a62">
       <archimateRelationship
@@ -81,6 +82,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="7cea54e4-9a43-4054-908e-d227bc9a58cc"
+        textPosition="0"
         source="1abc31f4-d76f-4b0c-b6e1-2b4db66ae0b0"
         target="32d653f8-0420-46d2-a223-954854112589">
       <archimateRelationship

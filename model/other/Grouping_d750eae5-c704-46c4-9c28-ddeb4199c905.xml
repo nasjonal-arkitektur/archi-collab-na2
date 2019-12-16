@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Grouping (copy)"
+    name="Publisering - illustrasjon (logisk dataflyt)"
     id="d750eae5-c704-46c4-9c28-ddeb4199c905">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Grouping (copy)"/>
+      value="Publiser-abonner - logisk dataflyt"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -28,7 +28,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:Grouping>

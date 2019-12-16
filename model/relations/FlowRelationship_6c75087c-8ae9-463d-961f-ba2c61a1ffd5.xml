@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="forsendelse"
+    name="forsendelse 1"
     id="6c75087c-8ae9-463d-961f-ba2c61a1ffd5">
   <properties
       key="difi:metaLevel"
@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="dataflyt"/>
+      value="forsendelse 1"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -37,5 +37,5 @@
       href="BusinessActor_0f11b252-fb5c-4e2f-a0ff-89087847a787.xml#0f11b252-fb5c-4e2f-a0ff-89087847a787"/>
   <target
       xsi:type="archimate:BusinessActor"
-      href="BusinessActor_695003f5-f371-4a09-9052-d1ea494903a5.xml#695003f5-f371-4a09-9052-d1ea494903a5"/>
+      href="BusinessActor_66d9e166-c7dc-4ecd-9a9a-79ab951f1c3d.xml#66d9e166-c7dc-4ecd-9a9a-79ab951f1c3d"/>
 </archimate:FlowRelationship>

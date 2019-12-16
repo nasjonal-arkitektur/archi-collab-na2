@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="forsendelse"
+    name="forsendelse 3"
     id="815bdd2f-fbcc-431d-81f1-d12146e0e343">
   <properties
       key="difi:metaLevel"
@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="dataflyt"/>
+      value="forsendelse 3"/>
   <properties
       key="difi:name_en"/>
   <properties

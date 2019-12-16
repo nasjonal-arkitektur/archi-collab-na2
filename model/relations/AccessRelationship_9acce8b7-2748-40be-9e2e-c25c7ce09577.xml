@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="skriver"
+    name="sender"
     id="9acce8b7-2748-40be-9e2e-c25c7ce09577">
   <properties
       key="difi:metaLevel"
@@ -37,5 +37,5 @@
       href="BusinessActor_0f11b252-fb5c-4e2f-a0ff-89087847a787.xml#0f11b252-fb5c-4e2f-a0ff-89087847a787"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_89991d17-8155-462f-999a-3c4b4b62df1f.xml#89991d17-8155-462f-999a-3c4b4b62df1f"/>
+      href="DataObject_b91904f0-7d46-4662-8efe-ad97ecddba8b.xml#b91904f0-7d46-4662-8efe-ad97ecddba8b"/>
 </archimate:AccessRelationship>

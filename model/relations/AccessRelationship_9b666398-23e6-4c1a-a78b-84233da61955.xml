@@ -1,12 +1,38 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="leser adressert melding"
+    name="konsumerer melding"
     id="9b666398-23e6-4c1a-a78b-84233da61955"
     accessType="1">
   <properties
       key="label"
-      value="leser\nadressert\nmelding"/>
+      value="konsumerer\nmelding"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:access-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="konsumerer melding"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_66d9e166-c7dc-4ecd-9a9a-79ab951f1c3d.xml#66d9e166-c7dc-4ecd-9a9a-79ab951f1c3d"/>

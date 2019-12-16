@@ -1,6 +1,6 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Forespørsel om data"
+    name="Forespørsel A"
     id="026be08b-5a2f-4ca1-ab58-3a9cd4b1fefa">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Forespørsel om data"/>
+      value="Forespørsel om datasett A"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -28,4 +28,7 @@
       key="difi:description_en"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="label"
+      value="Forespørsel\nA"/>
 </archimate:DataObject>

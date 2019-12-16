@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="respons"
+    name="svar"
     id="72664884-eba0-4fb0-adbe-9e3e0bfcd34f">
   <properties
       key="difi:metaLevel"

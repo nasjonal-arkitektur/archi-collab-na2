@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Grouping (copy)"
+    name="Multi-forsendelse - generell konseptskisse"
     id="401d92df-1f3d-45a6-8430-6883f1bd56a5">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Grouping (copy)"/>
+      value="Multi-forsendelse - generell konseptskisse"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -28,7 +28,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:Grouping>

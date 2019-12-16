@@ -257,7 +257,7 @@
     <bounds
         x="60"
         y="372"
-        width="450"
+        width="445"
         height="71"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"

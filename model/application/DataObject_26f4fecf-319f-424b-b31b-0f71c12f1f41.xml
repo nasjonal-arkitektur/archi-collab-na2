@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datadistrusjon A (copy)"
+    id="26f4fecf-319f-424b-b31b-0f71c12f1f41">
+  <properties
+      key="label"
+      value="Datadistrusjon\nA"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Datadistrusjon A"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
+</archimate:DataObject>

@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beskriver"
     id="12148d56-f88d-45a3-9e02-3ec3ac1eef15"
     directed="true">
   <properties

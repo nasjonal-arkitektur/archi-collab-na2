@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Grouping (copy)"
+    name="Publisering - generisk konsept "
     id="426bb60b-fb48-44a2-94ce-e0e0a34ead21">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Grouping (copy)"/>
+      value="Publiser-abonner - konsept"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -28,7 +28,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:Grouping>

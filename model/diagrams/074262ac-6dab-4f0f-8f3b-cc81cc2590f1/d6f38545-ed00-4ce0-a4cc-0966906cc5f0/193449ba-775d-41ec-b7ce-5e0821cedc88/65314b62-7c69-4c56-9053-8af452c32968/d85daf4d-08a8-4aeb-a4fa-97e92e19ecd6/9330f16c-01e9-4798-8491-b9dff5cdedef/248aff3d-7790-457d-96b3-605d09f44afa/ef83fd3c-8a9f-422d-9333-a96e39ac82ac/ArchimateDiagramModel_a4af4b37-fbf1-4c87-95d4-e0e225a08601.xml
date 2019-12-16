@@ -68,7 +68,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="205f3ad6-ef60-4349-98ef-84302bdc0d74"
-        targetConnections="9aa401a8-b280-4810-acc7-5c7feea7b8f7 8e396698-7e9b-4d47-8d3a-0e785d6bc64a 12c71a30-9266-45a4-90fe-3ba02401b065"
+        targetConnections="9aa401a8-b280-4810-acc7-5c7feea7b8f7 8e396698-7e9b-4d47-8d3a-0e785d6bc64a 12c71a30-9266-45a4-90fe-3ba02401b065 07be642c-6ad7-4820-bbed-17ab3104b73e"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -82,7 +82,7 @@
             href="FlowRelationship_b75e8aff-a7a3-46c8-8f01-06f19e475877.xml#b75e8aff-a7a3-46c8-8f01-06f19e475877"/>
       </sourceConnections>
       <bounds
-          x="24"
+          x="34"
           y="168"
           width="138"
           height="71"/>
@@ -147,7 +147,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="40dc42da-0771-4339-9b6f-c0cd35e07f26"
-        targetConnections="7b4587c5-8979-4d5f-82d5-17a4619e1397 dab15c99-d312-4790-a9e1-28cd7369b1e5 1423c8da-d63d-4616-9331-2d144f4210d2"
+        targetConnections="7b4587c5-8979-4d5f-82d5-17a4619e1397 dab15c99-d312-4790-a9e1-28cd7369b1e5 92bf45d2-f778-4055-a9e4-d6e223bee330"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -221,37 +221,40 @@
         id="12c71a30-9266-45a4-90fe-3ba02401b065"
         source="c562e6e6-ad6b-4c0e-ba9d-8342efe54ced"
         target="205f3ad6-ef60-4349-98ef-84302bdc0d74">
-      <bendpoints
-          startX="-222"
-          startY="1"
-          endX="10"
-          endY="109"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_5a8bcf9f-e42e-4a39-bca7-c13fb4a013a9.xml#5a8bcf9f-e42e-4a39-bca7-c13fb4a013a9"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1423c8da-d63d-4616-9331-2d144f4210d2"
-        source="c562e6e6-ad6b-4c0e-ba9d-8342efe54ced"
-        target="40dc42da-0771-4339-9b6f-c0cd35e07f26">
-      <bendpoints
-          startX="198"
-          startY="1"
-          endX="3"
-          endY="109"/>
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_040d073d-3d81-4bf4-9674-786dd65ae238.xml#040d073d-3d81-4bf4-9674-786dd65ae238"/>
-    </sourceConnections>
     <bounds
-        x="336"
-        y="504"
+        x="120"
+        y="516"
         width="133"
         height="71"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_c8b305d3-b357-447c-be5c-47bbc58313b1.xml#c8b305d3-b357-447c-be5c-47bbc58313b1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="7c1e206d-b34e-4fde-8847-19bfdec86357"
+      textAlignment="1"
+      fillColor="#fff4ea"
+      content="Aksesspunkt kan ligge hos ekstern aksesspunkt-levenerandør, men anses her uanett som del av kommunikasjonsløsninen til avsender eller mottaker">
+    <sourceConnections
+        id="07be642c-6ad7-4820-bbed-17ab3104b73e"
+        source="7c1e206d-b34e-4fde-8847-19bfdec86357"
+        target="205f3ad6-ef60-4349-98ef-84302bdc0d74"
+        type="4"/>
+    <sourceConnections
+        id="92bf45d2-f778-4055-a9e4-d6e223bee330"
+        source="7c1e206d-b34e-4fde-8847-19bfdec86357"
+        target="40dc42da-0771-4339-9b6f-c0cd35e07f26"
+        type="4"/>
+    <bounds
+        x="312"
+        y="264"
+        width="157"
+        height="97"/>
   </children>
   <properties
       key="difi:language"
