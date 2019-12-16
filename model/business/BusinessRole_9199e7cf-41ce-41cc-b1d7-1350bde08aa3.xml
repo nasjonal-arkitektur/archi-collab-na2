@@ -1,0 +1,28 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datakonsument"
+    id="9199e7cf-41ce-41cc-b1d7-1350bde08aa3"
+    documentation="Aktør som bruker data fra andre.">
+  <properties
+      key="difi:namespace"
+      value="henrik"/>
+  <properties
+      key="difi:name_no"
+      value="Konsument (databruker)"/>
+  <properties
+      key="difi:description_no"
+      value="Aktør som bruker data fra andre."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+</archimate:BusinessRole>
