@@ -1,0 +1,22 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Descriptive Metadata"
+    id="20c12893-e59c-4c9d-9c18-7a8ebb3f7024"
+    documentation="DESCRIPTION:&#xD;&#xA;A resource for purposes such as discovery and identification. It can include elements such as title, abstract, author, and keywords.&#xD;&#xA;&#xD;&#xA;Source: &#xD;&#xA;http://www.niso.org/publications/press/UnderstandingMetadata.pdf  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Descriptive Metadata ABB is salient for semantic interoperability because it facilitates opening and sharing data by providing the appropriate format, description of the content, high level of quality in order to achieve interoperability as stated in the EIF recommendation n° 42: &quot;[..] Ensure that open data is accompanied by high quality, machine-readable metadata in non-proprietary formats, including a description of their content, the way data is collected and its level of quality and the licence terms under which it is made available. The use of common vocabularies for expressing metadata is recommended.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;ISA2 Core Vocabularies - Core Criterion and Core Evidence Vocabulary - Evidence metadata&#xD;&#xA;Evidences are resources and can have associated metadata. The DCMI Type Vocabulary can be used for providing a list of evidences that can be submitted for satisfying a specific criterion.&#xD;&#xA;Note. Initially developed in 2002, the DCMI Type Vocabulary provides a general, cross-domain list of approved terms that may be used as values for the Type element to identify the genre of a resource. Type includes terms describing general categories, functions, genres, or aggregation levels for content.&#xD;&#xA;https://joinup.ec.europa.eu/sites/default/files/distribution/2016-12/core_evidence_and_core_criterion_vocabulary_version_1.0.0.docx   &#xD;&#xA;http://dublincore.org/documents/dcmi-type-vocabulary/ &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB195"/>
+  <properties
+      key="dct:type"
+      value="eira:DescriptiveMetadata"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+</archimate:DataObject>
