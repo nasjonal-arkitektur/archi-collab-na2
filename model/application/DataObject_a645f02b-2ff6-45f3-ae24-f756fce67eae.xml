@@ -1,0 +1,41 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Base Registry Data"
+    id="a645f02b-2ff6-45f3-ae24-f756fce67eae"
+    documentation="DESCRIPTION:&#xD;&#xA;A trusted authentic source of information under the control of an appointed public administration or organisation appointed by government.&#xD;&#xA;&#xD;&#xA;According to the European Interoperability Framework, base registries are: “reliable sources of basic information on items such as persons, companies, vehicles, licenses, buildings, locations and roads” and “are authentic and authoritative and form, separately or in combination, the cornerstone of public services”.&#xD;&#xA;&#xD;&#xA;Source: the New EIF&#xD;&#xA;http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Base Registry ABB is salient for semantic interoperability because it includes &quot;authorative sources of information&quot;, that need to be made available. EIF's includes base registries in the conceptual model for integrated public services, and describes it as &quot;the cornerstone of European public service delivery&quot;. EIF gives several recommendations on how to manage and interact with base registries (recommendation 37, 38, 39 and 40).&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Belgian national register&#xD;&#xA;&#xD;&#xA;The National Register refers to the information processing system which records, stores and communicates information relating to the identification of natural persons ie citizens.&#xD;&#xA;&#xD;&#xA;It is therefore a central database in which are recorded:&#xD;&#xA;•&#x9;all Belgians residing in Belgium;&#xD;&#xA;•&#x9;all Belgians residing abroad who register in the population registers held in Belgian diplomatic missions or consular posts abroad;&#xD;&#xA;•&#x9;all foreigners residing in Belgium who are admitted or authorized to settle or reside in the Kingdom;&#xD;&#xA;•&#x9;all foreigners (and their family members) who declare themselves refugees or who are seeking recognition of refugee status.&#xD;&#xA;&#xD;&#xA;The municipalities (and the Immigration Office for the last category of the population) are responsible for recording the information. As a pillar of e-government, the National Register ensures the sharing of authentic data identifying individuals between different public services with limited access to such data. The Sectorial Committee of the National Register established within the Commission for the Protection of Privacy is competent to authorize access to the information of the National Register or the communication thereof.&#xD;&#xA;https://www.ehealth.fgov.be/fr/ehealthplatform &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB225"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Base Registry Data (eira:BaseRegistry)"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;A trusted authentic source of information under the control of an appointed public administration or organisation appointed by government.&#xD;&#xA;&#xD;&#xA;According to the European Interoperability Framework, base registries are: “reliable sources of basic information on items such as persons, companies, vehicles, licenses, buildings, locations and roads” and “are authentic and authoritative and form, separately or in combination, the cornerstone of public services”.&#xD;&#xA;&#xD;&#xA;Source: the New EIF&#xD;&#xA;http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Base Registry ABB is salient for semantic interoperability because it includes &quot;authorative sources of information&quot;, that need to be made available. EIF's includes base registries in the conceptual model for integrated public services, and describes it as &quot;the cornerstone of European public service delivery&quot;. EIF gives several recommendations on how to manage and interact with base registries (recommendation 37, 38, 39 and 40).&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Belgian national register&#xD;&#xA;&#xD;&#xA;The National Register refers to the information processing system which records, stores and communicates information relating to the identification of natural persons ie citizens.&#xD;&#xA;&#xD;&#xA;It is therefore a central database in which are recorded:&#xD;&#xA;•&#x9;all Belgians residing in Belgium;&#xD;&#xA;•&#x9;all Belgians residing abroad who register in the population registers held in Belgian diplomatic missions or consular posts abroad;&#xD;&#xA;•&#x9;all foreigners residing in Belgium who are admitted or authorized to settle or reside in the Kingdom;&#xD;&#xA;•&#x9;all foreigners (and their family members) who declare themselves refugees or who are seeking recognition of refugee status.&#xD;&#xA;&#xD;&#xA;The municipalities (and the Immigration Office for the last category of the population) are responsible for recording the information. As a pillar of e-government, the National Register ensures the sharing of authentic data identifying individuals between different public services with limited access to such data. The Sectorial Committee of the National Register established within the Commission for the Protection of Privacy is competent to authorize access to the information of the National Register or the communication thereof.&#xD;&#xA;https://www.ehealth.fgov.be/fr/ehealthplatform &#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
+</archimate:DataObject>

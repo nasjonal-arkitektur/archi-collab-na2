@@ -1,0 +1,33 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="innehar"
+    id="deeecc52-b538-4bd3-b1c5-c7386107a952">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="association"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_99498240-899a-41ea-ab23-18d8eb5c7f83.xml#99498240-899a-41ea-ab23-18d8eb5c7f83"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_a55b0c1e-6add-4722-a733-c1f3a751d1ea.xml#a55b0c1e-6add-4722-a733-c1f3a751d1ea"/>
+</archimate:AssociationRelationship>
