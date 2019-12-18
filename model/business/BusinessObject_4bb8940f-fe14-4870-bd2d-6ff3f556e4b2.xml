@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mottakeradresse"
     id="4bb8940f-fe14-4870-bd2d-6ff3f556e4b2"
-    documentation="Teknisk adresse til hvor meldinger skal sendes. ">
+    documentation="Teknisk adresse for hvor meldinger skal sendes. Dette kan være adressen til mottaker direkte eller mottakers integrasjonspunkt.">
   <properties
       key="dct:type"
       value="archi:business-object"/>
