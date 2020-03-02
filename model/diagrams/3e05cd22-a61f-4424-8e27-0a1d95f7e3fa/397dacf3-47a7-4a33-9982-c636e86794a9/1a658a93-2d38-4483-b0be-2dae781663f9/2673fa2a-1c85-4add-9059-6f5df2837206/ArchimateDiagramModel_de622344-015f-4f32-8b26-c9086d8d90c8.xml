@@ -97,6 +97,16 @@
           type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
+            id="0a309f3f-c39d-4026-8ff3-65fb6001afa1"
+            lineWidth="3"
+            source="9c6443ca-0f43-4b4a-9560-065adf73cdff"
+            target="e35ff7b8-7fa7-4ff0-b833-3f68524b4b9b">
+          <archimateRelationship
+              xsi:type="archimate:TriggeringRelationship"
+              href="TriggeringRelationship_fb2d8d8a-5686-466a-897a-d67d1cca4906.xml#fb2d8d8a-5686-466a-897a-d67d1cca4906"/>
+        </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
             id="b9a32559-36a5-4b41-bf93-a5be7f7981f6"
             source="9c6443ca-0f43-4b4a-9560-065adf73cdff"
             target="b8787736-1d7b-4446-a85c-10f7efa3a213">
@@ -112,16 +122,6 @@
           <archimateRelationship
               xsi:type="archimate:TriggeringRelationship"
               href="TriggeringRelationship_7b24449b-0612-4fb3-9c3c-abb989dc8207.xml#7b24449b-0612-4fb3-9c3c-abb989dc8207"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="0a309f3f-c39d-4026-8ff3-65fb6001afa1"
-            lineWidth="3"
-            source="9c6443ca-0f43-4b4a-9560-065adf73cdff"
-            target="e35ff7b8-7fa7-4ff0-b833-3f68524b4b9b">
-          <archimateRelationship
-              xsi:type="archimate:TriggeringRelationship"
-              href="TriggeringRelationship_fb2d8d8a-5686-466a-897a-d67d1cca4906.xml#fb2d8d8a-5686-466a-897a-d67d1cca4906"/>
         </sourceConnections>
         <bounds
             x="252"
@@ -160,7 +160,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="b8787736-1d7b-4446-a85c-10f7efa3a213"
-          targetConnections="3a05a21b-2e0f-49b3-99cf-0f1f381e4982 b9a32559-36a5-4b41-bf93-a5be7f7981f6 c35392ff-28cc-4967-82d3-bc9b56779667"
+          targetConnections="3a05a21b-2e0f-49b3-99cf-0f1f381e4982 c35392ff-28cc-4967-82d3-bc9b56779667 b9a32559-36a5-4b41-bf93-a5be7f7981f6"
           textPosition="1"
           type="1">
         <sourceConnections
