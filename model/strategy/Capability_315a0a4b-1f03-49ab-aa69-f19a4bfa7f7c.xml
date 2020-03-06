@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å utvikle IT løsninger for deling av data "
+    id="315a0a4b-1f03-49ab-aa69-f19a4bfa7f7c"
+    documentation="Forklaring:&#xD;&#xA;Løsningene må kunne håndtere både åpne data og data som deles etter henvendelse&#xD;&#xA;&#xD;&#xA;IT løsningene bør kunne gjenbrukes slik at det ikke er nødvendig å utvikle løsninger hver gang det skal deles data&#xD;&#xA;&#xD;&#xA;Ved utvikling av nye IT løsninger til annen bruk i virksomhetene bør det tas høyde for at løsningene skal støtte deling av data&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Prosesser som beskriver hvilke vurderinger som skal gjøres rundt valg av IT løsninger. Prosesser for utvikling av IT løsninger, samt implementering av disse"/>
