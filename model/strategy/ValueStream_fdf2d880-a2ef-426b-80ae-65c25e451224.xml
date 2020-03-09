@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Motta henvendelser om tilgang til data"
     id="fdf2d880-a2ef-426b-80ae-65c25e451224"
-    documentation="Motta henvendelser om tilgang til data handler om å ha 4">
+    documentation="&quot;Motta henvendelser om tilgang til data&quot; handler om å ha rutiner og kapasitet for å ta i mot henvendelser og vurdere om tilgang skal gis.">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

@@ -1,7 +1,8 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kontinuerlig forbedring av opplegg for deling av data"
-    id="6fcea8ab-ae97-40d4-8e6c-89d71a3e5ccd">
+    id="6fcea8ab-ae97-40d4-8e6c-89d71a3e5ccd"
+    documentation="&quot;Kontinuerlig forbedring av opplegg for deling av data&quot; handler om aktiv forvaltning av operative løsninger for deling av data gjennom kontakt med datakonsumenter og tilpasning til nye behov, krav og teknologi.&#xD;&#xA;&#xD;&#xA;Kan også omfatte tilbakemeldinger på kvalitet på data og forbedring av datagrunnlaget.">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
