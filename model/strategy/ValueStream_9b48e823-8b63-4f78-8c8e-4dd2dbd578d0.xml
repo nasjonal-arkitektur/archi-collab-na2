@@ -1,7 +1,8 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klargjør for datadeling"
-    id="9b48e823-8b63-4f78-8c8e-4dd2dbd578d0">
+    id="9b48e823-8b63-4f78-8c8e-4dd2dbd578d0"
+    documentation="Klargjøre for datadeling handler om å synliggjøre hvilke data virksomheter har og vurder om de kan deles med hensyn på skjerming, verdi etc.&#xD;&#xA;Også teknisk og organisatoriske kapasitet til deling må etableres.">
   <properties
       key="drill down"
       value="fc8c4a98-f2a0-4795-8c54-c0a4fbddf814"/>
