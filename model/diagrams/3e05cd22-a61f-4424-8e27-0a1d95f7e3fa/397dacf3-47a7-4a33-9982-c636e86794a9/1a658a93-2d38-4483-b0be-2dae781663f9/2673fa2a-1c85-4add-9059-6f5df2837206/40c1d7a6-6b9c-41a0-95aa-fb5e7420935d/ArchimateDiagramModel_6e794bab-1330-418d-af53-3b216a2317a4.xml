@@ -1,9 +1,10 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Del og innhent data og hendelser, detaljert verdistrøm"
+    name="Del og innhent data og hendelser, detaljert verdistrøm m_kapabiliteter"
     id="6e794bab-1330-418d-af53-3b216a2317a4"
-    documentation="Forklaring:&#xD;&#xA;Datatilbyder må evne å bestemme hvilken teknisk løsning som skal benyttes når dataene gjøres tilgjengelig som åpne data&#xD;&#xA;&#xD;&#xA;Datatilbyder må evne å velge hvor og hvordan dataene skal gjøres tilgjengelig, hvor skal datakonsument finne dataene og på hvilket format skal dataene deles &#xD;&#xA;&#xD;&#xA;Datatilbyder må videre evne å bestemme detaljeringsgrad på dataene&#xD;&#xA;&#xD;&#xA;Krav til personvern må kunne ivaretas, samt eventuelle krav i forhold til andre skjermingsverdige opplysninger  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Prosesser for å dele data som åpne data&#xD;&#xA;">
+    documentation="Forklaring:&#xD;&#xA;Datatilbyder må evne å bestemme hvilken teknisk løsning som skal benyttes når dataene gjøres tilgjengelig som åpne data&#xD;&#xA;&#xD;&#xA;Datatilbyder må evne å velge hvor og hvordan dataene skal gjøres tilgjengelig, hvor skal datakonsument finne dataene og på hvilket format skal dataene deles &#xD;&#xA;&#xD;&#xA;Datatilbyder må videre evne å bestemme detaljeringsgrad på dataene&#xD;&#xA;&#xD;&#xA;Krav til personvern må kunne ivaretas, samt eventuelle krav i forhold til andre skjermingsverdige opplysninger  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Prosesser for å dele data som åpne data&#xD;&#xA;"
+    viewpoint="application_structure">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9b8437aa-d1f6-42a6-b675-3052ab38c7a5"
