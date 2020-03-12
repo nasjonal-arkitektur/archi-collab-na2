@@ -633,6 +633,17 @@
         xsi:type="archimate:Capability"
         href="Capability_cf995777-4d2f-4224-874a-41677c1cac36.xml#cf995777-4d2f-4224-874a-41677c1cac36"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="b8ccf4c9-95eb-44dd-9727-8b8ea9f06dd1"
+      textAlignment="1"
+      content="Avklare forretningsmodeller og hvilke forpliktelser man kan gi&#xD;&#xA;">
+    <bounds
+        x="600"
+        y="646"
+        width="185"
+        height="80"/>
+  </children>
   <properties
       key="difi:language"
       value="no"/>
