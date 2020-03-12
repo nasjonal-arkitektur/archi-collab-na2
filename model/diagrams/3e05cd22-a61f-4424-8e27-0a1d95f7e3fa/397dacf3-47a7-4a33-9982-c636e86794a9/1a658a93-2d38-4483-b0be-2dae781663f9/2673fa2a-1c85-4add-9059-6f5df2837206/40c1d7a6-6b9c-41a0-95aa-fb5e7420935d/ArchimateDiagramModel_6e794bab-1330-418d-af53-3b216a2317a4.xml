@@ -639,8 +639,8 @@
       textAlignment="1"
       content="Avklare forretningsmodeller og hvilke forpliktelser man kan gi&#xD;&#xA;">
     <bounds
-        x="600"
-        y="646"
+        x="576"
+        y="624"
         width="185"
         height="80"/>
   </children>
