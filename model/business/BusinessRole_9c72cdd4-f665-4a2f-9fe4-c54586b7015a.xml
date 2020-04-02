@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataprodusent"
+    id="9c72cdd4-f665-4a2f-9fe4-c54586b7015a"
+    documentation="Den som produserer eller registerer data til en datakilde. Enten nye data eller oppdateringer av eksisterende data."/>
